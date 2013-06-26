@@ -1,0 +1,4436 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="import_mp#"
+     xml:base="import_mp"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/doid/extensions/MP_import.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000001 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000001">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mammalian phenotype</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000003">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal adipose tissue morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005375"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000062 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000062">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased bone mineral density</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010119"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000067">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteopetrosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005605"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000081">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">premature suture closure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003418"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000137 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000137">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal vertebrae morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004703"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000141">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal vertebral body morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000137"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000161">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scoliosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004174"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000162 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000162">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lordosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004174"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000163 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000163">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cartilage morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005508"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000164 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000164">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cartilage development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002113"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000188 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000188">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal circulating glucose level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002078"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009642"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000189 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000189">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypoglycemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005560"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000217 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000217">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal leukocyte cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008246"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011180"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000218 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000218">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased leukocyte cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000217"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011181"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000221 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000221">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased leukocyte cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000217"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011182"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000230">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal systemic arterial blood pressure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001544"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000243 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000243">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myoclonus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000743"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000947"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000245">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal erythropoiesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002123"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000249 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000249">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood vessel physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001544"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000266 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000266">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002127"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000285 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000285">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart valve morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000266"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000286 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000286">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal mitral valve morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002745"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000288 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000288">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal pericardium morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000266"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000313 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000313">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cell death</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005621"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000322 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000322">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased granulocyte number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000218"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002441"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000367 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000367">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal coat/ hair morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010678"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000414 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000414">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alopecia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002073"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000416 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000416">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sparse hair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001510"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002073"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000428 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000428">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal craniofacial morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005382"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000432 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000432">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal head morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000428"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000433 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000433">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microcephaly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011496"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000438 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000438">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cranium morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002116"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000454 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000454">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal jaw morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000458 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000458">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal mandible morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000454"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000462 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000462">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal digestive system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005381"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000465 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000465">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gastrointestinal hemorrhage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001914"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000477 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000477">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal intestine morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000489 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000489">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal large intestine morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000477"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000492 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000492">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal rectum morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000489"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000493 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000493">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rectal prolapse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000492"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000516 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000516">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal renal/urinary system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005367"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000521 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000521">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal kidney cortex morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002135"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000523 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000523">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cortical renal glomerulopathies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005325"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000547 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000547">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">short limbs</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002109"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000562 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000562">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">polydactyly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002110"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000564 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000564">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">syndactyly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002110"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000566 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000566">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">synostosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005508"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000572 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000572">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal autopod morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002109"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000576 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000576">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clubfoot</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000572"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000598 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000598">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal liver morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002138"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000599 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000599">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enlarged liver</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004848"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000609 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000609">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal liver physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000610 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000610">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cholestasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003252"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000611 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000611">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jaundice</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000609"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000653 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000653">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal sex gland morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002160"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000685 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000685">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000689 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000689">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal spleen morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002396"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000691 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000691">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enlarged spleen</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002224"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000701 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000701">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymph node size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002221"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002339"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000702 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000702">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enlarged lymph nodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000701"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000703 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000703">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal thymus morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002396"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000706 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000706">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">small thymus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002364"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000716 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000716">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune system cell morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000685"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000717 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000717">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymphocyte cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000217"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002619"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000743 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000743">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle spasm</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009046"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000745 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000745">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tremors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003492"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000746 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000746">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004262"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000747 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000747">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000753 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000753">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paralysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003491"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000754 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000754">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paresis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003491"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000757 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000757">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">herniated abdominal wall</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003257"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000913 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000913">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal brain development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002152"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003861"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000947 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000947">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">convulsive seizures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002064"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0000948 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0000948">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nonconvulsive seizures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002064"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001116">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">small gonad</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002211"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001145 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001145">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal male reproductive system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002160"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001146">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal testis morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000653"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009205"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001147 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001147">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">small testis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001116"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004849"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001190 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001190">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reddish skin</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009931"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001191 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001191">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin condition</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002060"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001194 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001194">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dermatitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004947"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001208 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001208">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blistering</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009931"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001212 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001212">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin lesions</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009931"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001216 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001216">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal epidermal layer morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002060"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001236">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal epidermis stratum spinosum morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001216"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001240 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001240">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal epidermis stratum corneum morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001216"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001242">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperkeratosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001240"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001253 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001253">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal body height</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003956"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001255 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001255">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased body height</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001253"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001265"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001256 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001256">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal body length</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003956"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001258 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001258">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased body length</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001256"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001265"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001259 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001259">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal body weight</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003956"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001260 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001260">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased body weight</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001259"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001264"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001261 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001261">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">obese</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001260"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001262 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001262">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased body weight</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001259"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001265"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001263 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001263">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001262"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001264 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001264">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased body size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003956"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001265 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001265">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased body size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003956"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001270 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001270">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">distended abdomen</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005378"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001286 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001286">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eye development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001299 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001299">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eye distance/ position</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001303 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001303">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lens morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005193"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001304 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001304">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cataracts</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001303"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001310 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001310">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal conjunctiva morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005193"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001322 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001322">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal iris morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005194"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001340 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001340">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eyelid morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001344 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001344">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blepharoptosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001340"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001392 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001392">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal locomotor behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003491"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001394 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001394">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">circling</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001408"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001399 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001399">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperactivity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003313"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001408 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001408">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stereotypic behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001429 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001429">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dehydration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001784"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001431 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001431">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eating behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002069"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001510 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001510">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal coat appearance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000367"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001516 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001516">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal motor coordination/ balance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001533 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001533">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skeleton physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005390"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001544 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001544">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cardiovascular system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005385"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001574 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001574">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal oxygen level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003948"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001577 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001577">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002447"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001585 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001585">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemolytic anemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001577"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001596 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001596">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypotension</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002843"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001629 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001629">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart rate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004085"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001634 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001634">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">internal hemorrhage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001914"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001636 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001636">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">irregular heartbeat</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004085"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001651 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001651">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">necrosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000313"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001663 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001663">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal digestive system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005381"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001664 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001664">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal digestion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001764 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001764">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal homeostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005376"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001784 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001784">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal fluid regulation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001785 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001785">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">edema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001784"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001790 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001790">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001800 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001800">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal humoral immune response</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001805 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001805">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased IgG level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002460"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001819 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001819">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune cell physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001823 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001823">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thymus hypoplasia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000706"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001844 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001844">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">autoimmune response</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005005"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001845 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001845">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal inflammatory response</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001846 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001846">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased inflammatory response</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001845"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001847 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001847">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brain inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006082"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001848 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001848">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">choroid inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001851"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001851 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001851">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eye inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005253"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001852 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001852">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conjunctivitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001310"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001851"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001858 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001858">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">intestinal inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010155"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001859 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001859">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kidney inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002136"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011762"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001861 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001861">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lung inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002405"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001863 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001863">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vascular inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000249"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001864 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001864">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vasculitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001863"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001866 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001866">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nasal inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002405"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001867 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001867">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rhinitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001866"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001869 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001869">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pancreas inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002693"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001891 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001891">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hydroencephaly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000913"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002200"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001914 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001914">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemorrhage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002128"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001919 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001919">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal reproductive system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005389"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001924 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001924">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">infertility</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002161"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001943 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001943">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal respiration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002133"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001951 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001951">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal breathing pattern</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002327"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001953 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001953">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory failure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001943"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001954 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001954">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory distress</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001951"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001963 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001963">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hearing physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003878"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001967 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001967">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">deafness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006325"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0001999 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0001999">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">photosensitivity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005253"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002001 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002001">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blindness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002090"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002006 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002006">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tumorigenesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002018">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">malignant tumors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010273"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002019">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002166"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002020">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002019"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002022 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002022">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased lymphoma incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010273"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010296"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002023">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B cell derived lymphoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002022"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002026 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002026">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leukemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010273"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010296"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002032">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sarcoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002018"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002035 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002035">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leiomyosarcoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002032"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010290"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002036">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rhabdomyosarcoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002032"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010290"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002038 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002038">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">carcinoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002018"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002039 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002039">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neuroblastoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008021"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010281"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002060 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002060">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010771"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002064 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002064">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">seizures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003633"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004924"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002066">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal motor capabilities/coordination/movement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004924"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002069 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002069">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal consumption behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004924"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002073 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002073">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hair growth</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001510"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002078 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002078">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal glucose homeostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002089 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002089">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal postnatal growth/weight/body size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005378"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002090 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002090">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal vision</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005253"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002092 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002092">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eye morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005391"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002106">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal muscle physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005369"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002108 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002108">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal muscle morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005369"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002109 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002109">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal limb morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005371"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002110 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002110">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal digit morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000572"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002113 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002113">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skeleton development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005508"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002114 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002114">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal axial skeleton morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005508"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002116">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal craniofacial bone morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000428"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002114"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002123 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002123">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hematopoiesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002429"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002127 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002127">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cardiovascular system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005385"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002128 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002128">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood circulation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001544"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002133 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002133">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal respiratory system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002135 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002135">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal kidney morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000516"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002136">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal kidney physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005502"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002138 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002138">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hepatobiliary system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005370"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002139 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002139">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hepatobiliary system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005370"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002152 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002152">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal brain morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003632"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002160 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002160">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal reproductive system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005389"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002161">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal fertility/fecundity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001919"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002163 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002163">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal gland morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005379"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002164 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002164">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal gland physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005379"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002166 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002166">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered tumor susceptibility</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002006"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002168 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002168">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">other aberrant phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005395"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002192 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002192">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hydrops fetalis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001785"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002200">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal brain ventricle/choroid plexus morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002152"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002210 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002210">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal sex determination</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002160"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002211 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002211">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal primary sex determination</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002210"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002212 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002212">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal secondary sex determination</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002210"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002221 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002221">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymph organ size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002224">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal spleen size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000689"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002229 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002229">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neurodegeneration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003633"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002269 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002269">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscular atrophy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002108"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002296 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002296">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aspiration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002314"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002314 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002314">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal respiratory mechanics</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001943"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002320 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002320">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperventilation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005575"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002327 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002327">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal respiratory function</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001943"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002338 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002338">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal pulmonary ventilation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002314"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002339 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002339">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymph node morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002364 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002364">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal thymus size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000703"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002396 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002396">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hematopoietic system morphology/development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005397"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002398 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002398">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal bone marrow cell morphology/development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002396"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002405 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002405">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory system inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002133"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002414 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002414">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal myeloblast morphology/development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002398"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002420 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002420">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal adaptive immunity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002421 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002421">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cell-mediated immunity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002429 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002429">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood cell morphology/development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002396"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002441 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002441">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal granulocyte morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008250"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002442 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002442">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal leukocyte physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001819"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002420"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002421"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002447 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002447">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal erythrocyte morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000245"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002452 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002452">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal professional antigen presenting cell physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001819"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002420"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002421"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002459 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002459">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal B cell physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002452"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003945"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002460 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002460">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased immunoglobulin level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002490"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002490 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002490">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immunoglobulin level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001800"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002459"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002723"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002499 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002499">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chronic inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001845"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002500">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">granulomatous inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002499"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002551 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002551">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood coagulation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009676"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002572 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002572">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal emotion/affect behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004924"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002602 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002602">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eosinophil cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000717"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002619 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002619">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymphocyte morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008247"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002626 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002626">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased heart rate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001629"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002639 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002639">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">micrognathia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000454"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002693 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002693">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal pancreas physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002164"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002722 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002722">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune system organ morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000685"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002723 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002723">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune serum protein physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002743 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002743">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glomerulonephritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000523"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001859"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002745 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002745">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal atrioventricular valve morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000285"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010435"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002746 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002746">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal semilunar valve morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000285"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002747 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002747">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal aortic valve morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002746"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010429"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002750 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002750">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">exophthalmos</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001299"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002787 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002787">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pseudohermaphroditism</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002212"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002789 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002789">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male pseudohermaphroditism</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002787"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002816 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002816">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003304"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002827 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002827">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal renal corpuscle morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000521"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003881"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002842 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002842">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased systemic arterial blood pressure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000230"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002843 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002843">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased systemic arterial blood pressure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000230"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002882 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002882">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal neuron morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003632"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002899 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002899">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatigue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004924"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002933 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002933">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">joint inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001533"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0002993 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0002993">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arthritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002933"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003045 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003045">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fibrosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002168"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003046 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003046">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">liver cirrhosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003158 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003158">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dysphagia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005449"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003179 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003179">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased platelet cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011182"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011898"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003214 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003214">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neurofibrillary tangles</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002152"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003216 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003216">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">absence seizures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000948"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003224">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neuron degeneration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002229"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002882"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003252 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003252">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal bile duct physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003257 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003257">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal abdominal wall morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003385"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003259 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003259">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nausea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001664"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003260 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003260">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vomiting</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001664"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003261 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003261">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematemesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003260"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003267 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003267">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">constipation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003866"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003279 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003279">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aneurysm</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002127"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003292 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003292">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">melena</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003868"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003304 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003304">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large intestinal inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001858"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003311 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003311">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aminoaciduria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010028"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011468"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003313 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003313">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal locomotor activation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001392"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003360 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003360">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal depression-related behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002572"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003385 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003385">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal body wall morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005378"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003390 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003390">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphedema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001785"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003416 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003416">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">premature bone ossification</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008271"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003418 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003418">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">premature intramembranous bone ossification</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003416"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008273"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003431 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003431">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal parathyroid gland physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002164"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003432 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003432">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased activity of parathyroid</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003431"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003491 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003491">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal voluntary movement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003492 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003492">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal involuntary movement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003561 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003561">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rheumatoid arthritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001844"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002993"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003606 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003606">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kidney failure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002136"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003631 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003631">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nervous system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003632 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003632">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal nervous system morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003631"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003633 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003633">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal nervous system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003631"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003665 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003665">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">endophthalmitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001851"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005195"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003667 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003667">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemangiosarcoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002032"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010291"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003741 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003741">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tinnitus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001963"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003762 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003762">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune organ physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003786 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003786">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">premature aging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010768"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003795 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003795">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal bone structure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005508"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003828 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003828">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pulmonary edema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001785"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002133"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003861 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003861">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal nervous system development</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003632"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003865 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003865">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymph node inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003762"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003866 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003866">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal defecation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003868 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003868">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal feces composition</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003878 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003878">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal ear physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005377"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003881 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003881">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal nephron morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002135"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003921 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003921">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart left ventricle morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005294"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003945 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003945">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal lymphocyte physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002442"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003948 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003948">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal gas homeostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0003956 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0003956">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal body size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002089"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004085 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004085">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heartbeat</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001544"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004142 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004142">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal muscle tone</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004143">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypertonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004142"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004144 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004144">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypotonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004142"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004174 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004174">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal spine curvature</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004703"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004207 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004207">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">squamous cell carcinoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002038"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004241 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004241">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acantholysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001236"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004262 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004262">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal physical strength</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004510 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004510">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myositis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004592 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004592">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">small mandible</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000458"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004703 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004703">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal vertebral column morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002114"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004739 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004739">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conductive hearing loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006326"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004740 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004740">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensorineural hearing loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006329"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004848 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004848">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal liver size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004849 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004849">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal testis size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001146"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004924 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004924">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005386"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0004947 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0004947">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005501"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005000">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal immune tolerance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005005 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005005">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal self tolerance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005011 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005011">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased eosinophil cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000322"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002602"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005016">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased lymphocyte cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000221"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000717"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005025 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005025">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal response to infection</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001790"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005036">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diarrhea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003866"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005039 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005039">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypoxia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001574"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005044 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005044">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sepsis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005025"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005048 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005048">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thrombosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002551"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005061">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eosinophil morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002414"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002441"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005150 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005150">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cachexia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001263"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005152 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005152">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pancytopenia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011182"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005161">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematuria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009643"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005163 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005163">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cyclopia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001286"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005190 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005190">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteomyelitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001533"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005193 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005193">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal anterior eye segment morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005194 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005194">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal anterior uvea morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005193"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005197"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005195 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005195">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal posterior eye segment morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005197 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005197">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal uvea morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005202 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005202">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lethargy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003313"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005253 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005253">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal eye physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005391"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005261 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005261">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aniridia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001286"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001322"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005274 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005274">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal viscerocranium morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000438"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005294 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005294">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart ventricle morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000266"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005312 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005312">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pericardial effusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000288"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001784"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005325 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005325">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal renal glomerulus morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002827"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005332 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005332">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal amino acid level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005333 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005333">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased heart rate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001629"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005367 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005367">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">renal/urinary system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005369 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005369">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005370 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005370">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">liver/biliary system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005371 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005371">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">limbs/digits/tail phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005375 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005375">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">adipose tissue phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005376 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005376">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">homeostasis/metabolism phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005377 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005377">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hearing/vestibular/ear phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005378 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005378">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">growth/size phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005379 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005379">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">endocrine/exocrine gland phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005381 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005381">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digestive/alimentary phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005382 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005382">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">craniofacial phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005384 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005384">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cellular phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005385 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005385">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005386 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005386">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">behavior/neurological phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005387 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005387">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">immune system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005388 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005388">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005389 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005389">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reproductive system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005390 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005390">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skeleton phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005391 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005391">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vision/eye phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005395 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005395">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">other phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005397 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005397">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematopoietic system phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005422 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005422">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteosclerosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005424 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005424">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jerky movement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001516"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005426 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005426">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tachypnea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005573"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005449 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005449">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal food intake</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001431"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005452 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005452">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal adipose tissue amount</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000003"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005501 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005501">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010771"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005502 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005502">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal renal/urinary system physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005367"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005505 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005505">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased platelet cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011181"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011898"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005508 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005508">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skeleton morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005390"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005515 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005515">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uveitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001851"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005197"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005560 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005560">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased circulating glucose level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000188"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005572 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005572">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal pulmonary respiratory rate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001951"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005573 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005573">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased pulmonary respiratory rate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005572"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005575 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005575">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased pulmonary ventilation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002338"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005605 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005605">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased bone mass</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0005621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0005621">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal cell physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005384"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006077 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006077">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">inguinal hernia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000757"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006082 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006082">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CNS inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003633"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006117 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006117">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aortic valve stenosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002747"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010448"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006122 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006122">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mitral valve stenosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000286"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006138 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006138">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">congestive heart failure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001544"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006149 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006149">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased visual acuity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011832"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006150 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006150">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">double vision</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002090"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006167 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006167">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eyelid edema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001340"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001785"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006253 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006253">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clinodactyly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002110"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006310 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006310">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">retinoblastoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008021"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010303"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006325 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006325">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">impaired hearing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001963"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006326 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006326">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conductive hearing impairment</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006325"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0006329 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0006329">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensorineural hearing impairment</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0006325"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008014 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008014">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased lung tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010298"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008021 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008021">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blastoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002018"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008246">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal leukocyte morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000716"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002123"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002429"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008247 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008247">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal mononuclear cell morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008246"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008250 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008250">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal myeloid leukocyte morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008246"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008271 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008271">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal bone ossification</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001533"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008273 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008273">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal intramembranous bone ossification</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008271"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008714 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008714">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lung carcinoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002038"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008014"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008736 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008736">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">micromelia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000547"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008816 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008816">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">petechiae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008817 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008817">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001914"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008820 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008820">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood uric acid level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009642"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008821 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008821">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased blood uric acid level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008820"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008911 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008911">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">induced hyperactivity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001399"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0008912 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0008912">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nervous</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008911"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009046 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009046">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle twitch</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009153 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009153">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased pancreas tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010288"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009198 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009198">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal male genitalia morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001145"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009205 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009205">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal internal male genitalia morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009198"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009247 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009247">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meteorism</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001270"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009275 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009275">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bruising</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0008817"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009308 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009308">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">adenocarcinoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002038"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009317 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009317">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">follicular lymphoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002023"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009434 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009434">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paraparesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000746"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009440 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009440">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myeloma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010273"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010296"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009642 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009642">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal blood homeostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009643 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009643">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal urine homeostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001764"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005502"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009676 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009676">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hemostasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009642"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009704 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009704">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin squamous cell carcinoma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0004207"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010300"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009710 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009710">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anhedonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003360"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009792 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009792">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">seborrheic dermatitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001194"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009877 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009877">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">exostosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0009931 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0009931">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin appearance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002060"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010025 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010025">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased total body fat amount</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005452"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010028">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aciduria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009643"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010119 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010119">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal bone mineral density</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010141">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphangitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001864"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010155 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010155">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal intestine physiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001663"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010224">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart ventricle outflow tract morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005294"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010273 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010273">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased classified tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002020"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010274 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010274">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased organ/body region tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002020"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010281 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010281">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased nervous system tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010288 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010288">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased gland tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010290 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010290">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased muscle tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010291 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010291">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased cardiovascular system tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010293 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010293">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased integument system tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010295 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010295">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased eye tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010296 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010296">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased hemolymphoid system tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010298 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010298">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased respiratory system tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010274"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010300">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased skin tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001191"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010293"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010303 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010303">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased retina tumor incidence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010295"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010334 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010334">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pleural effusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001784"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002133"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010429 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010429">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart left ventricle outflow tract morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0003921"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010224"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010435 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010435">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal heart atrium and ventricle connection</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000266"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010448 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010448">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">heart left ventricle outflow tract stenosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010429"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010678 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010678">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin adnexa morphology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010771"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010768 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010768">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mortality/aging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0010771 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0010771">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">integument phenotype</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000001"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011012 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011012">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bronchiectasis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001861"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011174 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011174">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lipodystrophy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0010025"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011175 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011175">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">platyspondylia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011180 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011180">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal hematopoietic cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002123"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011181 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011181">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased hematopoietic cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011180"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011182 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011182">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased hematopoietic cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011180"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011468 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011468">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal urine amino acid level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005332"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0009643"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011496 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011496">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal head size</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0000432"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011514 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011514">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin hemorrhage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001914"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002060"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011762 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011762">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">renal/urinary system inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0001846"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0005502"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011832 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011832">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal visual acuity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0002090"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MP_0011898 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MP_0011898">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal platelet cell number</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MP_0011180"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0002096">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal skin condition/ morphology</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0001791">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">immunodeficiency</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0002055">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0001794">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bacterial</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0001641">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">death</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0001799">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viral</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0002539">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B cell deficiency</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0002536">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">severe combined immunodeficiency disease</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MP_0005456">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight gain</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 0.2.1-SNAPSHOT) http://owlapi.sourceforge.net -->
+

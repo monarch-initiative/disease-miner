@@ -1,0 +1,2334 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="import_symp#"
+     xml:base="import_symp"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/doid/extensions/SYMP_import.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000000">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cellulitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000891"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000006 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000006">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">backache</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000007 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000007">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bleeding</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000008 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000008">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blindness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000320"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000009">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blister</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000016">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">confusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000019">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">deafness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000392"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000020">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dehydration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000021 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000021">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">delirium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000023">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disorientation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000016"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000024 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000024">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">drowsiness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000025 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000025">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dry cough</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000614"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000030 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000030">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paralysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000039 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000039">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enteritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000040">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematuria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000486"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000041 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000041">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemorrhage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000047 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000047">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hepatosplenomegaly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000158"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000180"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000051 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000051">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hydrocephalus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000059 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000059">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypotension</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000061">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000064 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000064">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">joint pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000075 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000075">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lethargy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019177"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000083 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000083">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphangitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000086 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000086">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphopenia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000089 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000089">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meningoencephalitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000090 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000090">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">encephalitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000092 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000092">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin lesion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000094 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000094">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000183"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000095 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000095">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myocarditis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000098 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000098">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nephritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000486"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000099 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000099">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000892"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000102">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">peritonitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000107 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000107">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pleural effusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000114 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000114">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thrombocytopenia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000116">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">prostration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000118 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000118">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rales</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000587"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000121 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000121">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rhinitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000128 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000128">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conjunctivitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000130 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000130">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">severe headache</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000504"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000132 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000132">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">necrosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000136">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin ulcer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000092"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000139 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000139">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sneezing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000141">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spasticity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000146">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feces and droppings symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000153 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000153">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vasculitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000158 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000158">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spleen symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019138"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000174 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000174">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wasting</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000177 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000177">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000178 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000178">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000180 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000180">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">liver symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000182 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000182">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bubo</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019155"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000183 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000183">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000891"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000185 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000185">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weariness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019177"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000186 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000186">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">exhaustion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019177"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000187 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000187">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tiredness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019177"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000188 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000188">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abdominal discomfort</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000461"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000196 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000196">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reproductive system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000197 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000197">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abortion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000199 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000199">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spontaneous abortion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000197"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000207 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000207">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">afebrile</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000613"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000208 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000208">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000210 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000210">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">photophobia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019165"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000222">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">limb weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000094"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000224">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leg weakness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000222"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000225 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000225">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">asthenia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000230">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">body ache</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000231">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bradycardia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000232">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bronchiolitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000237 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000237">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">congestion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000239 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000239">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cornea symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000244 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000244">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alteration of appetite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000245">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decreased appetite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000244"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000246">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">increased appetite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000244"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000258 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000258">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">double vision</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000320"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000262 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000262">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">endocarditis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000263 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000263">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">epididymitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000281 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000281">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eye discharge</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000285 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000285">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flaccid paralysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000293 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000293">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemiparesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000298 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000298">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoarse voice</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000559"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000300">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperesthesia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000892"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000301 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000301">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypopyon</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000303 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000303">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypoxemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000309 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000309">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">loss of appetite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000244"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000314 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000314">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">keratitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000239"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000317 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000317">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leukopenia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000320 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000320">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vision symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000321 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000321">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">loss of vision</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000320"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000323 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000323">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">melena</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000146"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000324 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000324">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bronchitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000333 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000333">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle tenderness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000183"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000334 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000334">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle necrosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000183"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000346 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000346">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">papule</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000349 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000349">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paraplegia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000354 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000354">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pneumonitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000358 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000358">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">premature labor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000360 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000360">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">emaciation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000174"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000367 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000367">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">proteinuria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000486"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000369 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000369">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ptosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000372">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">runny nose</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000376 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000376">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">severe diarrhea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000570"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000383 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000383">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stiff neck</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000384"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000384 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000384">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neck symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000597"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000385 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000385">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">throat symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000597"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000386 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000386">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mouth symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000387 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000387">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">head symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000597"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000388 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000388">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nose symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000389 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000389">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stupor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000482"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000392 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000392">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ear symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000393 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000393">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tinnitus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000392"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000398 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000398">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vaginal discharge</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000399 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000399">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vertigo</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000610"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000403 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000403">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight gain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000404 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000404">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dyspareunia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000406 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000406">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bruise</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000410 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000410">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neurological and physiological symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000412 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000412">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anxiety</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000414 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000414">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dysarthria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000420 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000420">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bloating</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000422 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000422">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dyspepsia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000427 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000427">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">impotence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000430 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000430">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pleuritic chest pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000576"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000431 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000431">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sputum</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000432 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000432">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">itching</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000434 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000434">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">urticaria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000435 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000435">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paresthesia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000440 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000440">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hair loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000447 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000447">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bloody sputum</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000431"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000448 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000448">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">epistaxis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000450 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000450">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shock</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000457 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000457">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abdominal pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000458 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000458">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nausea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000459 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000459">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digestive system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000460 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000460">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hepatomegaly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000180"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000461 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000461">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abdominal symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000462 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000462">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">symptom</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000464 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000464">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lack of expected normal physiological development in childhood</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000465 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000465">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">failure to thrive</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000464"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000473 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000473">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nutrition, metabolism, and development symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000474 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000474">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal loss of weight and underweight</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000178"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000476 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000476">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">loss of weight</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000474"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000480 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000480">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nervous system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000482 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000482">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alteration of consciousness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000486 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000486">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">urinary system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000487 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000487">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rash</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000488 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000488">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skin and integumentary tissue symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000493 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000493">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dysphagia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000385"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000504 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000504">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">headache</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000505 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000505">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">throat pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000509 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000509">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flatulence</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000511 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000511">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flushing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000514 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000514">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory system and chest symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000517 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000517">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemoptysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000521 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000521">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enlargement of lymph nodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000523 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000523">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anorexia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000473"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000528 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000528">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000529 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000529">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tachycardia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000531 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000531">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">splenomegaly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000158"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000538 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000538">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">edema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000539 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000539">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jaundice</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000543 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000543">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">memory loss</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000559 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000559">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">voice disturbance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000386"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000566 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000566">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sleep disturbance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000567 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000567">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">general symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000568 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000568">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">short stature</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000464"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000570 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000570">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diarrhea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000146"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000571 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000571">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">insomnia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000566"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000576 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000576">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chest pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000581 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000581">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sleep apnea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000600"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000582 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000582">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypersomnia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000566"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000587 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000587">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal chest sound</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000597 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000597">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">head and neck symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000598 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000598">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory abnormality</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000600">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apnea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000601 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000601">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperventilation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000603 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000603">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tachypnea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000604 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000604">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wheezing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000605 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000605">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000482"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000610 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000610">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dizziness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000613 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000613">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fever</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000614 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000614">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cough</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000631 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000631">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemolytic anemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000208"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000634 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000634">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leukocytosis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000636 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000636">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">maculopapular rash</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000487"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000643 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000643">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory failure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000651 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000651">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">discharge</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000654 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000654">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">irritability</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000660 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000660">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">purpuric rash</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000487"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000666 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000666">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abnormal behavior</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000672 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000672">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abscess</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000675 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000675">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acute diarrhea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000570"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000682 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000682">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered mental status</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000683 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000683">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tachypnoea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000692 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000692">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">low blood pressure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000701 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000701">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nasal discharge</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000704 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000704">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dysphonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000559"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000709 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000709">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">granulomatous inflammation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000723 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000723">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple abscesses</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000672"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000731 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000731">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">renal failure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000486"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000734 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000734">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stroke</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000744 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000744">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cervical lymphadenopathy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019142"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000754 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000754">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">severe chest pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000576"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000756 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000756">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">menorrhagia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000760 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000760">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">petechiae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000765 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000765">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensory disturbance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000834 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000834">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypoesthesia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000892"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000837 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000837">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chronic pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000847 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000847">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spastic paralysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000848 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000848">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">motor paralysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000849 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000849">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stillbirth</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000862 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000862">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">referred pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000867 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000867">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gastrointestinal bleeding</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000868 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000868">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">breathing problems</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000869 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000869">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nasal congestion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000237"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000876 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000876">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pericardial effusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000528"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000881 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000881">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mild fever</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000613"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000882 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000882">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">high fever</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000613"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000888 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000888">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">continuous fever</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000613"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000890 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000890">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">relapsing fever</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000613"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000891 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000891">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">musculoskeletal system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0000892 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000892">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensation perception</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0017795 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0017795">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemic and immune system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000462"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019138 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019138">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">immune system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0017795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019139 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019139">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hemic system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0017795"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019141">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphatic system symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019138"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019142 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019142">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">adenopathy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019145 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019145">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vomiting</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019147 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019147">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematemesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019145"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019149 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019149">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toxemia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019139"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019150 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019150">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pharyngitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000385"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019151 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019151">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pulmonary edema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000514"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019152 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019152">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diaphoresis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019175"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019153 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019153">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dyspnea</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000598"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019155 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019155">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphadenitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019141"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019158 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019158">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eschar</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019159 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019159">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gastroenteritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000459"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019160 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019160">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">boil</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019161">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle pain</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000099"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019162 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019162">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle tightness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000183"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019163 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019163">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eye symptom</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000387"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019165 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019165">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">light sensitivity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0019163"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019168 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019168">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pneumonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000354"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019169 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019169">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arthritis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000891"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019173 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019173">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meningitis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000480"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019174 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019174">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chills</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000567"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019175 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019175">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sweaty</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000488"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019176 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019176">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">malaise</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019177 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019177">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatigue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000410"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019180 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019180">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">constipation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000146"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/SYMP_0019181 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0019181">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoarseness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000385"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0019170">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteomyelitis</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000101">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">partial paralysis</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000097">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neck swelling</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000096">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nasal discharge</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000175">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">watery diarrhea</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000048">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">high fever</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000010">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bloody diarrhea</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000203">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acute respiratory distress</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000151">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">systemic infection</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000012">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blurred vision</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000642">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory distress</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000140">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spastic paralysis</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000105">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">photosensitivity</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0019166">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ulcerations</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000119">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reddening</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/SYMP_0000154">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">systemic vasculitis</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 0.2.1-SNAPSHOT) http://owlapi.sourceforge.net -->
+

@@ -75,11 +75,36 @@ relmap(caused,has_material_basis,'NCBITaxon').
   {relmap(RelIn,Rel,NS),(var(RelIn)->RelIn='.';true)},
   './tab-to-obo.pl $RelIn $Rel $NS $< > $@'.
 
+% TODO
+'do-x-$NS.obo' <-- Deps,
+{findall(t(['do-bridge-',R,'-',NS,'.obo']),
+         relmap(_,R,NS),
+         Deps),
+ findall(A,(member(t(L),Deps),concat_atom(L,A)),As),
+ concat_atom(As,' ',DepsA)},
+   'cat $DepsA > $@'.
+
+'NCBITaxon_import.owl' <-- 'do-x-NCBITaxon.obo',
+  'owltools $< http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl --add-imports-from-supports --extract-module -c -s http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.obo --extract-mingraph --set-ontology-id http://purl.obolibrary.org/obo/doid/extensions/import_NCBITaxon.owl -o file://`pwd`/$@ '.
+
+'$NS_import.owl' <-- 'do-x-$NS.obo',
+  {downcase_atom(NS,NS_dn)},
+  'owltools $< http://purl.obolibrary.org/obo/$NS_dn.owl --add-imports-from-supports --extract-module -c -s http://purl.obolibrary.org/obo/$NS_dn.owl --extract-mingraph --set-ontology-id http://purl.obolibrary.org/obo/doid/extensions/$NS_import.owl -o.owl file://`pwd`/$@ '.
+
+
+
+
 'do-idn.obo' <-- [],
   'blip ontol-query -r disease -query "class(ID)" -to obo | obo-filter-tags.pl -t id -t name -t def > $@'.
 
 
 all <-- 'all-do-bridge.obo'.
 
-'all-do-bridge.obo' <-- ['do-idn.obo', bridges],
+'do-merged.obo' <-- ['do-idn.obo', bridges],
   'obo-merge-tags.pl -t id  -t is_a -t relationship $< do-bridge-*obo > $@'.
+
+'all-do-bridge.obo' <-- bridges,
+  'obo-merge-tags.pl -t id  -t is_a -t relationship -t intersection_of do-bridge-*obo > $@'.
+
+'do-plus-axioms.owl' <-- 'all-do-bridge.obo',
+  'owltools $< -o file://`pwd`/$@'.

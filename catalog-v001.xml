@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid.owl" uri="doid.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/do-plus-axioms.owl" uri="do-plus-axioms.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/CL_import.owl" uri="CL_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/UBERON_import.owl" uri="UBERON_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/MP_import.owl" uri="MP_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/HP_import.owl" uri="HP_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/SYMP_import.owl" uri="SYMP_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/TRANS_import.owl" uri="TRANS_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/doid/extensions/NCBITaxon_import.owl" uri="NCBITaxon_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1361156465434" name="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="Thesaurus.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_cl" uri="CL_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_hp" uri="HP_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_mp" uri="MP_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_symp" uri="SYMP_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_trans" uri="TRANS_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="import_uberon" uri="UBERON_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="Thesaurus.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="http://purl.obolibrary.org/obo/all-do-bridge.owl" uri="do-plus-axioms.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="http://purl.obolibrary.org/obo/doid.owl" uri="doid.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="http://purl.obolibrary.org/obo/doid/extensions/do-plus.owl" uri="do-plus.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1372287333922" name="http://purl.obolibrary.org/obo/doid/extensions/import_NCBITaxon.owl" uri="NCBITaxon_import.owl"/>
     </group>
 </catalog>
