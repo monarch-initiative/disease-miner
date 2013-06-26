@@ -1,0 +1,400 @@
+[Term]
+id: DOID:0050096 ! tinea barbae
+relationship: has_material_basis UBERON:0001037 ! strand of hair
+! A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.
+
+[Term]
+id: DOID:0050096 ! tinea barbae
+relationship: has_material_basis UBERON:0001705 ! nail
+! A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.
+
+[Term]
+id: DOID:0050097 ! ectothrix infectious disease
+relationship: has_material_basis UBERON:0002074 ! hair shaft
+! A tinea capitis that results_in fungal infection located_in cuticle of hair, has_material_basis_in Microsporum canis, has_material_basis_in Microsporum gypseum, has_material_basis_in Trichophyton equinum, and has_material_basis_in Trichophyton verrucosum, which produce arthroconidia on the exterior of the hair shaft.
+
+[Term]
+id: DOID:0050105 ! endothrix infectious disease
+relationship: has_material_basis UBERON:0002074 ! hair shaft
+! A tinea capitis that results_in fungal infection located_in hair, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which produce arthroconidia within the hair shaft only.
+
+[Term]
+id: DOID:0050135 ! subcutaneous mycosis
+relationship: has_material_basis UBERON:0002067 ! dermis
+! A fungal infectious disease that results_in infection located_in skin or located_in subcutaneous tissue, has_material_basis_in Fungi, which penetrate the dermis or even deeper during or after a skin trauma.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis UBERON:0000065 ! respiratory tract
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis UBERON:0000072 ! segment of respiratory tract
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis UBERON:0000468 ! multi-cellular organism
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis UBERON:0001004 ! respiratory system
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050434 ! Andersen-Tawil syndrome
+relationship: has_material_basis UBERON:0001713 ! lower eyelid
+! A long QY syndrome that has_material_basis_in autosomal dominant inheritance of a mutation in the KCNJ2 gene which disrupts the rhythm of the heart's lower chambers (ventricular arrhythmia) and results_in an unusually small lower jaw (micrognathia), low-set ears, and an abnormal curvature of the fingers called clinodactyly.
+
+[Term]
+id: DOID:0050714 ! alcaptonuria
+relationship: has_material_basis UBERON:0000178 ! blood
+! An organic acidemia that has_material_basis_in an autosomal recessive mutation in the HGD (homogentisate 1,2-dioxygenase gene ) gene affecting the production of the homogentisate 1,2-dioxygenase enzyme resulting in the accumulation of homogentisic acid in the blood.
+
+[Term]
+id: DOID:0050720 ! ornithine translocase deficiency
+relationship: has_material_basis UBERON:0000178 ! blood
+! An amino acid metabolic disorder that has_material_basis in deficiency of ornithine translocase resulting in the accumulation of ammonia in the blood.
+
+[Term]
+id: DOID:0060158 ! acquired metabolic disease
+relationship: has_material_basis UBERON:0003103 ! compound organ
+! A disease of metabolism that has _material_basis_in enzyme deficiency or accumulation of enzymes or toxins which interfere with normal function due to an endocrine organ disease, organ malfunction, inadequate intake, dietary deficiency, or malabsorption.
+
+[Term]
+id: DOID:0060162 ! dentatorubral-pallidoluysian atrophy
+relationship: has_material_basis UBERON:0001018 ! axon tract
+! A spinocerebellar degeneration that has_material_basis_in an expansion of a CAG repeat encoding a polyglutamine tract in the atrophin-1 protein.
+
+[Term]
+id: DOID:0080041 ! hypochondroplasia
+relationship: has_material_basis UBERON:0002418 ! cartilage tissue
+! An osteochondrodysplasia that has_material_basis_in mutation in the FGFR3 gene which affects ossification of cartilage and results_in short limb dwarfism.
+
+[Term]
+id: DOID:0080041 ! hypochondroplasia
+relationship: has_material_basis UBERON:0007844 ! cartilaginous element
+! An osteochondrodysplasia that has_material_basis_in mutation in the FGFR3 gene which affects ossification of cartilage and results_in short limb dwarfism.
+
+[Term]
+id: DOID:10426 ! Klippel-Feil syndrome
+relationship: has_material_basis UBERON:0002412 ! vertebra
+! A congenital disorder that has_material_basis_in abnormal segementation of the vertebra during fetal development which results_in fusion located_in cervical vertebra.
+
+[Term]
+id: DOID:1116 ! pertussis
+relationship: has_material_basis UBERON:0010168 ! collection of eyelashes
+! A commensal bacterial infectious disease that results_in inflammation located_in respiratory tract, has_material_basis_in Bordetella pertussis, or has_material_basis_in Bordetella parapertussis, which produce toxins that paralyze the cilia of the respiratory epithelial cells. The infection is characterized by a prolonged, high-pitched, deeply indrawn breath (whoop).
+
+[Term]
+id: DOID:11168 ! anogenital venereal wart
+relationship: has_material_basis UBERON:0000468 ! multi-cellular organism
+! A viral infectious disease that results_in infection located_in skin of vagina, cervix, uterus, anus, penis, scrotum, mouth, and throat, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct contact with the skin during oral, genital, or anal sex with an infected partner. The infection has_symptom anogenital warts.
+
+[Term]
+id: DOID:11338 ! tetanus
+relationship: has_material_basis UBERON:0000955 ! brain
+! A primary bacterial infectious disease that results_in prolonged contraction of skeletal muscle fibers, has_material_basis_in Clostridium tetani, which produces tetanospasmin, a neurotoxin, which is carried to the brain and spinal cord, where it binds irreversibly to receptors inhibiting neurotransmission. Damaged upper motor neurons cannot control reflex responses to afferent sensory stimuli.
+
+[Term]
+id: DOID:11338 ! tetanus
+relationship: has_material_basis UBERON:0002240 ! spinal cord
+! A primary bacterial infectious disease that results_in prolonged contraction of skeletal muscle fibers, has_material_basis_in Clostridium tetani, which produces tetanospasmin, a neurotoxin, which is carried to the brain and spinal cord, where it binds irreversibly to receptors inhibiting neurotransmission. Damaged upper motor neurons cannot control reflex responses to afferent sensory stimuli.
+
+[Term]
+id: DOID:11339 ! pneumocystosis
+relationship: has_material_basis UBERON:0000479 ! tissue
+! An opportunistic mycosis that is located_in lungs, but can also occur in eyes, ears, skin, thyroid, pituitary, palate, parathyroid, esophagus, pleura, heart, liver, spleen, small intestine, adrenals, kidneys, bone marrow, and lymph nodes, has_material_basis_in Pneumocystis jirovecii that effects interstitial and alveolar tissues and has_symptom nonproductive cough, has_symptom shortness of breath, and has_symptom fever.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis UBERON:0000059 ! large intestine
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis UBERON:0001262 ! wall of intestine
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12700 ! hyperprolactinemia
+relationship: has_material_basis UBERON:0000178 ! blood
+! An acquired metabolic disease that has_material_basis_in the presence of abnormally-high levels of prolactin in the blood.
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+relationship: has_material_basis UBERON:0001474 ! bone
+! An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee. The disease has_symptom fatigue, has_symptom joint pain.
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+relationship: has_material_basis UBERON:0002418 ! cartilage tissue
+! An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee. The disease has_symptom fatigue, has_symptom joint pain.
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+relationship: has_material_basis UBERON:0007844 ! cartilaginous element
+! An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee. The disease has_symptom fatigue, has_symptom joint pain.
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+relationship: has_material_basis UBERON:0000383 ! musculature of body
+! A neurodegenerative disease that has_material_basis_in expansion of CAG repeats resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+relationship: has_material_basis UBERON:0001015 ! musculature
+! A neurodegenerative disease that has_material_basis_in expansion of CAG repeats resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+relationship: has_material_basis UBERON:0001630 ! muscle organ
+! A neurodegenerative disease that has_material_basis_in expansion of CAG repeats resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+
+[Term]
+id: DOID:13074 ! tinea unguium
+relationship: has_material_basis UBERON:0001705 ! nail
+! A dermatophytosis that results_in fungal infection located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which cause separation of the nail plate from the nail bed and has_symptom thickening of subungueal area. Sometimes, white islands are seen on the external nail plates. These gradually coalesce until the entire nail plate is involved.
+
+[Term]
+id: DOID:13074 ! tinea unguium
+relationship: has_material_basis UBERON:0005273 ! nail bed
+! A dermatophytosis that results_in fungal infection located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which cause separation of the nail plate from the nail bed and has_symptom thickening of subungueal area. Sometimes, white islands are seen on the external nail plates. These gradually coalesce until the entire nail plate is involved.
+
+[Term]
+id: DOID:13074 ! tinea unguium
+relationship: has_material_basis UBERON:0008198 ! nail plate
+! A dermatophytosis that results_in fungal infection located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which cause separation of the nail plate from the nail bed and has_symptom thickening of subungueal area. Sometimes, white islands are seen on the external nail plates. These gradually coalesce until the entire nail plate is involved.
+
+[Term]
+id: DOID:14330 ! Parkinson's disease
+relationship: has_material_basis UBERON:0000955 ! brain
+! A neurodegenerative disease that has_material_basis_in degeneration of the central nervous system that often impairs the sufferer's motor skills, speech, and other functions.
+
+[Term]
+id: DOID:14330 ! Parkinson's disease
+relationship: has_material_basis UBERON:0001017 ! central nervous system
+! A neurodegenerative disease that has_material_basis_in degeneration of the central nervous system that often impairs the sufferer's motor skills, speech, and other functions.
+
+[Term]
+id: DOID:1441 ! spinocerebellar ataxia
+relationship: has_material_basis UBERON:0002240 ! spinal cord
+! A spinocerebellar degeneration that has_material_basis_in expanded CAG triplet repeats resulting in spinal cord and cerebellum degeneration.
+
+[Term]
+id: DOID:14512 ! candidal paronychia
+relationship: has_material_basis UBERON:0001001 ! chitin-based cuticle
+! A candidiasis that results_in fungal infection of the outer-most layer located_in nail, has_material_basis_in Candida species. The infection causes painful, red, swollen area around the nail, often at the cuticle or at the site of a hangnail or other injury.
+
+[Term]
+id: DOID:14512 ! candidal paronychia
+relationship: has_material_basis UBERON:0001705 ! nail
+! A candidiasis that results_in fungal infection of the outer-most layer located_in nail, has_material_basis_in Candida species. The infection causes painful, red, swollen area around the nail, often at the cuticle or at the site of a hangnail or other injury.
+
+[Term]
+id: DOID:14512 ! candidal paronychia
+relationship: has_material_basis UBERON:0003049 ! collagen and cuticulin-based cuticle
+! A candidiasis that results_in fungal infection of the outer-most layer located_in nail, has_material_basis_in Candida species. The infection causes painful, red, swollen area around the nail, often at the cuticle or at the site of a hangnail or other injury.
+
+[Term]
+id: DOID:14512 ! candidal paronychia
+relationship: has_material_basis UBERON:0004882 ! eponychium
+! A candidiasis that results_in fungal infection of the outer-most layer located_in nail, has_material_basis_in Candida species. The infection causes painful, red, swollen area around the nail, often at the cuticle or at the site of a hangnail or other injury.
+
+[Term]
+id: DOID:1564 ! fungal infectious disease
+relationship: has_material_basis UBERON:0000468 ! multi-cellular organism
+! A disease by infectious agent that results_in infection, has_material_basis_in Fungi, which pass the resistance barriers of the human or animal body.
+
+[Term]
+id: DOID:1790 ! malignant mesothelioma
+relationship: has_material_basis UBERON:0000479 ! tissue
+! A cell type cancer that has_material_basis_in meothelial tissue.
+
+[Term]
+id: DOID:1920 ! hyperuricemia
+relationship: has_material_basis UBERON:0000178 ! blood
+! An acquired metabolic disease that has_material_basis_in an abnormally high level of uric acid in the blood.
+
+[Term]
+id: DOID:2473 ! opportunistic mycosis
+relationship: has_material_basis UBERON:0000065 ! respiratory tract
+! A fungal infectious disease that results_in fungal infection located_in human body of immunocompromised individuals, has_material_basis_in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices.
+
+[Term]
+id: DOID:2473 ! opportunistic mycosis
+relationship: has_material_basis UBERON:0000072 ! segment of respiratory tract
+! A fungal infectious disease that results_in fungal infection located_in human body of immunocompromised individuals, has_material_basis_in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices.
+
+[Term]
+id: DOID:2473 ! opportunistic mycosis
+relationship: has_material_basis UBERON:0001004 ! respiratory system
+! A fungal infectious disease that results_in fungal infection located_in human body of immunocompromised individuals, has_material_basis_in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis UBERON:0000383 ! musculature of body
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis UBERON:0001015 ! musculature
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis UBERON:0001630 ! muscle organ
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis UBERON:0002107 ! liver
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2749 ! glycogen storage disease I
+relationship: has_material_basis UBERON:0002107 ! liver
+! A glycogen storage disease that has_material_basis_in deficiency of the glucose-6-phosphatase enzyme which impairs the ability of the liver to produce free glucose from glycogen and from gluconeogenesis and is characterized by accumulation of glycogen and fat in the liver and kidneys, resulting in hepatomegaly and renomegaly.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_material_basis UBERON:0000383 ! musculature of body
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_material_basis UBERON:0001015 ! musculature
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_material_basis UBERON:0001630 ! muscle organ
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:3650 ! lactic acidosis
+relationship: has_material_basis UBERON:0000178 ! blood
+! An acquired metabolic disease that has_material_basis_in low pH in body tissues and blood accompanied by the buildup of lactate especially D-lactate.
+
+[Term]
+id: DOID:4236 ! carcinosarcoma
+relationship: has_material_basis UBERON:0000483 ! epithelium
+! MERGED DEFINITION:nTARGET DEFINITION: A mixed cell type cancer that has_material_basis_in carcinomatous (epithelial tissue) and sarcomatous (connective tissue) components.n--------------------nSOURCE DEFINITION: A mullerian mixed tumor that is composed_of carcinoma of different mC<llerian types and composed_of homologous or heterologous sarcoma-like components.
+
+[Term]
+id: DOID:4236 ! carcinosarcoma
+relationship: has_material_basis UBERON:0002384 ! connective tissue
+! MERGED DEFINITION:nTARGET DEFINITION: A mixed cell type cancer that has_material_basis_in carcinomatous (epithelial tissue) and sarcomatous (connective tissue) components.n--------------------nSOURCE DEFINITION: A mullerian mixed tumor that is composed_of carcinoma of different mC<llerian types and composed_of homologous or heterologous sarcoma-like components.
+
+[Term]
+id: DOID:4480 ! achondroplasia
+relationship: has_material_basis UBERON:0002418 ! cartilage tissue
+! An osteochondrodysplasia that results_in dwarfism which has_material_basis_in abnormal ossification of cartilage in located_in long bone.
+
+[Term]
+id: DOID:4480 ! achondroplasia
+relationship: has_material_basis UBERON:0007844 ! cartilaginous element
+! An osteochondrodysplasia that results_in dwarfism which has_material_basis_in abnormal ossification of cartilage in located_in long bone.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis UBERON:0000065 ! respiratory tract
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis UBERON:0000072 ! segment of respiratory tract
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis UBERON:0000468 ! multi-cellular organism
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis UBERON:0001004 ! respiratory system
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis UBERON:0002360 ! meninx
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:6725 ! spinal stenosis
+relationship: has_material_basis UBERON:0001475 ! ligament
+! A bone deterioration disease that has_material_basis_in bony spurs, disc degeneration, or thickened ligaments which results_in narrowing located_in spinal cord.
+
+[Term]
+id: DOID:6725 ! spinal stenosis
+relationship: has_material_basis UBERON:0008846 ! skeletal ligament
+! A bone deterioration disease that has_material_basis_in bony spurs, disc degeneration, or thickened ligaments which results_in narrowing located_in spinal cord.
+
+[Term]
+id: DOID:680 ! tauopathy
+relationship: has_material_basis UBERON:0000468 ! multi-cellular organism
+! A neurodegenerative disease that has_material_basis_in the pathological aggregation of tau protein in so-called neurofibrillary tangles (NFT) in the human brain.
+
+[Term]
+id: DOID:680 ! tauopathy
+relationship: has_material_basis UBERON:0000955 ! brain
+! A neurodegenerative disease that has_material_basis_in the pathological aggregation of tau protein in so-called neurofibrillary tangles (NFT) in the human brain.
+
+[Term]
+id: DOID:8398 ! osteoarthritis
+relationship: has_material_basis UBERON:0002418 ! cartilage tissue
+! An arthritis that has_material_basis_in worn out cartilage located_in joint.
+
+[Term]
+id: DOID:8398 ! osteoarthritis
+relationship: has_material_basis UBERON:0007844 ! cartilaginous element
+! An arthritis that has_material_basis_in worn out cartilage located_in joint.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis UBERON:0000344 ! mucosa
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis UBERON:0000479 ! tissue
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:90 ! degenerative disc disease
+relationship: has_material_basis UBERON:0001827 ! lacrimal gland secretion
+! A bone deterioration disease that has_material_basis_in gradual dehydration and tears located_in intervertebral disc.
+
+[Term]
+id: DOID:90 ! degenerative disc disease
+relationship: has_material_basis UBERON:0001827 ! tear
+! A bone deterioration disease that has_material_basis_in gradual dehydration and tears located_in intervertebral disc.
+
+[Term]
+id: DOID:9159 ! gas gangrene
+relationship: has_material_basis UBERON:0000479 ! tissue
+! A commensal bacterial infectious disease that results_in infection, located_in muscle tissue, has_material_basis_in Clostridium perfringens, which produce gas that becomes trapped in the infected tissue. Gas gangrene usually develops after injuries or surgery. The infection has_symptom large blisters, has_symptom pain in the infected area, has_symptom myonecrosis, has_symptom gas production, and has_symptom sepsis.
+
+[Term]
+id: DOID:9744 ! type 1 diabetes mellitus
+relationship: has_material_basis UBERON:0001264 ! pancreas
+! A diabetes mellitus that results from the body's failure to produce insulin and has_material_basis_in autoimmune destruction of insulin-producing beta cells of the pancreas.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis UBERON:0000323 ! late embryo
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis UBERON:0001988 ! feces
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis UBERON:0007220 ! late embryonic stage
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+

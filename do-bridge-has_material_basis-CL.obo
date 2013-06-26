@@ -1,0 +1,75 @@
+[Term]
+id: DOID:0070003 ! blastoma
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from precursor cells called blast cells.
+
+[Term]
+id: DOID:1115 ! sarcoma
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic mesoderm.
+
+[Term]
+id: DOID:1116 ! pertussis
+relationship: has_material_basis CL:0002368 ! respiratory epithelial cell
+! A commensal bacterial infectious disease that results_in inflammation located_in respiratory tract, has_material_basis_in Bordetella pertussis, or has_material_basis_in Bordetella parapertussis, which produce toxins that paralyze the cilia of the respiratory epithelial cells. The infection is characterized by a prolonged, high-pitched, deeply indrawn breath (whoop).
+
+[Term]
+id: DOID:154 ! mixed cell type cancer
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from two germinal layers of tissue.
+
+[Term]
+id: DOID:1909 ! melanoma
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from melanocytes which are found in skin, the bowel and the eye.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_material_basis CL:0000540 ! neuron
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:299 ! adenocarcinoma
+relationship: has_material_basis CL:0000000 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
+
+[Term]
+id: DOID:2994 ! germ cell cancer
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from germ cells.
+
+[Term]
+id: DOID:3025 ! acinar cell carcinoma
+relationship: has_material_basis CL:0000000 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from spindle cells and/or derives_from giant cells.
+
+[Term]
+id: DOID:305 ! carcinoma
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from epithelial cells.
+
+[Term]
+id: DOID:3069 ! astrocytoma
+relationship: has_material_basis CL:0000000 ! cell
+! A malignant glioma that is has_material_basis_in astocyte cells, a type of glial cell, located_in the cerebrum.
+
+[Term]
+id: DOID:3069 ! astrocytoma
+relationship: has_material_basis CL:0000125 ! glial cell
+! A malignant glioma that is has_material_basis_in astocyte cells, a type of glial cell, located_in the cerebrum.
+
+[Term]
+id: DOID:3070 ! malignant glioma
+relationship: has_material_basis CL:0000125 ! glial cell
+! A cell type cancer that has_material_basis_in glial cells and is located_in brain or located_in spine.
+
+[Term]
+id: DOID:3350 ! mesenchymal cell neoplasm
+relationship: has_material_basis CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic connective tissue that is capable of developing into connective tissue, such as bone, and cartilage, the lymphatic system, and the circulatory system.
+
+[Term]
+id: DOID:5408 ! Paget's disease of bone
+relationship: has_material_basis CL:0000092 ! osteoclast
+! A bone formation disease that has_material_basis_in hyperactive osteoclast which results_in abnormal osteoblast bone formation located_in skull, located_in pelvis, located_in vertebral column, located_in set of limbs.
+

@@ -1,0 +1,870 @@
+[Term]
+id: DOID:0050025 ! human granulocytic anaplasmosis
+relationship: has_locus CL:0000094 ! granulocyte
+! An ehrlichiosis that results_in infection located_in granular leukocyte, has_material_basis_in Anaplasma phagocytophilum, which is transmitted_by lone start tick (Amblyomma americanum ). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: has_locus CL:0000235 ! macrophage
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: has_locus CL:0000576 ! monocyte
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050120 ! hemophagocytic lymphohistiocytosis
+relationship: has_locus CL:0000235 ! macrophage
+! A lymphatic system disease that is characterized by an expansion of the monocyte-macrophage population and intense hemophagocytosis. It can occur de novo, but more often occurs in the setting of another disorder, usually an infection or a malignancy. A clinical picture of fever, hepatosplenomegaly, lymphadenopathy and peripheral pancytopenia. The morphologic hallmark of this syndrome is the phagocytosis of hematopoietic elements by morphologically normal macrophages.
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: has_locus CL:0000563 ! endospore
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050158 ! respiratory bronchiolitis-associated interstitial lung disease
+relationship: has_locus CL:0000235 ! macrophage
+! A idiopathic interstitial pneumonia which involves bronchiolocentric alveolar macrophage accumulation, mild bronchiolar fibrosis and chronic inflammation. Respiratory bronchiolitis is a histopathologic lesion found in cigarette smokers and is characterized by the presence of pigmented intralumenal macrophages within first- and second-order respiratory bronchioles.
+
+[Term]
+id: DOID:0050158 ! respiratory bronchiolitis-associated interstitial lung disease
+relationship: has_locus CL:0000583 ! alveolar macrophage
+! A idiopathic interstitial pneumonia which involves bronchiolocentric alveolar macrophage accumulation, mild bronchiolar fibrosis and chronic inflammation. Respiratory bronchiolitis is a histopathologic lesion found in cigarette smokers and is characterized by the presence of pigmented intralumenal macrophages within first- and second-order respiratory bronchioles.
+
+[Term]
+id: DOID:0050160 ! inhalation anthrax
+relationship: has_locus CL:0000522 ! spore
+! An anthrax disease that results_in infection located_in lung lymph nodes brought on by breathing in the spores of the bacteria Bacillus anthracis. The first symptoms of inhalation anthrax are like cold or flu symptoms and can include a sore throat, mild fever and muscle aches. Later symptoms include cough, chest discomfort, shortness of breath, tiredness and muscle aches.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: has_locus CL:0000522 ! spore
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050354 ! infant botulism
+relationship: has_locus CL:0000563 ! endospore
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA or B) in infants, has_material_basis_in Clostridium botulinum A or has_material_basis_in Clostridium botulinum B, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins. The infection has_symptom constipation, has_symptom lethargy, has_symptom difficulty feeding, has_symptom swallowing, has_symptom ptosis, has_symptom loss of head control, and has_symptom muscle weakness.
+
+[Term]
+id: DOID:0050398 ! Carrion's Disease
+relationship: has_locus CL:0000115 ! endothelial cell
+! A primary bacterial infectious disease that results_in infection located_in endothelial cells or located_in red blood cells, has_material_basis_in Bartonella bacilliformis, which is transmitted_by sandflies of genus Lutzomyia. The infection has acute and chronic phases. The acute phase is characterized by severe hemolytic anemia and transient immunosuppression. The chronic phase is characterized by verruga peruana lesions which may ulcerate and bleed.
+
+[Term]
+id: DOID:0050398 ! Carrion's Disease
+relationship: has_locus CL:0000232 ! erythrocyte
+! A primary bacterial infectious disease that results_in infection located_in endothelial cells or located_in red blood cells, has_material_basis_in Bartonella bacilliformis, which is transmitted_by sandflies of genus Lutzomyia. The infection has acute and chronic phases. The acute phase is characterized by severe hemolytic anemia and transient immunosuppression. The chronic phase is characterized by verruga peruana lesions which may ulcerate and bleed.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: has_locus CL:0000100 ! motor neuron
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: has_locus CL:0000100 ! motor neuron
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: has_locus CL:0000100 ! motor neuron
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:0050523 ! adult T-cell leukemia
+relationship: has_locus CL:0000084 ! T cell
+! A T-cell leukemia that results_in abnormal increase of lymphocytes, derives_from T-cells, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, transmitted_by contaminated needles used by intravenous-drug users, and transmitted_by breast feeding. The infection results_in_formation_of skin lesions.
+
+[Term]
+id: DOID:0050523 ! adult T-cell leukemia
+relationship: has_locus CL:0000542 ! lymphocyte
+! A T-cell leukemia that results_in abnormal increase of lymphocytes, derives_from T-cells, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, transmitted_by contaminated needles used by intravenous-drug users, and transmitted_by breast feeding. The infection results_in_formation_of skin lesions.
+
+[Term]
+id: DOID:0050631 ! Allan-Herndon-Dudley syndrome
+relationship: has_locus CL:0000540 ! neuron
+! An X-linked disease that is caused by mutation in the gene encoding the monocarboxylate transporter-8 which alters the structure and function of the SLC16A2 protein which is then unable to transport the thyroid triiodothyronine (T3) hormone into nerve cells of the developing brain affecting normal brain development resulting in intellectual disability and problems with movement.
+
+[Term]
+id: DOID:0050729 ! neutral lipid storage disease
+relationship: has_locus CL:0000057 ! fibroblast
+! A lipid storage disease that is characterized by accumulation of triglycerides in the cytoplasm of leukocytes, muscle, liver, fibroblasts, and other tissues.
+
+[Term]
+id: DOID:0050729 ! neutral lipid storage disease
+relationship: has_locus CL:0000738 ! leukocyte
+! A lipid storage disease that is characterized by accumulation of triglycerides in the cytoplasm of leukocytes, muscle, liver, fibroblasts, and other tissues.
+
+[Term]
+id: DOID:0050747 ! lymphoplasmacytic lymphoma
+relationship: has_locus CL:0000236 ! B cell
+! A B-cell lymphocytic neoplasm characterized by an uncontrolled increase of B-cells.
+
+[Term]
+id: DOID:0050750 ! splenic marginal zone lymphoma
+relationship: has_locus CL:0000236 ! B cell
+! A marginal zone B-cell lymphocyte located_in the spleen comprised of B-cells in place of white pulp.
+
+[Term]
+id: DOID:0050750 ! splenic marginal zone lymphoma
+relationship: has_locus CL:0000542 ! lymphocyte
+! A marginal zone B-cell lymphocyte located_in the spleen comprised of B-cells in place of white pulp.
+
+[Term]
+id: DOID:0050750 ! splenic marginal zone lymphoma
+relationship: has_locus CL:0000236 ! B cell
+! A marginal zone B-cell lymphocyte located_in the spleen comprised of B-cells in place of white pulp.
+
+[Term]
+id: DOID:0060013 ! gamma chain deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A severe combined immunodeficiency that is a X-linked SCID caused by mutations in genes encoding common gamma chain proteins shared by the interleukin (IL-2,4,7,9,16 and21) receptors resulting in a non-functional gamma chain, defective interleukin signalling, minimal or ascent T- and NK cells and non-functional B-cells.
+
+[Term]
+id: DOID:0060013 ! gamma chain deficiency
+relationship: has_locus CL:0000623 ! natural killer cell
+! A severe combined immunodeficiency that is a X-linked SCID caused by mutations in genes encoding common gamma chain proteins shared by the interleukin (IL-2,4,7,9,16 and21) receptors resulting in a non-functional gamma chain, defective interleukin signalling, minimal or ascent T- and NK cells and non-functional B-cells.
+
+[Term]
+id: DOID:0060016 ! CD3delta deficiency
+relationship: has_locus CL:0000084 ! T cell
+! A severe combined immunodeficiency that is characterized by the absence of T cells but normal numbers of B cells. CD3D is essential for T cell development.
+
+[Term]
+id: DOID:0060016 ! CD3delta deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A severe combined immunodeficiency that is characterized by the absence of T cells but normal numbers of B cells. CD3D is essential for T cell development.
+
+[Term]
+id: DOID:0060017 ! CD3epsilon deficiency
+relationship: has_locus CL:0000084 ! T cell
+! A severe combined immunodeficiency that is an autosomal recessive immunodeficiency caused by mutations in the gene coding for T-cell surface glycoprotein CD3epsilon chain precursors. Patients with CD3epsilon deficiency have a severe defect in the expression of the T-cell receptor CD3-complex.
+
+[Term]
+id: DOID:0060018 ! CD3gamma deficiency
+relationship: has_locus CL:0000084 ! T cell
+! A severe combined immunodeficiency an autosomal recessive immunodeficiency caused by mutations in the gene coding for T-cell surface glycoprotein CD3gamma chain precursors. Patients with CD3gamma deficiency have a severe defect in the expression of the T-cell receptor CD3-complex. Affected patients have decreased T-cell numbers and function; B cells are variably affected.
+
+[Term]
+id: DOID:0060018 ! CD3gamma deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A severe combined immunodeficiency an autosomal recessive immunodeficiency caused by mutations in the gene coding for T-cell surface glycoprotein CD3gamma chain precursors. Patients with CD3gamma deficiency have a severe defect in the expression of the T-cell receptor CD3-complex. Affected patients have decreased T-cell numbers and function; B cells are variably affected.
+
+[Term]
+id: DOID:0060022 ! CD40 ligand deficiency
+relationship: has_locus CL:0000084 ! T cell
+! A combined T cell and B cell immunodeficiency that is a X-linked immunodeficiency with hyperimmunoglobulin M (XHIM) affecting isotype switching and is caused by the absence of CD40 ligand which is normally expressed on activated CD4+ T cells. Individuals with this mutation are unable to switch from IgM to IgG, IgA and IgE.
+
+[Term]
+id: DOID:0060023 ! CD40 deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A combined T cell and B cell immunodeficiency that is caused by mutation in TNFRSF5 resulting in type 3 hyper-IgM immunodeficiency characterized by an inability of B cells to undergo isotype switching, an inability to mount an antibody-specific immune response, and a lack of germinal center formation.
+
+[Term]
+id: DOID:0060027 ! B cell linker protein deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A hypobammaglobulinemia that is a B cell deficiency caused by a mutation a cytoplasmic linker or adaptor protein that plays a critical role in B cell development, the B cell linker protein (BLNK) gene. Mutations in this gene cause hypoglobulinemia and absent B cells, a disease in which the pro- to pre-B-cell transition is developmentally blocked. The BLNK gene is associated with intracellular calcium mobilization, essential for cell activation.
+
+[Term]
+id: DOID:0060061 ! cutaneous T cell lymphoma
+relationship: has_locus CL:0000084 ! T cell
+! A non-Hodgkin's lymphoma that is caused by a mutation of T cells.
+
+[Term]
+id: DOID:0070003 ! blastoma
+relationship: has_locus CL:0000055 ! non-terminally differentiated cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from precursor cells called blast cells.
+
+[Term]
+id: DOID:0070003 ! blastoma
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from precursor cells called blast cells.
+
+[Term]
+id: DOID:10027 ! tabes dorsalis
+relationship: has_locus CL:0000540 ! neuron
+! A tertiary neurosyphilis that results_in slow degeneration of the nerve cells and nerve fibers that carry sensory information to the brain. The infection has_symptom intense, stabbing pain in the back and legs that recurs irregularly, has_symptom gait ataxia, has_symptom hyperesthesia, has_symptom paresthesia, has_symptom loss of bladder sensation leading to urine retention, has_symptom erectile dysfunction.
+
+[Term]
+id: DOID:10242 ! ehrlichiosis
+relationship: has_locus CL:0000738 ! leukocyte
+! A primary bacterial infectious disease that results_in infection located_in leukocyte, has_material_basis_in Ehrlichia chaffeensis or Anaplasma phagocytophilum, which are transmitted_by lone start stick and transmitted_by black-legged tick respectively. The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue and has_symptom rash.
+
+[Term]
+id: DOID:10247 ! pleurisy
+relationship: has_locus CL:0000263 ! vegetative cell (sensu Mycetozoa)
+! A lower respiratory infectious disease involving inflammation of the pleura, the lining of the pleural cavity surrounding the lungs. Major causes of pleurisy include cancer, drug reactions, infection with parasites such as amoeba or flukes, injury such as a rib fracture or bruise, irritants that reach the pleura from the airways such as asbestos, lung infarction caused by pulmonary embolism, pancreatitis, pneumonia, rheumatoid arthritis, systemic lupus erythematosus, tuberculosis and viral pleuritis. The inflamed pleural layers rub against each other every time the lungs expand to breathe in air. This can cause sharp pain with breathing (also called pleuritic chest pain).
+
+[Term]
+id: DOID:10652 ! Alzheimer's disease
+relationship: has_locus CL:0000540 ! neuron
+! A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.
+
+[Term]
+id: DOID:11104 ! spotted fever
+relationship: has_locus CL:0002543 ! vein endothelial cell
+! A primary bacterial infectious disease that results_in infection, located_in endothelial cell of artery or located_in endothelial cell of vein, has_material_basis_in Rickettsia, which is transmitted_by ticks and mites. The infection has_symptom fever, has_symptom headache, has_symptom fatigue, has_symptom muscle aches, and has_symptom maculopapular or petechial rash. A distinctive eschar (blackened or crusted skin) may develop at the site of a tick bite.
+
+[Term]
+id: DOID:11104 ! spotted fever
+relationship: has_locus CL:1000413 ! endothelial cell of artery
+! A primary bacterial infectious disease that results_in infection, located_in endothelial cell of artery or located_in endothelial cell of vein, has_material_basis_in Rickettsia, which is transmitted_by ticks and mites. The infection has_symptom fever, has_symptom headache, has_symptom fatigue, has_symptom muscle aches, and has_symptom maculopapular or petechial rash. A distinctive eschar (blackened or crusted skin) may develop at the site of a tick bite.
+
+[Term]
+id: DOID:1115 ! sarcoma
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic mesoderm.
+
+[Term]
+id: DOID:1116 ! pertussis
+relationship: has_locus CL:0002368 ! respiratory epithelial cell
+! A commensal bacterial infectious disease that results_in inflammation located_in respiratory tract, has_material_basis_in Bordetella pertussis, or has_material_basis_in Bordetella parapertussis, which produce toxins that paralyze the cilia of the respiratory epithelial cells. The infection is characterized by a prolonged, high-pitched, deeply indrawn breath (whoop).
+
+[Term]
+id: DOID:11256 ! typhus
+relationship: has_locus CL:0000115 ! endothelial cell
+! A primary bacterial infectious disease that refers to a group of diseases, located_in endothelial cells of the small venous, arterial, and capillary vessels, has_material_basis_in Rickettsia bacteria, which are transmitted_by lice, transmitted_by fleas, and transmitted_by mites.
+
+[Term]
+id: DOID:11315 ! African histoplasmosis
+relationship: has_locus CL:0000522 ! spore
+! A histoplasmosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var duboisii, transmitted_by airborne spores and results_in_formation_of nodules, results_in_formation_of ulcers and results_in_formation_of osteolytic bone lesions.
+
+[Term]
+id: DOID:12177 ! common variable immunodeficiency
+relationship: has_locus CL:0000000 ! cell
+! A hypogammaglobulinemia that is results in insufficient production of antibodies needed to respond to exposure of pathogens and is characterized by low Ig levels with phenotypically normal B cells that can proliferate but do not develop into Ig-producing cells. Patients with common variable immunodeficiency have marked reduction in serum levels of both immunoglobulin G (IgG) and immunoglobulin A (IgA); about half of these patients also have reduced immunoglobulin M (IgM).
+
+[Term]
+id: DOID:12177 ! common variable immunodeficiency
+relationship: has_locus CL:0000236 ! B cell
+! A hypogammaglobulinemia that is results in insufficient production of antibodies needed to respond to exposure of pathogens and is characterized by low Ig levels with phenotypically normal B cells that can proliferate but do not develop into Ig-producing cells. Patients with common variable immunodeficiency have marked reduction in serum levels of both immunoglobulin G (IgG) and immunoglobulin A (IgA); about half of these patients also have reduced immunoglobulin M (IgM).
+
+[Term]
+id: DOID:12297 ! Vogt-Koyanagi-Harada disease
+relationship: has_locus CL:0000148 ! melanocyte
+! An autoimmune disease that is caused by T helper cell mediated autoimmune attack of melanocytes resulting in inflammation of the inside of the eye, whitening of hair, skin pigment loss, and meningitis.
+
+[Term]
+id: DOID:12365 ! malaria
+relationship: has_locus CL:0000232 ! erythrocyte
+! A parasitic protozoa infectious disease characterized as a vector-borne infectious disease caused by the presence of protozoan parasites of the genus Plasmodium in the red blood cells, transmitted from an infected to an uninfected individual by the bite of anopheline mosquitoes, and characterized by periodic attacks of chills and fever that coincide with mass destruction of blood cells and the release of toxic substances by the parasite at the end of each reproductive cycle.
+
+[Term]
+id: DOID:12365 ! malaria
+relationship: has_locus CL:0000081 ! blood cell
+! A parasitic protozoa infectious disease characterized as a vector-borne infectious disease caused by the presence of protozoan parasites of the genus Plasmodium in the red blood cells, transmitted from an infected to an uninfected individual by the bite of anopheline mosquitoes, and characterized by periodic attacks of chills and fever that coincide with mass destruction of blood cells and the release of toxic substances by the parasite at the end of each reproductive cycle.
+
+[Term]
+id: DOID:12377 ! spinal muscular atrophy
+relationship: has_locus CL:0000100 ! motor neuron
+! A motor neuron disease that is_a degenerative neuromuscular disease characterized by motor neuron degeration.
+
+[Term]
+id: DOID:1240 ! leukemia
+relationship: has_locus CL:0000081 ! blood cell
+! A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+
+[Term]
+id: DOID:12663 ! blastomycosis
+relationship: has_locus CL:0000522 ! spore
+! A primary systemic mycosis that results_in a systemic fungal infection, has_material_basis_in Blastomyces dermatitidis, transmitted_by airborne spores and has_symptom skin lesions, has_symptom lung lesions and has_symptom pleural thickening.
+
+[Term]
+id: DOID:12965 ! subleukemic leukemia
+relationship: has_locus CL:0000738 ! leukocyte
+! A leukemia that is characterized by the presence of abnormal white blood cells located_in peripheral blood, but in which the total number of white blood cells is normal.
+
+[Term]
+id: DOID:13166 ! allergic bronchopulmonary aspergillosis
+relationship: has_locus CL:0000522 ! spore
+! An aspergillosis that involves an allergic reaction due to the spores of Aspergillus moulds (A. fumigatus), which colonizes the mucus in the airways causing inflammation. The disease has_symptom cough, has_symptom wheezing and has_symptom fever.
+
+[Term]
+id: DOID:13450 ! coccidioidomycosis
+relationship: has_locus CL:0000522 ! spore
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Coccidioides immitis, transmitted_by airborne spores and has_symptom conjunctivitis, has_symptom arthritis, has_symptom chest pain and results_in_formation_of skin nodules.
+
+[Term]
+id: DOID:14068 ! blackwater fever
+relationship: has_locus CL:0000232 ! erythrocyte
+! A malaria that presents as a rare febrile complication of repeated malarial attacks characterized by intravascular haemolysis, haemoglobinuria and kidney failure, resulting from destruction of red blood cells caused by heavy parasitization with Plasmodium falciparum or Plasmodium vivax.
+
+[Term]
+id: DOID:14179 ! Bruton-type agammaglobulinemia
+relationship: has_locus CL:0000785 ! mature B cell
+! A B cell deficiency that is caused by a mutation in the Bruton's tyrosine kinase (BTK) gene on the X chromosome resulting in X-linked agammaglobulinemia type 1, which is an immunodeficiency characterized by the failure to produce mature B lymphocytes, and associated with a failure of Ig heavy chain rearrangement.
+
+[Term]
+id: DOID:14422 ! dipetalonemiasis
+relationship: has_locus CL:0000771 ! eosinophil
+! A filariasis that is a zoonotic infection caused by the nematode of the genus Dipetalonema, which is transmitted accidentally to humans from porcupines, beavers and other mammals by mosquitoes. The adult worms live subcutaneously or in body cavities or in the eyes of humans. Dead worms cause hypersensitivity necrosis with eosinophils, followed by granulomatous reaction and fibrosis.
+
+[Term]
+id: DOID:14453 ! farmer's lung
+relationship: has_locus CL:0000522 ! spore
+! An extrinsic allergic alveolitis which is induced by the inhalation of spores (Aspergillus sp and thermophilic actinomycetes) in dust from moldy hay or straw. It is characterized by sudden onset, fever, cough, expectoration, and breathlessness.
+
+[Term]
+id: DOID:154 ! mixed cell type cancer
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from two germinal layers of tissue.
+
+[Term]
+id: DOID:1562 ! chromoblastomycosis
+relationship: has_locus CL:0000000 ! cell
+! A subcutaneous mycosis that is a chronic subcutaneous fungal infection, which presents as nodular or verrucoid, ulcerated, or crusted skin lesions on exposed areas of skin caused by Fonsecaea pedrosoi, Fonsecaea compacta, Cladophialophora carrionii or Phialophora verrucosa. Histological examination reveals muriform cells (with perpendicular septations) or thick walled, dark-colored, rounded forms (copper pennies) that are characteristic of this infection.
+
+[Term]
+id: DOID:1642 ! breast adenomyoepithelioma
+relationship: has_locus CL:0000185 ! myoepithelial cell
+! A breast myoepithelial neoplasm that affects the breast and is characterized by biphasic proliferation of both epithelial and myoepithelial cells.
+
+[Term]
+id: DOID:1731 ! histoplasmosis
+relationship: has_locus CL:0000522 ! spore
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var capsulatum or has_material_basis_in Histoplasma capsulatum var duboisii, transmitted_by airborne spores and has_symptom nonproductive cough, has_symptom headache, has_symptom loss of appetite and has_symptom muscle pains.
+
+[Term]
+id: DOID:1749 ! squamous cell carcinoma
+relationship: has_locus CL:0000076 ! squamous epithelial cell
+! A carcinoma that derives_from squamous epithelial cells.
+
+[Term]
+id: DOID:1759 ! American histoplasmosis
+relationship: has_locus CL:0000522 ! spore
+! A histoplasmosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var capsulatum, transmitted_by airborne spores and has_symptom nonproductive cough, has_symptom headache, has_symptom loss of appetite and has_symptom muscle pains.
+
+[Term]
+id: DOID:1800 ! neuroendocrine carcinoma
+relationship: has_locus CL:0000165 ! neuroendocrine cell
+! A carcinoma that derives_from neuroendocrine cells.
+
+[Term]
+id: DOID:1909 ! melanoma
+relationship: has_locus CL:0000148 ! melanocyte
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from melanocytes which are found in skin, the bowel and the eye.
+
+[Term]
+id: DOID:1909 ! melanoma
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from melanocytes which are found in skin, the bowel and the eye.
+
+[Term]
+id: DOID:2058 ! chronic mucocutaneous candidiasis
+relationship: has_locus CL:0000084 ! T cell
+! A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.
+
+[Term]
+id: DOID:2115 ! B cell deficiency
+relationship: has_locus CL:0000236 ! B cell
+! A primary immunnodeficiency disease that is caused by a lack of infection-fighting antibody producing B cells (immunoglobulins) or B cells that are not functioning properly.
+
+[Term]
+id: DOID:2224 ! hemorrhagic thrombocythemia
+relationship: has_locus CL:0000233 ! platelet
+! A chronic myeloproliferative and megakaryocytic tumor and thrombocytosis that is a rare chronic disorder that results_in the overproduction of platelets.
+
+[Term]
+id: DOID:2226 ! chronic myeloproliferative disease
+relationship: has_locus CL:0000233 ! platelet
+! A myeloma that is characterized by a group of slow growing blood cancers in which large numbers of abnormal red blood cells, white blood cells, or platelets grow and spread in the bone marrow and the peripheral blood.
+
+[Term]
+id: DOID:2226 ! chronic myeloproliferative disease
+relationship: has_locus CL:0000738 ! leukocyte
+! A myeloma that is characterized by a group of slow growing blood cancers in which large numbers of abnormal red blood cells, white blood cells, or platelets grow and spread in the bone marrow and the peripheral blood.
+
+[Term]
+id: DOID:2314 ! malt worker's lung
+relationship: has_locus CL:0002369 ! fungal spore
+! An extrinsic allergic alveolitis which is caused by inhalation of fungal spores of Aspergillus clavatus and Aspergillus fumigatus from moldy barley.
+
+[Term]
+id: DOID:2554 ! Letterer-Siwe disease
+relationship: has_locus CL:0000738 ! leukocyte
+! A Langerhans-cell histiocytosis malignant neoplasm of abdomen that results_in an abnormal increase in the number of immune cells called histiocytes.
+
+[Term]
+id: DOID:2571 ! Langerhans-cell histiocytosis
+relationship: has_locus CL:0000453 ! Langerhans cell
+! A disease of metabolism and histiocytic and dendritic cell cancer and histiocytosis and interstitial lung disease that results_in the proliferation of Langerhans cells.
+
+[Term]
+id: DOID:2571 ! Langerhans-cell histiocytosis
+relationship: has_locus DC_CL:0000021 ! Langerhans cell
+! A disease of metabolism and histiocytic and dendritic cell cancer and histiocytosis and interstitial lung disease that results_in the proliferation of Langerhans cells.
+
+[Term]
+id: DOID:2632 ! papillary serous adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A papillary adenocarcinoma that derives_from epithelial cells originating in glandular tissue, which form complex papillary structures with psammoma bodies.
+
+[Term]
+id: DOID:2661 ! myoepithelioma
+relationship: has_locus CL:0000185 ! myoepithelial cell
+! A carcinoma that is composed_of outgrowths of myoepithelial cells from a sweat gland.
+
+[Term]
+id: DOID:2671 ! transitional cell carcinoma
+relationship: has_locus CL:0000244 ! transitional epithelial cell
+! A carcinoma that derives_from transitional epithelial cells.
+
+[Term]
+id: DOID:2708 ! mushroom workers' lung
+relationship: has_locus CL:0000522 ! spore
+! An extrinsic allergic alveolitis involving inflammation of the alveoli within the lung caused by hypersensitivity to the inhalation of organic dust particles derived from either the mushrooms, their spores or the compost in which the mushrooms are grown. It is usually caused by the spores of thermophilic actinomycetes.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_locus CL:0000540 ! neuron
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:2929 ! Newcastle disease
+relationship: has_locus CL:0000025 ! egg
+! A viral infectious disease that results_in infection in birds and humans, has_material_basis_in Newcastle disease virus, which is transmitted_by contact with feces and urine of an infected bird, or transmitted_by fomites. The infection has_symptom conjunctivitis, has_symptom headache, and has_symptom lacrimation in humans, and has_symptom gasping, has_symptom coughing, has_symptom twisting of head and neck, has_symptom circling, has_symptom complete paralysis, has_symptom watery diarrhea, and has_symptom reduced egg production in birds.
+
+[Term]
+id: DOID:299 ! adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
+
+[Term]
+id: DOID:299 ! adenocarcinoma
+relationship: has_locus CL:0000000 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
+
+[Term]
+id: DOID:2994 ! germ cell cancer
+relationship: has_locus CL:0000586 ! germ cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from germ cells.
+
+[Term]
+id: DOID:2994 ! germ cell cancer
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from germ cells.
+
+[Term]
+id: DOID:3025 ! acinar cell carcinoma
+relationship: has_locus CL:0000000 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from spindle cells and/or derives_from giant cells.
+
+[Term]
+id: DOID:3030 ! mucinous adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, which produce mucin.
+
+[Term]
+id: DOID:305 ! carcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from epithelial cells.
+
+[Term]
+id: DOID:305 ! carcinoma
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from epithelial cells.
+
+[Term]
+id: DOID:3069 ! astrocytoma
+relationship: has_locus CL:0000000 ! cell
+! A malignant glioma that is has_material_basis_in astocyte cells, a type of glial cell, located_in the cerebrum.
+
+[Term]
+id: DOID:3069 ! astrocytoma
+relationship: has_locus CL:0000125 ! glial cell
+! A malignant glioma that is has_material_basis_in astocyte cells, a type of glial cell, located_in the cerebrum.
+
+[Term]
+id: DOID:3070 ! malignant glioma
+relationship: has_locus CL:0000125 ! glial cell
+! A cell type cancer that has_material_basis_in glial cells and is located_in brain or located_in spine.
+
+[Term]
+id: DOID:3095 ! germ cell and embryonal cancer
+relationship: has_locus CL:0000000 ! cell
+! A germ cell cancer that is derived_from a mixture of germs cells and embryonal cells.
+
+[Term]
+id: DOID:3109 ! idiopathic CD4-positive T-lymphocytopenia
+relationship: has_locus CL:0000084 ! T cell
+! A lymphopenia that is caused by a reduction of CD4+ T lymphocytes.
+
+[Term]
+id: DOID:3110 ! papillary cystadenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue, with cysts and papillary endophytic projections.
+
+[Term]
+id: DOID:3111 ! cystadenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, in which cystic accumulations of retained secretions are formed.
+
+[Term]
+id: DOID:3112 ! papillary adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, which form complex papillary structures and exhibit compressive, destructive growth that replaces the normal tissue.
+
+[Term]
+id: DOID:3113 ! papillary carcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A carcinoma that is derived_from epithelial cells with finger like projections.
+
+[Term]
+id: DOID:3114 ! serous cystadenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue forming serous lesions.
+
+[Term]
+id: DOID:3162 ! malignant spindle cell melanoma
+relationship: has_locus CL:0000000 ! cell
+! A melanoma that is most commonly located_in sun-exposed skin and results_in_formation_ of spindle-like shaped cells that have a high recurrence rate even with treatment.
+
+[Term]
+id: DOID:3168 ! squamous cell neoplasm
+relationship: has_locus CL:0000066 ! epithelial cell
+! A cell type benign neoplasm composed_of epithelial cells located_in the ectodermal or endodermal cells linking body cavities.
+
+[Term]
+id: DOID:3168 ! squamous cell neoplasm
+relationship: has_locus CL:0000223 ! endodermal cell
+! A cell type benign neoplasm composed_of epithelial cells located_in the ectodermal or endodermal cells linking body cavities.
+
+[Term]
+id: DOID:3341 ! osteitis fibrosa
+relationship: has_locus CL:0000092 ! osteoclast
+! A bone resorption disease that has_material_basis_in hyperparathyroidism which results_in hyperactivity in osteoclasts, deformity, and loss of mass located_in bone.
+
+[Term]
+id: DOID:3350 ! mesenchymal cell neoplasm
+relationship: has_locus CL:0000000 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic connective tissue that is capable of developing into connective tissue, such as bone, and cartilage, the lymphatic system, and the circulatory system.
+
+[Term]
+id: DOID:3413 ! alpha-mannosidosis
+relationship: has_locus DC_CL:0100000 ! cell function
+! A lysosomal storage disease that has_material_basis_in deficiency of the alpha-D-manosidase enzyme resulting in the impairment of cell function from a build up of complex sugars derived from glycoproteins in the lysosome.
+
+[Term]
+id: DOID:3603 ! mucinous cystadenocarcinoma
+relationship: has_locus CL:0000000 ! cell
+! A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue, with a capsulated structure and mucus-producing cells.
+
+[Term]
+id: DOID:3603 ! mucinous cystadenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue, with a capsulated structure and mucus-producing cells.
+
+[Term]
+id: DOID:4156 ! primary syphilis
+relationship: has_locus CL:0000235 ! macrophage
+! A syphilis that is the first stage of syphilis, marked by the development of a chancre, which is characterized by mononuclear leukocytic infiltration, macrophages, and lymphocytes.
+
+[Term]
+id: DOID:4156 ! primary syphilis
+relationship: has_locus CL:0000542 ! lymphocyte
+! A syphilis that is the first stage of syphilis, marked by the development of a chancre, which is characterized by mononuclear leukocytic infiltration, macrophages, and lymphocytes.
+
+[Term]
+id: DOID:4235 ! spindle cell sarcoma
+relationship: has_locus CL:0000000 ! cell
+! A sarcoma that results_in cells that are spindle-shaped. They are usually resistant to radiation therapy.
+
+[Term]
+id: DOID:4305 ! bone giant cell tumor
+relationship: has_locus CL:0000000 ! cell
+! A giant cell tumor and bone cancer and bone tissue neoplasm that results_in the presence of multinucleated giant cells (osteoclast-like cell).
+
+[Term]
+id: DOID:4305 ! bone giant cell tumor
+relationship: has_locus CL:0000647 ! multinucleated giant cell
+! A giant cell tumor and bone cancer and bone tissue neoplasm that results_in the presence of multinucleated giant cells (osteoclast-like cell).
+
+[Term]
+id: DOID:4468 ! clear cell adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells which have clear cytoplasm.
+
+[Term]
+id: DOID:4511 ! breast angiosarcoma
+relationship: has_locus CL:0000000 ! cell
+! An angiosarcoma and sarcoma of breast and vascular neoplasm of breast that is located_in the cells that line the blood vessels within the breast or underarm area.
+
+[Term]
+id: DOID:4719 ! bone giant cell sarcoma
+relationship: has_locus CL:0000647 ! multinucleated giant cell
+! A giant cell tumor of bone and malignant giant cell tumor that is composed_of multinucleated giant cells.
+
+[Term]
+id: DOID:4766 ! embryoma
+relationship: has_locus CL:0000000 ! cell
+! A carcinosarcoma and embryonal cancer that is located_in embryonic tissue and results_in a mass of rapidly growing cells.
+
+[Term]
+id: DOID:4838 ! myoepithelial carcinoma
+relationship: has_locus CL:0000185 ! myoepithelial cell
+! A carcinoma that derives_from myoepithelial cells.
+
+[Term]
+id: DOID:4866 ! adenoid cystic carcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A carcinoma that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures within the affected organ. These structures are typically filled with a mucous-like material or contain abnormal fibrous membranes.
+
+[Term]
+id: DOID:4903 ! granular cell carcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! A carcinoma that derives_from epithelial cells, with polygonal accumulation of secondary lysosomes in the cytoplasm.
+
+[Term]
+id: DOID:4905 ! pancreatic carcinoma
+relationship: has_locus CL:0000000 ! cell
+! A pancreas cancer that is located_in cells found in the tissues of the pancreas.
+
+[Term]
+id: DOID:4917 ! villous adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, with villous architecture.
+
+[Term]
+id: DOID:4929 ! tubular adenocarcinoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenocarcinoma that derives_from epithelial cells originating in glandular tissue. The tumor has branched angular tubules embedded in a loose fibrous stroma.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: has_locus CL:0000100 ! motor neuron
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4960 ! bone marrow cancer
+relationship: has_locus CL:0000034 ! stem cell
+! A hematopoietic cancer that derives_from the blood-forming stem cells of the bone marrow.
+
+[Term]
+id: DOID:4972 ! myelodysplastic myeloproliferative cancer
+relationship: has_locus CL:0000738 ! leukocyte
+! A bone marrow cancer that is located_in the bone marrow and results_in the production of too many white blood cells. The cancer possess both dysplastic and proliferative features but are not properly classified as either.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: has_locus CL:0000100 ! motor neuron
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:5074 ! malignant ependymoma
+relationship: has_locus CL:0000065 ! ependymal cell
+! A malignant glioma that is derived from ependymal cells, a type of glial cell, located_in ventricle lining within the central part of the brain.
+
+[Term]
+id: DOID:5074 ! malignant ependymoma
+relationship: has_locus CL:0000125 ! glial cell
+! A malignant glioma that is derived from ependymal cells, a type of glial cell, located_in ventricle lining within the central part of the brain.
+
+[Term]
+id: DOID:5093 ! thoracic cancer
+relationship: has_locus CL:0000000 ! cell
+! An organ system cancer located_in the thoracic cavity that develops in the different types of cells within the lungs, as well as less common cancers of the esophagus, the trachea, or the chest wall.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: has_locus CL:0000084 ! T cell
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: has_locus CL:0000235 ! macrophage
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: has_locus CL:0000912 ! helper T cell
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:5390 ! clear cell adenoma
+relationship: has_locus CL:0000000 ! cell
+! An adenoma that is composed_of cells with a clear cytoplasm located_in ovary.
+
+[Term]
+id: DOID:5401 ! water-clear cell adenoma
+relationship: has_locus CL:0000066 ! epithelial cell
+! An adenoma that derives_from epithelial cells which have clear cytoplasm.
+
+[Term]
+id: DOID:5408 ! Paget's disease of bone
+relationship: has_locus CL:0000092 ! osteoclast
+! A bone formation disease that has_material_basis_in hyperactive osteoclast which results_in abnormal osteoblast bone formation located_in skull, located_in pelvis, located_in vertebral column, located_in set of limbs.
+
+[Term]
+id: DOID:5408 ! Paget's disease of bone
+relationship: has_locus CL:0000062 ! osteoblast
+! A bone formation disease that has_material_basis_in hyperactive osteoclast which results_in abnormal osteoblast bone formation located_in skull, located_in pelvis, located_in vertebral column, located_in set of limbs.
+
+[Term]
+id: DOID:5524 ! adenoid squamous cell carcinoma
+relationship: has_locus CL:0000312 ! keratinocyte
+! A squamous cell carcinoma that is characterized by a tubular microscopic pattern and keratinocyte acantholysis.
+
+[Term]
+id: DOID:5583 ! lung giant cell carcinoma
+relationship: has_locus CL:0000000 ! cell
+! A lung carcinoma that is located_in large undifferentiated cells.
+
+[Term]
+id: DOID:5813 ! purine nucleoside phosphorylase deficiency
+relationship: has_locus CL:0000084 ! T cell
+! A combined T cell and B cell immunodeficiency that is a rare autosomal recessive metabolic disorder caused by a mutaion in the PNP gene and characterized mainly by decreased T-cell function.
+
+[Term]
+id: DOID:5870 ! eosinophilic pneumonia
+relationship: has_locus CL:0000000 ! cell
+! A pneumonia in which certain type of white blood cell called an eosinophil accumulates in the lung. These cells cause disruption of the normal air spaces (alveoli) where oxygen is extracted from the atmosphere. It is caused by certain medications or environmental triggers, parasitic infections, and cancer. The most common symptoms include cough, fever, difficulty breathing, and sweating at night.
+
+[Term]
+id: DOID:5870 ! eosinophilic pneumonia
+relationship: has_locus CL:0000738 ! leukocyte
+! A pneumonia in which certain type of white blood cell called an eosinophil accumulates in the lung. These cells cause disruption of the normal air spaces (alveoli) where oxygen is extracted from the atmosphere. It is caused by certain medications or environmental triggers, parasitic infections, and cancer. The most common symptoms include cough, fever, difficulty breathing, and sweating at night.
+
+[Term]
+id: DOID:5870 ! eosinophilic pneumonia
+relationship: has_locus CL:0000771 ! eosinophil
+! A pneumonia in which certain type of white blood cell called an eosinophil accumulates in the lung. These cells cause disruption of the normal air spaces (alveoli) where oxygen is extracted from the atmosphere. It is caused by certain medications or environmental triggers, parasitic infections, and cancer. The most common symptoms include cough, fever, difficulty breathing, and sweating at night.
+
+[Term]
+id: DOID:6004 ! aleukemic leukemia
+relationship: has_locus CL:0000738 ! leukocyte
+! A leukemia that arises from changes in the tissues forming white blood cells and characterized by a normal or decreased number of white blood cells in the circulating blood.
+
+[Term]
+id: DOID:6004 ! aleukemic leukemia
+relationship: has_locus CL:0000738 ! leukocyte
+! A leukemia that arises from changes in the tissues forming white blood cells and characterized by a normal or decreased number of white blood cells in the circulating blood.
+
+[Term]
+id: DOID:6037 ! spindle cell intraocular melanoma
+relationship: has_locus CL:0000148 ! melanocyte
+! An intraocular malanoma and malignant spindle cell melanoma that derives_from melanocytes in the uveal tract that results_in_formation_of spindle-shaped cells.
+
+[Term]
+id: DOID:6037 ! spindle cell intraocular melanoma
+relationship: has_locus CL:0000000 ! cell
+! An intraocular malanoma and malignant spindle cell melanoma that derives_from melanocytes in the uveal tract that results_in_formation_of spindle-shaped cells.
+
+[Term]
+id: DOID:627 ! severe combined immunodeficiency
+relationship: has_locus CL:0000084 ! T cell
+! A combined T cell and B cell immunodeficiency that is caused by a defect in several genes encoding for B and T lymphocytes resulting in individuals with non-functional immune systems.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: has_locus CL:0000542 ! lymphocyte
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: has_locus CL:0000912 ! helper T cell
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:6495 ! adult myxoid chondrosarcoma
+relationship: has_locus CL:0000000 ! cell
+! An adult sarcoma of soft tissue and myxoid chondrosarcoma that is composed_of multiple lobules of chondroblast-like cells, arranged in cords and strands, embedded in a myxoid stroma, and separated by fibrous septa.
+
+[Term]
+id: DOID:6688 ! autoimmune lymphoproliferative syndrome
+relationship: has_locus CL:0000542 ! lymphocyte
+! A hypersensitivity reaction type IV disease that is an inherited disorder in which the body cannot properly regulate the number of immune system cells (lymphocytes). It is characterized by the production of an abnormally large number of lymphocytes. Accumulation of excess lymphocytes results in enlargement of the lymph nodes, the liver, and the spleen.
+
+[Term]
+id: DOID:6688 ! autoimmune lymphoproliferative syndrome
+relationship: has_locus CL:0000000 ! cell
+! A hypersensitivity reaction type IV disease that is an inherited disorder in which the body cannot properly regulate the number of immune system cells (lymphocytes). It is characterized by the production of an abnormally large number of lymphocytes. Accumulation of excess lymphocytes results in enlargement of the lymph nodes, the liver, and the spleen.
+
+[Term]
+id: DOID:6688 ! autoimmune lymphoproliferative syndrome
+relationship: has_locus CL:0000542 ! lymphocyte
+! A hypersensitivity reaction type IV disease that is an inherited disorder in which the body cannot properly regulate the number of immune system cells (lymphocytes). It is characterized by the production of an abnormally large number of lymphocytes. Accumulation of excess lymphocytes results in enlargement of the lymph nodes, the liver, and the spleen.
+
+[Term]
+id: DOID:676 ! juvenile rheumatoid arthritis
+relationship: has_locus CL:0000000 ! cell
+! A rheumatoid arthritis that involves an autoimmune disease onset in children under 16 which attacks the healthy cells and tissue of located_in joint.
+
+[Term]
+id: DOID:711 ! refractory hairy cell leukemia
+relationship: has_locus CL:0000785 ! mature B cell
+! A refractory hematologic cancer that is_a mature B cell cancer that does not yield readily to treatment.
+
+[Term]
+id: DOID:7148 ! rheumatoid arthritis
+relationship: has_locus CL:0000000 ! cell
+! An arthritis that is an autoimmune disease which attacks healthy cells and tissue located_in joint.
+
+[Term]
+id: DOID:718 ! autoimmune hemolytic anemia
+relationship: has_locus CL:0000232 ! erythrocyte
+! An autoimmune disease of blood that is characterized by deficient red blood cells caused by auto-antibodies.
+
+[Term]
+id: DOID:7427 ! anthrax disease
+relationship: has_locus CL:0000522 ! spore
+! A primary bacterial infectious disease that results_in infection located_in skin, located_in lung lymph nodes or located_in gastrointestinal tract, has_material_basis_in Bacillus anthracis, transmitted_by contact with infected animals or animal products, transmitted_by airborne spores or transmitted_by ingestion of undercooked meat from infected animals and has_symptom skin ulcer, has_symptom nausea, has_symptom poor appetite, has_symptom bloody diarrhea, has_symptom fever or has_symptom shortness of breath.
+
+[Term]
+id: DOID:8484 ! maple bark strippers' lung
+relationship: has_locus CL:0002369 ! fungal spore
+! An opportunistic mycosis that is located_in lungs caused by inhalation of fungal spores while stripping the bark from maple logs, has_material_basis_in Cryptostroma corticale.
+
+[Term]
+id: DOID:8632 ! Kaposi's sarcoma
+relationship: has_locus CL:0000081 ! blood cell
+! A connective tissue cancer  that derives_from lymphatic endothelium, and derives_from spindle cells, results_in_formation_of vascular channels that fill with blood cells, has_material_basis_in Human herpesvirus 8 (HHV8).
+
+[Term]
+id: DOID:870 ! neuropathy
+relationship: has_locus CL:0000540 ! neuron
+! A nervous system disease that is located_in nerves or nerve cells.
+
+[Term]
+id: DOID:8761 ! megakaryocytic leukemia
+relationship: has_locus CL:0000556 ! megakaryocyte
+! A leukemia that derives_from blood-forming tissue in which megakaryocytes proliferate in the bone marrow and circulate in the blood in large numbers.
+
+[Term]
+id: DOID:9181 ! amebiasis
+relationship: has_locus CL:0000263 ! vegetative cell (sensu Mycetozoa)
+! A parasitic protozoa infectious disease that involves infection caused by the amoeba Entamoeba histolytica. Amebic invasion of the intestinal lining causes dysentery, colitis or diarrhea. The infection can also spread through the blood to the liver and, rarely, to the lungs, brain or other organs.
+
+[Term]
+id: DOID:9254 ! mast-cell leukemia
+relationship: has_locus CL:0000097 ! mast cell
+! A leukemia that results_in an overwhelming number of tissue mast cells located_in peripheral blood.
+
+[Term]
+id: DOID:9471 ! meningitis
+relationship: has_locus CL:0000065 ! ependymal cell
+! Meningitis is a nervous system infectious disease characterized as an inflammation of the pia-arachnoid meninges. It can be caused by growth of bacteria, fungi, or parasites within the subarachnoid space or by the growth of bacteria or viruses within the meningeal or ependymal cells. Meningitis is a diffuse infection caused by a variety of different agents.
+
+[Term]
+id: DOID:9538 ! multiple myeloma
+relationship: has_locus CL:0000786 ! plasma cell
+! A myeloma that is located_in the plasma cells in bone marrow.
+
+[Term]
+id: DOID:9551 ! smoldering myeloma
+relationship: has_locus CL:0000786 ! plasma cell
+! A multiple myeloma that is a slow growing type of myeloma in which abnormal plasma cells results_in too much of a single type of monoclonal antibody.
+
+[Term]
+id: DOID:9643 ! babesiosis
+relationship: has_locus CL:0000232 ! erythrocyte
+! A parasitic protozoa infectious disease that has_symptommild fevers and has_symptom anemia described as malaria-like symptoms caused by a protozoan of genus Babesia, which reproduce in red blood cells and cause hemolytic anemia. They are transmitted by Ixodid ticks or by blood transfusion. Babesiosis is a zoonotic disease.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: has_locus CL:0000100 ! motor neuron
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+

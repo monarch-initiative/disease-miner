@@ -1,0 +1,440 @@
+[Term]
+id: DOID:0050012 ! chikungunya
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Chikungunya virus, which is transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom arthralgia, and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:0050025 ! human granulocytic anaplasmosis
+relationship: transmitted_by NCBITaxon:6943 ! Amblyomma americanum
+! An ehrlichiosis that results_in infection located_in granular leukocyte, has_material_basis_in Anaplasma phagocytophilum, which is transmitted_by lone start tick (Amblyomma americanum ). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: transmitted_by NCBITaxon:29930 ! Ixodes pacificus
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: transmitted_by NCBITaxon:34613 ! Ixodes ricinus
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: transmitted_by NCBITaxon:6945 ! Ixodes scapularis
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050035 ! African tick-bite fever
+relationship: transmitted_by NCBITaxon:34608 ! Amblyomma hebraeum
+! A spotted fever that has_material_basis_in Rickettsia africae, which is transmitted_by ticks (Amblyomma hebraeum and Amblyomma variegatum). The infection has_symptom fever, has_symptom eschar and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:0050035 ! African tick-bite fever
+relationship: transmitted_by NCBITaxon:34610 ! Amblyomma variegatum
+! A spotted fever that has_material_basis_in Rickettsia africae, which is transmitted_by ticks (Amblyomma hebraeum and Amblyomma variegatum). The infection has_symptom fever, has_symptom eschar and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:0050042 ! Indian tick typhus
+relationship: transmitted_by NCBITaxon:34632 ! Rhipicephalus sanguineus
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp indica, which is transmitted_by ticks (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050043 ! Israeli tick typhus
+relationship: transmitted_by NCBITaxon:34632 ! Rhipicephalus sanguineus
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp israelensis, which is transmitted_by ticks (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050046 ! Far Eastern spotted fever
+relationship: transmitted_by NCBITaxon:523089 ! Haemaphysalis concinna
+! A spotted fever that has_material_basis_in Rickettsia heilongjiangensis, which is transmitted_by ticks (Haemaphysalis concinna). The infection has_symptom fever, has_symptom eschar, has_symptom maculopapular rash, and has_symptom regional adenopathy.
+
+[Term]
+id: DOID:0050047 ! Flinders Island spotted fever
+relationship: transmitted_by NCBITaxon:34607 ! Amblyomma cajennense
+! A spotted fever that has_material_basis_in Rickettsia honei, which is transmitted_by cayenne ticks (Amblyomma cajennense). The infection has_symptom mild spotted fever, has_symptom eschar and has_symptom adenopathy.
+
+[Term]
+id: DOID:0050050 ! Japanese spotted fever
+relationship: transmitted_by NCBITaxon:181088 ! Haemaphysalis flava
+! A spotted fever that has_material_basis_in Rickettsia japonica, which is transmitted_by ticks (Dermacentor taiwanensis and Haemaphysalis flava). The infection has_symptom fever, has_symptom eschars, has_symptom regional adenopathy, and has_symptom rash on extremities.
+
+[Term]
+id: DOID:0050050 ! Japanese spotted fever
+relationship: transmitted_by NCBITaxon:34619 ! Dermacentor
+! A spotted fever that has_material_basis_in Rickettsia japonica, which is transmitted_by ticks (Dermacentor taiwanensis and Haemaphysalis flava). The infection has_symptom fever, has_symptom eschars, has_symptom regional adenopathy, and has_symptom rash on extremities.
+
+[Term]
+id: DOID:0050051 ! Rickettsia parkeri spotted fever
+relationship: transmitted_by NCBITaxon:34609 ! Amblyomma maculatum
+! A spotted fever that has_material_basis_in Rickettsia parkeri, which is transmitted_by Gulf Coast tick (Amblyomma maculatum). The infection has_symptom fever, has_symptom headache, has_symptom eschar, and has_symptom rash.
+
+[Term]
+id: DOID:0050052 ! Rocky Mountain spotted fever
+relationship: transmitted_by NCBITaxon:34620 ! Dermacentor andersoni
+! A spotted fever that has_material_basis_in Rickettsia rickettsii, which is transmitted_by ticks (Dermacentor variabilis and Dermacentor andersoni). The infection has_symptom fever, has_symptom headache, has_symptom abdominal pain, and has_symptom maculopapular rash progressing into papular or petechial rash.
+
+[Term]
+id: DOID:0050052 ! Rocky Mountain spotted fever
+relationship: transmitted_by NCBITaxon:34621 ! Dermacentor variabilis
+! A spotted fever that has_material_basis_in Rickettsia rickettsii, which is transmitted_by ticks (Dermacentor variabilis and Dermacentor andersoni). The infection has_symptom fever, has_symptom headache, has_symptom abdominal pain, and has_symptom maculopapular rash progressing into papular or petechial rash.
+
+[Term]
+id: DOID:0050118 ! La Crosse encephalitis
+relationship: transmitted_by NCBITaxon:7162 ! Ochlerotatus triseriatus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in La Crosse virus, which is transmitted_by treehole mosquito, Ochlerotatus triseriatus. The infection has_symptom seizures, has_symptom headache, has_symptom fever, has_symptom coma, and has_symptom paralysis.
+
+[Term]
+id: DOID:0050125 ! dengue shock syndrome
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A dengue disease that involves the most severe form of dengue fever, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom easy bruising, has_symptom blood spots, has_symptom bleeding gums, and has_symptom nosebleeds. It is accompanied by circulatory collapse, involves hypotension, narrow pulse pressure (less than or equal to 20mm Hg), or frank shock. The shock occurs after two to six days of symptoms, followed by collapse, weak pulse, and blueness around the mouth.
+
+[Term]
+id: DOID:0050143 ! asymptomatic dengue
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A dengue disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has no manifestations of symptoms.
+
+[Term]
+id: DOID:0050174 ! Kunjin encephalitis
+relationship: transmitted_by NCBITaxon:162997 ! Culex annulirostris
+! A West Nile encephalitis that results_in infection located_in brain, has_material_basis_in Kunjin virus, a subtype of West Nile Virus, which is transmitted_by Culex annulirostris mosquito bite. The infection has_symptom fever, has_symptom rigor, has_symptom headache, has_symptom confusion, and has_symptom lethargy.
+
+[Term]
+id: DOID:0050175 ! tick-borne encephalitis
+relationship: transmitted_by NCBITaxon:6944 ! Ixodes
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Tick-borne encephalitis virus, which is transmitted_by Ixodes ticks. The infection has_symptom drowsiness, has_symptom confusion, has_symptom sensory disturbances, and has_symptom paralysis.
+
+[Term]
+id: DOID:0050179 ! Powassan encephalitis
+relationship: transmitted_by NCBITaxon:6944 ! Ixodes
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Powassan virus, which is transmitted_by Ixodes and transmitted_by Dermacentor species of ticks. The infection has_symptom headache, has_symptom fever, has_symptom vomiting, has_symptom stiff neck, has_symptom sleepiness, has_symptom breathing distress, has_symptom tremors, has_symptom confusion, has_symptom seizures, has_symptom paralysis, and has_symptom coma.
+
+[Term]
+id: DOID:0050194 ! Argentine hemorrhagic fever
+relationship: transmitted_by NCBITaxon:56212 ! Calomys musculinus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Junin virus, which is transmitted_by rodent, Calomys musculinus. The infection has_symptom fever, has_symptom fatigue, has_symptom malaise, has_symptom leukopenia, has_symptom thrombocytopenia, and has_symptom hemorrhagic manifestations.
+
+[Term]
+id: DOID:0050195 ! Bolivian hemorrhagic fever
+relationship: transmitted_by NCBITaxon:56210 ! Calomys callosus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Machupo virus, which is transmitted_by vesper mouse, Calomys callosus. The infection has_symptom fever, has_symptom headache, has_symptom fatigue, has_symptom myalgia, has_symptom arthralgia, has_symptom bleeding from the oral and nasal mucosa, and has_symptom bleeding from the bronchopulmonary, gastrointestinal and genitourinary tracts.
+
+[Term]
+id: DOID:0050196 ! Venezuelan hemorrhagic fever
+relationship: transmitted_by NCBITaxon:134742 ! Sigmodon alstoni
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Guanarito virus, which is transmitted_by cotton rat, Sigmodon alstoni and transmitted_by cane mouse, Zygodontomys brevicauda. The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom sore throat, has_symptom weakness, has_symptom anorexia, has_symptom nausea, has_symptom vomiting, has_symptom convulsions, has_symptom epistaxis, has_symptom bleeding gums, has_symptom hematemesis, has_symptom melena, and has_symptom menorrhagia.
+
+[Term]
+id: DOID:0050196 ! Venezuelan hemorrhagic fever
+relationship: transmitted_by NCBITaxon:157541 ! Zygodontomys brevicauda
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Guanarito virus, which is transmitted_by cotton rat, Sigmodon alstoni and transmitted_by cane mouse, Zygodontomys brevicauda. The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom sore throat, has_symptom weakness, has_symptom anorexia, has_symptom nausea, has_symptom vomiting, has_symptom convulsions, has_symptom epistaxis, has_symptom bleeding gums, has_symptom hematemesis, has_symptom melena, and has_symptom menorrhagia.
+
+[Term]
+id: DOID:0050199 ! Whitewater Arroyo hemorrhagic fever
+relationship: transmitted_by NCBITaxon:42408 ! Neotoma albigula
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Whitewater Arroyo virus, which is transmitted_by white-throated woodrats (Neotoma albigula). The infection has_symptom fever, has_symptom headache, has_symptom myalgia, and has_symptom hemorrhagic manifestations.
+
+[Term]
+id: DOID:0050200 ! Korean hemorrhagic fever
+relationship: transmitted_by NCBITaxon:10116 ! Rattus norvegicus
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Hantaan virus, which is transmitted_by the eurasian field mouse, Apodemus agrarius, or has_material_basis_in Seoul virus, which is transmitted_by norwegian rat, Rattus norvegicus. The infection has_symptom headache, has_symptom back pain, has_symptom abdominal pain, has_symptom fever, has_symptom chills, has_symptom nausea, has_symptom blurred vision, has_symptom flushing of the face, has_symptom redness of the eyes, has_symptom rash, has_symptom low blood pressure, has_symptom acute shock, has_symptom vascular leakage, and has_symptom acute kidney failure, which can cause severe fluid overload.
+
+[Term]
+id: DOID:0050200 ! Korean hemorrhagic fever
+relationship: transmitted_by NCBITaxon:39030 ! Apodemus agrarius
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Hantaan virus, which is transmitted_by the eurasian field mouse, Apodemus agrarius, or has_material_basis_in Seoul virus, which is transmitted_by norwegian rat, Rattus norvegicus. The infection has_symptom headache, has_symptom back pain, has_symptom abdominal pain, has_symptom fever, has_symptom chills, has_symptom nausea, has_symptom blurred vision, has_symptom flushing of the face, has_symptom redness of the eyes, has_symptom rash, has_symptom low blood pressure, has_symptom acute shock, has_symptom vascular leakage, and has_symptom acute kidney failure, which can cause severe fluid overload.
+
+[Term]
+id: DOID:0050201 ! nephropathia epidemica
+relationship: transmitted_by NCBITaxon:13014 ! Clethrionomys
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Puumala virus, which is transmitted_by bank vole, Clethrionomys glareolus. The infection has_symptom headache, has_symptom nausea, has_symptom back pain, has_symptom vomiting, has_symptom myalgia, has_symptom abdominal pain, has_symptom internal hemorrhage, and has_symptom renal failure.
+
+[Term]
+id: DOID:0050308 ! Alkhurma hemorrhagic fever
+relationship: transmitted_by NCBITaxon:69826 ! Ornithodoros savignyi
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Alkhurma hemorrhagic fever virus, which is transmitted_by Ornithodoros savignyi tick bite, transmitted_by ingestion of unpasteurized camel milk, or transmitted_by entry via skin wound. The infection has_symptom headache, has_symptom joint pain, has_symptom muscle pain, has_symptom vomiting, has_symptom thrombocytopenia, and has_symptom hemorrhagic fever.
+
+[Term]
+id: DOID:0050480 ! epidemic typhus
+relationship: transmitted_by NCBITaxon:121224 ! Pediculus humanus corporis
+! A typhus that has_material_basis_in Rickettsia prowazekii, which is transmitted_by human body louse (Pediculus humanus corporis). The infection has_symptom high fever, has_symptom cough, has_symptom rash, has_symptom severe muscle pain, has_symptom chills, has_symptom falling blood pressure, has_symptom stupor, has_symptom sensitivity to light, and has_symptom delirium.
+
+[Term]
+id: DOID:0050481 ! endemic typhus
+relationship: transmitted_by NCBITaxon:163159 ! Xenopsylla cheopis
+! A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis, which are transmitted_by fleas (Xenopsylla cheopis). The infection has_symptom headache, has_symptom fever, has_symptom chills, has_symptom myalgia, has_symptom nausea, has_symptom vomiting, has_symptom cough and has_symptom rash.
+
+[Term]
+id: DOID:0050484 ! aneruptive fever
+relationship: transmitted_by NCBITaxon:6944 ! Ixodes
+! A spotted fever that has_material_basis_in Rickettsia helvetica, which is transmitted_by ticks (Ixodes sp). The infection has_symptom fever, has_symptom headache, has_symptom myalgia.
+
+[Term]
+id: DOID:0050516 ! O'nyong'nyong fever
+relationship: transmitted_by NCBITaxon:62324 ! Anopheles funestus
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in O'nyong-nyong virus, which is transmitted_by Anopheles gambiae, and transmitted_by Anopheles funestus mosquitoes. The infection has_symptom fever, has_symptom arthralgia, has_symptom rash, and has_symptom lymphadenitis.
+
+[Term]
+id: DOID:0050516 ! O'nyong'nyong fever
+relationship: transmitted_by NCBITaxon:7165 ! Anopheles gambiae
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in O'nyong-nyong virus, which is transmitted_by Anopheles gambiae, and transmitted_by Anopheles funestus mosquitoes. The infection has_symptom fever, has_symptom arthralgia, has_symptom rash, and has_symptom lymphadenitis.
+
+[Term]
+id: DOID:0050518 ! Ross River fever
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Ross River virus, which is transmitted_by Culex, and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom arthralgia, and has_symptom rash.
+
+[Term]
+id: DOID:0050518 ! Ross River fever
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Ross River virus, which is transmitted_by Culex, and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom arthralgia, and has_symptom rash.
+
+[Term]
+id: DOID:0050521 ! Oropouche fever
+relationship: transmitted_by NCBITaxon:41820 ! Culicoides
+! A viral infectious disease that results_in infection, has_material_basis_in Oropouche virus, which is transmitted_by biting midge, Culicoides paraensis. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom anorexia, has_symptom muscle pain, has_symptom joint pain, and has_symptom vomiting.
+
+[Term]
+id: DOID:0050522 ! Balkan hemorrhagic fever
+relationship: transmitted_by NCBITaxon:54292 ! Apodemus flavicollis
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Dobrava-Belgrade virus , which is transmitted_by yellow-necked field mouse, Apodemus flavicollis. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:10250 ! louping ill
+relationship: transmitted_by NCBITaxon:34613 ! Ixodes ricinus
+! A viral infectious disease that results_in infection in sheep and rarely humans, has_material_basis_in Louping ill virus, which is transmitted_by sheep tick, Ixodes ricinus. The infection has_symptom lethargy, has_symptom muscle pains, has_symptom fever, and has_symptom focal neurological signs.
+
+[Term]
+id: DOID:10784 ! Queensland tick typhus
+relationship: transmitted_by NCBITaxon:65647 ! Ixodes holocyclus
+! A spotted fever that has_material_basis_in Rickettsia australis, which is transmitted_by ticks (Ixodes holocyclus). The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom maculopapular rash, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:10841 ! Eastern equine encephalitis
+relationship: transmitted_by NCBITaxon:329110 ! Coquillettidia
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, which is transmitted_by Aedes, transmitted_by Coquillettidia, and transmitted_by Culex species of mosquitoes. The infection has_symptom sudden onset of headache, has_symptom high fever, has_symptom chills, has_symptom vomiting, has_symptom disorientation, has_symptom seizures, and has_symptom coma.
+
+[Term]
+id: DOID:10841 ! Eastern equine encephalitis
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, which is transmitted_by Aedes, transmitted_by Coquillettidia, and transmitted_by Culex species of mosquitoes. The infection has_symptom sudden onset of headache, has_symptom high fever, has_symptom chills, has_symptom vomiting, has_symptom disorientation, has_symptom seizures, and has_symptom coma.
+
+[Term]
+id: DOID:10841 ! Eastern equine encephalitis
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, which is transmitted_by Aedes, transmitted_by Coquillettidia, and transmitted_by Culex species of mosquitoes. The infection has_symptom sudden onset of headache, has_symptom high fever, has_symptom chills, has_symptom vomiting, has_symptom disorientation, has_symptom seizures, and has_symptom coma.
+
+[Term]
+id: DOID:10842 ! Murray Valley encephalitis
+relationship: transmitted_by NCBITaxon:162997 ! Culex annulirostris
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Murray Valley encephalitis virus, which is transmitted_by Culex annulirostris mosquitoes. The infection has_symptom fever, has_symptom headache, has_symptom nausea, has_symptom vomiting, has_symptom drowsiness, has_symptom confusion, has_symptom fitting, and has_symptom weakness.
+
+[Term]
+id: DOID:10843 ! Western equine encephalitis
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Western equine encephalomyelitis virus, which is transmitted_by Culex and transmitted_by Aedes species of mosquitoes. The infection has_symptom fever, has_symptom headache, has_symptom nausea, has_symptom vomiting, has_symptom anorexia, has_symptom malaise, has_symptom altered mental status, and has_symptom weakness.
+
+[Term]
+id: DOID:10843 ! Western equine encephalitis
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Western equine encephalomyelitis virus, which is transmitted_by Culex and transmitted_by Aedes species of mosquitoes. The infection has_symptom fever, has_symptom headache, has_symptom nausea, has_symptom vomiting, has_symptom anorexia, has_symptom malaise, has_symptom altered mental status, and has_symptom weakness.
+
+[Term]
+id: DOID:10844 ! Japanese encephalitis
+relationship: transmitted_by NCBITaxon:7178 ! Culex tritaeniorhynchus
+! A viral infectious disease that results_in infection located_in brain, has_material_basis_in Japanese encephalitis virus, which is transmitted_by Culex tritaeniorhynchus mosquito bite. The infection has_symptom headache, has_symptom high fever, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, and has_symptom spastic paralysis.
+
+[Term]
+id: DOID:10845 ! St. Louis encephalitis
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in St. Louis encephalitis virus, which is transmitted_by Culex mosquitoes. The infection has_symptom headache, has_symptom high fever, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions and has_symptom spastic paralysis.
+
+[Term]
+id: DOID:10921 ! Siberian tick typhus
+relationship: transmitted_by NCBITaxon:49202 ! Dermacentor marginatus
+! A spotted fever that has_material_basis_in Rickettsia sibirica, which is transmitted_by ticks (Dermacentor nuttalli, Dermacentor marginatus and Haemaphysalis concinna). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:10921 ! Siberian tick typhus
+relationship: transmitted_by NCBITaxon:523089 ! Haemaphysalis concinna
+! A spotted fever that has_material_basis_in Rickettsia sibirica, which is transmitted_by ticks (Dermacentor nuttalli, Dermacentor marginatus and Haemaphysalis concinna). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:11101 ! trench fever
+relationship: transmitted_by NCBITaxon:121224 ! Pediculus humanus corporis
+! A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Bartonella quintana, which is transmitted_by body lice (Pediculus humanus corporis). The infection has_symptom relapsing fever, has_symptom headache, has_symptom shin pain, and has_symptom soreness of the muscles of the legs and back.
+
+[Term]
+id: DOID:11360 ! Phlebotomus fever
+relationship: transmitted_by NCBITaxon:29031 ! Phlebotomus papatasi
+! A viral infectious disease that results_in infection, has_material_basis_in Sandfly fever Naples virus, or has_material_basis_in Sandfly fever sicilian virus, which are transmitted_by Phlebotomus papatasi sandfly. The infection has_symptom fever, has_symptom severe frontal headaches, has_symptom muscle ache, has_symptom joint aches, has_symptom flushing of the face, and has_symptom tachycardia.
+
+[Term]
+id: DOID:11573 ! listeriosis
+relationship: transmitted_by NCBITaxon:1637 ! Listeria
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Listeria monocytogenes, which is transmitted_by ingestion of contaminated food or raw milk or transmitted_by congenital method. Ingestion of Listeria by pregnant women has_symptom nausea, has_symptom vomiting, has_symptom diarrhea, has_symptom fever, has_symptom malaise, has_symptom back pain, and has_symptom headache. Maternal infection with Listeria can result in chorioamnionitis, premature labor, spontaneous abortion, or stillbirth.
+
+[Term]
+id: DOID:11729 ! Lyme disease
+relationship: transmitted_by NCBITaxon:29930 ! Ixodes pacificus
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Borrelia burgdorferi, which is transmitted_by blacklegged tick (Ixodes scapularis) or transmitted_by western blacklegged tick (Ixodes pacificus). The infection has_symptom fever, has_symptom headache, has_symptom fatigue, and has_symptom skin rash called erythema migrans. If left untreated, infection can spread to joints, the heart, and the nervous system.
+
+[Term]
+id: DOID:11729 ! Lyme disease
+relationship: transmitted_by NCBITaxon:6945 ! Ixodes scapularis
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Borrelia burgdorferi, which is transmitted_by blacklegged tick (Ixodes scapularis) or transmitted_by western blacklegged tick (Ixodes pacificus). The infection has_symptom fever, has_symptom headache, has_symptom fatigue, and has_symptom skin rash called erythema migrans. If left untreated, infection can spread to joints, the heart, and the nervous system.
+
+[Term]
+id: DOID:12155 ! lymphocytic choriomeningitis
+relationship: transmitted_by NCBITaxon:10090 ! Mus musculus
+! A viral infectious disease that results_in infection located_in brain, or located_in meninges, or located_in brain and meninges, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus. The infection has_symptom fever, has_symptom lack of appetite, has_symptom headache, has_symptom muscle aches, has_symptom malaise, has_symptom nausea, and has_symptom vomiting.
+
+[Term]
+id: DOID:12205 ! dengue disease
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom severe headache, has_symptom severe pain behind the eyes, has_symptom joint pain, has_symptom muscle and bone pain, has_symptom rash, and has_symptom mild bleeding.
+
+[Term]
+id: DOID:12206 ! dengue hemorrhagic fever
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A dengue disease that occurs when a person experiences a second infection with a heterologous Dengue virus serotype, which is transmitted_by Aedes mosquito bite. The infection has_symptom hemorrhagic lesions of the skin, has_symptom thrombocytopenia, has_symptom reduction in the fluid part of the blood, and has_symptom high fever.
+
+[Term]
+id: DOID:12287 ! Crimean-Congo hemorrhagic fever
+relationship: transmitted_by NCBITaxon:34625 ! Hyalomma
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Crimean-Congo hemorrhagic fever virus, which is transmitted_by Hyalomma ticks. The infection has_symptom headache, has_symptom high fever, has_symptom back pain, has_symptom joint pain, has_symptom stomach pain, has_symptom vomiting, has_symptom red eyes, has_symptom flushed face, has_symptom red throat, has_symptom petechiae (red spots) on the palate, has_symptom jaundice, has_symptom nosebleeds, and has_symptom blood in the feces and urine.
+
+[Term]
+id: DOID:13035 ! louse-borne relapsing fever
+relationship: transmitted_by NCBITaxon:121225 ! Pediculus humanus
+! A relapsing fever that is characterized by relapsing or recurring episodes of fever, has_material basis_in Borrelia recurrentis, which is transmitted_by body louse (Pediculus humanus). The infection has_symptom tachypnea, has_symptom tachycardia, has_symptom hepatosplenomegaly and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:13036 ! tick-borne relapsing fever
+relationship: transmitted_by NCBITaxon:140564 ! Ornithodoros parkeri
+! A relapsing fever that is characterized by relapsing or recurring episodes of fever, has_material basis_in Borrelia hermsii, has_material basis_in Borrelia parkeri or has_material basis_in Borrelia duttoni, which are transmitted_by soft ticks (Ornithodoros parkeri and Ornithodoros hermsii). The infection has_symptom tachypnea, has_symptom tachycardia, has_symptom hepatosplenomegaly and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:1328 ! Rift Valley fever
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection, has_material_basis_in Rift Valley fever virus, which is transmitted_by Aedes mosquitoes. The virus affects domestic animals (cattle, buffalo, sheep, goats, and camels) and humans. The infection has_symptom jaundice, has_symptom vomiting blood, has_symptom passing blood in the feces, has_symptom ecchymoses (caused by bleeding in the skin), has_symptom bleeding from the nose or gums, has_symptom menorrhagia and has_symptom bleeding from venepuncture sites.
+
+[Term]
+id: DOID:13371 ! scrub typhus
+relationship: transmitted_by NCBITaxon:299467 ! Leptotrombidium deliense
+! A typhus that has_material_basis_in Orientia tsutsugamushi, which is transmitted_by trombiculid mites (Leptotrombidium deliense). The infection has_symptom fever, has_symptom headache, has_symptom muscle pain, has_symptom cough, has_symptom maculopapular rash, has_symptom eschar, has_symptom splenomegaly and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:14095 ! boutonneuse fever
+relationship: transmitted_by NCBITaxon:34632 ! Rhipicephalus sanguineus
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp conorii, which is transmitted_by dog tick (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: transmitted_by NCBITaxon:137207 ! Oligoryzomys longicaudatus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: transmitted_by NCBITaxon:37020 ! Oryzomys palustris
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: transmitted_by NCBITaxon:42415 ! Sigmodon hispidus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: transmitted_by NCBITaxon:447135 ! Myodes glareolus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: transmitted_by NCBITaxon:56211 ! Calomys laucha
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:2123 ! tularemia
+relationship: transmitted_by NCBITaxon:27458 ! Chrysops
+! A primary bacterial infectious disease that has_material_basis_in Francisella tularensis, which is transmitted_by dog tick bite (Dermacentor variabilis), transmitted_by deer flies (Chrysops sp) or transmitted_by contact with infected animal tissues.
+
+[Term]
+id: DOID:2123 ! tularemia
+relationship: transmitted_by NCBITaxon:34621 ! Dermacentor variabilis
+! A primary bacterial infectious disease that has_material_basis_in Francisella tularensis, which is transmitted_by dog tick bite (Dermacentor variabilis), transmitted_by deer flies (Chrysops sp) or transmitted_by contact with infected animal tissues.
+
+[Term]
+id: DOID:2365 ! West Nile encephalitis
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.
+
+[Term]
+id: DOID:2365 ! West Nile encephalitis
+relationship: transmitted_by NCBITaxon:7164 ! Anopheles
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.
+
+[Term]
+id: DOID:2365 ! West Nile encephalitis
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.
+
+[Term]
+id: DOID:2366 ! West Nile fever
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom body ache, has_symptom nausea, has_symptom maculopapular rash and has_symptom vomiting.
+
+[Term]
+id: DOID:2366 ! West Nile fever
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom body ache, has_symptom nausea, has_symptom maculopapular rash and has_symptom vomiting.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: transmitted_by NCBITaxon:2 ! Bacteria
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:3482 ! plague
+relationship: transmitted_by NCBITaxon:163159 ! Xenopsylla cheopis
+! A primary bacterial infectious disease that results_in infection, located_in lymph node, located_in vasculature or located_in lungs, has_material_basis_in Yersinia pestis, which is transmitted_by oriental rat flea (Xenopsylla cheopis) infected by feeding on rodents and other mammals, transmitted_by air, transmitted_by direct contact or transmitted_by ingestion of contaminated undercooked food.
+
+[Term]
+id: DOID:4885 ! Colorado tick fever
+relationship: transmitted_by NCBITaxon:34620 ! Dermacentor andersoni
+! A viral infectious disease that results_in infection, has_material_basis_in Colorado tick fever virus, which is transmitted_by rocky mountain wood tick, Dermacentor andersoni. The infection has_symptom fever for 2-3 days, followed by an afebrile period of similar duration and then another 2-3 days of fever, has_symptom headache, has_symptom myalgia, and has_symptom fatigue.
+
+[Term]
+id: DOID:9537 ! Lassa fever
+relationship: transmitted_by NCBITaxon:30639 ! Mastomys
+! A viral infectious disease that results_in infection, has_material_basis_in Lassa virus, which is transmitted_by multimammate rat of the genus Mastomys. The infection has_symptom fever, has_symptom retrosternal pain, has_symptom sore throat, has_symptom back pain, has_symptom cough, has_symptom abdominal pain, has_symptom vomiting, has_symptom diarrhea, has_symptom conjunctivitis, has_symptom facial swelling, has_symptom proteinuria (protein in the urine), and has_symptom mucosal bleeding.
+
+[Term]
+id: DOID:9584 ! Venezuelan equine encephalitis
+relationship: transmitted_by NCBITaxon:7174 ! Culex
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Venezuelan equine encephalitis virus, which is transmitted_by Culex mosquitoes. The infection has_symptom fever, has_symptom chills, has_symptom malaise, has_symptom severe headache, has_symptom photophobia, and has_symptom myalgia in the legs and lumbosacral region.
+
+[Term]
+id: DOID:9682 ! yellow fever
+relationship: transmitted_by NCBITaxon:53551 ! Sabethes
+! A viral infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by Aedes, transmitted_by Haemagogus, or transmitted_by Sabethes species of mosquitoes. The infection has_symptom fever, has_symptom muscle pain, has_symptom backache, has_symptom headache, has_symptom shivers, has_symptom loss of appetite, has_symptom jaundice, and has_symptom bleeding from the mouth, nose, eyes or stomach leading to vomitus containing blood.
+
+[Term]
+id: DOID:9682 ! yellow fever
+relationship: transmitted_by NCBITaxon:7158 ! Aedes
+! A viral infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by Aedes, transmitted_by Haemagogus, or transmitted_by Sabethes species of mosquitoes. The infection has_symptom fever, has_symptom muscle pain, has_symptom backache, has_symptom headache, has_symptom shivers, has_symptom loss of appetite, has_symptom jaundice, and has_symptom bleeding from the mouth, nose, eyes or stomach leading to vomitus containing blood.
+
+[Term]
+id: DOID:9682 ! yellow fever
+relationship: transmitted_by NCBITaxon:7180 ! Haemagogus
+! A viral infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by Aedes, transmitted_by Haemagogus, or transmitted_by Sabethes species of mosquitoes. The infection has_symptom fever, has_symptom muscle pain, has_symptom backache, has_symptom headache, has_symptom shivers, has_symptom loss of appetite, has_symptom jaundice, and has_symptom bleeding from the mouth, nose, eyes or stomach leading to vomitus containing blood.
+
+[Term]
+id: DOID:992 ! Omsk hemorrhagic fever
+relationship: transmitted_by NCBITaxon:34619 ! Dermacentor
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Omsk hemorrhagic fever virus, which is transmitted_by Dermacentor and transmitted_by Ixodes species of ticks. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom pain in lower and upper extremities, has_symptom stiff neck, has_symptom papulovesicular rash on the soft palate, has_symptom cervical lymphadenopathy, has_symptom conjunctival suffusion, has_symptom blood in the urine, and has_symptom blood in the sputum.
+
+[Term]
+id: DOID:992 ! Omsk hemorrhagic fever
+relationship: transmitted_by NCBITaxon:6944 ! Ixodes
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Omsk hemorrhagic fever virus, which is transmitted_by Dermacentor and transmitted_by Ixodes species of ticks. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom pain in lower and upper extremities, has_symptom stiff neck, has_symptom papulovesicular rash on the soft palate, has_symptom cervical lymphadenopathy, has_symptom conjunctival suffusion, has_symptom blood in the urine, and has_symptom blood in the sputum.
+

@@ -1,0 +1,1560 @@
+[Term]
+id: DOID:0050012 ! chikungunya
+relationship: has_material_basis NCBITaxon:37124 ! Chikungunya virus
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Chikungunya virus, which is transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom arthralgia, and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:0050025 ! human granulocytic anaplasmosis
+relationship: has_material_basis NCBITaxon:948 ! Anaplasma phagocytophilum
+! An ehrlichiosis that results_in infection located_in granular leukocyte, has_material_basis_in Anaplasma phagocytophilum, which is transmitted_by lone start tick (Amblyomma americanum ). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050026 ! human monocytic ehrlichiosis
+relationship: has_material_basis NCBITaxon:945 ! Ehrlichia chaffeensis
+! An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash.
+
+[Term]
+id: DOID:0050035 ! African tick-bite fever
+relationship: has_material_basis NCBITaxon:35788 ! Rickettsia africae
+! A spotted fever that has_material_basis_in Rickettsia africae, which is transmitted_by ticks (Amblyomma hebraeum and Amblyomma variegatum). The infection has_symptom fever, has_symptom eschar and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:0050041 ! Astrakhan spotted fever
+relationship: has_material_basis NCBITaxon:127007 ! Rhipicephalus pumilio
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp caspia, which is trasnmitted_by ticks (Rhipicephalus pumilio and Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050041 ! Astrakhan spotted fever
+relationship: has_material_basis NCBITaxon:34632 ! Rhipicephalus sanguineus
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp caspia, which is trasnmitted_by ticks (Rhipicephalus pumilio and Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050041 ! Astrakhan spotted fever
+relationship: has_material_basis NCBITaxon:781 ! Rickettsia conorii
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp caspia, which is trasnmitted_by ticks (Rhipicephalus pumilio and Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050042 ! Indian tick typhus
+relationship: has_material_basis NCBITaxon:781 ! Rickettsia conorii
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp indica, which is transmitted_by ticks (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050043 ! Israeli tick typhus
+relationship: has_material_basis NCBITaxon:781 ! Rickettsia conorii
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp israelensis, which is transmitted_by ticks (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:0050046 ! Far Eastern spotted fever
+relationship: has_material_basis NCBITaxon:226665 ! Rickettsia heilongjiangensis
+! A spotted fever that has_material_basis_in Rickettsia heilongjiangensis, which is transmitted_by ticks (Haemaphysalis concinna). The infection has_symptom fever, has_symptom eschar, has_symptom maculopapular rash, and has_symptom regional adenopathy.
+
+[Term]
+id: DOID:0050047 ! Flinders Island spotted fever
+relationship: has_material_basis NCBITaxon:37816 ! Rickettsia honei
+! A spotted fever that has_material_basis_in Rickettsia honei, which is transmitted_by cayenne ticks (Amblyomma cajennense). The infection has_symptom mild spotted fever, has_symptom eschar and has_symptom adenopathy.
+
+[Term]
+id: DOID:0050050 ! Japanese spotted fever
+relationship: has_material_basis NCBITaxon:35790 ! Rickettsia japonica
+! A spotted fever that has_material_basis_in Rickettsia japonica, which is transmitted_by ticks (Dermacentor taiwanensis and Haemaphysalis flava). The infection has_symptom fever, has_symptom eschars, has_symptom regional adenopathy, and has_symptom rash on extremities.
+
+[Term]
+id: DOID:0050051 ! Rickettsia parkeri spotted fever
+relationship: has_material_basis NCBITaxon:35792 ! Rickettsia parkeri
+! A spotted fever that has_material_basis_in Rickettsia parkeri, which is transmitted_by Gulf Coast tick (Amblyomma maculatum). The infection has_symptom fever, has_symptom headache, has_symptom eschar, and has_symptom rash.
+
+[Term]
+id: DOID:0050052 ! Rocky Mountain spotted fever
+relationship: has_material_basis NCBITaxon:783 ! Rickettsia rickettsii
+! A spotted fever that has_material_basis_in Rickettsia rickettsii, which is transmitted_by ticks (Dermacentor variabilis and Dermacentor andersoni). The infection has_symptom fever, has_symptom headache, has_symptom abdominal pain, and has_symptom maculopapular rash progressing into papular or petechial rash.
+
+[Term]
+id: DOID:0050059 ! oropharyngeal anthrax
+relationship: has_material_basis NCBITaxon:1392 ! Bacillus anthracis
+! A gastrointestinal anthrax that results_in infection located_in mucosa of oropharynx, has_material_basis_in Bacillus anthracis, which is transmitted_by ingestion of anthrax-infected meat. The infection has_symptom lesions, has_symptom vomiting of blood, has_symptom severe diarrhea, has_symptom loss of appetite.
+
+[Term]
+id: DOID:0050061 ! erysipeloid
+relationship: has_material_basis NCBITaxon:1648 ! Erysipelothrix rhusiopathiae
+! A primary bacterial infectious disease that results_in infection located_in skin, has_material_basis_in Erysipelothrix rhusiopathiae, which is transmitted_by contact with infected animals. The infection has_symptom redness of skin, has_symptom tenderness of skin and has_symptom warmth of skin.
+
+[Term]
+id: DOID:0050072 ! adiaspiromycosis
+relationship: has_material_basis NCBITaxon:41283 ! Chrysosporium parvum
+! A primary systemic mycosis that is a fungal infection located_in lungs, or located_in skin, which results_in disseminated granulomatous pulmonary process and cutaneous infection in rodents, small wild mammals and humans, has_material_basis_in Chrysosporium parvum or Emmonsia crescens.
+
+[Term]
+id: DOID:0050072 ! adiaspiromycosis
+relationship: has_material_basis NCBITaxon:73230 ! Emmonsia crescens
+! A primary systemic mycosis that is a fungal infection located_in lungs, or located_in skin, which results_in disseminated granulomatous pulmonary process and cutaneous infection in rodents, small wild mammals and humans, has_material_basis_in Chrysosporium parvum or Emmonsia crescens.
+
+[Term]
+id: DOID:0050096 ! tinea barbae
+relationship: has_material_basis NCBITaxon:523103 ! Trichophyton mentagrophytes
+! A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.
+
+[Term]
+id: DOID:0050096 ! tinea barbae
+relationship: has_material_basis NCBITaxon:63417 ! Trichophyton verrucosum
+! A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.
+
+[Term]
+id: DOID:0050097 ! ectothrix infectious disease
+relationship: has_material_basis NCBITaxon:489714 ! Microsporum gypseum
+! A tinea capitis that results_in fungal infection located_in cuticle of hair, has_material_basis_in Microsporum canis, has_material_basis_in Microsporum gypseum, has_material_basis_in Trichophyton equinum, and has_material_basis_in Trichophyton verrucosum, which produce arthroconidia on the exterior of the hair shaft.
+
+[Term]
+id: DOID:0050097 ! ectothrix infectious disease
+relationship: has_material_basis NCBITaxon:63417 ! Trichophyton verrucosum
+! A tinea capitis that results_in fungal infection located_in cuticle of hair, has_material_basis_in Microsporum canis, has_material_basis_in Microsporum gypseum, has_material_basis_in Trichophyton equinum, and has_material_basis_in Trichophyton verrucosum, which produce arthroconidia on the exterior of the hair shaft.
+
+[Term]
+id: DOID:0050097 ! ectothrix infectious disease
+relationship: has_material_basis NCBITaxon:63418 ! Trichophyton equinum
+! A tinea capitis that results_in fungal infection located_in cuticle of hair, has_material_basis_in Microsporum canis, has_material_basis_in Microsporum gypseum, has_material_basis_in Trichophyton equinum, and has_material_basis_in Trichophyton verrucosum, which produce arthroconidia on the exterior of the hair shaft.
+
+[Term]
+id: DOID:0050097 ! ectothrix infectious disease
+relationship: has_material_basis NCBITaxon:82078 ! Microsporum canis
+! A tinea capitis that results_in fungal infection located_in cuticle of hair, has_material_basis_in Microsporum canis, has_material_basis_in Microsporum gypseum, has_material_basis_in Trichophyton equinum, and has_material_basis_in Trichophyton verrucosum, which produce arthroconidia on the exterior of the hair shaft.
+
+[Term]
+id: DOID:0050105 ! endothrix infectious disease
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A tinea capitis that results_in fungal infection located_in hair, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which produce arthroconidia within the hair shaft only.
+
+[Term]
+id: DOID:0050105 ! endothrix infectious disease
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A tinea capitis that results_in fungal infection located_in hair, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which produce arthroconidia within the hair shaft only.
+
+[Term]
+id: DOID:0050116 ! tinea imbricata
+relationship: has_material_basis NCBITaxon:63419 ! Trichophyton concentricum
+! A tinea corporis that results_in fungal infection located_in skin, has_material_basis_in Trichophyton concentricum, which is characterized by ring-like growth in overlapping circles that may have an autosomal dominant genetic predisposition.
+
+[Term]
+id: DOID:0050118 ! La Crosse encephalitis
+relationship: has_material_basis NCBITaxon:11577 ! La Crosse virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in La Crosse virus, which is transmitted_by treehole mosquito, Ochlerotatus triseriatus. The infection has_symptom seizures, has_symptom headache, has_symptom fever, has_symptom coma, and has_symptom paralysis.
+
+[Term]
+id: DOID:0050125 ! dengue shock syndrome
+relationship: has_material_basis NCBITaxon:11053 ! Dengue virus 1
+! A dengue disease that involves the most severe form of dengue fever, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom easy bruising, has_symptom blood spots, has_symptom bleeding gums, and has_symptom nosebleeds. It is accompanied by circulatory collapse, involves hypotension, narrow pulse pressure (less than or equal to 20mm Hg), or frank shock. The shock occurs after two to six days of symptoms, followed by collapse, weak pulse, and blueness around the mouth.
+
+[Term]
+id: DOID:0050125 ! dengue shock syndrome
+relationship: has_material_basis NCBITaxon:12637 ! Dengue virus
+! A dengue disease that involves the most severe form of dengue fever, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom easy bruising, has_symptom blood spots, has_symptom bleeding gums, and has_symptom nosebleeds. It is accompanied by circulatory collapse, involves hypotension, narrow pulse pressure (less than or equal to 20mm Hg), or frank shock. The shock occurs after two to six days of symptoms, followed by collapse, weak pulse, and blueness around the mouth.
+
+[Term]
+id: DOID:0050133 ! superficial mycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A fungal infectious disease that results_in infection of the outermost layer located_in skin or located_in hair shaft, has_material_basis_in Fungi. No living tissue is invaded and there is no cellular response from the host.
+
+[Term]
+id: DOID:0050134 ! cutaneous mycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A fungal infectious disease that results_in infection of the keratinized layers located_in skin, located_in hair or located_in nail, which extends deeper into the epidermis, has_material_basis_in Fungi and results_in_formation_of skin lesions.
+
+[Term]
+id: DOID:0050135 ! subcutaneous mycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A fungal infectious disease that results_in infection located_in skin or located_in subcutaneous tissue, has_material_basis_in Fungi, which penetrate the dermis or even deeper during or after a skin trauma.
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: has_material_basis NCBITaxon:36826 ! Clostridium botulinum A
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: has_material_basis NCBITaxon:36827 ! Clostridium botulinum B
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: has_material_basis NCBITaxon:36830 ! Clostridium botulinum E
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: has_material_basis NCBITaxon:36831 ! Clostridium botulinum F
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050143 ! asymptomatic dengue
+relationship: has_material_basis NCBITaxon:11053 ! Dengue virus 1
+! A dengue disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has no manifestations of symptoms.
+
+[Term]
+id: DOID:0050143 ! asymptomatic dengue
+relationship: has_material_basis NCBITaxon:12637 ! Dengue virus
+! A dengue disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has no manifestations of symptoms.
+
+[Term]
+id: DOID:0050174 ! Kunjin encephalitis
+relationship: has_material_basis NCBITaxon:11077 ! Kunjin virus
+! A West Nile encephalitis that results_in infection located_in brain, has_material_basis_in Kunjin virus, a subtype of West Nile Virus, which is transmitted_by Culex annulirostris mosquito bite. The infection has_symptom fever, has_symptom rigor, has_symptom headache, has_symptom confusion, and has_symptom lethargy.
+
+[Term]
+id: DOID:0050174 ! Kunjin encephalitis
+relationship: has_material_basis NCBITaxon:11082 ! West Nile virus
+! A West Nile encephalitis that results_in infection located_in brain, has_material_basis_in Kunjin virus, a subtype of West Nile Virus, which is transmitted_by Culex annulirostris mosquito bite. The infection has_symptom fever, has_symptom rigor, has_symptom headache, has_symptom confusion, and has_symptom lethargy.
+
+[Term]
+id: DOID:0050175 ! tick-borne encephalitis
+relationship: has_material_basis NCBITaxon:11084 ! Tick-borne encephalitis virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Tick-borne encephalitis virus, which is transmitted_by Ixodes ticks. The infection has_symptom drowsiness, has_symptom confusion, has_symptom sensory disturbances, and has_symptom paralysis.
+
+[Term]
+id: DOID:0050179 ! Powassan encephalitis
+relationship: has_material_basis NCBITaxon:11083 ! Powassan virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Powassan virus, which is transmitted_by Ixodes and transmitted_by Dermacentor species of ticks. The infection has_symptom headache, has_symptom fever, has_symptom vomiting, has_symptom stiff neck, has_symptom sleepiness, has_symptom breathing distress, has_symptom tremors, has_symptom confusion, has_symptom seizures, has_symptom paralysis, and has_symptom coma.
+
+[Term]
+id: DOID:0050194 ! Argentine hemorrhagic fever
+relationship: has_material_basis NCBITaxon:11619 ! Junin virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Junin virus, which is transmitted_by rodent, Calomys musculinus. The infection has_symptom fever, has_symptom fatigue, has_symptom malaise, has_symptom leukopenia, has_symptom thrombocytopenia, and has_symptom hemorrhagic manifestations.
+
+[Term]
+id: DOID:0050195 ! Bolivian hemorrhagic fever
+relationship: has_material_basis NCBITaxon:11628 ! Machupo virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Machupo virus, which is transmitted_by vesper mouse, Calomys callosus. The infection has_symptom fever, has_symptom headache, has_symptom fatigue, has_symptom myalgia, has_symptom arthralgia, has_symptom bleeding from the oral and nasal mucosa, and has_symptom bleeding from the bronchopulmonary, gastrointestinal and genitourinary tracts.
+
+[Term]
+id: DOID:0050196 ! Venezuelan hemorrhagic fever
+relationship: has_material_basis NCBITaxon:45219 ! Guanarito virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Guanarito virus, which is transmitted_by cotton rat, Sigmodon alstoni and transmitted_by cane mouse, Zygodontomys brevicauda. The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom sore throat, has_symptom weakness, has_symptom anorexia, has_symptom nausea, has_symptom vomiting, has_symptom convulsions, has_symptom epistaxis, has_symptom bleeding gums, has_symptom hematemesis, has_symptom melena, and has_symptom menorrhagia.
+
+[Term]
+id: DOID:0050197 ! Brazilian hemorrhagic fever
+relationship: has_material_basis NCBITaxon:45709 ! Sabia virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Sabia virus, which is transmitted_by rodents. The infection has_symptom fever, has_symptom eye redness, has_symptom fatigue, has_symptom dizziness, has_symptom muscle aches, has_symptom loss of strength, and has_symptom bleeding under the skin, internal organs, or from body orifices like the mouth, eyes or ears.
+
+[Term]
+id: DOID:0050198 ! Chapare hemorrhagic fever
+relationship: has_material_basis NCBITaxon:499556 ! Chapare virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Chapare virus. The infection has_symptom headache, has_symptom joint pain, has_symptom muscle pain, has_symptom vomiting, has_symptom shock, and has_symptom bleeding.
+
+[Term]
+id: DOID:0050199 ! Whitewater Arroyo hemorrhagic fever
+relationship: has_material_basis NCBITaxon:46919 ! Whitewater Arroyo virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Whitewater Arroyo virus, which is transmitted_by white-throated woodrats (Neotoma albigula). The infection has_symptom fever, has_symptom headache, has_symptom myalgia, and has_symptom hemorrhagic manifestations.
+
+[Term]
+id: DOID:0050200 ! Korean hemorrhagic fever
+relationship: has_material_basis NCBITaxon:11599 ! Hantaan virus
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Hantaan virus, which is transmitted_by the eurasian field mouse, Apodemus agrarius, or has_material_basis_in Seoul virus, which is transmitted_by norwegian rat, Rattus norvegicus. The infection has_symptom headache, has_symptom back pain, has_symptom abdominal pain, has_symptom fever, has_symptom chills, has_symptom nausea, has_symptom blurred vision, has_symptom flushing of the face, has_symptom redness of the eyes, has_symptom rash, has_symptom low blood pressure, has_symptom acute shock, has_symptom vascular leakage, and has_symptom acute kidney failure, which can cause severe fluid overload.
+
+[Term]
+id: DOID:0050200 ! Korean hemorrhagic fever
+relationship: has_material_basis NCBITaxon:11608 ! Seoul virus
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Hantaan virus, which is transmitted_by the eurasian field mouse, Apodemus agrarius, or has_material_basis_in Seoul virus, which is transmitted_by norwegian rat, Rattus norvegicus. The infection has_symptom headache, has_symptom back pain, has_symptom abdominal pain, has_symptom fever, has_symptom chills, has_symptom nausea, has_symptom blurred vision, has_symptom flushing of the face, has_symptom redness of the eyes, has_symptom rash, has_symptom low blood pressure, has_symptom acute shock, has_symptom vascular leakage, and has_symptom acute kidney failure, which can cause severe fluid overload.
+
+[Term]
+id: DOID:0050201 ! nephropathia epidemica
+relationship: has_material_basis NCBITaxon:11604 ! Puumala virus
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Puumala virus, which is transmitted_by bank vole, Clethrionomys glareolus. The infection has_symptom headache, has_symptom nausea, has_symptom back pain, has_symptom vomiting, has_symptom myalgia, has_symptom abdominal pain, has_symptom internal hemorrhage, and has_symptom renal failure.
+
+[Term]
+id: DOID:0050204 ! Epstein-Barr virus hepatitis
+relationship: has_material_basis NCBITaxon:10376 ! Human herpesvirus 4
+! A viral hepatitis that results_in inflammation, located_in liver, has_material_basis_in Human herpesvirus 4 and has_symptom headache, has_symptom fatigue, has_symptom fever, has_symptom abdominal pain, has_symptom nausea, and has_symptom jaundice.
+
+[Term]
+id: DOID:0050211 ! swine influenza
+relationship: has_material_basis NCBITaxon:11320 ! Influenza A virus
+! An influenza that results_in infection located_in respiratory tract of pigs and humans, has_material_basis_in Influenza C virus, or has_material_basis_in Influenza A virus subtypes (H1N1, H1N2, H3N1, H3N2, and H2N3), which are transmitted_by direct contact with infected pigs. The infection in humans has_symptom fever, has_symptom lethargy, has_symptom lack of appetite, has_symptom coughing, has_symptom runny nose, has_symptom sore throat, has_symptom nausea, has_symptom vomiting, and has_symptom diarrhea.
+
+[Term]
+id: DOID:0050211 ! swine influenza
+relationship: has_material_basis NCBITaxon:11552 ! Influenza C virus
+! An influenza that results_in infection located_in respiratory tract of pigs and humans, has_material_basis_in Influenza C virus, or has_material_basis_in Influenza A virus subtypes (H1N1, H1N2, H3N1, H3N2, and H2N3), which are transmitted_by direct contact with infected pigs. The infection in humans has_symptom fever, has_symptom lethargy, has_symptom lack of appetite, has_symptom coughing, has_symptom runny nose, has_symptom sore throat, has_symptom nausea, has_symptom vomiting, and has_symptom diarrhea.
+
+[Term]
+id: DOID:0050288 ! penicilliosis
+relationship: has_material_basis NCBITaxon:37727 ! Penicillium marneffei
+! An opportunistic mycosis that has_material_basis_in Penicillium marneffei, results_in systemic infection and has_symptom fever, has_symptom anemia, has_symptom weight loss, has_symptom lymphadenopathy, has_symptom hepatosplenomegaly, has_symptom respiratory signs, and has_symptom skin lesions.
+
+[Term]
+id: DOID:0050290 ! trichosporonosis
+relationship: has_material_basis NCBITaxon:5552 ! Trichosporon
+! An opportunistic mycosis that results_in disseminated infection, has_material_basis_in Trichosporon and results_in_formation_of nontender erythematous nodules anywhere on the body.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050308 ! Alkhurma hemorrhagic fever
+relationship: has_material_basis NCBITaxon:172148 ! Alkhurma hemorrhagic fever virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Alkhurma hemorrhagic fever virus, which is transmitted_by Ornithodoros savignyi tick bite, transmitted_by ingestion of unpasteurized camel milk, or transmitted_by entry via skin wound. The infection has_symptom headache, has_symptom joint pain, has_symptom muscle pain, has_symptom vomiting, has_symptom thrombocytopenia, and has_symptom hemorrhagic fever.
+
+[Term]
+id: DOID:0050352 ! foodborne botulism
+relationship: has_material_basis NCBITaxon:36826 ! Clostridium botulinum A
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), which are transmitted_by ingestion of food contaminated with preformed toxins, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F. The infection has_symptom blurred vision, has_symptom diplopia, has_symptom dysarthria, has_symptom dysphonia, has_symptom dysphagia and has_symptom descending muscle paralysis.
+
+[Term]
+id: DOID:0050352 ! foodborne botulism
+relationship: has_material_basis NCBITaxon:36827 ! Clostridium botulinum B
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), which are transmitted_by ingestion of food contaminated with preformed toxins, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F. The infection has_symptom blurred vision, has_symptom diplopia, has_symptom dysarthria, has_symptom dysphonia, has_symptom dysphagia and has_symptom descending muscle paralysis.
+
+[Term]
+id: DOID:0050352 ! foodborne botulism
+relationship: has_material_basis NCBITaxon:36830 ! Clostridium botulinum E
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), which are transmitted_by ingestion of food contaminated with preformed toxins, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F. The infection has_symptom blurred vision, has_symptom diplopia, has_symptom dysarthria, has_symptom dysphonia, has_symptom dysphagia and has_symptom descending muscle paralysis.
+
+[Term]
+id: DOID:0050352 ! foodborne botulism
+relationship: has_material_basis NCBITaxon:36831 ! Clostridium botulinum F
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), which are transmitted_by ingestion of food contaminated with preformed toxins, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F. The infection has_symptom blurred vision, has_symptom diplopia, has_symptom dysarthria, has_symptom dysphonia, has_symptom dysphagia and has_symptom descending muscle paralysis.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: has_material_basis NCBITaxon:36826 ! Clostridium botulinum A
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: has_material_basis NCBITaxon:36827 ! Clostridium botulinum B
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: has_material_basis NCBITaxon:36830 ! Clostridium botulinum E
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: has_material_basis NCBITaxon:36831 ! Clostridium botulinum F
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050354 ! infant botulism
+relationship: has_material_basis NCBITaxon:36826 ! Clostridium botulinum A
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA or B) in infants, has_material_basis_in Clostridium botulinum A or has_material_basis_in Clostridium botulinum B, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins. The infection has_symptom constipation, has_symptom lethargy, has_symptom difficulty feeding, has_symptom swallowing, has_symptom ptosis, has_symptom loss of head control, and has_symptom muscle weakness.
+
+[Term]
+id: DOID:0050354 ! infant botulism
+relationship: has_material_basis NCBITaxon:36827 ! Clostridium botulinum B
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA or B) in infants, has_material_basis_in Clostridium botulinum A or has_material_basis_in Clostridium botulinum B, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins. The infection has_symptom constipation, has_symptom lethargy, has_symptom difficulty feeding, has_symptom swallowing, has_symptom ptosis, has_symptom loss of head control, and has_symptom muscle weakness.
+
+[Term]
+id: DOID:0050398 ! Carrion's Disease
+relationship: has_material_basis NCBITaxon:774 ! Bartonella bacilliformis
+! A primary bacterial infectious disease that results_in infection located_in endothelial cells or located_in red blood cells, has_material_basis_in Bartonella bacilliformis, which is transmitted_by sandflies of genus Lutzomyia. The infection has acute and chronic phases. The acute phase is characterized by severe hemolytic anemia and transient immunosuppression. The chronic phase is characterized by verruga peruana lesions which may ulcerate and bleed.
+
+[Term]
+id: DOID:0050456 ! Buruli ulcer disease
+relationship: has_material_basis NCBITaxon:1809 ! Mycobacterium ulcerans
+! A primary bacterial infectious disease that results_in infection located_in skin or located_in subcutaneous tissue, has_material_basis_in Mycobacterium ulcerans, which could be transmitted_by insects. The bacterium produces a toxin, named mycolactone, which causes subcutaneous fat necrosis and inhibits an immune response. The infection has_symptom nodule, which is a painless, mobile swelling in the skin.
+
+[Term]
+id: DOID:0050480 ! epidemic typhus
+relationship: has_material_basis NCBITaxon:782 ! Rickettsia prowazekii
+! A typhus that has_material_basis_in Rickettsia prowazekii, which is transmitted_by human body louse (Pediculus humanus corporis). The infection has_symptom high fever, has_symptom cough, has_symptom rash, has_symptom severe muscle pain, has_symptom chills, has_symptom falling blood pressure, has_symptom stupor, has_symptom sensitivity to light, and has_symptom delirium.
+
+[Term]
+id: DOID:0050481 ! endemic typhus
+relationship: has_material_basis NCBITaxon:42862 ! Rickettsia felis
+! A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis, which are transmitted_by fleas (Xenopsylla cheopis). The infection has_symptom headache, has_symptom fever, has_symptom chills, has_symptom myalgia, has_symptom nausea, has_symptom vomiting, has_symptom cough and has_symptom rash.
+
+[Term]
+id: DOID:0050481 ! endemic typhus
+relationship: has_material_basis NCBITaxon:785 ! Rickettsia typhi
+! A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis, which are transmitted_by fleas (Xenopsylla cheopis). The infection has_symptom headache, has_symptom fever, has_symptom chills, has_symptom myalgia, has_symptom nausea, has_symptom vomiting, has_symptom cough and has_symptom rash.
+
+[Term]
+id: DOID:0050484 ! aneruptive fever
+relationship: has_material_basis NCBITaxon:35789 ! Rickettsia helvetica
+! A spotted fever that has_material_basis_in Rickettsia helvetica, which is transmitted_by ticks (Ixodes sp). The infection has_symptom fever, has_symptom headache, has_symptom myalgia.
+
+[Term]
+id: DOID:0050485 ! sennetsu fever
+relationship: has_material_basis NCBITaxon:951 ! Neorickettsia sennetsu
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Neorickettsia sennetsu, which is transmitted_by ingestion of raw or under-cooked gray mullet fish infected with the trematodes. The infection has_symptom fever, has_symptom malaise, has_symptom anorexia, has_symptom lymphadenopathy, has_symptom hepatosplenomegaly, has_symptom fatigue, has_symptom chills, has_symptom headache, has_symptom backache and has_symptom myalgia.
+
+[Term]
+id: DOID:0050495 ! exanthema subitum
+relationship: has_material_basis NCBITaxon:10368 ! Human herpesvirus 6
+! A viral infectious disease that results_in infection in infants and children, located_in skin, has_material_basis_in Human herpesvirus 6 or has_material_basis_in Human herpesvirus 7 and has_symptom sudden high fever, and has_symptom red rash that occurs first on the trunk then spreading to legs and neck.
+
+[Term]
+id: DOID:0050495 ! exanthema subitum
+relationship: has_material_basis NCBITaxon:10372 ! Human herpesvirus 7
+! A viral infectious disease that results_in infection in infants and children, located_in skin, has_material_basis_in Human herpesvirus 6 or has_material_basis_in Human herpesvirus 7 and has_symptom sudden high fever, and has_symptom red rash that occurs first on the trunk then spreading to legs and neck.
+
+[Term]
+id: DOID:0050508 ! variola major
+relationship: has_material_basis NCBITaxon:10255 ! Variola virus
+! A smallpox that results_in severe infection, located_in skin, has_material_basis_in Variola virus. The infection results_in_formation_of lesions.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:0050517 ! Barmah Forest virus disease
+relationship: has_material_basis NCBITaxon:11020 ! Barmah Forest virus
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Barmah Forest virus, which is transmitted_by mosquito bite. The infection has_symptom fever, has_symptom arthralgia, and has_symptom rash.
+
+[Term]
+id: DOID:0050518 ! Ross River fever
+relationship: has_material_basis NCBITaxon:11029 ! Ross River virus
+! A viral infectious disease that results_in infection located_in joint, has_material_basis_in Ross River virus, which is transmitted_by Culex, and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom arthralgia, and has_symptom rash.
+
+[Term]
+id: DOID:0050521 ! Oropouche fever
+relationship: has_material_basis NCBITaxon:118655 ! Oropouche virus
+! A viral infectious disease that results_in infection, has_material_basis_in Oropouche virus, which is transmitted_by biting midge, Culicoides paraensis. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom anorexia, has_symptom muscle pain, has_symptom joint pain, and has_symptom vomiting.
+
+[Term]
+id: DOID:0050522 ! Balkan hemorrhagic fever
+relationship: has_material_basis NCBITaxon:12506 ! Dobrava-Belgrade virus
+! A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Dobrava-Belgrade virus , which is transmitted_by yellow-necked field mouse, Apodemus flavicollis. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:0050523 ! adult T-cell leukemia
+relationship: has_material_basis NCBITaxon:11908 ! Human T-lymphotropic virus 1
+! A T-cell leukemia that results_in abnormal increase of lymphocytes, derives_from T-cells, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, transmitted_by contaminated needles used by intravenous-drug users, and transmitted_by breast feeding. The infection results_in_formation_of skin lesions.
+
+[Term]
+id: DOID:0050596 ! taeniasis
+relationship: has_material_basis NCBITaxon:6204 ! Taenia solium
+! A parasitic helminthiasis infectious disease that has_material_basis_in Taenia solium or has_material_basis_in Taenia saginata, which are transmitted_by ingestion of undercooked contaminated meat.
+
+[Term]
+id: DOID:0050596 ! taeniasis
+relationship: has_material_basis NCBITaxon:6206 ! Taenia saginata
+! A parasitic helminthiasis infectious disease that has_material_basis_in Taenia solium or has_material_basis_in Taenia saginata, which are transmitted_by ingestion of undercooked contaminated meat.
+
+[Term]
+id: DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
+relationship: has_material_basis NCBITaxon:169495 ! This
+! An amino acid metabolic disorder that has_material_basis_in mutations in the MCCC1 and MCCC2 genes causing inadequate levels of the enzyme 3-methylcrotonyl-CoA carboxylase that helps break down proteins containing the amino acid leucine. This disease has_symptom muscular hypotonia (weak muscle tone), has_symptom muscular atrophy, has_symptom feeding difficulties, has_symptom recurrent episodes of vomiting and diarrhea, and has_symptom lethargy.
+
+[Term]
+id: DOID:0050720 ! ornithine translocase deficiency
+relationship: has_material_basis NCBITaxon:29189 ! Ammonia
+! An amino acid metabolic disorder that has_material_basis in deficiency of ornithine translocase resulting in the accumulation of ammonia in the blood.
+
+[Term]
+id: DOID:1024 ! leprosy
+relationship: has_material_basis NCBITaxon:1769 ! Mycobacterium leprae
+! A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.
+
+[Term]
+id: DOID:10242 ! ehrlichiosis
+relationship: has_material_basis NCBITaxon:945 ! Ehrlichia chaffeensis
+! A primary bacterial infectious disease that results_in infection located_in leukocyte, has_material_basis_in Ehrlichia chaffeensis or Anaplasma phagocytophilum, which are transmitted_by lone start stick and transmitted_by black-legged tick respectively. The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue and has_symptom rash.
+
+[Term]
+id: DOID:10242 ! ehrlichiosis
+relationship: has_material_basis NCBITaxon:948 ! Anaplasma phagocytophilum
+! A primary bacterial infectious disease that results_in infection located_in leukocyte, has_material_basis_in Ehrlichia chaffeensis or Anaplasma phagocytophilum, which are transmitted_by lone start stick and transmitted_by black-legged tick respectively. The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue and has_symptom rash.
+
+[Term]
+id: DOID:10250 ! louping ill
+relationship: has_material_basis NCBITaxon:11086 ! Louping ill virus
+! A viral infectious disease that results_in infection in sheep and rarely humans, has_material_basis_in Louping ill virus, which is transmitted_by sheep tick, Ixodes ricinus. The infection has_symptom lethargy, has_symptom muscle pains, has_symptom fever, and has_symptom focal neurological signs.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: has_material_basis NCBITaxon:11161 ! Mumps virus
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10458 ! legionellosis
+relationship: has_material_basis NCBITaxon:446 ! Legionella pneumophila
+! A primary bacterial infectious disease that results_in infection located_in respiratory tract, has_material_basis_in Legionella pneumophila, which is transmitted_by inhalation of droplets containing bacteria. The symptoms include dry cough, fever, headache and diarrhea.
+
+[Term]
+id: DOID:10784 ! Queensland tick typhus
+relationship: has_material_basis NCBITaxon:787 ! Rickettsia australis
+! A spotted fever that has_material_basis_in Rickettsia australis, which is transmitted_by ticks (Ixodes holocyclus). The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom maculopapular rash, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:10841 ! Eastern equine encephalitis
+relationship: has_material_basis NCBITaxon:11021 ! Eastern equine encephalitis virus
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, which is transmitted_by Aedes, transmitted_by Coquillettidia, and transmitted_by Culex species of mosquitoes. The infection has_symptom sudden onset of headache, has_symptom high fever, has_symptom chills, has_symptom vomiting, has_symptom disorientation, has_symptom seizures, and has_symptom coma.
+
+[Term]
+id: DOID:10842 ! Murray Valley encephalitis
+relationship: has_material_basis NCBITaxon:11079 ! Murray Valley encephalitis virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Murray Valley encephalitis virus, which is transmitted_by Culex annulirostris mosquitoes. The infection has_symptom fever, has_symptom headache, has_symptom nausea, has_symptom vomiting, has_symptom drowsiness, has_symptom confusion, has_symptom fitting, and has_symptom weakness.
+
+[Term]
+id: DOID:10843 ! Western equine encephalitis
+relationship: has_material_basis NCBITaxon:11039 ! Western equine encephalomyelitis virus
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Western equine encephalomyelitis virus, which is transmitted_by Culex and transmitted_by Aedes species of mosquitoes. The infection has_symptom fever, has_symptom headache, has_symptom nausea, has_symptom vomiting, has_symptom anorexia, has_symptom malaise, has_symptom altered mental status, and has_symptom weakness.
+
+[Term]
+id: DOID:10844 ! Japanese encephalitis
+relationship: has_material_basis NCBITaxon:11072 ! Japanese encephalitis virus
+! A viral infectious disease that results_in infection located_in brain, has_material_basis_in Japanese encephalitis virus, which is transmitted_by Culex tritaeniorhynchus mosquito bite. The infection has_symptom headache, has_symptom high fever, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, and has_symptom spastic paralysis.
+
+[Term]
+id: DOID:10845 ! St. Louis encephalitis
+relationship: has_material_basis NCBITaxon:11080 ! St. Louis encephalitis virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in St. Louis encephalitis virus, which is transmitted_by Culex mosquitoes. The infection has_symptom headache, has_symptom high fever, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions and has_symptom spastic paralysis.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: has_material_basis NCBITaxon:31704 ! Human coxsackievirus A16
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: has_material_basis NCBITaxon:39054 ! Human enterovirus 71
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10882 ! epidemic pleurodynia
+relationship: has_material_basis NCBITaxon:138949 ! Human enterovirus B
+! A viral infectious disease that results_in necrosis located_in intercostal muscle, has_material_basis_in Human enterovirus B. The infection has_symptom severe chest pain, has_symptom fever, has_symptom malaise, has_symptom pleuritis, and has_symptom headache.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: has_material_basis NCBITaxon:12066 ! Coxsackievirus
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: has_material_basis NCBITaxon:31704 ! Human coxsackievirus A16
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: has_material_basis NCBITaxon:39054 ! Human enterovirus 71
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:10921 ! Siberian tick typhus
+relationship: has_material_basis NCBITaxon:35793 ! Rickettsia sibirica
+! A spotted fever that has_material_basis_in Rickettsia sibirica, which is transmitted_by ticks (Dermacentor nuttalli, Dermacentor marginatus and Haemaphysalis concinna). The infection has_symptom fever, has_symptom eschar, has_symptom regional adenopathy, and has_symptom maculopapular rash.
+
+[Term]
+id: DOID:11055 ! pasteurellosis
+relationship: has_material_basis NCBITaxon:747 ! Pasteurella multocida
+! A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Pasteurella multocida, which is transmitted_by animal bite, scratch, or lick. The infection has_symptom joint pain has_symptom fever, has_symptom rigors, has_symptom pneumonia, has_symptom meningeal irritation, and has_symptom tachycardia.
+
+[Term]
+id: DOID:11100 ! Q fever
+relationship: has_material_basis NCBITaxon:777 ! Coxiella burnetii
+! A primary bacterial infectious disease that is a zoonotic infectious disease affecting multiple organs, has_material_basis_in Coxiella burnetii, which is transmitted_by inhalation of air contaminated by barnyard dust containing dried placental material, birth fluids, or excreta of infected herd animals, transmitted_by ingestion of contaminated milk, transmitted_by tick bites and transmitted_by contact with infected person. The infection has_symptom fever, has_symptom headache, has_symptom cough, has_symptom pleuritic chest pain, has_symptom myalgia and has_symptom arthralgia.
+
+[Term]
+id: DOID:11101 ! trench fever
+relationship: has_material_basis NCBITaxon:803 ! Bartonella quintana
+! A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Bartonella quintana, which is transmitted_by body lice (Pediculus humanus corporis). The infection has_symptom relapsing fever, has_symptom headache, has_symptom shin pain, and has_symptom soreness of the muscles of the legs and back.
+
+[Term]
+id: DOID:11103 ! rickettsialpox
+relationship: has_material_basis NCBITaxon:786 ! Rickettsia akari
+! A spotted fever that has_material_basis_in Rickettsia akari, which is transmitted_by house mouse mite (Liponyssoides sanguineus) found on mice and other rodents. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom myalgia, and has_symptom papulovesicular rash.
+
+[Term]
+id: DOID:11104 ! spotted fever
+relationship: has_material_basis NCBITaxon:780 ! Rickettsia
+! A primary bacterial infectious disease that results_in infection, located_in endothelial cell of artery or located_in endothelial cell of vein, has_material_basis_in Rickettsia, which is transmitted_by ticks and mites. The infection has_symptom fever, has_symptom headache, has_symptom fatigue, has_symptom muscle aches, and has_symptom maculopapular or petechial rash. A distinctive eschar (blackened or crusted skin) may develop at the site of a tick bite.
+
+[Term]
+id: DOID:1116 ! pertussis
+relationship: has_material_basis NCBITaxon:519 ! Bordetella parapertussis
+! A commensal bacterial infectious disease that results_in inflammation located_in respiratory tract, has_material_basis_in Bordetella pertussis, or has_material_basis_in Bordetella parapertussis, which produce toxins that paralyze the cilia of the respiratory epithelial cells. The infection is characterized by a prolonged, high-pitched, deeply indrawn breath (whoop).
+
+[Term]
+id: DOID:1116 ! pertussis
+relationship: has_material_basis NCBITaxon:520 ! Bordetella pertussis
+! A commensal bacterial infectious disease that results_in inflammation located_in respiratory tract, has_material_basis_in Bordetella pertussis, or has_material_basis_in Bordetella parapertussis, which produce toxins that paralyze the cilia of the respiratory epithelial cells. The infection is characterized by a prolonged, high-pitched, deeply indrawn breath (whoop).
+
+[Term]
+id: DOID:11165 ! common wart
+relationship: has_material_basis NCBITaxon:169495 ! This
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in human papillomavirus (types 2 and 4). This infection has_symptom raised wart with roughened surface, most common on hands, but can grow anywhere on the body.
+
+[Term]
+id: DOID:11165 ! common wart
+relationship: has_material_basis NCBITaxon:173087 ! Human papillomavirus types
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in human papillomavirus (types 2 and 4). This infection has_symptom raised wart with roughened surface, most common on hands, but can grow anywhere on the body.
+
+[Term]
+id: DOID:11186 ! allescheriosis
+relationship: has_material_basis NCBITaxon:5597 ! Pseudallescheria boydii
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Pseudallescheria boydii, which results_in_formation_of abscesses.
+
+[Term]
+id: DOID:11227 ! acute hemorrhagic conjunctivitis
+relationship: has_material_basis NCBITaxon:12089 ! Human coxsackievirus A24
+! A viral infectious disease that results_in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted_by contaminated fomites or transmitted_by contact with contaminated hands. The infection has_symptom vascular dilation, has_symptom eyelid edema, has_symptom photophobia, has_symptom redness of the eyes, has_symptom watering of the eye, has_symptom conjunctival congestion, and has_symptom superficial punctate epithelial keratitis.
+
+[Term]
+id: DOID:11227 ! acute hemorrhagic conjunctivitis
+relationship: has_material_basis NCBITaxon:12090 ! Human enterovirus 70
+! A viral infectious disease that results_in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted_by contaminated fomites or transmitted_by contact with contaminated hands. The infection has_symptom vascular dilation, has_symptom eyelid edema, has_symptom photophobia, has_symptom redness of the eyes, has_symptom watering of the eye, has_symptom conjunctival congestion, and has_symptom superficial punctate epithelial keratitis.
+
+[Term]
+id: DOID:11256 ! typhus
+relationship: has_material_basis NCBITaxon:2 ! Bacteria
+! A primary bacterial infectious disease that refers to a group of diseases, located_in endothelial cells of the small venous, arterial, and capillary vessels, has_material_basis_in Rickettsia bacteria, which are transmitted_by lice, transmitted_by fleas, and transmitted_by mites.
+
+[Term]
+id: DOID:11256 ! typhus
+relationship: has_material_basis NCBITaxon:780 ! Rickettsia
+! A primary bacterial infectious disease that refers to a group of diseases, located_in endothelial cells of the small venous, arterial, and capillary vessels, has_material_basis_in Rickettsia bacteria, which are transmitted_by lice, transmitted_by fleas, and transmitted_by mites.
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+relationship: has_material_basis NCBITaxon:38323 ! Bartonella henselae
+! A primary bacterial infectious disease that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain.
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+relationship: has_material_basis NCBITaxon:56426 ! Bartonella clarridgeiae
+! A primary bacterial infectious disease that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain.
+
+[Term]
+id: DOID:11260 ! rabies
+relationship: has_material_basis NCBITaxon:11292 ! Rabies virus
+! A viral infectious disease that results_in inflammation located_in brain or located_in spinal cord, has_material_basis_in Rabies virus, which is transmitted_by bite of an infected animal, or transmitted_by contact of mucous membranes with saliva of an infected animal. The infection has_symptom fever, has_symptom headache, has_symptom prickling or itching sensation at the site of bite, has_symptom anxiety, has_symptom confusion, has_symptom agitation, has_symptom delirium, has_symptom difficulty swallowing, has_symptom hydrophobia, and has_symptom paralysis.
+
+[Term]
+id: DOID:11265 ! trachoma
+relationship: has_material_basis NCBITaxon:813 ! Chlamydia trachomatis
+! A commensal bacterial infectious disease that results_in infection located_in eye, has_material_basis_in Chlamydia trachomatis (A, B, Ba and C serovars), which is transmitted_by contact with eye discharge from the infected person and transmitted_by congenital method. The infection causes eyelid to turn inward which makes eyelashes to scratch the cornea.
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+relationship: has_material_basis NCBITaxon:11599 ! Hantaan virus
+! A viral infectious disease that is a hemorrhagic fever, located_in kidney, has_material_basis_in Hantaan virus, has_material_basis_in Dobrava-Belgrade virus, has_material_basis_in Seoul virus, or has_material_basis_in Puumala virus, which are carried and transmitted_by rodents. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+relationship: has_material_basis NCBITaxon:11604 ! Puumala virus
+! A viral infectious disease that is a hemorrhagic fever, located_in kidney, has_material_basis_in Hantaan virus, has_material_basis_in Dobrava-Belgrade virus, has_material_basis_in Seoul virus, or has_material_basis_in Puumala virus, which are carried and transmitted_by rodents. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+relationship: has_material_basis NCBITaxon:11608 ! Seoul virus
+! A viral infectious disease that is a hemorrhagic fever, located_in kidney, has_material_basis_in Hantaan virus, has_material_basis_in Dobrava-Belgrade virus, has_material_basis_in Seoul virus, or has_material_basis_in Puumala virus, which are carried and transmitted_by rodents. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+relationship: has_material_basis NCBITaxon:12506 ! Dobrava-Belgrade virus
+! A viral infectious disease that is a hemorrhagic fever, located_in kidney, has_material_basis_in Hantaan virus, has_material_basis_in Dobrava-Belgrade virus, has_material_basis_in Seoul virus, or has_material_basis_in Puumala virus, which are carried and transmitted_by rodents. The infection has_symptom headache, has_symptom fever, has_symptom muscle pains, has_symptom facial flush, has_symptom petechiae, has_symptom hemorrhagic features, has_symptom proteinuria, and has_symptom renal failure.
+
+[Term]
+id: DOID:11320 ! Kyasanur forest disease
+relationship: has_material_basis NCBITaxon:33743 ! Kyasanur forest disease virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Kyasanur forest disease virus, which is transmitted_by Haemaphysalis spinigera tick bite. The infection has_symptom fever, has_symptom headache, has_symptom stiffness of the neck, has_symptom severe muscle pain, has_symptom cough, has_symptom dehydration, and has_symptom bleeding problems.
+
+[Term]
+id: DOID:11338 ! tetanus
+relationship: has_material_basis NCBITaxon:1513 ! Clostridium tetani
+! A primary bacterial infectious disease that results_in prolonged contraction of skeletal muscle fibers, has_material_basis_in Clostridium tetani, which produces tetanospasmin, a neurotoxin, which is carried to the brain and spinal cord, where it binds irreversibly to receptors inhibiting neurotransmission. Damaged upper motor neurons cannot control reflex responses to afferent sensory stimuli.
+
+[Term]
+id: DOID:11339 ! pneumocystosis
+relationship: has_material_basis NCBITaxon:42068 ! Pneumocystis jirovecii
+! An opportunistic mycosis that is located_in lungs, but can also occur in eyes, ears, skin, thyroid, pituitary, palate, parathyroid, esophagus, pleura, heart, liver, spleen, small intestine, adrenals, kidneys, bone marrow, and lymph nodes, has_material_basis_in Pneumocystis jirovecii that effects interstitial and alveolar tissues and has_symptom nonproductive cough, has_symptom shortness of breath, and has_symptom fever.
+
+[Term]
+id: DOID:11360 ! Phlebotomus fever
+relationship: has_material_basis NCBITaxon:206160 ! Sandfly fever Naples virus
+! A viral infectious disease that results_in infection, has_material_basis_in Sandfly fever Naples virus, or has_material_basis_in Sandfly fever sicilian virus, which are transmitted_by Phlebotomus papatasi sandfly. The infection has_symptom fever, has_symptom severe frontal headaches, has_symptom muscle ache, has_symptom joint aches, has_symptom flushing of the face, and has_symptom tachycardia.
+
+[Term]
+id: DOID:11360 ! Phlebotomus fever
+relationship: has_material_basis NCBITaxon:28292 ! Sandfly fever sicilian virus
+! A viral infectious disease that results_in infection, has_material_basis_in Sandfly fever Naples virus, or has_material_basis_in Sandfly fever sicilian virus, which are transmitted_by Phlebotomus papatasi sandfly. The infection has_symptom fever, has_symptom severe frontal headaches, has_symptom muscle ache, has_symptom joint aches, has_symptom flushing of the face, and has_symptom tachycardia.
+
+[Term]
+id: DOID:11573 ! listeriosis
+relationship: has_material_basis NCBITaxon:1639 ! Listeria monocytogenes
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Listeria monocytogenes, which is transmitted_by ingestion of contaminated food or raw milk or transmitted_by congenital method. Ingestion of Listeria by pregnant women has_symptom nausea, has_symptom vomiting, has_symptom diarrhea, has_symptom fever, has_symptom malaise, has_symptom back pain, and has_symptom headache. Maternal infection with Listeria can result in chorioamnionitis, premature labor, spontaneous abortion, or stillbirth.
+
+[Term]
+id: DOID:11729 ! Lyme disease
+relationship: has_material_basis NCBITaxon:139 ! Borrelia burgdorferi
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Borrelia burgdorferi, which is transmitted_by blacklegged tick (Ixodes scapularis) or transmitted_by western blacklegged tick (Ixodes pacificus). The infection has_symptom fever, has_symptom headache, has_symptom fatigue, and has_symptom skin rash called erythema migrans. If left untreated, infection can spread to joints, the heart, and the nervous system.
+
+[Term]
+id: DOID:11917 ! tinea cruris
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A dermatophytosis that results_in fungal skin infection located_in groin, located_in perineum, or located_in perianal region, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching in groin, thigh skin folds, or anus and results_in_formation_of rash which appears as raised red plaques (platelike areas) and scaly patches with sharply defined borders that may blister and ooze.
+
+[Term]
+id: DOID:11917 ! tinea cruris
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A dermatophytosis that results_in fungal skin infection located_in groin, located_in perineum, or located_in perianal region, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching in groin, thigh skin folds, or anus and results_in_formation_of rash which appears as raised red plaques (platelike areas) and scaly patches with sharply defined borders that may blister and ooze.
+
+[Term]
+id: DOID:11976 ! botulism
+relationship: has_material_basis NCBITaxon:36826 ! Clostridium botulinum A
+! A primary bacterial infectious disease that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) located_in neuromuscular junction, resulting in descending muscle paralysis, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F.
+
+[Term]
+id: DOID:11976 ! botulism
+relationship: has_material_basis NCBITaxon:36827 ! Clostridium botulinum B
+! A primary bacterial infectious disease that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) located_in neuromuscular junction, resulting in descending muscle paralysis, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F.
+
+[Term]
+id: DOID:11976 ! botulism
+relationship: has_material_basis NCBITaxon:36830 ! Clostridium botulinum E
+! A primary bacterial infectious disease that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) located_in neuromuscular junction, resulting in descending muscle paralysis, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F.
+
+[Term]
+id: DOID:11976 ! botulism
+relationship: has_material_basis NCBITaxon:36831 ! Clostridium botulinum F
+! A primary bacterial infectious disease that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) located_in neuromuscular junction, resulting in descending muscle paralysis, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F.
+
+[Term]
+id: DOID:12155 ! lymphocytic choriomeningitis
+relationship: has_material_basis NCBITaxon:11623 ! Lymphocytic choriomeningitis virus
+! A viral infectious disease that results_in infection located_in brain, or located_in meninges, or located_in brain and meninges, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus. The infection has_symptom fever, has_symptom lack of appetite, has_symptom headache, has_symptom muscle aches, has_symptom malaise, has_symptom nausea, and has_symptom vomiting.
+
+[Term]
+id: DOID:12179 ! tinea corporis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A dermatophytosis that results_in fungal infection located_in skin, limited to the stratum corneum of the epidermis, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching, and has_symptom red colored skin rash. The border of the rash lesions look scaly.
+
+[Term]
+id: DOID:12179 ! tinea corporis
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A dermatophytosis that results_in fungal infection located_in skin, limited to the stratum corneum of the epidermis, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching, and has_symptom red colored skin rash. The border of the rash lesions look scaly.
+
+[Term]
+id: DOID:12205 ! dengue disease
+relationship: has_material_basis NCBITaxon:11053 ! Dengue virus 1
+! A viral infectious disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom severe headache, has_symptom severe pain behind the eyes, has_symptom joint pain, has_symptom muscle and bone pain, has_symptom rash, and has_symptom mild bleeding.
+
+[Term]
+id: DOID:12205 ! dengue disease
+relationship: has_material_basis NCBITaxon:12637 ! Dengue virus
+! A viral infectious disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom severe headache, has_symptom severe pain behind the eyes, has_symptom joint pain, has_symptom muscle and bone pain, has_symptom rash, and has_symptom mild bleeding.
+
+[Term]
+id: DOID:12287 ! Crimean-Congo hemorrhagic fever
+relationship: has_material_basis NCBITaxon:11593 ! Crimean-Congo hemorrhagic fever virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Crimean-Congo hemorrhagic fever virus, which is transmitted_by Hyalomma ticks. The infection has_symptom headache, has_symptom high fever, has_symptom back pain, has_symptom joint pain, has_symptom stomach pain, has_symptom vomiting, has_symptom red eyes, has_symptom flushed face, has_symptom red throat, has_symptom petechiae (red spots) on the palate, has_symptom jaundice, has_symptom nosebleeds, and has_symptom blood in the feces and urine.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis NCBITaxon:2 ! Bacteria
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis NCBITaxon:621 ! Shigella boydii
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis NCBITaxon:622 ! Shigella dysenteriae
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis NCBITaxon:623 ! Shigella flexneri
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: has_material_basis NCBITaxon:624 ! Shigella sonnei
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:12403 ! tinea pedis
+relationship: has_material_basis NCBITaxon:34390 ! Epidermophyton
+! A dermatophytosis that results_in fungal infection located_in skin of foot, especially between the toes, has_material_basis_in Trichophyton or has_material_basis_in Epidermophyton and has_symptom fissures, has_symptom scaling, has_symptom maceration, and eroded areas between the toes and on the plantar surface of the foot.
+
+[Term]
+id: DOID:12403 ! tinea pedis
+relationship: has_material_basis NCBITaxon:5550 ! Trichophyton
+! A dermatophytosis that results_in fungal infection located_in skin of foot, especially between the toes, has_material_basis_in Trichophyton or has_material_basis_in Epidermophyton and has_symptom fissures, has_symptom scaling, has_symptom maceration, and eroded areas between the toes and on the plantar surface of the foot.
+
+[Term]
+id: DOID:1252 ! trichuriasis
+relationship: has_material_basis NCBITaxon:36087 ! Trichuris trichiura
+! A parasitic helminthiasis infectious disease that involves parasitic infection located_in intestine in humans, has_material_basis_in Trichuris trichiura, which is transmitted_by ingestion of food contaminated with egg-carrying soil. The infection has_symptom abdominal pain, has_symptom diarrhea, has_symptom rectal prolapse and has_symptom growth retardation.
+
+[Term]
+id: DOID:12549 ! hepatitis A
+relationship: has_material_basis NCBITaxon:12092 ! Hepatitis A virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis A virus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by direct contact with an infected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:12662 ! paracoccidioidomycosis
+relationship: has_material_basis NCBITaxon:121759 ! Paracoccidioides brasiliensis
+! A primary systemic mycosis that results_in systemic fungal infection located_in mucosa, located_in lymph nodes, located_in bone, located_in skin or located_in lungs, has_material_basis_in Paracoccidioides brasiliensis.
+
+[Term]
+id: DOID:1273 ! respiratory syncytial virus infectious disease
+relationship: has_material_basis NCBITaxon:11250 ! Human respiratory syncytial virus
+! A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract, has_material_basis_in Human respiratory syncytial virus, which is transmitted_by droplet spread of nasal secretions from an infected person while coughing or sneezing, or transmitted_by contaminated fomites. The infection has_symptom runny nose, has_symptom fever, has_symptom cough, has_symptom wheezing, and has_symptom respiratory distress.
+
+[Term]
+id: DOID:13026 ! lobomycosis
+relationship: has_material_basis NCBITaxon:121752 ! Lacazia loboi
+! A dermatomycosis that results_in infection located_in skin or located_in subcutaneous tissue, has_material_basis_in Lacazia loboi and has_symptom crusty plaques, has_symptom tumors and results_in_formation_of nodular lesions.
+
+[Term]
+id: DOID:13034 ! relapsing fever
+relationship: has_material_basis NCBITaxon:138 ! Borrelia
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Borrelia, which is transmitted_by tick or transmitted_by body louse.
+
+[Term]
+id: DOID:13074 ! tinea unguium
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A dermatophytosis that results_in fungal infection located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which cause separation of the nail plate from the nail bed and has_symptom thickening of subungueal area. Sometimes, white islands are seen on the external nail plates. These gradually coalesce until the entire nail plate is involved.
+
+[Term]
+id: DOID:13074 ! tinea unguium
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A dermatophytosis that results_in fungal infection located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which cause separation of the nail plate from the nail bed and has_symptom thickening of subungueal area. Sometimes, white islands are seen on the external nail plates. These gradually coalesce until the entire nail plate is involved.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: has_material_basis NCBITaxon:34105 ! Streptobacillus moniliformis
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:1328 ! Rift Valley fever
+relationship: has_material_basis NCBITaxon:11588 ! Rift Valley fever virus
+! A viral infectious disease that results_in infection, has_material_basis_in Rift Valley fever virus, which is transmitted_by Aedes mosquitoes. The virus affects domestic animals (cattle, buffalo, sheep, goats, and camels) and humans. The infection has_symptom jaundice, has_symptom vomiting blood, has_symptom passing blood in the feces, has_symptom ecchymoses (caused by bleeding in the skin), has_symptom bleeding from the nose or gums, has_symptom menorrhagia and has_symptom bleeding from venepuncture sites.
+
+[Term]
+id: DOID:13368 ! tinea profunda
+relationship: has_material_basis NCBITaxon:523103 ! Trichophyton mentagrophytes
+! A tinea corporis that results_in fungal infection located_in skin, has_material_basis_in Trichophyton mentagrophytes and results_in_formation_of subcutaneous abscesses.
+
+[Term]
+id: DOID:13369 ! tinea manuum
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A dermatophytosis that results_in fungal skin infection located_in hand, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching, has_symptom burning, has_symptom cracking, and has_symptom scaling.
+
+[Term]
+id: DOID:13369 ! tinea manuum
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A dermatophytosis that results_in fungal skin infection located_in hand, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching, has_symptom burning, has_symptom cracking, and has_symptom scaling.
+
+[Term]
+id: DOID:13371 ! scrub typhus
+relationship: has_material_basis NCBITaxon:784 ! Orientia tsutsugamushi
+! A typhus that has_material_basis_in Orientia tsutsugamushi, which is transmitted_by trombiculid mites (Leptotrombidium deliense). The infection has_symptom fever, has_symptom headache, has_symptom muscle pain, has_symptom cough, has_symptom maculopapular rash, has_symptom eschar, has_symptom splenomegaly and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:13386 ! gastrointestinal anthrax
+relationship: has_material_basis NCBITaxon:1392 ! Bacillus anthracis
+! An anthrax disease that results_in infection located_in mucosa of gastrointestinal tract, has_material_basis_in Bacillus anthracis, which is transmitted_by ingestion of anthrax-infected meat. The infection has_symptom lesions, has_symptom vomiting of blood, has_symptom severe diarrhea, has_symptom loss of appetite.
+
+[Term]
+id: DOID:13444 ! glanders
+relationship: has_material_basis NCBITaxon:13373 ! Burkholderia mallei
+! A primary bacterial infectious disease that results_in septicemic infection, has_material_basis_in Burkholderia mallei, which is transmitted_by contact with tissues or body fluids of infected animals, or through mucosal surfaces such as the eyes and nose. The infection has_symptom fever, has_symptom chills, has_symptom sweating, has_symptom muscle aches, has_symptom chest pain, has_symptom muscle tightness, has_symptom headache, has_symptom mucopurulent nasal discharge, and has_symptom nodular lesions in the lungs.
+
+[Term]
+id: DOID:13450 ! coccidioidomycosis
+relationship: has_material_basis NCBITaxon:5501 ! Coccidioides immitis
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Coccidioides immitis, transmitted_by airborne spores and has_symptom conjunctivitis, has_symptom arthritis, has_symptom chest pain and results_in_formation_of skin nodules.
+
+[Term]
+id: DOID:13622 ! campylobacteriosis
+relationship: has_material_basis NCBITaxon:197 ! Campylobacter jejuni
+! A primary bacterial infectious disease that results_in infection located_in intestine, has_material_basis_in Campylobacter jejuni, which is transmitted_by ingestion of contaminated food or water or transmitted_by contact with infected people or animals. The infection has_symptom diarrhea or has_symptom dysentery, has_symptom abdominal cramps and pain, and has_symptom fever.
+
+[Term]
+id: DOID:13775 ! plantar wart
+relationship: has_material_basis NCBITaxon:173087 ! Human papillomavirus types
+! A viral infectious disease that results_in benign epithelial tumors located_in skin of the sole or toes of the foot, has_material_basis_in human papillomavirus (types 1, 2, 4 or 63), has_symptom lesions that appear on the sole of the foot.
+
+[Term]
+id: DOID:13778 ! chancroid
+relationship: has_material_basis NCBITaxon:730 ! Haemophilus ducreyi
+! A primary bacterial infectious disease that is a sexually transmitted infection located_in skin of the genitals, has_material_basis_in Haemophilus ducreyi, which is transmitted_by sexual contact. The infection has_symptom painful and soft ulcers.
+
+[Term]
+id: DOID:13800 ! inclusion conjunctivitis
+relationship: has_material_basis NCBITaxon:813 ! Chlamydia trachomatis
+! A commensal bacterial infectious disease that results_in inflammation, located_in conjunctiva of the eye, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact. The infection has_symptom swollen conjunctiva and eyelids and has_symptom discharge of pus and mucus.
+
+[Term]
+id: DOID:13801 ! pharyngoconjunctival fever
+relationship: has_material_basis NCBITaxon:10519 ! Human adenovirus 7
+! A viral infectious disease that results_in infection located_in pharynx or located_in conjunctiva, has_material_basis_in Human adenovirus 3 or has_material_basis_in Human adenovirus 7, which are transmitted_by droplet spread of respiratory secretions or transmitted_by fomites. The infection has_symptom fever, has_symptom lymphadenopathy of the neck, and has_symptom headache.
+
+[Term]
+id: DOID:13801 ! pharyngoconjunctival fever
+relationship: has_material_basis NCBITaxon:45659 ! Human adenovirus 3
+! A viral infectious disease that results_in infection located_in pharynx or located_in conjunctiva, has_material_basis_in Human adenovirus 3 or has_material_basis_in Human adenovirus 7, which are transmitted_by droplet spread of respiratory secretions or transmitted_by fomites. The infection has_symptom fever, has_symptom lymphadenopathy of the neck, and has_symptom headache.
+
+[Term]
+id: DOID:13819 ! lymphogranuloma venereum
+relationship: has_material_basis NCBITaxon:813 ! Chlamydia trachomatis
+! A commensal bacterial infectious disease that results_in infection located_in lymph nodes, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact, and transmitted_by fomites. The infection has_symptom inguinal lymphadenitis, has_symptom abscesses in the groin area, and has_symptom lymphangitis.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:5498 ! Cladosporium
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:5579 ! Aureobasidium
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:5598 ! Alternaria
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:5600 ! Phialophora
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:5970 ! Exophiala dermatitidis
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:66225 ! Phaeoannellomyces
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:86056 ! Rhinocladiella mackenziei
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:89940 ! Cladophialophora bantiana
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14049 ! phaeohyphomycosis
+relationship: has_material_basis NCBITaxon:91493 ! Exserohilum
+! A primary systemic mycosis located_in subcutaneous tissues, located_in brain, located_in sinuses, located_in lungs, or located_in peritoneal cavity, has_material_basis_in Exophiala dermatitidis, has_material_basis_in Phialophora, has_material_basis_in Bipolaris hawaiiensis, has_material_basis_in Exserohilum, has_material_basis_in Cladophialophora bantiana, has_material_basis_in Phaeoannellomyces, has_material_basis_in Aureobasidium, has_material_basis_in Cladosporium cladosporoides, has_material_basis_in Alternaria or has_material_basis_in Rhinocladiella mackenziei and results_in_formation_of subcutaneous abscesses arising at the site of minor trauma, and occur in both immunosuppressed and immunocompetent individuals.
+
+[Term]
+id: DOID:14095 ! boutonneuse fever
+relationship: has_material_basis NCBITaxon:781 ! Rickettsia conorii
+! A spotted fever that has_material_basis_in Rickettsia conorii subsp conorii, which is transmitted_by dog tick (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities.
+
+[Term]
+id: DOID:14115 ! toxic shock syndrome
+relationship: has_material_basis NCBITaxon:1280 ! Staphylococcus aureus
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Streptococcus pyogenes or has_material_basis_in Staphylococcus aureus , which produce toxins that are absorbed systemically and produce the systemic manifestations. The infection has_symptom fever, has_symptom rash, has_symptom hypotension, has_symptom multiorgan failure, has_symptom desquamation, has_symptom vomiting, has_symptom diarrhea, has_symptom headache, and has_symptom nonfocal neurologic abnormalities.
+
+[Term]
+id: DOID:14115 ! toxic shock syndrome
+relationship: has_material_basis NCBITaxon:1314 ! Streptococcus pyogenes
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Streptococcus pyogenes or has_material_basis_in Staphylococcus aureus , which produce toxins that are absorbed systemically and produce the systemic manifestations. The infection has_symptom fever, has_symptom rash, has_symptom hypotension, has_symptom multiorgan failure, has_symptom desquamation, has_symptom vomiting, has_symptom diarrhea, has_symptom headache, and has_symptom nonfocal neurologic abnormalities.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: has_material_basis NCBITaxon:37705 ! Sin Nombre virus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: has_material_basis NCBITaxon:37962 ! Bayou virus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: has_material_basis NCBITaxon:46607 ! Andes virus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+relationship: has_material_basis NCBITaxon:61172 ! Laguna Negra virus
+! A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus). The infection has_symptom fever, has_symptom muscle pain, has_symptom headache, has_symptom cough, has_symptom vomiting, has_symptom chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence, pulmonary edema and hypoxia often resulting in death from shock or cardiac complications.
+
+[Term]
+id: DOID:14484 ! sporotrichosis
+relationship: has_material_basis NCBITaxon:29908 ! Sporothrix schenckii
+! A primary systemic mycosis that results_in a systemic fungal infection, has_material_basis_in Sporothrix schenckii in animals and humans and results_in_formation_of red papule at the site of inoculation.
+
+[Term]
+id: DOID:1563 ! dermatomycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A cutaneous mycosis that results_in fungal infection located_in skin or of its appendages, has_material_basis_in Ascomycota fungi other than the dermatophytes.
+
+[Term]
+id: DOID:1563 ! dermatomycosis
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A cutaneous mycosis that results_in fungal infection located_in skin or of its appendages, has_material_basis_in Ascomycota fungi other than the dermatophytes.
+
+[Term]
+id: DOID:1564 ! fungal infectious disease
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A disease by infectious agent that results_in infection, has_material_basis_in Fungi, which pass the resistance barriers of the human or animal body.
+
+[Term]
+id: DOID:1883 ! hepatitis C
+relationship: has_material_basis NCBITaxon:11103 ! Hepatitis C virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:2043 ! hepatitis B
+relationship: has_material_basis NCBITaxon:10407 ! Hepatitis B virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis B virus, which is transmitted_by sexual contact, transmitted_by blood transfusions, and transmitted_by fomites like needles or syringes. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:2047 ! hepatitis D
+relationship: has_material_basis NCBITaxon:10407 ! Hepatitis B virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis delta virus, which is an incomplete virus that requires the helper function of Hepatitis B virus to replicate and only occurs among people who are infected with the Hepatitis B virus. The infection has_symptom fatigue, has_symptom lethargy, has_symptom anorexia, has_symptom nausea, has_symptom jaundice, has_symptom clay-colored stools, has_symptom dark urine, has_symptom changes in personality, has_symptom disturbances in sleep, has_symptom confusion, has_symptom abnormal behavior, has_symptom somnolence, and has_symptom coma.
+
+[Term]
+id: DOID:2047 ! hepatitis D
+relationship: has_material_basis NCBITaxon:12475 ! Hepatitis delta virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis delta virus, which is an incomplete virus that requires the helper function of Hepatitis B virus to replicate and only occurs among people who are infected with the Hepatitis B virus. The infection has_symptom fatigue, has_symptom lethargy, has_symptom anorexia, has_symptom nausea, has_symptom jaundice, has_symptom clay-colored stools, has_symptom dark urine, has_symptom changes in personality, has_symptom disturbances in sleep, has_symptom confusion, has_symptom abnormal behavior, has_symptom somnolence, and has_symptom coma.
+
+[Term]
+id: DOID:2123 ! tularemia
+relationship: has_material_basis NCBITaxon:263 ! Francisella tularensis
+! A primary bacterial infectious disease that has_material_basis_in Francisella tularensis, which is transmitted_by dog tick bite (Dermacentor variabilis), transmitted_by deer flies (Chrysops sp) or transmitted_by contact with infected animal tissues.
+
+[Term]
+id: DOID:2297 ! leptospirosis
+relationship: has_material_basis NCBITaxon:171 ! Leptospira
+! A primary bacterial infectious disease that involves systemic infection, has_material_basis_in Leptospira, which is transmitted_by contact with water, food, or soil containing urine from the infected animals. The infection has_symptom jaundice, has_symptom chills, has_symptom fever, has_symptom muscle pain, and has_symptom hepatomegaly.
+
+[Term]
+id: DOID:2312 ! nocardiosis
+relationship: has_material_basis NCBITaxon:1824 ! Nocardia asteroides
+! An opportunistic bacterial infectious disease that results_in disseminated infection in immunocompromised hosts, has_material_basis_in Nocardia asteroides. The infection has_symptom pneumonia, has_symptom cellulitis, has_symptom lesions in the brain or meninges, and has_symptom ascending regional lymphadenopathy.
+
+[Term]
+id: DOID:2365 ! West Nile encephalitis
+relationship: has_material_basis NCBITaxon:11082 ! West Nile virus
+! A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.
+
+[Term]
+id: DOID:2366 ! West Nile fever
+relationship: has_material_basis NCBITaxon:11082 ! West Nile virus
+! A viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom body ache, has_symptom nausea, has_symptom maculopapular rash and has_symptom vomiting.
+
+[Term]
+id: DOID:2473 ! opportunistic mycosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A fungal infectious disease that results_in fungal infection located_in human body of immunocompromised individuals, has_material_basis_in Fungi. The organisms invade via the respiratory tract, alimentary tract, or intravascular devices.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: has_material_basis NCBITaxon:37162 ! Mycobacterium avium complex
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:2832 ! geotrichosis
+relationship: has_material_basis NCBITaxon:27317 ! Galactomyces geotrichum
+! An opportunistic mycosis that has_material_basis_in Galactomyces geotrichum, results_in systemic infection in immunocompromised people.
+
+[Term]
+id: DOID:2929 ! Newcastle disease
+relationship: has_material_basis NCBITaxon:11176 ! Newcastle disease virus
+! A viral infectious disease that results_in infection in birds and humans, has_material_basis_in Newcastle disease virus, which is transmitted_by contact with feces and urine of an infected bird, or transmitted_by fomites. The infection has_symptom conjunctivitis, has_symptom headache, and has_symptom lacrimation in humans, and has_symptom gasping, has_symptom coughing, has_symptom twisting of head and neck, has_symptom circling, has_symptom complete paralysis, has_symptom watery diarrhea, and has_symptom reduced egg production in birds.
+
+[Term]
+id: DOID:2934 ! aleutian mink disease
+relationship: has_material_basis NCBITaxon:28314 ! Aleutian mink disease virus
+! A viral infectious disease that results_in inflammatory destruction located_in blood vessels of minks and rarely in humans, which has_material_basis_in Aleutian mink disease virus. The infection has_symptom weight loss, has_symptom hepatomegaly, has_symptom enlarged spleen, and has_symptom anemia.
+
+[Term]
+id: DOID:2945 ! severe acute respiratory syndrome
+relationship: has_material_basis NCBITaxon:227859 ! SARS coronavirus
+! A viral infectious disease that results_in infection located_in respiratory tract, has_material_basis_in SARS coronavirus (SARS-CoV), which is transmitted_by droplet spread of respiratory secretions, transmitted_by ingestion of contaminated food, or transmitted_by fomites. The infection has_symptom fever, has_symptom headache, has_symptom body aches, has_symptom dry cough, and has_symptom hypoxia.
+
+[Term]
+id: DOID:321 ! tropical spastic paraparesis
+relationship: has_material_basis NCBITaxon:11908 ! Human T-lymphotropic virus 1
+! A viral infectious disease that results_in inflammation located_in spinal cord, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, and transmitted_by breast feeding. The infection has_symptom spastic weakness of both legs, has_symptom muscle stiffness, has_symptom sensory disturbance, and has_symptom spasms.
+
+[Term]
+id: DOID:3292 ! monkeypox
+relationship: has_material_basis NCBITaxon:10244 ! Monkeypox virus
+! A viral infectious disease that results_in infection of primates, rodents and humans, located_in skin, has_material_basis_in Monkeypox virus, which is transmitted_by contact with the animal's blood, body fluids, rash, or with the body fluids of a sick person, transmitted_by fomites, and transmitted_by respiratory droplets. The infection has_symptom fever, has_symptom muscle ache, has_symptom headache, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:3298 ! vaccinia
+relationship: has_material_basis NCBITaxon:10245 ! Vaccinia virus
+! A viral infectious disease that results_in infection, located_in skin, has_material_basis_in Vaccinia virus, which is used as a live vaccine against smallpox. The virus is transmitted_by contact with the vaccination site before it has healed, or transmitted_by fomites that have been contaminated with live virus from the vaccination site. The infection has_symptom rash, has_symptom fever, and has_symptom body aches.
+
+[Term]
+id: DOID:3482 ! plague
+relationship: has_material_basis NCBITaxon:632 ! Yersinia pestis
+! A primary bacterial infectious disease that results_in infection, located_in lymph node, located_in vasculature or located_in lungs, has_material_basis_in Yersinia pestis, which is transmitted_by oriental rat flea (Xenopsylla cheopis) infected by feeding on rodents and other mammals, transmitted_by air, transmitted_by direct contact or transmitted_by ingestion of contaminated undercooked food.
+
+[Term]
+id: DOID:399 ! tuberculosis
+relationship: has_material_basis NCBITaxon:1773 ! Mycobacterium tuberculosis
+! A primary bacterial infectious disease that is located_in lungs, located_in lymph nodes, located_in pericardium, located_in brain, located_in pleura or located_in gastrointestinal tract, has_material_basis_in Mycobacterium tuberculosis, which is transmitted_by droplets released into the air when an infected person coughs or sneezes.
+
+[Term]
+id: DOID:4270 ! encephalitozoonosis
+relationship: has_material_basis NCBITaxon:27973 ! Encephalitozoon hellem
+! A microsporidiosis that is a zoonotic infectious disease results_in disseminated fungal infection in dogs, cats, hamsters, guinea pigs, rats, mice and humans, has_material_basis_in Encephalitozoon cuniculi, has_material_basis_in Encephalitozoon intestinalis or has_material_basis_in Encephalitozoon hellem.
+
+[Term]
+id: DOID:4270 ! encephalitozoonosis
+relationship: has_material_basis NCBITaxon:58839 ! Encephalitozoon intestinalis
+! A microsporidiosis that is a zoonotic infectious disease results_in disseminated fungal infection in dogs, cats, hamsters, guinea pigs, rats, mice and humans, has_material_basis_in Encephalitozoon cuniculi, has_material_basis_in Encephalitozoon intestinalis or has_material_basis_in Encephalitozoon hellem.
+
+[Term]
+id: DOID:4270 ! encephalitozoonosis
+relationship: has_material_basis NCBITaxon:6035 ! Encephalitozoon cuniculi
+! A microsporidiosis that is a zoonotic infectious disease results_in disseminated fungal infection in dogs, cats, hamsters, guinea pigs, rats, mice and humans, has_material_basis_in Encephalitozoon cuniculi, has_material_basis_in Encephalitozoon intestinalis or has_material_basis_in Encephalitozoon hellem.
+
+[Term]
+id: DOID:4271 ! microsporidiosis
+relationship: has_material_basis NCBITaxon:6029 ! Microsporidia
+! An opportunistic mycosis that results_in systemic fungal infection in immunocompromised people, has_material_basis_in Microsporidia phylum members.
+
+[Term]
+id: DOID:4325 ! Ebola hemorrhagic fever
+relationship: has_material_basis NCBITaxon:186538 ! Zaire ebolavirus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Zaire ebolavirus, has_material_basis_in Sudan ebolavirus, has_material_basis_in Cote d'Ivoire ebolavirus, or has_material_basis_in Bundibugyo ebolavirus, which are transmitted_by contact with the body fluids of an infected animal or person, transmitted_by contaminated fomites, or transmitted_by infected medical equipment. The infection has_symptom fever, has_symptom headache, has_symptom joint pain, has_symptom muscle aches, has_symptom sore throat, has_symptom weakness, has_symptom diarrhea, has_symptom vomiting, has_symptom stomach pain, has_symptom rash, has_symptom red eyes, has_symptom hiccups, and has_symptom internal and external bleeding.
+
+[Term]
+id: DOID:4325 ! Ebola hemorrhagic fever
+relationship: has_material_basis NCBITaxon:186540 ! Sudan ebolavirus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Zaire ebolavirus, has_material_basis_in Sudan ebolavirus, has_material_basis_in Cote d'Ivoire ebolavirus, or has_material_basis_in Bundibugyo ebolavirus, which are transmitted_by contact with the body fluids of an infected animal or person, transmitted_by contaminated fomites, or transmitted_by infected medical equipment. The infection has_symptom fever, has_symptom headache, has_symptom joint pain, has_symptom muscle aches, has_symptom sore throat, has_symptom weakness, has_symptom diarrhea, has_symptom vomiting, has_symptom stomach pain, has_symptom rash, has_symptom red eyes, has_symptom hiccups, and has_symptom internal and external bleeding.
+
+[Term]
+id: DOID:4325 ! Ebola hemorrhagic fever
+relationship: has_material_basis NCBITaxon:565995 ! Bundibugyo ebolavirus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Zaire ebolavirus, has_material_basis_in Sudan ebolavirus, has_material_basis_in Cote d'Ivoire ebolavirus, or has_material_basis_in Bundibugyo ebolavirus, which are transmitted_by contact with the body fluids of an infected animal or person, transmitted_by contaminated fomites, or transmitted_by infected medical equipment. The infection has_symptom fever, has_symptom headache, has_symptom joint pain, has_symptom muscle aches, has_symptom sore throat, has_symptom weakness, has_symptom diarrhea, has_symptom vomiting, has_symptom stomach pain, has_symptom rash, has_symptom red eyes, has_symptom hiccups, and has_symptom internal and external bleeding.
+
+[Term]
+id: DOID:4327 ! Marburg hemorrhagic fever
+relationship: has_material_basis NCBITaxon:186537 ! Marburgvirus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Marburgvirus, which is transmitted_by contact with the body fluids of an infected person. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom myalgia, has_symptom maculopapular rash on the trunk, has_symptom nausea, has_symptom vomiting, has_symptom chest pain, has_symptom sore throat, has_symptom abdominal pain, has_symptom diarrhea, and has_symptom bleeding.
+
+[Term]
+id: DOID:4336 ! tinea favosa
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A tinea capitis that results_in fungal infection located_in scalp, located_in glabrous skin or located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and results_in_formation_of scutula, yellowish cup-shaped crusts of dense masses of mycelium and epithelial debris, which develop at the surface of a hair follicle with the shaft in the center of the raised lesion. Removal of these crusts reveals an oozing, moist, red base. Later, atrophy of the skin occurs leaving a cicatricial alopecia and scarring.
+
+[Term]
+id: DOID:4336 ! tinea favosa
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A tinea capitis that results_in fungal infection located_in scalp, located_in glabrous skin or located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and results_in_formation_of scutula, yellowish cup-shaped crusts of dense masses of mycelium and epithelial debris, which develop at the surface of a hair follicle with the shaft in the center of the raised lesion. Removal of these crusts reveals an oozing, moist, red base. Later, atrophy of the skin occurs leaving a cicatricial alopecia and scarring.
+
+[Term]
+id: DOID:4337 ! tinea capitis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A dermatophytosis that results_in contagious fungal infection located_in scalp, located_in hair of head, located_in eyebrow or located_in eyelash, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching of the scalp, has_symptom pus filled lesions on the scalp, and has_symptom patches of hair loss, sometimes with a 'black dot' pattern.
+
+[Term]
+id: DOID:4337 ! tinea capitis
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A dermatophytosis that results_in contagious fungal infection located_in scalp, located_in hair of head, located_in eyebrow or located_in eyelash, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and has_symptom itching of the scalp, has_symptom pus filled lesions on the scalp, and has_symptom patches of hair loss, sometimes with a 'black dot' pattern.
+
+[Term]
+id: DOID:4411 ! hepatitis E
+relationship: has_material_basis NCBITaxon:12461 ! Hepatitis E virus
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis E virus, which is transmitted_by ingestion of contaminated food. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom dark urine, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:4492 ! avian influenza
+relationship: has_material_basis NCBITaxon:11320 ! Influenza A virus
+! An influenza that results_in infection located_in respiratory tract of humans, domestic and wild birds, has_material_basis_in Influenza A virus, which is transmitted_by contact with infected poultry. Five strains of avian influenza A viruses (H5N1, H7N3, H7N2, H7N7 and H9N2) are known to cause human infections. The infection has_symptom fever, has_symptom cough, has_symptom sore throat, has_symptom muscle aches, has_symptom nausea, has_symptom diarrhea, has_symptom vomiting, has_symptom neurologic changes, has_symptom pneumonia, and has_symptom acute respiratory distress.
+
+[Term]
+id: DOID:4885 ! Colorado tick fever
+relationship: has_material_basis NCBITaxon:46839 ! Colorado tick fever virus
+! A viral infectious disease that results_in infection, has_material_basis_in Colorado tick fever virus, which is transmitted_by rocky mountain wood tick, Dermacentor andersoni. The infection has_symptom fever for 2-3 days, followed by an afebrile period of similar duration and then another 2-3 days of fever, has_symptom headache, has_symptom myalgia, and has_symptom fatigue.
+
+[Term]
+id: DOID:4952 ! postpoliomyelitis syndrome
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A poliomyelitis that results_in atrophy located_in muscle, many years after the initial infection, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3. It is characterized by new weakening in muscles that were previously affected by the polio infection and in muscles that were unaffected. The infection has_symptom muscle weakness, has_symptom muscle pain, has_symptom sleep apnea, and has_symptom breathing problems.
+
+[Term]
+id: DOID:4952 ! postpoliomyelitis syndrome
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A poliomyelitis that results_in atrophy located_in muscle, many years after the initial infection, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3. It is characterized by new weakening in muscles that were previously affected by the polio infection and in muscles that were unaffected. The infection has_symptom muscle weakness, has_symptom muscle pain, has_symptom sleep apnea, and has_symptom breathing problems.
+
+[Term]
+id: DOID:4952 ! postpoliomyelitis syndrome
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A poliomyelitis that results_in atrophy located_in muscle, many years after the initial infection, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3. It is characterized by new weakening in muscles that were previously affected by the polio infection and in muscles that were unaffected. The infection has_symptom muscle weakness, has_symptom muscle pain, has_symptom sleep apnea, and has_symptom breathing problems.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4974 ! actinobacillosis
+relationship: has_material_basis NCBITaxon:723 ! Actinobacillus ureae
+! A commensal bacterial infectious disease that results_in infection, has_material_basis_in Actinobacillus ureae, which is a commensal of the human respiratory tract. The pathogen causes meningitis, endocarditis, bacteremia, atrophic rhinitis, bronchitis, pneumonia, conjunctivitis, peritonitis, and otitis media.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:5052 ! melioidosis
+relationship: has_material_basis NCBITaxon:28450 ! Burkholderia pseudomallei
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Burkholderia pseudomallei, which is transmitted_by contact with the contaminated water or soil. The infection has_symptom fever, has_symptom respiratory distress, has_symptom chest pain, and has_symptom stomach pain.
+
+[Term]
+id: DOID:5154 ! borna disease
+relationship: has_material_basis NCBITaxon:12455 ! Borna disease virus
+! A viral infectious disease that results_in infection, which affects dopaminergic neurotransmission located_in central nervous system, has_material_basis_in Borna disease virus, which is transmitted_by contact with infected oronasal secretions. The infection has_symptom mood disturbances, has_symptom behaviour disturbances, has_symptom cognitive disturbances, has_symptom neurologic disturbances, and has_symptom movement impairment.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: has_material_basis NCBITaxon:11676 ! Human immunodeficiency virus 1
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: has_material_basis NCBITaxon:11709 ! Human immunodeficiency virus 2
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:5362 ! focal epithelial hyperplasia
+relationship: has_material_basis NCBITaxon:173087 ! Human papillomavirus types
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in human papillomavirus (types 13 or 32), has_symptom papules or nodules in the oral cavity.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: has_material_basis NCBITaxon:11676 ! Human immunodeficiency virus 1
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: has_material_basis NCBITaxon:11709 ! Human immunodeficiency virus 2
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:7033 ! anisakiasis
+relationship: has_material_basis NCBITaxon:6269 ! Anisakis simplex
+! A parasitic helminthiasis infectious disease that results_in infection located_in intestinal mucosa with larvae of the nematodes transmitted_by ingestion of raw or poorly cooked saltwater fish, has_material_basis_in Anisakis simplex or has_material_basis_in Pseudoterranova decipiens and has_symptom abdominal pain, has_symptom nausea and vomiting. Invasive anisakiasis results in the infection of omentum, pancreas, liver, and lung.
+
+[Term]
+id: DOID:7033 ! anisakiasis
+relationship: has_material_basis NCBITaxon:6271 ! Pseudoterranova decipiens
+! A parasitic helminthiasis infectious disease that results_in infection located_in intestinal mucosa with larvae of the nematodes transmitted_by ingestion of raw or poorly cooked saltwater fish, has_material_basis_in Anisakis simplex or has_material_basis_in Pseudoterranova decipiens and has_symptom abdominal pain, has_symptom nausea and vomiting. Invasive anisakiasis results in the infection of omentum, pancreas, liver, and lung.
+
+[Term]
+id: DOID:7426 ! cutaneous anthrax
+relationship: has_material_basis NCBITaxon:1392 ! Bacillus anthracis
+! An anthrax disease that results_in infection located_in skin, has_material_basis_in Bacillus anthracis, which is transmitted_by contact with infected animals or animal products. The infection has_symptom skin lesion that eventually forms an ulcer with a black center.
+
+[Term]
+id: DOID:7427 ! anthrax disease
+relationship: has_material_basis NCBITaxon:1392 ! Bacillus anthracis
+! A primary bacterial infectious disease that results_in infection located_in skin, located_in lung lymph nodes or located_in gastrointestinal tract, has_material_basis_in Bacillus anthracis, transmitted_by contact with infected animals or animal products, transmitted_by airborne spores or transmitted_by ingestion of undercooked meat from infected animals and has_symptom skin ulcer, has_symptom nausea, has_symptom poor appetite, has_symptom bloody diarrhea, has_symptom fever or has_symptom shortness of breath.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: has_material_basis NCBITaxon:485 ! Neisseria gonorrhoeae
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:8469 ! influenza
+relationship: has_material_basis NCBITaxon:197911 ! Influenzavirus A
+! A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has_symptom chills, has_symptom fever, has_symptom sore throat, has_symptom runny nose, has_symptom muscle pains, has_symptom severe headache, has_symptom cough, and has_symptom weakness.
+
+[Term]
+id: DOID:8469 ! influenza
+relationship: has_material_basis NCBITaxon:197912 ! Influenzavirus B
+! A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has_symptom chills, has_symptom fever, has_symptom sore throat, has_symptom runny nose, has_symptom muscle pains, has_symptom severe headache, has_symptom cough, and has_symptom weakness.
+
+[Term]
+id: DOID:8469 ! influenza
+relationship: has_material_basis NCBITaxon:197913 ! Influenzavirus C
+! A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has_symptom chills, has_symptom fever, has_symptom sore throat, has_symptom runny nose, has_symptom muscle pains, has_symptom severe headache, has_symptom cough, and has_symptom weakness.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:1655 ! Actinomyces naeslundii
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:1656 ! Actinomyces viscosus
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:1659 ! Actinomyces israelii
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:1660 ! Actinomyces odontolyticus
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:1750 ! Propionibacterium propionicum
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:52769 ! Actinomyces gerencseriae
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8478 ! actinomycosis
+relationship: has_material_basis NCBITaxon:52773 ! Actinomyces meyeri
+! A commensal bacterial infectious disease that results_in infection, which is characterized by contiguous spread, suppurative and granulomatous inflammation, and formation of multiple abscesses and sinus tracts that may discharge sulfur granules, has_material_basis_in Actinomyces israelii, has_material_basis_in Actinomyces gerencseriae, has_material_basis_in Actinomyces naeslundii, has_material_basis_in Actinomyces odontolyticus, has_material_basis_in Actinomyces viscosus, has_material_basis_in Actinomyces meyeri, has_material_basis_in Propionibacterium propionicum, which require a break in the integrity of the mucous membranes and the presence of devitalized tissue to invade deeper body structures.
+
+[Term]
+id: DOID:8536 ! herpes zoster
+relationship: has_material_basis NCBITaxon:10335 ! Human herpesvirus 3
+! A viral infectious disease that results_in infection located_in nerve fiber, has_material_basis_in Human herpesvirus 3, which reactivates after appearing as chickenpox in childhood. The virus is transmitted_by direct contact with the rash, which can develop into chickenpox in newly-infected individuals. The infection has_symptom rash which is followed by blisters, has_symptom headache, has_symptom fever, has_symptom malaise, has_symptom itching, has_symptom burning pain, and has_symptom paresthesia.
+
+[Term]
+id: DOID:8566 ! herpes simplex
+relationship: has_material_basis NCBITaxon:10298 ! Human herpesvirus 1
+! A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+
+[Term]
+id: DOID:8566 ! herpes simplex
+relationship: has_material_basis NCBITaxon:10310 ! Human herpesvirus 2
+! A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+
+[Term]
+id: DOID:8568 ! infectious mononucleosis
+relationship: has_material_basis NCBITaxon:10376 ! Human herpesvirus 4
+! A viral infectious disease that results_in inflammation, located_in pharynx, has_material_basis_in Human herpesvirus 4 and has_symptom fever, has_symptom fatigue, has_symptom lymphadenopathy, and has_symptom splenomegaly.
+
+[Term]
+id: DOID:8607 ! herpetic whitlow
+relationship: has_material_basis NCBITaxon:10298 ! Human herpesvirus 1
+! A herpes simplex that results_in infection located_in skin of the finger, toe, or thumb, has_material_basis_in Human herpesvirus 1 and has_material_basis_in Human herpesvirus 2 and has_symptom lesions, has_symptom fever, and has_symptom swollen lymph nodes.
+
+[Term]
+id: DOID:8607 ! herpetic whitlow
+relationship: has_material_basis NCBITaxon:10310 ! Human herpesvirus 2
+! A herpes simplex that results_in infection located_in skin of the finger, toe, or thumb, has_material_basis_in Human herpesvirus 1 and has_material_basis_in Human herpesvirus 2 and has_symptom lesions, has_symptom fever, and has_symptom swollen lymph nodes.
+
+[Term]
+id: DOID:8622 ! measles
+relationship: has_material_basis NCBITaxon:11234 ! Measles virus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
+
+[Term]
+id: DOID:8632 ! Kaposi's sarcoma
+relationship: has_material_basis NCBITaxon:37296 ! Human herpesvirus 8
+! A connective tissue cancer  that derives_from lymphatic endothelium, and derives_from spindle cells, results_in_formation_of vascular channels that fill with blood cells, has_material_basis_in Human herpesvirus 8 (HHV8).
+
+[Term]
+id: DOID:8659 ! chickenpox
+relationship: has_material_basis NCBITaxon:10335 ! Human herpesvirus 3
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human herpesvirus 3, which is transmitted_by direct contact with secretions from the rash, or transmitted_by droplet spread of respiratory secretions. The infection has_symptom anorexia, has_symptom myalgia, has_symptom nausea, has_symptom fever, has_symptom headache, has_symptom sore throat, and has_symptom blisters.
+
+[Term]
+id: DOID:8704 ! genital herpes
+relationship: has_material_basis NCBITaxon:10298 ! Human herpesvirus 1
+! A herpes simplex that results_in infection located_in genital system, or located_in rectum, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which is transmitted_by sexual contact. The infection has_symptom sores, has_symptom fever, and has_symptom swollen glands.
+
+[Term]
+id: DOID:8704 ! genital herpes
+relationship: has_material_basis NCBITaxon:10310 ! Human herpesvirus 2
+! A herpes simplex that results_in infection located_in genital system, or located_in rectum, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which is transmitted_by sexual contact. The infection has_symptom sores, has_symptom fever, and has_symptom swollen glands.
+
+[Term]
+id: DOID:8729 ! milker's nodule
+relationship: has_material_basis NCBITaxon:129726 ! Pseudocowpox virus
+! A viral infectious disease that results_in infection of cattle and humans, located_in skin, has_material_basis_in Pseudocowpox virus, which is transmitted_by contact with the infected cow teats, or transmitted_by fomites. The infection results_in_formation_of lesions on the fingers, hands, and forearms and has_symptom fever, has_symptom lymphangitis, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:8736 ! smallpox
+relationship: has_material_basis NCBITaxon:10255 ! Variola virus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Variola virus, which is transmitted_by droplets from oral, nasal or pharyngeal mucosa, transmitted_by contact with the body fluids, or transmitted_by fomites. The infection results_in_formation_of lesions, first on the face, hands and forearms and later on the trunk.
+
+[Term]
+id: DOID:8771 ! contagious pustular dermatitis
+relationship: has_material_basis NCBITaxon:10258 ! Orf virus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Orf virus, which is transmitted_by contact with infected or recently vaccinated animals, or transmitted_by fomites carrying the virus. The infection has_symptom lesions on the finger, hand, arm, face, and penis.
+
+[Term]
+id: DOID:8781 ! rubella
+relationship: has_material_basis NCBITaxon:11041 ! Rubella virus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method. The infection has_symptom rash on the face which spreads to the trunk and limbs, has_symptom fever, has_symptom lymphadenopathy, has_symptom joint pains, has_symptom headache, and has_symptom conjunctivitis.
+
+[Term]
+id: DOID:8867 ! molluscum contagiosum
+relationship: has_material_basis NCBITaxon:10279 ! Molluscum contagiosum virus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites. The infection has_symptom lesions which are flesh-colored with a pit in the center.
+
+[Term]
+id: DOID:8913 ! dermatophytosis
+relationship: has_material_basis NCBITaxon:4751 ! Fungi
+! A cutaneous mycosis that results_in fungal infection located_in scalp, located_in glabrous skin, or located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which have the ability to utilize keratin as a nutrient source.
+
+[Term]
+id: DOID:8913 ! dermatophytosis
+relationship: has_material_basis NCBITaxon:4890 ! Ascomycota
+! A cutaneous mycosis that results_in fungal infection located_in scalp, located_in glabrous skin, or located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes, which have the ability to utilize keratin as a nutrient source.
+
+[Term]
+id: DOID:8956 ! cowpox
+relationship: has_material_basis NCBITaxon:10243 ! Cowpox virus
+! A viral infectious disease that results_in infection in rodents, cows, and humans, located_in skin, has_material_basis_in Cowpox virus, which is transmitted_by contact with an infected animal. The infection results_in_formation_of vesicopustular lesions on the hands or face.
+
+[Term]
+id: DOID:8970 ! subacute sclerosing panencephalitis
+relationship: has_material_basis NCBITaxon:11234 ! Measles virus
+! A viral infectious disease that results_in infection located_in brain, has_material_basis_in Measles virus which is immune resistant (which can be a result of a mutation of the virus itself).
+
+[Term]
+id: DOID:9113 ! granuloma inguinale
+relationship: has_material_basis NCBITaxon:39824 ! Klebsiella granulomatis
+! A primary bacterial infectious disease that results_in infection located_in skin or located_in mucosa of genital tract, has_material_basis_in Klebsiella granulomatis, transmitted by sexual contact or transmitted_by contact with the open sores. The infection has_symptom painless genital ulcers.
+
+[Term]
+id: DOID:9123 ! eczema herpeticum
+relationship: has_material_basis NCBITaxon:10298 ! Human herpesvirus 1
+! A herpes simplex that results_in infection located_in skin, effected by preexisting dermatosis, has_material_basis_in Human herpesvirus 1 or Human herpesvirus 2. The infection has_symptom watery blisters, has_symptom fever, and has_symptom swelling of the lymph nodes.
+
+[Term]
+id: DOID:9123 ! eczema herpeticum
+relationship: has_material_basis NCBITaxon:10310 ! Human herpesvirus 2
+! A herpes simplex that results_in infection located_in skin, effected by preexisting dermatosis, has_material_basis_in Human herpesvirus 1 or Human herpesvirus 2. The infection has_symptom watery blisters, has_symptom fever, and has_symptom swelling of the lymph nodes.
+
+[Term]
+id: DOID:9153 ! variola minor
+relationship: has_material_basis NCBITaxon:10255 ! Variola virus
+! A smallpox that results_in milder infection, located_in skin, has_material_basis_in Variola virus. The infection results_in_formation_of lesions.
+
+[Term]
+id: DOID:9159 ! gas gangrene
+relationship: has_material_basis NCBITaxon:1502 ! Clostridium perfringens
+! A commensal bacterial infectious disease that results_in infection, located_in muscle tissue, has_material_basis_in Clostridium perfringens, which produce gas that becomes trapped in the infected tissue. Gas gangrene usually develops after injuries or surgery. The infection has_symptom large blisters, has_symptom pain in the infected area, has_symptom myonecrosis, has_symptom gas production, and has_symptom sepsis.
+
+[Term]
+id: DOID:9210 ! geniculate herpes zoster
+relationship: has_material_basis NCBITaxon:10335 ! Human herpesvirus 3
+! A viral infectious disease that results_in inflammation located_in facial nerve, which leads to paralysis of one side of the face, has_material_basis_in Human herpesvirus 3, which reactivates after appearing as chickenpox in childhood. The infection has_symptom vesicular rash of the ear or mouth, has_symptom tinnitus, has_symptom vertigo, has_symptom otalgia, and has_symptom headache.
+
+[Term]
+id: DOID:934 ! viral infectious disease
+relationship: has_material_basis NCBITaxon:10239 ! Viruses
+! A disease by infectious agent that results_in infection, has_material_basis_in Viruses.
+
+[Term]
+id: DOID:9537 ! Lassa fever
+relationship: has_material_basis NCBITaxon:11620 ! Lassa virus
+! A viral infectious disease that results_in infection, has_material_basis_in Lassa virus, which is transmitted_by multimammate rat of the genus Mastomys. The infection has_symptom fever, has_symptom retrosternal pain, has_symptom sore throat, has_symptom back pain, has_symptom cough, has_symptom abdominal pain, has_symptom vomiting, has_symptom diarrhea, has_symptom conjunctivitis, has_symptom facial swelling, has_symptom proteinuria (protein in the urine), and has_symptom mucosal bleeding.
+
+[Term]
+id: DOID:9584 ! Venezuelan equine encephalitis
+relationship: has_material_basis NCBITaxon:11036 ! Venezuelan equine encephalitis virus
+! A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Venezuelan equine encephalitis virus, which is transmitted_by Culex mosquitoes. The infection has_symptom fever, has_symptom chills, has_symptom malaise, has_symptom severe headache, has_symptom photophobia, and has_symptom myalgia in the legs and lumbosacral region.
+
+[Term]
+id: DOID:96 ! staphyloenterotoxemia
+relationship: has_material_basis NCBITaxon:1280 ! Staphylococcus aureus
+! A primary bacterial infectious disease that results_in infection located_in intestine caused by eating food contaminated with enterotoxins produced by bacteria, has_material_basis_in Staphylococcus aureus. The infection has_symptom diarrhea, has_symptom vomiting, has_symptom nausea, has_symptom cramps, and has_symptom weakness.
+
+[Term]
+id: DOID:9682 ! yellow fever
+relationship: has_material_basis NCBITaxon:11089 ! Yellow fever virus
+! A viral infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by Aedes, transmitted_by Haemagogus, or transmitted_by Sabethes species of mosquitoes. The infection has_symptom fever, has_symptom muscle pain, has_symptom backache, has_symptom headache, has_symptom shivers, has_symptom loss of appetite, has_symptom jaundice, and has_symptom bleeding from the mouth, nose, eyes or stomach leading to vomitus containing blood.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: has_material_basis NCBITaxon:12080 ! Human poliovirus 1
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: has_material_basis NCBITaxon:12083 ! Human poliovirus 2
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: has_material_basis NCBITaxon:12086 ! Human poliovirus 3
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+
+[Term]
+id: DOID:992 ! Omsk hemorrhagic fever
+relationship: has_material_basis NCBITaxon:12542 ! Omsk hemorrhagic fever virus
+! A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Omsk hemorrhagic fever virus, which is transmitted_by Dermacentor and transmitted_by Ixodes species of ticks. The infection has_symptom fever, has_symptom chills, has_symptom headache, has_symptom pain in lower and upper extremities, has_symptom stiff neck, has_symptom papulovesicular rash on the soft palate, has_symptom cervical lymphadenopathy, has_symptom conjunctival suffusion, has_symptom blood in the urine, and has_symptom blood in the sputum.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis NCBITaxon:12939 ! Anemia
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis NCBITaxon:5811 ! Toxoplasma gondii
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+

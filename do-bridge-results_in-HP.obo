@@ -1,0 +1,245 @@
+[Term]
+id: DOID:0050434 ! Andersen-Tawil syndrome
+relationship: results_in HP:0000347 ! Micrognathia
+! A long QY syndrome that has_material_basis_in autosomal dominant inheritance of a mutation in the KCNJ2 gene which disrupts the rhythm of the heart's lower chambers (ventricular arrhythmia) and results_in an unusually small lower jaw (micrognathia), low-set ears, and an abnormal curvature of the fingers called clinodactyly.
+
+[Term]
+id: DOID:0080020 ! Jansen's metaphyseal chondrodysplasia
+relationship: results_in HP:0003505 ! Disproportionate short limb dwarfism
+! A metaphyseal dysplasia that has_material_basis_in mutation in PTH receptor which results_in short-limbed dwarfism.
+
+[Term]
+id: DOID:0080021 ! Schmid metaphyseal chondrodysplasia
+relationship: results_in HP:0001516 ! Dwarfism
+! A metaphyseal dysplasia that results_in dwarfism and bowed legs.
+
+[Term]
+id: DOID:0080022 ! McKusick type metaphyseal dysplasia
+relationship: results_in HP:0003505 ! Disproportionate short limb dwarfism
+! A metaphyseal dysplasia that results_in short-limbed dwarfism and fine sparse hair.
+
+[Term]
+id: DOID:0080022 ! McKusick type metaphyseal dysplasia
+relationship: results_in HP:0008070 ! Sparse hair
+! A metaphyseal dysplasia that results_in short-limbed dwarfism and fine sparse hair.
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0000768 ! Pectus carinatum
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0000924 ! Abnormality of the musculoskeletal system
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0000926 ! Platyspondyly
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0001762 ! Talipes equinovarus
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0002650 ! Scoliosis
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0002812 ! Coxa vara
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0002939 ! Lordosis
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080028 ! spondyloepimetaphyseal dysplasia, Strudwick type
+relationship: results_in HP:0004322 ! Short stature
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the COL2A1 gene which results_in short stature and multiple skeletal abnormalities (lordosis, scoliosis, flattened vertebrae, pectus carinatum, coxa vara, clubfoot, and abnormal epiphyses or metaphyses).
+
+[Term]
+id: DOID:0080030 ! spondyloepimetaphyseal dysplasia, Missouri type
+relationship: results_in HP:0002970 ! Genu varum
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the MMP13 gene which results_in a pear-shaped vertebrae, abnormal metaphyseal changes, and genu varum deformities.
+
+[Term]
+id: DOID:0080030 ! spondyloepimetaphyseal dysplasia, Missouri type
+relationship: results_in HP:0004566 ! Pear-shaped vertebrae
+! A spondyloepimetaphyseal dysplasia that has_material_basis_in mutations in the MMP13 gene which results_in a pear-shaped vertebrae, abnormal metaphyseal changes, and genu varum deformities.
+
+[Term]
+id: DOID:0080036 ! SOST-related sclerosing bone dysplasia
+relationship: results_in HP:0001548 ! Overgrowth
+! A hyperostosis that has_material_basis_in a mutation in the SOST gene which results_in overgrowth of endosteal bone producing dense and wide bones throughout the body especially located_in skull.
+
+[Term]
+id: DOID:0080037 ! Worth's syndrome
+relationship: results_in HP:0011001 ! Increased bone mineral density
+! A hyperostosis that has_material_basis_in a mutation in the LRP5 gene which results_in increased bone density and bony structures located_in palate.
+
+[Term]
+id: DOID:0080038 ! pycnodysostosis
+relationship: results_in HP:0001516 ! Dwarfism
+! An osteochondrodysplasia that has_material_basis_in a mutation in the CTSK gene which results_in dwarfism, brittle bones, osteopetrosis, shortening of the distal phalanges.
+
+[Term]
+id: DOID:0080038 ! pycnodysostosis
+relationship: results_in HP:0011002 ! Osteopetrosis
+! An osteochondrodysplasia that has_material_basis_in a mutation in the CTSK gene which results_in dwarfism, brittle bones, osteopetrosis, shortening of the distal phalanges.
+
+[Term]
+id: DOID:0080043 ! achondrogenesis
+relationship: results_in HP:0000774 ! Narrow chest
+! An osteochondrodysplasia that has_material_basis_in deficient endochondral ossification which results_in dwarfism, short-trunk, short-limbed, anascara, disaprportionately large cranium, and a narrow chest which leads to death in utero or during early neonatal period.
+
+[Term]
+id: DOID:0080043 ! achondrogenesis
+relationship: results_in HP:0008867 ! Dwarfism, short-trunk, short-limbed
+! An osteochondrodysplasia that has_material_basis_in deficient endochondral ossification which results_in dwarfism, short-trunk, short-limbed, anascara, disaprportionately large cranium, and a narrow chest which leads to death in utero or during early neonatal period.
+
+[Term]
+id: DOID:0080044 ! hypochondrogenesis
+relationship: results_in HP:0001789 ! Hydrops fetalis
+! An osteochondrodysplasia that has_material_basis_in a mutation in the COL2A1 gene which affects bone growth and results_in a small body, hydrops fetalis, and abnormal ossification located_in vertebral column or located_in pelvis. The disease has_symptom enlarged abdomen.
+
+[Term]
+id: DOID:0080045 ! Kniest dysplasia
+relationship: results_in HP:0001516 ! Dwarfism
+! An osteochondrodysplasia that has_material_basis_in a mutation in the COL2A1 gene which results_in dwarfism with a short trunk and limbs as well as vision and hearing problems. The disease has_symptom large joints, has_symptom wide set eyes, has_symptom round flat face.
+
+[Term]
+id: DOID:0080045 ! Kniest dysplasia
+relationship: results_in HP:0001524 ! Short trunk
+! An osteochondrodysplasia that has_material_basis_in a mutation in the COL2A1 gene which results_in dwarfism with a short trunk and limbs as well as vision and hearing problems. The disease has_symptom large joints, has_symptom wide set eyes, has_symptom round flat face.
+
+[Term]
+id: DOID:0080050 ! acromesomelic dysplasia, Maroteaux type
+relationship: results_in HP:0001516 ! Dwarfism
+! An acromesomelic dysplasia that has_material_basis_in mutation in NPR-B receptor which results_in severe dwarfism, abnormalities of the located_in vertebral column and shortening of middle and distal segments in the located_in limb.
+
+[Term]
+id: DOID:0080052 ! acromesomelic dysplasia, Grebe type
+relationship: results_in HP:0002983 ! Micromelia
+! An acromesomelic dysplasia that has_material_basis_in mutation in CDMP-1 which results_in micromelia, absence of middle and proximal phalanges and some metacarpal and metatarsal bones.
+
+[Term]
+id: DOID:0080055 ! achondrogenesis type IB
+relationship: results_in HP:0000023 ! Inguinal hernia
+! An achondrogenesis that has_material_basis_in mutation in the SLC26A2 gene which results_in umbilical or inguinal hernia and a prominent rounded abdomen.
+
+[Term]
+id: DOID:0080056 ! achondrogenesis type II
+relationship: results_in HP:0001789 ! Hydrops fetalis
+! An achondrogenesis that has_material_basis_in mutations in the COL2A1 gene which results_in underdeveloped lungs, hydrops fetalis,a prominent forehead and abnormal ossification of the located_in vertebral column or located_in pelvis.
+
+[Term]
+id: DOID:0080056 ! achondrogenesis type II
+relationship: results_in HP:0011220 ! Prominent forehead
+! An achondrogenesis that has_material_basis_in mutations in the COL2A1 gene which results_in underdeveloped lungs, hydrops fetalis,a prominent forehead and abnormal ossification of the located_in vertebral column or located_in pelvis.
+
+[Term]
+id: DOID:10035 ! asymptomatic neurosyphilis
+relationship: results_in HP:0001287 ! Meningitis
+! A tertiary neurosyphilis that results_in mild meningitis.
+
+[Term]
+id: DOID:10326 ! Caplan's syndrome
+relationship: results_in HP:0001370 ! Rheumatoid arthritis
+! A pneumoconiosis that results_in humans that also have rheumatoid arthritis.
+
+[Term]
+id: DOID:106 ! pleural tuberculosis
+relationship: results_in HP:0002202 ! Pleural effusion
+! An extrapulmonary tuberculosis that results_in lymphocyte-predominant exudative pleural effusion, located_in pleura. This results from an allergic response to tuberculoprotein causing the permeabiltity of the pleural vasculature to alter leading to a sub-pleural caseous focus rupture into the pleural sac.
+
+[Term]
+id: DOID:12960 ! acrocephalosyndactylia
+relationship: results_in HP:0001159 ! Syndactyly
+! A synostosis that results_in craniosynostosis and syndactyly.
+
+[Term]
+id: DOID:12960 ! acrocephalosyndactylia
+relationship: results_in HP:0001363 ! Craniosynostosis
+! A synostosis that results_in craniosynostosis and syndactyly.
+
+[Term]
+id: DOID:14515 ! WAGR syndrome
+relationship: results_in HP:0000526 ! Aniridia
+! A chromosomal disease that is a nephroblastoma that results_in a rare genetic syndrome in which affected children are predisposed to develop Wilms tumor, Aniridia (absence of the colored part of the eye, the iris), genitourinary anomalies, and mental retardation. The condition results from a deletion on chromosome 11 resulting in the loss of several genes. As such, it is one of the best studied examples of a condition caused by loss of neighbouring (contiguous) genes.
+
+[Term]
+id: DOID:14515 ! WAGR syndrome
+relationship: results_in HP:0001249 ! Intellectual disability
+! A chromosomal disease that is a nephroblastoma that results_in a rare genetic syndrome in which affected children are predisposed to develop Wilms tumor, Aniridia (absence of the colored part of the eye, the iris), genitourinary anomalies, and mental retardation. The condition results from a deletion on chromosome 11 resulting in the loss of several genes. As such, it is one of the best studied examples of a condition caused by loss of neighbouring (contiguous) genes.
+
+[Term]
+id: DOID:14515 ! WAGR syndrome
+relationship: results_in HP:0002667 ! Nephroblastoma (Wilms tumor)
+! A chromosomal disease that is a nephroblastoma that results_in a rare genetic syndrome in which affected children are predisposed to develop Wilms tumor, Aniridia (absence of the colored part of the eye, the iris), genitourinary anomalies, and mental retardation. The condition results from a deletion on chromosome 11 resulting in the loss of several genes. As such, it is one of the best studied examples of a condition caused by loss of neighbouring (contiguous) genes.
+
+[Term]
+id: DOID:180 ! ossifying fibroma
+relationship: results_in HP:0001548 ! Overgrowth
+! A bone benign neoplasm that is located_in the mouth and results_in an overgrowth of gingival tissue due to irritation or trauma.
+
+[Term]
+id: DOID:3341 ! osteitis fibrosa
+relationship: results_in HP:0000752 ! Hyperactivity
+! A bone resorption disease that has_material_basis_in hyperparathyroidism which results_in hyperactivity in osteoclasts, deformity, and loss of mass located_in bone.
+
+[Term]
+id: DOID:4143 ! orbital cancer
+relationship: results_in HP:0000520 ! Proptosis
+! A bone cancer that is located_in the area behind the eye and derives_from the orbit or secondarily derives_from an adjacent source (eyelid, paranasal sinus, or intracranial compartment). It results_in the eye pushing forward causing a bulging of the eye called proptosis.
+
+[Term]
+id: DOID:4336 ! tinea favosa
+relationship: results_in HP:0100699 ! Scarring
+! A tinea capitis that results_in fungal infection located_in scalp, located_in glabrous skin or located_in nail, has_material_basis_in Ascomycota fungi that belong to a group called dermatophytes and results_in_formation_of scutula, yellowish cup-shaped crusts of dense masses of mycelium and epithelial debris, which develop at the surface of a hair follicle with the shaft in the center of the raised lesion. Removal of these crusts reveals an oozing, moist, red base. Later, atrophy of the skin occurs leaving a cicatricial alopecia and scarring.
+
+[Term]
+id: DOID:4480 ! achondroplasia
+relationship: results_in HP:0001516 ! Dwarfism
+! An osteochondrodysplasia that results_in dwarfism which has_material_basis_in abnormal ossification of cartilage in located_in long bone.
+
+[Term]
+id: DOID:4514 ! thyroid angiosarcoma
+relationship: results_in HP:0000853 ! Goiter
+! A thyroid sarcoma and angiosarcoma that results_in a high prevalence of iodine-deficient goiter.
+
+[Term]
+id: DOID:4997 ! Camurati-Engelmann disease
+relationship: results_in HP:0011001 ! Increased bone mineral density
+! An osteosclerosis that has_material_basis_in mutations in the TGFB1 gene which results_in increased bone density located_in long bone.
+
+[Term]
+id: DOID:4998 ! Langer-Giedion syndrome
+relationship: results_in HP:0004322 ! Short stature
+! An exostosis that has_material_basis_in mutation of the EXT1 and TRPS1 gene which results_in multiple exostosis along with short stature and cone-shaped ends located_in epiphysis. The disease has_symptom sparse scalp hair, has_symptom thin upper lip, has_symptom rounded nose.
+
+[Term]
+id: DOID:6759 ! bone lymphoma
+relationship: results_in HP:0002665 ! Lymphoma
+! A bone cancer and lymphoma by site that results_in lymphoma starting in the bone.
+
+[Term]
+id: DOID:710 ! splenic manifestation of leukemia
+relationship: results_in HP:0001909 ! Leukemia
+! A leukemia that is located_in the spleen. It results_in an enlargement of the leukemia.
+
+[Term]
+id: DOID:9249 ! Beemer-Langer syndrome
+relationship: results_in HP:0001789 ! Hydrops fetalis
+! A syndrome that results_in multiple congenital anomalies, including hydrops fetalis, facial and visceral abnormalities, short ribs, and short limbs without polydactyly.
+
+[Term]
+id: DOID:9249 ! Beemer-Langer syndrome
+relationship: results_in HP:0010442 ! Polydactyly
+! A syndrome that results_in multiple congenital anomalies, including hydrops fetalis, facial and visceral abnormalities, short ribs, and short limbs without polydactyly.
+

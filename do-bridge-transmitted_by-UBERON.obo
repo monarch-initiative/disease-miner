@@ -1,0 +1,500 @@
+[Term]
+id: DOID:0050141 ! intestinal botulism
+relationship: transmitted_by UBERON:0000160 ! intestine
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F) in adults, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins.
+
+[Term]
+id: DOID:0050354 ! infant botulism
+relationship: transmitted_by UBERON:0000160 ! intestine
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA or B) in infants, has_material_basis_in Clostridium botulinum A or has_material_basis_in Clostridium botulinum B, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins. The infection has_symptom constipation, has_symptom lethargy, has_symptom difficulty feeding, has_symptom swallowing, has_symptom ptosis, has_symptom loss of head control, and has_symptom muscle weakness.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: transmitted_by UBERON:0001988 ! feces
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: transmitted_by UBERON:0001988 ! feces
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: transmitted_by UBERON:0001988 ! feces
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:1022 ! pinta disease
+relationship: transmitted_by UBERON:0000344 ! mucosa
+! A primary bacterial infectious disease that results_in infection located_in skin, has_material_basis_in Treponema carateum, which is transmitted_by contact with skin and mucous membrane of an infected person. The infection has_symptom pruritic plaque, which slowly enlarges and becomes pigmented and hyperkeratotic.
+
+[Term]
+id: DOID:1024 ! leprosy
+relationship: transmitted_by UBERON:0000456 ! bodily secretion
+! A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.
+
+[Term]
+id: DOID:1024 ! leprosy
+relationship: transmitted_by UBERON:0001681 ! nasal bone
+! A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.
+
+[Term]
+id: DOID:1024 ! leprosy
+relationship: transmitted_by UBERON:0003729 ! mouth mucosa
+! A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0000004 ! olfactory apparatus
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0000165 ! mouth
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0000341 ! throat
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0000912 ! mucus
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0001042 ! chordate pharynx
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by UBERON:0001836 ! saliva
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: transmitted_by UBERON:0000004 ! olfactory apparatus
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: transmitted_by UBERON:0000341 ! throat
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: transmitted_by UBERON:0001042 ! chordate pharynx
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: transmitted_by UBERON:0001836 ! saliva
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10881 ! hand, foot and mouth disease
+relationship: transmitted_by UBERON:0001988 ! feces
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons. The infection has_symptom fever, has_symptom poor appetite, has_symptom malaise, has_symptom sore throat, has_symptom painful sores in the mouth, and has_symptom skin rash on the palms of the hands and soles of the feet.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: transmitted_by UBERON:0000176 ! oronasal secretion
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: transmitted_by UBERON:0001988 ! feces
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:11100 ! Q fever
+relationship: transmitted_by UBERON:0000174 ! excreta
+! A primary bacterial infectious disease that is a zoonotic infectious disease affecting multiple organs, has_material_basis_in Coxiella burnetii, which is transmitted_by inhalation of air contaminated by barnyard dust containing dried placental material, birth fluids, or excreta of infected herd animals, transmitted_by ingestion of contaminated milk, transmitted_by tick bites and transmitted_by contact with infected person. The infection has_symptom fever, has_symptom headache, has_symptom cough, has_symptom pleuritic chest pain, has_symptom myalgia and has_symptom arthralgia.
+
+[Term]
+id: DOID:11100 ! Q fever
+relationship: transmitted_by UBERON:0001913 ! milk
+! A primary bacterial infectious disease that is a zoonotic infectious disease affecting multiple organs, has_material_basis_in Coxiella burnetii, which is transmitted_by inhalation of air contaminated by barnyard dust containing dried placental material, birth fluids, or excreta of infected herd animals, transmitted_by ingestion of contaminated milk, transmitted_by tick bites and transmitted_by contact with infected person. The infection has_symptom fever, has_symptom headache, has_symptom cough, has_symptom pleuritic chest pain, has_symptom myalgia and has_symptom arthralgia.
+
+[Term]
+id: DOID:11168 ! anogenital venereal wart
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A viral infectious disease that results_in infection located_in skin of vagina, cervix, uterus, anus, penis, scrotum, mouth, and throat, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct contact with the skin during oral, genital, or anal sex with an infected partner. The infection has_symptom anogenital warts.
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+relationship: transmitted_by UBERON:0001836 ! saliva
+! A primary bacterial infectious disease that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain.
+
+[Term]
+id: DOID:11260 ! rabies
+relationship: transmitted_by UBERON:0000344 ! mucosa
+! A viral infectious disease that results_in inflammation located_in brain or located_in spinal cord, has_material_basis_in Rabies virus, which is transmitted_by bite of an infected animal, or transmitted_by contact of mucous membranes with saliva of an infected animal. The infection has_symptom fever, has_symptom headache, has_symptom prickling or itching sensation at the site of bite, has_symptom anxiety, has_symptom confusion, has_symptom agitation, has_symptom delirium, has_symptom difficulty swallowing, has_symptom hydrophobia, and has_symptom paralysis.
+
+[Term]
+id: DOID:11260 ! rabies
+relationship: transmitted_by UBERON:0001836 ! saliva
+! A viral infectious disease that results_in inflammation located_in brain or located_in spinal cord, has_material_basis_in Rabies virus, which is transmitted_by bite of an infected animal, or transmitted_by contact of mucous membranes with saliva of an infected animal. The infection has_symptom fever, has_symptom headache, has_symptom prickling or itching sensation at the site of bite, has_symptom anxiety, has_symptom confusion, has_symptom agitation, has_symptom delirium, has_symptom difficulty swallowing, has_symptom hydrophobia, and has_symptom paralysis.
+
+[Term]
+id: DOID:11265 ! trachoma
+relationship: transmitted_by UBERON:0000964 ! cornea
+! A commensal bacterial infectious disease that results_in infection located_in eye, has_material_basis_in Chlamydia trachomatis (A, B, Ba and C serovars), which is transmitted_by contact with eye discharge from the infected person and transmitted_by congenital method. The infection causes eyelid to turn inward which makes eyelashes to scratch the cornea.
+
+[Term]
+id: DOID:11265 ! trachoma
+relationship: transmitted_by UBERON:0010168 ! collection of eyelashes
+! A commensal bacterial infectious disease that results_in infection located_in eye, has_material_basis_in Chlamydia trachomatis (A, B, Ba and C serovars), which is transmitted_by contact with eye discharge from the infected person and transmitted_by congenital method. The infection causes eyelid to turn inward which makes eyelashes to scratch the cornea.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000004 ! olfactory apparatus
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000018 ! compound eye
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000019 ! camera-type eye
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000165 ! mouth
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0000456 ! bodily secretion
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12096 ! sodoku disease
+relationship: transmitted_by UBERON:0001088 ! urine
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom relapsing fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:12385 ! shigellosis
+relationship: transmitted_by UBERON:0001988 ! feces
+! A primary bacterial infectious disease that results_in infection located_in epithelium of colon, has_material_basis_in Shigella boydii, has_material_basis_in Shigella dysenteriae, has_material_basis_in Shigella flexneri, or has_material_basis_in Shigella sonnei, which produce toxins that can attack the lining of the large intestine, causing swelling, ulcers on the intestinal wall, and bloody diarrhea. The bacteria are transmitted_by ingestion of food and water contaminated with feces.
+
+[Term]
+id: DOID:1273 ! respiratory syncytial virus infectious disease
+relationship: transmitted_by UBERON:0000456 ! bodily secretion
+! A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract, has_material_basis_in Human respiratory syncytial virus, which is transmitted_by droplet spread of nasal secretions from an infected person while coughing or sneezing, or transmitted_by contaminated fomites. The infection has_symptom runny nose, has_symptom fever, has_symptom cough, has_symptom wheezing, and has_symptom respiratory distress.
+
+[Term]
+id: DOID:1273 ! respiratory syncytial virus infectious disease
+relationship: transmitted_by UBERON:0001681 ! nasal bone
+! A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract, has_material_basis_in Human respiratory syncytial virus, which is transmitted_by droplet spread of nasal secretions from an infected person while coughing or sneezing, or transmitted_by contaminated fomites. The infection has_symptom runny nose, has_symptom fever, has_symptom cough, has_symptom wheezing, and has_symptom respiratory distress.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000004 ! olfactory apparatus
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000018 ! compound eye
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000019 ! camera-type eye
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000165 ! mouth
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0000456 ! bodily secretion
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+relationship: transmitted_by UBERON:0001088 ! urine
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat. The infection has_symptom chills, has_symptom fever, has_symptom rash and has_symptom joint pain.
+
+[Term]
+id: DOID:13258 ! typhoid fever
+relationship: transmitted_by UBERON:0001988 ! feces
+! A primary bacterial infectious disease that is a communicable systemic illness, has_material_basis_in Salmonella enterica subsp enterica serovar Typhi, which is transmitted_by ingestion of food or water contaminated with the feces of an infected person. The infection has_symptom fever, has_symptom diarrhea, has_symptom prostration, has_symptom headache, has_symptom splenomegaly, has_symptom liver enlargement, has_symptom eruption of rose-colored spots, and has_symptom leukopenia.
+
+[Term]
+id: DOID:13444 ! glanders
+relationship: transmitted_by UBERON:0000004 ! olfactory apparatus
+! A primary bacterial infectious disease that results_in septicemic infection, has_material_basis_in Burkholderia mallei, which is transmitted_by contact with tissues or body fluids of infected animals, or through mucosal surfaces such as the eyes and nose. The infection has_symptom fever, has_symptom chills, has_symptom sweating, has_symptom muscle aches, has_symptom chest pain, has_symptom muscle tightness, has_symptom headache, has_symptom mucopurulent nasal discharge, and has_symptom nodular lesions in the lungs.
+
+[Term]
+id: DOID:13444 ! glanders
+relationship: transmitted_by UBERON:0000479 ! tissue
+! A primary bacterial infectious disease that results_in septicemic infection, has_material_basis_in Burkholderia mallei, which is transmitted_by contact with tissues or body fluids of infected animals, or through mucosal surfaces such as the eyes and nose. The infection has_symptom fever, has_symptom chills, has_symptom sweating, has_symptom muscle aches, has_symptom chest pain, has_symptom muscle tightness, has_symptom headache, has_symptom mucopurulent nasal discharge, and has_symptom nodular lesions in the lungs.
+
+[Term]
+id: DOID:1883 ! hepatitis C
+relationship: transmitted_by UBERON:0000178 ! blood
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:1883 ! hepatitis C
+relationship: transmitted_by UBERON:0000468 ! multi-cellular organism
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:2297 ! leptospirosis
+relationship: transmitted_by UBERON:0001088 ! urine
+! A primary bacterial infectious disease that involves systemic infection, has_material_basis_in Leptospira, which is transmitted_by contact with water, food, or soil containing urine from the infected animals. The infection has_symptom jaundice, has_symptom chills, has_symptom fever, has_symptom muscle pain, and has_symptom hepatomegaly.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: transmitted_by UBERON:0001555 ! digestive tract
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: transmitted_by UBERON:0005385 ! nasal cavity respiratory epithelium
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: transmitted_by UBERON:0005409 ! gastrointestinal system
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:2929 ! Newcastle disease
+relationship: transmitted_by UBERON:0001088 ! urine
+! A viral infectious disease that results_in infection in birds and humans, has_material_basis_in Newcastle disease virus, which is transmitted_by contact with feces and urine of an infected bird, or transmitted_by fomites. The infection has_symptom conjunctivitis, has_symptom headache, and has_symptom lacrimation in humans, and has_symptom gasping, has_symptom coughing, has_symptom twisting of head and neck, has_symptom circling, has_symptom complete paralysis, has_symptom watery diarrhea, and has_symptom reduced egg production in birds.
+
+[Term]
+id: DOID:2929 ! Newcastle disease
+relationship: transmitted_by UBERON:0001988 ! feces
+! A viral infectious disease that results_in infection in birds and humans, has_material_basis_in Newcastle disease virus, which is transmitted_by contact with feces and urine of an infected bird, or transmitted_by fomites. The infection has_symptom conjunctivitis, has_symptom headache, and has_symptom lacrimation in humans, and has_symptom gasping, has_symptom coughing, has_symptom twisting of head and neck, has_symptom circling, has_symptom complete paralysis, has_symptom watery diarrhea, and has_symptom reduced egg production in birds.
+
+[Term]
+id: DOID:3292 ! monkeypox
+relationship: transmitted_by UBERON:0000178 ! blood
+! A viral infectious disease that results_in infection of primates, rodents and humans, located_in skin, has_material_basis_in Monkeypox virus, which is transmitted_by contact with the animal's blood, body fluids, rash, or with the body fluids of a sick person, transmitted_by fomites, and transmitted_by respiratory droplets. The infection has_symptom fever, has_symptom muscle ache, has_symptom headache, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:3292 ! monkeypox
+relationship: transmitted_by UBERON:0005385 ! nasal cavity respiratory epithelium
+! A viral infectious disease that results_in infection of primates, rodents and humans, located_in skin, has_material_basis_in Monkeypox virus, which is transmitted_by contact with the animal's blood, body fluids, rash, or with the body fluids of a sick person, transmitted_by fomites, and transmitted_by respiratory droplets. The infection has_symptom fever, has_symptom muscle ache, has_symptom headache, and has_symptom lymphadenopathy.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by UBERON:0000323 ! late embryo
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by UBERON:0003907 ! left atrioventricular canal
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by UBERON:0005613 ! left dorsal aorta
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by UBERON:0007220 ! late embryonic stage
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4492 ! avian influenza
+relationship: transmitted_by UBERON:0000468 ! multi-cellular organism
+! An influenza that results_in infection located_in respiratory tract of humans, domestic and wild birds, has_material_basis_in Influenza A virus, which is transmitted_by contact with infected poultry. Five strains of avian influenza A viruses (H5N1, H7N3, H7N2, H7N7 and H9N2) are known to cause human infections. The infection has_symptom fever, has_symptom cough, has_symptom sore throat, has_symptom muscle aches, has_symptom nausea, has_symptom diarrhea, has_symptom vomiting, has_symptom neurologic changes, has_symptom pneumonia, and has_symptom acute respiratory distress.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: transmitted_by UBERON:0001988 ! feces
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: transmitted_by UBERON:0001988 ! feces
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:5154 ! borna disease
+relationship: transmitted_by UBERON:0000176 ! oronasal secretion
+! A viral infectious disease that results_in infection, which affects dopaminergic neurotransmission located_in central nervous system, has_material_basis_in Borna disease virus, which is transmitted_by contact with infected oronasal secretions. The infection has_symptom mood disturbances, has_symptom behaviour disturbances, has_symptom cognitive disturbances, has_symptom neurologic disturbances, and has_symptom movement impairment.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by UBERON:0000178 ! blood
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by UBERON:0001913 ! milk
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by UBERON:0001968 ! semen
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by UBERON:0004691 ! bulbourethral gland secretion
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0000178 ! blood
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0001191 ! common iliac artery
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0001913 ! milk
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0001968 ! semen
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0002064 ! common cardinal vein
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0004691 ! bulbourethral gland secretion
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by UBERON:0005599 ! common dorsal aorta
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0000165 ! mouth
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0000931 ! proctodeum
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0000989 ! penis
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0000996 ! vagina
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0001245 ! anus
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:7551 ! gonorrhea
+relationship: transmitted_by UBERON:0001353 ! anal region
+! A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery. The infection has_symptom burning sensation during urination, has_symptom discharge from the penis, has_symptom increased vaginal discharge, or has_symptom vaginal bleeding between periods.
+
+[Term]
+id: DOID:8469 ! influenza
+relationship: transmitted_by UBERON:0000176 ! oronasal secretion
+! A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has_symptom chills, has_symptom fever, has_symptom sore throat, has_symptom runny nose, has_symptom muscle pains, has_symptom severe headache, has_symptom cough, and has_symptom weakness.
+
+[Term]
+id: DOID:8566 ! herpes simplex
+relationship: transmitted_by UBERON:0006314 ! bodily fluid
+! A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+
+[Term]
+id: DOID:8622 ! measles
+relationship: transmitted_by UBERON:0000176 ! oronasal secretion
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
+
+[Term]
+id: DOID:8622 ! measles
+relationship: transmitted_by UBERON:0001968 ! semen
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
+
+[Term]
+id: DOID:8659 ! chickenpox
+relationship: transmitted_by UBERON:0000456 ! bodily secretion
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human herpesvirus 3, which is transmitted_by direct contact with secretions from the rash, or transmitted_by droplet spread of respiratory secretions. The infection has_symptom anorexia, has_symptom myalgia, has_symptom nausea, has_symptom fever, has_symptom headache, has_symptom sore throat, and has_symptom blisters.
+
+[Term]
+id: DOID:8736 ! smallpox
+relationship: transmitted_by UBERON:0000167 ! oral cavity
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Variola virus, which is transmitted_by droplets from oral, nasal or pharyngeal mucosa, transmitted_by contact with the body fluids, or transmitted_by fomites. The infection results_in_formation_of lesions, first on the face, hands and forearms and later on the trunk.
+
+[Term]
+id: DOID:8736 ! smallpox
+relationship: transmitted_by UBERON:0000355 ! pharyngeal mucosa
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Variola virus, which is transmitted_by droplets from oral, nasal or pharyngeal mucosa, transmitted_by contact with the body fluids, or transmitted_by fomites. The infection results_in_formation_of lesions, first on the face, hands and forearms and later on the trunk.
+
+[Term]
+id: DOID:8736 ! smallpox
+relationship: transmitted_by UBERON:0001681 ! nasal bone
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Variola virus, which is transmitted_by droplets from oral, nasal or pharyngeal mucosa, transmitted_by contact with the body fluids, or transmitted_by fomites. The infection results_in_formation_of lesions, first on the face, hands and forearms and later on the trunk.
+
+[Term]
+id: DOID:8781 ! rubella
+relationship: transmitted_by UBERON:0000176 ! oronasal secretion
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method. The infection has_symptom rash on the face which spreads to the trunk and limbs, has_symptom fever, has_symptom lymphadenopathy, has_symptom joint pains, has_symptom headache, and has_symptom conjunctivitis.
+
+[Term]
+id: DOID:8867 ! molluscum contagiosum
+relationship: transmitted_by UBERON:0000014 ! zone of skin
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites. The infection has_symptom lesions which are flesh-colored with a pit in the center.
+
+[Term]
+id: DOID:8867 ! molluscum contagiosum
+relationship: transmitted_by UBERON:0002097 ! skin of body
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites. The infection has_symptom lesions which are flesh-colored with a pit in the center.
+
+[Term]
+id: DOID:8867 ! molluscum contagiosum
+relationship: transmitted_by UBERON:0002199 ! integument
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites. The infection has_symptom lesions which are flesh-colored with a pit in the center.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: transmitted_by UBERON:0001988 ! feces
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+

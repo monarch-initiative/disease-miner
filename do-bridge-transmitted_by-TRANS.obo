@@ -1,0 +1,250 @@
+[Term]
+id: DOID:0050211 ! swine influenza
+relationship: transmitted_by TRANS:0000001 ! direct
+! An influenza that results_in infection located_in respiratory tract of pigs and humans, has_material_basis_in Influenza C virus, or has_material_basis_in Influenza A virus subtypes (H1N1, H1N2, H3N1, H3N2, and H2N3), which are transmitted_by direct contact with infected pigs. The infection in humans has_symptom fever, has_symptom lethargy, has_symptom lack of appetite, has_symptom coughing, has_symptom runny nose, has_symptom sore throat, has_symptom nausea, has_symptom vomiting, and has_symptom diarrhea.
+
+[Term]
+id: DOID:0050353 ! wound botulism
+relationship: transmitted_by TRANS:0000007 ! contact
+! A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F, which are transmitted_by contact of spores with the open wounds, which then reproduce in an anaerobic environment to produce toxins.
+
+[Term]
+id: DOID:0050513 ! spinal polio
+relationship: transmitted_by TRANS:0000001 ! direct
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050514 ! bulbospinal polio
+relationship: transmitted_by TRANS:0000001 ! direct
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty swallowing, and has_symptom paralysis of arms and legs.
+
+[Term]
+id: DOID:0050515 ! paralytic poliomyelitis
+relationship: transmitted_by TRANS:0000001 ! direct
+! A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom loss of reflexes, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:0050523 ! adult T-cell leukemia
+relationship: transmitted_by TRANS:0000007 ! contact
+! A T-cell leukemia that results_in abnormal increase of lymphocytes, derives_from T-cells, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, transmitted_by contaminated needles used by intravenous-drug users, and transmitted_by breast feeding. The infection results_in_formation_of skin lesions.
+
+[Term]
+id: DOID:10264 ! mumps
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites. The infection has_symptom fever, has_symptom headache, has_symptom muscle aches, has_symptom tiredness, has_symptom loss of appetite, has_symptom swollen and tender salivary glands under the ears or jaw on one or both sides of the face.
+
+[Term]
+id: DOID:10371 ! yaws
+relationship: transmitted_by TRANS:0000001 ! direct
+! A primary bacterial infectious disease that results_in infection located_in skin, located_in joint or located_in bone, has_material_basis_in Treponema pallidum subsp pertenue, which is transmitted_by direct skin contact with an infected person. The infection has_symptom skin lesions.
+
+[Term]
+id: DOID:10883 ! herpangina
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions. The infection has_symptom fever, has_symptom sore throat, and has_symptom lesions in the back area of the mouth, particularly the soft palate or tonsillar pillars.
+
+[Term]
+id: DOID:11100 ! Q fever
+relationship: transmitted_by TRANS:0000018 ! placental
+! A primary bacterial infectious disease that is a zoonotic infectious disease affecting multiple organs, has_material_basis_in Coxiella burnetii, which is transmitted_by inhalation of air contaminated by barnyard dust containing dried placental material, birth fluids, or excreta of infected herd animals, transmitted_by ingestion of contaminated milk, transmitted_by tick bites and transmitted_by contact with infected person. The infection has_symptom fever, has_symptom headache, has_symptom cough, has_symptom pleuritic chest pain, has_symptom myalgia and has_symptom arthralgia.
+
+[Term]
+id: DOID:11168 ! anogenital venereal wart
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in infection located_in skin of vagina, cervix, uterus, anus, penis, scrotum, mouth, and throat, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct contact with the skin during oral, genital, or anal sex with an infected partner. The infection has_symptom anogenital warts.
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+relationship: transmitted_by TRANS:0000007 ! contact
+! A primary bacterial infectious disease that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain.
+
+[Term]
+id: DOID:11260 ! rabies
+relationship: transmitted_by TRANS:0000007 ! contact
+! A viral infectious disease that results_in inflammation located_in brain or located_in spinal cord, has_material_basis_in Rabies virus, which is transmitted_by bite of an infected animal, or transmitted_by contact of mucous membranes with saliva of an infected animal. The infection has_symptom fever, has_symptom headache, has_symptom prickling or itching sensation at the site of bite, has_symptom anxiety, has_symptom confusion, has_symptom agitation, has_symptom delirium, has_symptom difficulty swallowing, has_symptom hydrophobia, and has_symptom paralysis.
+
+[Term]
+id: DOID:11265 ! trachoma
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A commensal bacterial infectious disease that results_in infection located_in eye, has_material_basis_in Chlamydia trachomatis (A, B, Ba and C serovars), which is transmitted_by contact with eye discharge from the infected person and transmitted_by congenital method. The infection causes eyelid to turn inward which makes eyelashes to scratch the cornea.
+
+[Term]
+id: DOID:11315 ! African histoplasmosis
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A histoplasmosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var duboisii, transmitted_by airborne spores and results_in_formation_of nodules, results_in_formation_of ulcers and results_in_formation_of osteolytic bone lesions.
+
+[Term]
+id: DOID:11573 ! listeriosis
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Listeria monocytogenes, which is transmitted_by ingestion of contaminated food or raw milk or transmitted_by congenital method. Ingestion of Listeria by pregnant women has_symptom nausea, has_symptom vomiting, has_symptom diarrhea, has_symptom fever, has_symptom malaise, has_symptom back pain, and has_symptom headache. Maternal infection with Listeria can result in chorioamnionitis, premature labor, spontaneous abortion, or stillbirth.
+
+[Term]
+id: DOID:12549 ! hepatitis A
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis A virus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by direct contact with an infected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:12663 ! blastomycosis
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A primary systemic mycosis that results_in a systemic fungal infection, has_material_basis_in Blastomyces dermatitidis, transmitted_by airborne spores and has_symptom skin lesions, has_symptom lung lesions and has_symptom pleural thickening.
+
+[Term]
+id: DOID:1273 ! respiratory syncytial virus infectious disease
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract, has_material_basis_in Human respiratory syncytial virus, which is transmitted_by droplet spread of nasal secretions from an infected person while coughing or sneezing, or transmitted_by contaminated fomites. The infection has_symptom runny nose, has_symptom fever, has_symptom cough, has_symptom wheezing, and has_symptom respiratory distress.
+
+[Term]
+id: DOID:13431 ! bejel
+relationship: transmitted_by TRANS:0000007 ! contact
+! A primary bacterial infectious disease that results_in infection located_in mucosa of mouth, located_in skin or located_in bone, has_material_basis_in Treponema pallidum subsp endemicum, which is transmitted_by contact or transmitted_by sharing of domestic utensils. The infection has_symptom moist patches in the mouth, has_symptom lumps in long bones, tissues around the mouth, nose, and roof of the mouth. These lumps destroy tissue, causing bones to be deformed and disfiguring the face.
+
+[Term]
+id: DOID:13450 ! coccidioidomycosis
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Coccidioides immitis, transmitted_by airborne spores and has_symptom conjunctivitis, has_symptom arthritis, has_symptom chest pain and results_in_formation_of skin nodules.
+
+[Term]
+id: DOID:13778 ! chancroid
+relationship: transmitted_by TRANS:0000007 ! contact
+! A primary bacterial infectious disease that is a sexually transmitted infection located_in skin of the genitals, has_material_basis_in Haemophilus ducreyi, which is transmitted_by sexual contact. The infection has_symptom painful and soft ulcers.
+
+[Term]
+id: DOID:13800 ! inclusion conjunctivitis
+relationship: transmitted_by TRANS:0000007 ! contact
+! A commensal bacterial infectious disease that results_in inflammation, located_in conjunctiva of the eye, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact. The infection has_symptom swollen conjunctiva and eyelids and has_symptom discharge of pus and mucus.
+
+[Term]
+id: DOID:13801 ! pharyngoconjunctival fever
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in pharynx or located_in conjunctiva, has_material_basis_in Human adenovirus 3 or has_material_basis_in Human adenovirus 7, which are transmitted_by droplet spread of respiratory secretions or transmitted_by fomites. The infection has_symptom fever, has_symptom lymphadenopathy of the neck, and has_symptom headache.
+
+[Term]
+id: DOID:13819 ! lymphogranuloma venereum
+relationship: transmitted_by TRANS:0000007 ! contact
+! A commensal bacterial infectious disease that results_in infection located_in lymph nodes, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact, and transmitted_by fomites. The infection has_symptom inguinal lymphadenitis, has_symptom abscesses in the groin area, and has_symptom lymphangitis.
+
+[Term]
+id: DOID:1731 ! histoplasmosis
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A primary systemic mycosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var capsulatum or has_material_basis_in Histoplasma capsulatum var duboisii, transmitted_by airborne spores and has_symptom nonproductive cough, has_symptom headache, has_symptom loss of appetite and has_symptom muscle pains.
+
+[Term]
+id: DOID:1759 ! American histoplasmosis
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A histoplasmosis that results_in systemic fungal infection, has_material_basis_in Histoplasma capsulatum var capsulatum, transmitted_by airborne spores and has_symptom nonproductive cough, has_symptom headache, has_symptom loss of appetite and has_symptom muscle pains.
+
+[Term]
+id: DOID:2043 ! hepatitis B
+relationship: transmitted_by TRANS:0000007 ! contact
+! A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis B virus, which is transmitted_by sexual contact, transmitted_by blood transfusions, and transmitted_by fomites like needles or syringes. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.
+
+[Term]
+id: DOID:2945 ! severe acute respiratory syndrome
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in respiratory tract, has_material_basis_in SARS coronavirus (SARS-CoV), which is transmitted_by droplet spread of respiratory secretions, transmitted_by ingestion of contaminated food, or transmitted_by fomites. The infection has_symptom fever, has_symptom headache, has_symptom body aches, has_symptom dry cough, and has_symptom hypoxia.
+
+[Term]
+id: DOID:321 ! tropical spastic paraparesis
+relationship: transmitted_by TRANS:0000007 ! contact
+! A viral infectious disease that results_in inflammation located_in spinal cord, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, and transmitted_by breast feeding. The infection has_symptom spastic weakness of both legs, has_symptom muscle stiffness, has_symptom sensory disturbance, and has_symptom spasms.
+
+[Term]
+id: DOID:3482 ! plague
+relationship: transmitted_by TRANS:0000001 ! direct
+! A primary bacterial infectious disease that results_in infection, located_in lymph node, located_in vasculature or located_in lungs, has_material_basis_in Yersinia pestis, which is transmitted_by oriental rat flea (Xenopsylla cheopis) infected by feeding on rodents and other mammals, transmitted_by air, transmitted_by direct contact or transmitted_by ingestion of contaminated undercooked food.
+
+[Term]
+id: DOID:3482 ! plague
+relationship: transmitted_by TRANS:0000007 ! contact
+! A primary bacterial infectious disease that results_in infection, located_in lymph node, located_in vasculature or located_in lungs, has_material_basis_in Yersinia pestis, which is transmitted_by oriental rat flea (Xenopsylla cheopis) infected by feeding on rodents and other mammals, transmitted_by air, transmitted_by direct contact or transmitted_by ingestion of contaminated undercooked food.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4166 ! syphilis
+relationship: transmitted_by TRANS:0000007 ! contact
+! A primary bacterial infectious disease that is a sexually transmitted systemic disease, has_material_basis_in Treponema pallidum subsp pallidum, which is transmitted_by sexual contact, transmitted_by blood product transfusion, transmitted_by congenital method from mother to fetus or transmitted_by contact with infectious lesions. If left untreated, produces chancres, rashes, and systemic lesions in a clinical course with three stages continued over many years.
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, has_symptom muscle spasms, and has_symptom acute flaccid paralysis.
+
+[Term]
+id: DOID:4986 ! nonparalytic poliomyelitis
+relationship: transmitted_by TRANS:0000001 ! direct
+! A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom vomiting, has_symptom fatigue, has_symptom neck stiffness, and has_symptom muscle spasms.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+relationship: transmitted_by TRANS:0000007 ! contact
+! A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+relationship: transmitted_by TRANS:0000007 ! contact
+! A Human immunodeficiency virus infectious disease that results_in reduction in the numbers of CD4-bearing helper T cells below 200 per B5L of blood or 14% of all lymphocytes thereby rendering the subject highly vulnerable to life-threatening infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. Opportunistic infections are common in people with AIDS.
+
+[Term]
+id: DOID:7427 ! anthrax disease
+relationship: transmitted_by TRANS:0000009 ! airborne
+! A primary bacterial infectious disease that results_in infection located_in skin, located_in lung lymph nodes or located_in gastrointestinal tract, has_material_basis_in Bacillus anthracis, transmitted_by contact with infected animals or animal products, transmitted_by airborne spores or transmitted_by ingestion of undercooked meat from infected animals and has_symptom skin ulcer, has_symptom nausea, has_symptom poor appetite, has_symptom bloody diarrhea, has_symptom fever or has_symptom shortness of breath.
+
+[Term]
+id: DOID:8469 ! influenza
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has_symptom chills, has_symptom fever, has_symptom sore throat, has_symptom runny nose, has_symptom muscle pains, has_symptom severe headache, has_symptom cough, and has_symptom weakness.
+
+[Term]
+id: DOID:8536 ! herpes zoster
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in infection located_in nerve fiber, has_material_basis_in Human herpesvirus 3, which reactivates after appearing as chickenpox in childhood. The virus is transmitted_by direct contact with the rash, which can develop into chickenpox in newly-infected individuals. The infection has_symptom rash which is followed by blisters, has_symptom headache, has_symptom fever, has_symptom malaise, has_symptom itching, has_symptom burning pain, and has_symptom paresthesia.
+
+[Term]
+id: DOID:8566 ! herpes simplex
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+
+[Term]
+id: DOID:8659 ! chickenpox
+relationship: transmitted_by TRANS:0000001 ! direct
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human herpesvirus 3, which is transmitted_by direct contact with secretions from the rash, or transmitted_by droplet spread of respiratory secretions. The infection has_symptom anorexia, has_symptom myalgia, has_symptom nausea, has_symptom fever, has_symptom headache, has_symptom sore throat, and has_symptom blisters.
+
+[Term]
+id: DOID:8659 ! chickenpox
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human herpesvirus 3, which is transmitted_by direct contact with secretions from the rash, or transmitted_by droplet spread of respiratory secretions. The infection has_symptom anorexia, has_symptom myalgia, has_symptom nausea, has_symptom fever, has_symptom headache, has_symptom sore throat, and has_symptom blisters.
+
+[Term]
+id: DOID:8704 ! genital herpes
+relationship: transmitted_by TRANS:0000007 ! contact
+! A herpes simplex that results_in infection located_in genital system, or located_in rectum, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which is transmitted_by sexual contact. The infection has_symptom sores, has_symptom fever, and has_symptom swollen glands.
+
+[Term]
+id: DOID:8781 ! rubella
+relationship: transmitted_by TRANS:0000006 ! congenital
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method. The infection has_symptom rash on the face which spreads to the trunk and limbs, has_symptom fever, has_symptom lymphadenopathy, has_symptom joint pains, has_symptom headache, and has_symptom conjunctivitis.
+
+[Term]
+id: DOID:8781 ! rubella
+relationship: transmitted_by TRANS:0000008 ! droplet spread
+! A viral infectious disease that results_in infection located_in skin, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method. The infection has_symptom rash on the face which spreads to the trunk and limbs, has_symptom fever, has_symptom lymphadenopathy, has_symptom joint pains, has_symptom headache, and has_symptom conjunctivitis.
+
+[Term]
+id: DOID:9786 ! bulbar polio
+relationship: transmitted_by TRANS:0000001 ! direct
+! A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions. The infection has_symptom difficulty breathing, has_symptom difficulty speaking, has_symptom difficulty swallowing, and has_symptom difficulty chewing.
+

@@ -1,0 +1,205 @@
+[Term]
+id: DOID:0050133 ! superficial mycosis
+relationship: has_material_basis GO:0018995 ! host
+! A fungal infectious disease that results_in infection of the outermost layer located_in skin or located_in hair shaft, has_material_basis_in Fungi. No living tissue is invaded and there is no cellular response from the host.
+
+[Term]
+id: DOID:0050292 ! primary systemic mycosis
+relationship: has_material_basis GO:0018995 ! host
+! A systemic mycosis that results_in infection located_in human body, has_material_basis_in Fungi, which can overcome the physiological and cellular defences of the normal human host. The primary deep pathogens usually gain access to the host via the respiratory tract.
+
+[Term]
+id: DOID:0050524 ! maturity-onset diabetes of the young
+relationship: has_material_basis GO:0016088 ! insulin
+! A genetic disease that has_material_basis_in mutations in the MODY genes disrupting insulin production.
+
+[Term]
+id: DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
+relationship: has_material_basis GO:0003675 ! protein
+! An amino acid metabolic disorder that has_material_basis_in mutations in the MCCC1 and MCCC2 genes causing inadequate levels of the enzyme 3-methylcrotonyl-CoA carboxylase that helps break down proteins containing the amino acid leucine. This disease has_symptom muscular hypotonia (weak muscle tone), has_symptom muscular atrophy, has_symptom feeding difficulties, has_symptom recurrent episodes of vomiting and diarrhea, and has_symptom lethargy.
+
+[Term]
+id: DOID:0050712 ! AGAT deficiency
+relationship: has_material_basis GO:0006601 ! creatine biosynthetic process
+! An amino acid metabolic disorder that has_material_basis_in a mutation in the GATM gene resulting in deficiency of arginine:glycine amidinotransferase which then limits creatine synthesis.
+
+[Term]
+id: DOID:0050714 ! alcaptonuria
+relationship: has_material_basis GO:0043718 ! 2-hydroxymethylglutarate dehydrogenase activity
+! An organic acidemia that has_material_basis_in an autosomal recessive mutation in the HGD (homogentisate 1,2-dioxygenase gene ) gene affecting the production of the homogentisate 1,2-dioxygenase enzyme resulting in the accumulation of homogentisic acid in the blood.
+
+[Term]
+id: DOID:0050715 ! methylmalonic aciduria and homocystinuria type cblC
+relationship: has_material_basis GO:0009058 ! biosynthetic process
+! A methylmalonic acidemia that has_material_basis_in deficiency in synthesis of both AdoCbl and MeCbl (cblC) and is characterized by decreased levels of the coenzymes adenosylcobalamin (AdoCbl) and methylcobalamin (MeCbl), which results in decreased activity of the respective enzymes methylmalonyl-CoA mutase.
+
+[Term]
+id: DOID:0050721 ! serine deficiency
+relationship: has_material_basis GO:0009058 ! biosynthetic process
+! An amino acid metabolic disorder that has_material_basis_in defects in the biosynthesis of the amino acid L-serine.
+
+[Term]
+id: DOID:0050722 ! PHGDH deficiency
+relationship: has_material_basis GO:0006564 ! L-serine biosynthetic process
+! A serine deficiency that has_material_basis_in deficiency of phosphoglycerate dehydrogenase which results in a disruption of L-serine biosynthesis.
+
+[Term]
+id: DOID:0050724 ! PSPH deficiency
+relationship: has_material_basis GO:0009058 ! biosynthetic process
+! A serine deficiency that has_material_basis_in deficiency of phosphoserine phosphatase impeding the synthesis of L-serine.
+
+[Term]
+id: DOID:0050726 ! tyrosinemia type I
+relationship: has_material_basis GO:0006572 ! tyrosine catabolic process
+! A tyrosinemia that has_material_basis_in deficiency of the enzyme fumarylacetoacetate hydrolase resulting in an increase in fumarylacetoacetate which inhibits previous steps in tyrosine degradation leading to an accumulation of tyrosine in the body.
+
+[Term]
+id: DOID:0060162 ! dentatorubral-pallidoluysian atrophy
+relationship: has_material_basis GO:0003675 ! protein
+! A spinocerebellar degeneration that has_material_basis_in an expansion of a CAG repeat encoding a polyglutamine tract in the atrophin-1 protein.
+
+[Term]
+id: DOID:0070003 ! blastoma
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from precursor cells called blast cells.
+
+[Term]
+id: DOID:0080041 ! hypochondroplasia
+relationship: has_material_basis GO:0001503 ! ossification
+! An osteochondrodysplasia that has_material_basis_in mutation in the FGFR3 gene which affects ossification of cartilage and results_in short limb dwarfism.
+
+[Term]
+id: DOID:0080043 ! achondrogenesis
+relationship: has_material_basis GO:0001958 ! endochondral ossification
+! An osteochondrodysplasia that has_material_basis_in deficient endochondral ossification which results_in dwarfism, short-trunk, short-limbed, anascara, disaprportionately large cranium, and a narrow chest which leads to death in utero or during early neonatal period.
+
+[Term]
+id: DOID:1115 ! sarcoma
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic mesoderm.
+
+[Term]
+id: DOID:11338 ! tetanus
+relationship: has_material_basis GO:0060004 ! reflex
+! A primary bacterial infectious disease that results_in prolonged contraction of skeletal muscle fibers, has_material_basis_in Clostridium tetani, which produces tetanospasmin, a neurotoxin, which is carried to the brain and spinal cord, where it binds irreversibly to receptors inhibiting neurotransmission. Damaged upper motor neurons cannot control reflex responses to afferent sensory stimuli.
+
+[Term]
+id: DOID:12134 ! factor VIII deficiency
+relationship: has_material_basis GO:0009058 ! biosynthetic process
+! An X-linked disease that has_material_basis_in Factor VIII deficiency, which results in the formation of fibrin deficient clots which makes coagulation much more prolonged. The disease is inherited as an X-linked recessive trait.
+
+[Term]
+id: DOID:12134 ! factor VIII deficiency
+relationship: has_material_basis GO:0050817 ! coagulation
+! An X-linked disease that has_material_basis_in Factor VIII deficiency, which results in the formation of fibrin deficient clots which makes coagulation much more prolonged. The disease is inherited as an X-linked recessive trait.
+
+[Term]
+id: DOID:12259 ! hemophilia B
+relationship: has_material_basis GO:0050817 ! coagulation
+! An inherited blood coagulation disease that has_material_basis_in Factor IX deficiency, which makes coagulation much more prolonged. The disease is inherited as an X-linked recessive trait.
+
+[Term]
+id: DOID:12347 ! osteogenesis imperfecta
+relationship: has_material_basis GO:0005202 ! collagen
+! An osteochondrodysplasia that has_material_basis_in a deficiency in type-I collagen which results_in brittle bones and defective connective tissue.
+
+[Term]
+id: DOID:12347 ! osteogenesis imperfecta
+relationship: has_material_basis GO:0005581 ! collagen
+! An osteochondrodysplasia that has_material_basis_in a deficiency in type-I collagen which results_in brittle bones and defective connective tissue.
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+relationship: has_material_basis GO:0031214 ! biomineral formation
+! An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee. The disease has_symptom fatigue, has_symptom joint pain.
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+relationship: has_material_basis GO:0031214 ! biomineral tissue development
+! An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee. The disease has_symptom fatigue, has_symptom joint pain.
+
+[Term]
+id: DOID:13533 ! osteopetrosis
+relationship: has_material_basis GO:0045453 ! bone resorption
+! An osteosclerosis that has_material_basis_in lack of bone resorption which results_in abnormally hard and brittle bones.
+
+[Term]
+id: DOID:154 ! mixed cell type cancer
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from two germinal layers of tissue.
+
+[Term]
+id: DOID:1909 ! melanoma
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from melanocytes which are found in skin, the bowel and the eye.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis GO:0005978 ! glycogen biosynthetic process
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+relationship: has_material_basis GO:0009056 ! catabolic process
+! A carbohydrate metabolic disease that has_material_basis_in enzymes deficiencies necessary in the processing of glycogen synthesis or breakdown within muscles, liver, and other cell types.
+
+[Term]
+id: DOID:2749 ! glycogen storage disease I
+relationship: has_material_basis GO:0006094 ! gluconeogenesis
+! A glycogen storage disease that has_material_basis_in deficiency of the glucose-6-phosphatase enzyme which impairs the ability of the liver to produce free glucose from glycogen and from gluconeogenesis and is characterized by accumulation of glycogen and fat in the liver and kidneys, resulting in hepatomegaly and renomegaly.
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+relationship: has_material_basis GO:0005764 ! lysosome
+! A glycogen storage disease that has_material_basis_in deficiency of the lysosomal acid alpha-glucosidase enzyme resulting in damage to muscle and nerve cells due to  an accumulation of glycogen in the lysosome.
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+relationship: has_material_basis GO:0005579 ! membrane attack complex
+! A primary bacterial infectious disease that results_in infection, has_material_basis_in Mycobacterium avium complex (MAC), which is transmitted_by inhalation or transmitted_by ingestion of via the respiratory or gastrointestinal tract respectively. The bacteria cause disseminated infection in HIV infected people, while pulmonary disease in immunocompetent persons.
+
+[Term]
+id: DOID:299 ! adenocarcinoma
+relationship: has_material_basis GO:0005623 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
+
+[Term]
+id: DOID:2994 ! germ cell cancer
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from germ cells.
+
+[Term]
+id: DOID:3025 ! acinar cell carcinoma
+relationship: has_material_basis GO:0005623 ! cell
+! A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from spindle cells and/or derives_from giant cells.
+
+[Term]
+id: DOID:305 ! carcinoma
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from epithelial cells.
+
+[Term]
+id: DOID:3069 ! astrocytoma
+relationship: has_material_basis GO:0005623 ! cell
+! A malignant glioma that is has_material_basis_in astocyte cells, a type of glial cell, located_in the cerebrum.
+
+[Term]
+id: DOID:3350 ! mesenchymal cell neoplasm
+relationship: has_material_basis GO:0005623 ! cell
+! A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from embryonic connective tissue that is capable of developing into connective tissue, such as bone, and cartilage, the lymphatic system, and the circulatory system.
+
+[Term]
+id: DOID:3413 ! alpha-mannosidosis
+relationship: has_material_basis GO:0005764 ! lysosome
+! A lysosomal storage disease that has_material_basis_in deficiency of the alpha-D-manosidase enzyme resulting in the impairment of cell function from a build up of complex sugars derived from glycoproteins in the lysosome.
+
+[Term]
+id: DOID:5204 ! fructose-1,6-bisphosphatase deficiency
+relationship: has_material_basis GO:0006094 ! gluconeogenesis
+! A carbohydrate metabolic disorder that has_material_basis_in a deficiency of fructose-1,6-bisphosphatase resulting in hypoglycemia and metabolic acidosis on fasting due to insufficient fructose bisphosphatase for gluconeogenesis.
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+relationship: has_material_basis GO:0001660 ! fever
+! A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii. The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family. Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus. The symptoms include bilateral, nontender cervical or axillary lymphadenopathy, fever, malaise, myalgia, hepatosplenomegaly, anemia and leukopenia.
+
