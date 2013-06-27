@@ -1,3 +1,60 @@
+'doid.owl' <-- [],
+  'wget http://purl.obolibrary.org/obo/doid.owl'.
+'doid.obo' <-- [],
+  'wget http://purl.obolibrary.org/obo/doid.obo'.
+
+'omim.tbl' <-- [],
+  'wget "http://neuinfo.org/servicesv1/v1/federation/data/nif-0000-03216-7.tsv?includePrimaryData=true" -O $@'.
+'omim.json' <-- [],
+  'wget "http://neuinfo.org/servicesv1/v1/federation/data/nif-0000-03216-7.json?includePrimaryData=true" -O $@'.
+
+'omim.xml' <-- [],
+  'wget "http://neuinfo.org/servicesv1/v1/federation/data/nif-0000-03216-7.xml?includePrimaryData=true" -O $@'.
+
+'omim-id-name.tbl' <-- [],
+  'blip-findall  -r omim "entity_partition(ID,descriptive)" -select ID -label -use_tabs | sed "s/MIM/OMIM/"  > $@'.
+
+'omim-disease.obo' <-- 'omim-id-name.tbl',
+  'util/tbl2omimobo.pl $< > $@'.
+
+'omim-doid-equiv.tbl' <-- [],
+  'blip-findall -r disease "entity_xref_idspace(D,X,\'OMIM\'),\\+((entity_xref_idspace(D,X2,\'OMIM\'),X2\\=X))" -no_pred -select X-D > $@'.
+'omim-doid-subclass.tbl' <-- [],
+  'blip-findall -r disease "entity_xref_idspace(D,X,\'OMIM\'),\\+ \\+((entity_xref_idspace(D,X2,\'OMIM\'),X2\\=X))" -no_pred -select X-D > $@'.
+
+'omim-doid-equiv.owl' <-- 'omim-doid-equiv.tbl',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a EquivalentClasses $< -o file://`pwd`/$@ '.
+'omim-doid-subclass.owl' <-- 'omim-doid-subclass.tbl',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a SubClassOf $< -o file://`pwd`/$@ '.
+
+'do-omim-equiv.owl' <-- ['doid.owl', 'omim-doid-subclass.owl', 'omim-doid-equiv.owl', 'omim-disease.obo'],
+  'owltools --use-catalog doid.owl omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo --merge-support-ontologies --reasoner elk --assert-inferred-subclass-axioms --allowEquivalencies -o file://`pwd`/$@'.
+
+'do-omim-merged.owl' <-- 'do-omim-equiv.owl',
+  'owltools $< --merge-equivalent-classes -f DOID -t OMIM -o file://`pwd`/$@'.
+
+'efo-disease.obo' <-- [],
+  'blip ontol-query -r efo -query "class(X,disease),subclassRT(ID,X)" -to obo > $@.tmp && util/fix-efo.pl $@.tmp > $@'.
+
+
+'$Ext-$Src-equiv.tbl' <-- ['$Src.obo'],
+  'blip-findall -i $< "entity_xref_idspace(D,X,\'$Ext\'),\\+((entity_xref_idspace(D,X2,\'$Ext\'),X2\\=X))" -no_pred -select X-D > $@'.
+'$Ext-$Src-subclass.tbl' <-- ['$Src.obo'],
+  'blip-findall -i $< "entity_xref_idspace(D,X,\'$Ext\'),\\+ \\+((entity_xref_idspace(D,X2,\'$Ext\'),X2\\=X))" -no_pred -select X-D > $@'.
+'%-equiv.owl' <-- '%-equiv.tbl',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a EquivalentClasses $< -o file://`pwd`/$@ '.
+'%-subclass.owl' <-- '%-subclass.tbl',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a SubClassOf $< -o file://`pwd`/$@ '.
+
+
+'do-all-unmerged.owl' <-- ['doid.owl', 'omim-doid-subclass.owl', 'omim-doid-equiv.owl', 'omim-disease.obo', 'OMIM-efo-disease-equiv.owl', 'OMIM-efo-disease-subclass.owl', 'efo-disease.obo'],
+  'owltools --use-catalog doid.owl omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo OMIM-efo-disease-equiv.owl OMIM-efo-disease-subclass.owl efo-disease.obo --merge-support-ontologies --reasoner elk --assert-inferred-subclass-axioms --allowEquivalencies -o file://`pwd`/$@'.
+
+'do-all-merged.obo' <-- ['do-all-unmerged.owl'],
+  'owltools $< --merge-equivalent-classes -f DOID  -f EFO -t OMIM -o -f obo --no-check $@'.
+
+
+
 
 'align_doid_efo.tbl' <-- [],
   'blip-findall  -consult util/aligner.pro efo/2 -label -use_tabs > $@.tmp && sort -u $@.tmp > $@'.
