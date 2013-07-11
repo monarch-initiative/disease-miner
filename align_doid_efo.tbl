@@ -1,602 +1,506 @@
-efo		DOID:0000000	gallbladder disease	EFO:0003832	gall bladder disease
-efo		DOID:0001816	angiosarcoma	EFO:0003968	angiosarcoma
-efo		DOID:0002116	pterygium	EFO:0000678	pterygium
-efo		DOID:0014667	disease of metabolism	EFO:0000589	metabolic disease
-efo		DOID:0050025	human granulocytic anaplasmosis	EFO:0000777	human granulocytic anaplasmosis
-efo		DOID:0050125	dengue shock syndrome	EFO:0004227	Dengue Hemorrhagic Fever
-efo		DOID:0050138	podoconiosis	EFO:0004712	podoconiosis
-efo		DOID:0050145	adenoiditis	EFO:0001401	tonsil
-efo		DOID:0050155	sensory system disease	EFO:0001058	sensory system disease
-efo		DOID:0050156	idiopathic pulmonary fibrosis	EFO:0000768	idiopathic pulmonary fibrosis
-efo		DOID:0050169	cutaneous lupus erythematosus	EFO:0003834	cutaneous lupus erythematosus
-efo		DOID:0050325	genetic disorder	EFO:0000508	genetic disorder
-efo		DOID:0050425	restless legs syndrome	EFO:0004270	restless legs syndrome
-efo		DOID:0050426	Stevens-Johnson syndrome	EFO:0004276	Stevens-Johnson syndrome
-efo		DOID:0050432	Asperger syndrome	EFO:0003757	Asperger syndrome
-efo		DOID:0050523	adult T-cell leukemia	EFO:0000209	T-cell acute lymphoblastic leukemia
-efo		DOID:0050524	maturity-onset diabetes of the young	EFO:0001360	type II diabetes mellitus
-efo		DOID:0050589	inflammatory bowel disease	EFO:0003767	inflammatory bowel disease
-efo		DOID:0050608	Askin's tumor	EFO:0000174	Ewing sarcoma
-efo		DOID:0050619	paranasal sinus cancer	EFO:0003866	paranasal sinus neoplasm
-efo		DOID:0050625	biliary tract neoplasm	EFO:0003891	biliary tract neoplasm
-efo		DOID:0050685	small cell carcinoma	EFO:0000702	small cell lung carcinoma
-efo		DOID:0050700	cardiomyopathy	EFO:0000318	cardiomyopathy
-efo		DOID:0050731	vitamin B12 deficiency	EFO:0000734	vitamin B12 deficiency
-efo		DOID:0050741	alcohol dependence	EFO:0003829	alcohol dependence
-efo		DOID:0050742	nicotine dependence	EFO:0003768	nicotine dependence
-efo		DOID:0050744	anaplastic large cell lymphoma	EFO:0003032	anaplastic large cell lymphoma
-efo		DOID:0050745	diffuse large B-cell lymphoma	EFO:0000403	diffuse large B-cell lymphoma
-efo		DOID:0050745	diffuse large B-cell lymphoma	EFO:0001642	lymphoid neoplasm
-efo		DOID:0050771	phaeochromocytoma	EFO:0000239	adrenal gland pheochromocytoma
-efo		DOID:0060000	infective endocarditis	EFO:0000465	endocarditis
-efo		DOID:0060040	pervasive developmental disorder	EFO:0003756	autism spectrum disorder
-efo		DOID:0060041	autism spectrum disorder	EFO:0003756	autism spectrum disorder
-efo		DOID:0060042	atypical autism	EFO:0003759	pervasive developmental disorder - not otherwise specified
-efo		DOID:0060053	peripheral neuropathy	EFO:0003100	peripheral neuropathy
-efo		DOID:0060058	lymphoma	EFO:0000574	lymphoma
-efo		DOID:0060060	non-Hodgkin lymphoma	EFO:0000574	lymphoma
-efo		DOID:0060061	cutaneous T cell lymphoma	EFO:0002913	Cutaneous T-cell lymphoma
-efo		DOID:0060072	benign neoplasm	EFO:0002422	benign neoplasm
-efo		DOID:0060074	ductal carcinoma in situ	EFO:0000432	ductal carcinoma in situ
-efo		DOID:0070004	myeloma	EFO:0001378	multiple myeloma
-efo		DOID:0080000	muscular disease	EFO:0002970	muscular disease
-efo		DOID:0080001	bone disease	EFO:0004260	bone disease
-efo		DOID:0080016	spina bifida	EFO:0003105	spina bifida
-efo		DOID:10041	dysplastic nevus syndrome	EFO:0004199	dysplastic nevus
-efo		DOID:10054	skin amelanotic melanoma	EFO:0002894	amelanotic skin melanoma
-efo		DOID:10159	osteonecrosis	EFO:0004259	osteonecrosis
-efo		DOID:1019	osteomyelitis	EFO:0003102	osteomyelitis
-efo		DOID:10211	cholelithiasis	EFO:0004799	cholelithiasis
-efo		DOID:10223	dermatomyositis	EFO:0000398	dermatomyositis
-efo		DOID:1023	borderline leprosy	EFO:0001055	borderline leprosy
-efo		DOID:1024	leprosy	EFO:0001054	leprosy
-efo		DOID:1025	tuberculoid leprosy	EFO:0001056	tuberculoid leprosy
-efo		DOID:10283	prostate cancer	EFO:0000673	prostate adenocarcinoma
-efo		DOID:10283	prostate cancer	EFO:0001663	prostate carcinoma
-efo		DOID:10286	prostate carcinoma	EFO:0000673	prostate adenocarcinoma
-efo		DOID:10286	prostate carcinoma	EFO:0001663	prostate carcinoma
-efo		DOID:10314	endocarditis	EFO:0000465	endocarditis
-efo		DOID:10354	breast fibrocystic disease	EFO:0003014	breast fibrocystic disease
-efo		DOID:1036	chronic leukemia	EFO:0000565	leukemia
-efo		DOID:1037	lymphoblastic leukemia	EFO:0000220	acute lymphoblastic leukemia
-efo		DOID:1040	chronic lymphocytic leukemia	EFO:0000095	chronic lymphocytic leukemia
-efo		DOID:10456	tonsillitis	EFO:0001401	tonsil
-efo		DOID:10526	conjunctival pterygium	EFO:0000678	pterygium
-efo		DOID:10534	stomach cancer	EFO:0003897	stomach neoplasm
-efo		DOID:1059	intellectual disability	EFO:0003847	mental retardation
-efo		DOID:10591	pre-eclampsia	EFO:0000668	preeclampsia
-efo		DOID:10608	celiac disease	EFO:0001060	celiac disease
-efo		DOID:10652	Alzheimer's disease	EFO:0000249	Alzheimer's disease
-efo		DOID:1067	open-angle glaucoma	EFO:0004190	open-angle glaucoma
-efo		DOID:10747	lymphoid leukemia	EFO:0004289	lymphoid leukemia
-efo		DOID:10754	otitis media	EFO:0004992	Otitis media
-efo		DOID:10762	portal hypertension	EFO:0000666	portal hypertension
-efo		DOID:10763	hypertension	EFO:0000537	hypertension
-efo		DOID:10871	age related macular degeneration	EFO:0001365	age-related macular degeneration
-efo		DOID:10887	lepromatous leprosy	EFO:0001057	lepromatous leprosy
-efo		DOID:10933	obsessive-compulsive disorder	EFO:0004242	obsessive-compulsive disorder
-efo		DOID:1094	attention deficit hyperactivity disorder	EFO:0003888	attention deficit hyperactivity disorder
-efo		DOID:10941	intracranial aneurysm	EFO:0003870	brain aneurysm
-efo		DOID:10976	membranous glomerulonephritis	EFO:0004254	membranous glomerulonephritis
-efo		DOID:10983	Alport syndrome	EFO:0004128	nephritis, hereditary
-efo		DOID:11054	urinary bladder cancer	EFO:0000292	bladder carcinoma
-efo		DOID:11054	urinary bladder cancer	EFO:0000294	bladder tumor
-efo		DOID:1107	esophageal carcinoma	EFO:0002916	esophageal carcinoma
-efo		DOID:11132	prostatic hypertrophy	EFO:0000284	benign prostatic hyperplasia
-efo		DOID:1115	sarcoma	EFO:0000691	sarcoma
-efo		DOID:1116	pertussis	EFO:0000650	whooping cough
-efo		DOID:1123	spondyloarthropathy	EFO:0000706	spondyloarthropathy
-efo		DOID:11239	appendix cancer	EFO:0003880	appendiceal neoplasm
-efo		DOID:11240	appendiceal neoplasm	EFO:0003880	appendiceal neoplasm
-efo		DOID:11328	schizophreniform disorder	EFO:0000677	mental or behavioural disorder
-efo		DOID:11335	sarcoidosis	EFO:0000183	Hodgkins lymphoma
-efo		DOID:11383	cryptorchidism	EFO:0004562	cryptorchidism
-efo		DOID:114	heart disease	EFO:0003777	heart disease
-efo		DOID:11476	osteoporosis	EFO:0003882	osteoporosis
-efo		DOID:11503	diabetic autonomic neuropathy	EFO:0000401	diabetic nephropathy
-efo		DOID:11549	Adie syndrome	EFO:0004126	Adie syndrome
-efo		DOID:11555	Fuchs' endothelial dystrophy	EFO:0003946	Fuchs' endothelial dystrophy
-efo		DOID:11612	polycystic ovary syndrome	EFO:0000660	polycystic ovary syndrome
-efo		DOID:1168	familial hyperlipidemia	EFO:0003774	hyperlipidemia
-efo		DOID:11714	gestational diabetes	EFO:0004593	gestational diabetes
-efo		DOID:11782	astigmatism	EFO:0004222	Astigmatism
-efo		DOID:11819	ureter cancer	EFO:0003844	ureteral neoplasm
-efo		DOID:11829	degenerative myopia	EFO:0004207	pathological myopia
-efo		DOID:11830	myopia	EFO:0003927	myopia
-efo		DOID:1184	nephrotic syndrome	EFO:0004255	nephrotic syndrome
-efo		DOID:11840	coronary artery vasospasm	EFO:0004225	Coronary Vasospasm
-efo		DOID:11870	Pick's disease	EFO:0003096	Pick disease
-efo		DOID:1192	peripheral nervous system neoplasm	EFO:0000622	neurofibroma
-efo		DOID:1192	peripheral nervous system neoplasm	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:1192	peripheral nervous system neoplasm	EFO:0002431	tumour of cranial and spinal nerves
-efo		DOID:11949	Creutzfeldt-Jakob syndrome	EFO:0004226	Creutzfeldt Jacob Disease
-efo		DOID:11981	morbid obesity	EFO:0001074	morbid obesity
-efo		DOID:11984	hypertrophic cardiomyopathy	EFO:0000538	hypertrophic cardiomyopathy
-efo		DOID:1205	hypersensitivity reaction type I disease	EFO:0003785	allergy
-efo		DOID:12169	carpal tunnel syndrome	EFO:0004143	carpal tunnel syndrome
-efo		DOID:12176	goiter	EFO:0004283	goiter
-efo		DOID:12185	otosclerosis	EFO:0004213	Otosclerosis
-efo		DOID:12206	dengue hemorrhagic fever	EFO:0004227	Dengue Hemorrhagic Fever
-efo		DOID:12236	primary biliary cirrhosis	EFO:0004267	biliary liver cirrhosis
-efo		DOID:12252	Cushing's syndrome	EFO:0003099	Cushing syndrome
-efo		DOID:12306	vitiligo	EFO:0004208	Vitiligo
-efo		DOID:12336	male infertility	EFO:0004248	male infertility
-efo		DOID:12361	Graves' disease	EFO:0004237	Graves disease
-efo		DOID:12365	malaria	EFO:0001068	malaria
-efo		DOID:1240	leukemia	EFO:0000565	leukemia
-efo		DOID:12558	chronic progressive external ophthalmoplegia	EFO:0002509	progressive external ophthalmoplegia
-efo		DOID:12689	acoustic neuroma	EFO:0000693	schwannoma
-efo		DOID:127	leiomyoma	EFO:0000731	uterine fibroid
-efo		DOID:12715	infectious myositis	EFO:0000783	myositis
-efo		DOID:12785	diabetic polyneuropathy	EFO:0000401	diabetic nephropathy
-efo		DOID:12849	autistic disorder	EFO:0003758	autism
-efo		DOID:1287	cardiovascular system disease	EFO:0000319	cardiovascular disease
-efo		DOID:12894	Sjogren's syndrome	EFO:0000699	Sjogren syndrome
-efo		DOID:12900	Mikulicz disease	EFO:0000699	Sjogren syndrome
-efo		DOID:12930	dilated cardiomyopathy	EFO:0000407	dilated cardiomyopathy
-efo		DOID:1294	vulva carcinoma	EFO:0002921	vulvar carcinoma
-efo		DOID:12960	acrocephalosyndactylia	EFO:0004123	acrocephalosyndactylia
-efo		DOID:12995	conduct disorder	EFO:0004216	conduct disorder
-efo		DOID:1307	dementia	EFO:0003862	dementia
-efo		DOID:1312	focal segmental glomerulosclerosis	EFO:0004236	focal segmental glomerulosclerosis
-efo		DOID:13189	gout	EFO:0004274	gout
-efo		DOID:1319	brain cancer	EFO:0003833	brain neoplasm
-efo		DOID:13223	uterine fibroid	EFO:0000731	uterine fibroid
-efo		DOID:1324	lung cancer	EFO:0001071	lung carcinoma
-efo		DOID:13241	Behcet's disease	EFO:0003780	Behcet's syndrome
-efo		DOID:13378	Kawasaki disease	EFO:0004246	mucocutaneous lymph node syndrome
-efo		DOID:1343	urethritis	EFO:0003878	urethritis
-efo		DOID:1350	paranasal sinus neoplasm	EFO:0003866	paranasal sinus neoplasm
-efo		DOID:13641	exfoliation syndrome	EFO:0004235	exfoliation syndrome
-efo		DOID:1380	endometrial cancer	EFO:0004230	endometrial neoplasm
-efo		DOID:13810	familial hypercholesterolemia	EFO:0004911	familial hypercholesterolemia
-efo		DOID:13922	eosinophilic esophagitis	EFO:0004232	eosinophilic esophagitis
-efo		DOID:13976	peptic esophagitis	EFO:0003948	gastroesophageal reflux disease
-efo		DOID:1398	parasitic infectious disease	EFO:0001067	parasitic Infection
-efo		DOID:14004	thoracic aortic aneurysm	EFO:0004282	thoracic aortic aneurysm
-efo		DOID:14075	geniculate ganglionitis	EFO:0003669	facial ganglion
-efo		DOID:14110	anus cancer	EFO:0003835	anal neoplasm
-efo		DOID:14203	childhood type dermatomyositis	EFO:0000557	juvenile dermatomyositis
-efo		DOID:14221	metabolic syndrome X	EFO:0000195	metabolic syndrome
-efo		DOID:14227	azoospermia	EFO:0000279	azoospermia
-efo		DOID:14228	oligospermia	EFO:0000279	azoospermia
-efo		DOID:14268	sclerosing cholangitis	EFO:0004268	sclerosing cholangitis
-efo		DOID:14330	Parkinson's disease	EFO:0002508	Parkinson's disease
-efo		DOID:14491	regional ureteric cancer	EFO:0003844	ureteral neoplasm
-efo		DOID:1459	hypothyroidism	EFO:0004705	hypothyroidism
-efo		DOID:14654	prostatitis	EFO:0000858	prostate
-efo		DOID:14654	prostatitis	EFO:0003830	prostatitis
-efo		DOID:1470	major depressive disorder	EFO:0003761	unipolar depression
-efo		DOID:14735	hereditary angioedema	EFO:0004133	angioedemas, hereditary
-efo		DOID:15	reproductive system disease	EFO:0000512	reproductive system disease
-efo		DOID:1520	colon carcinoma	EFO:0000365	colorectal adenocarcinoma
-efo		DOID:1574	alcohol abuse	EFO:0003829	alcohol dependence
-efo		DOID:1579	respiratory system disease	EFO:0000684	respiratory system disease
-efo		DOID:1580	diffuse scleroderma	EFO:0000404	diffuse scleroderma
-efo		DOID:1595	endogenous depression	EFO:0003761	unipolar depression
-efo		DOID:1612	breast cancer	EFO:0000305	breast carcinoma
-efo		DOID:1612	breast cancer	EFO:0003869	breast neoplasm
-efo		DOID:162	cancer	EFO:0000311	cancer
-efo		DOID:162	cancer	EFO:0000616	neoplasm
-efo		DOID:1631	benign breast phyllodes tumor	EFO:0000653	phyllodes tumor
-efo		DOID:1686	glaucoma	EFO:0000516	glaucoma
-efo		DOID:170	endocrine gland cancer	EFO:0003769	endocrine neoplasm
-efo		DOID:1712	aortic valve stenosis	EFO:0000266	aortic stenosis
-efo		DOID:1724	duodenal ulcer	EFO:0004607	duodenal ulcer
-efo		DOID:1749	squamous cell carcinoma	EFO:0000707	squamous cell carcinoma
-efo		DOID:178	vascular disease	EFO:0004264	vascular disease
-efo		DOID:1781	thyroid cancer	EFO:0002892	thyroid carcinoma
-efo		DOID:1781	thyroid cancer	EFO:0003841	thyroid neoplasm
-efo		DOID:1790	malignant mesothelioma	EFO:0000588	mesothelioma
-efo		DOID:1793	pancreatic cancer	EFO:0002618	pancreatic carcinoma
-efo		DOID:1793	pancreatic cancer	EFO:0003860	pancreatic neoplasm
-efo		DOID:182	calcinosis	EFO:0003837	calcification
-efo		DOID:1837	diabetic ketoacidosis	EFO:0001359	type I diabetes mellitus
-efo		DOID:184	bone cancer	EFO:0003820	bone neoplasm
-efo		DOID:1849	cannabis dependence	EFO:0004218	marijuana dependence
-efo		DOID:1875	impotence	EFO:0004234	erectile dysfunction
-efo		DOID:1876	sexual dysfunction	EFO:0004714	sexual dysfunction
-efo		DOID:1883	hepatitis C	EFO:0003047	hepatitis C infection
-efo		DOID:1883	hepatitis C	EFO:0004220	Chronic Hepatitis C infection
-efo		DOID:1884	viral hepatitis	EFO:0004196	viral human hepatitis infection
-efo		DOID:1909	melanoma	EFO:0000756	melanoma
-efo		DOID:1936	atherosclerosis	EFO:0003914	atherosclerosis
-efo		DOID:1967	leiomyosarcoma	EFO:0000564	leiomyosarcoma
-efo		DOID:2043	hepatitis B	EFO:0004197	hepatitis B infection
-efo		DOID:2043	hepatitis B	EFO:0004239	chronic hepatitis B infection
-efo		DOID:2044	drug-induced hepatitis	EFO:0004228	drug-induced liver injury
-efo		DOID:2055	post-traumatic stress disorder	EFO:0001358	post-traumatic stress disorder
-efo		DOID:216	dental caries	EFO:0003819	dental caries
-efo		DOID:2174	ocular cancer	EFO:0003824	eye neoplasm
-efo		DOID:219	colon cancer	EFO:0000365	colorectal adenocarcinoma
-efo		DOID:219	colon cancer	EFO:0004288	colonic neoplasm
-efo		DOID:2224	hemorrhagic thrombocythemia	EFO:0000479	essential thrombocythemia
-efo		DOID:2234	focal epilepsy	EFO:0004263	partial epilepsy
-efo		DOID:224	transient cerebral ischemia	EFO:0003764	transient ischemic attack
-efo		DOID:2247	spondylosis	EFO:0000706	spondyloarthropathy
-efo		DOID:230	lateral sclerosis	EFO:0003782	motor neuron disease
-efo		DOID:231	motor neuron disease	EFO:0003782	motor neuron disease
-efo		DOID:2316	brain ischemia	EFO:0003883	brain ischemia
-efo		DOID:234	colon adenocarcinoma	EFO:0000365	colorectal adenocarcinoma
-efo		DOID:235	colonic neoplasm	EFO:0004288	colonic neoplasm
-efo		DOID:2355	anemia	EFO:0004272	anemia
-efo		DOID:2376	chronic progressive multiple sclerosis	EFO:0003840	chronic progressive multiple sclerosis
-efo		DOID:2377	multiple sclerosis	EFO:0003885	multiple sclerosis
-efo		DOID:2378	relapsing-remitting multiple sclerosis	EFO:0003929	relapsing-remitting multiple sclerosis
-efo		DOID:2394	ovarian cancer	EFO:0001075	ovarian carcinoma
-efo		DOID:2394	ovarian cancer	EFO:0003893	ovarian neoplasm
-efo		DOID:2426	gangliocytoma	EFO:0000500	ganglioneuroma
-efo		DOID:2468	psychotic disorder	EFO:0000677	mental or behavioural disorder
-efo		DOID:2476	hereditary spastic paraplegia	EFO:0000529	hereditary spastic paraplegia
-efo		DOID:2513	basal cell carcinoma	EFO:0004193	basal cell carcinoma
-efo		DOID:2526	prostate adenocarcinoma	EFO:0000673	prostate adenocarcinoma
-efo		DOID:2531	hematologic cancer	EFO:0001642	lymphoid neoplasm
-efo		DOID:2582	acatalasia	EFO:0004144	acatalasia
-efo		DOID:2596	larynx cancer	EFO:0003817	laryngeal neoplasm
-efo		DOID:2598	laryngeal benign neoplasm	EFO:0003817	laryngeal neoplasm
-efo		DOID:2600	laryngeal carcinoma	EFO:0003817	laryngeal neoplasm
-efo		DOID:263	kidney cancer	EFO:0002890	renal carcinoma
-efo		DOID:263	kidney cancer	EFO:0003865	kidney neoplasm
-efo		DOID:264	hemangiopericytoma	EFO:0000705	spindle cell tumor
-efo		DOID:2645	benign mesothelioma	EFO:0000588	mesothelioma
-efo		DOID:2649	chondroblastoma	EFO:0000331	chondroblastoma
-efo		DOID:2734	keratosis follicularis	EFO:0004124	Darier's disease
-efo		DOID:28	endocrine system disease	EFO:0001379	endocrine system disease
-efo		DOID:2841	asthma	EFO:0000270	asthma
-efo		DOID:2848	melancholia	EFO:0003761	unipolar depression
-efo		DOID:2855	hyperthyroxinemia	EFO:0004127	hyperthyroxinemia
-efo		DOID:2871	endometrial carcinoma	EFO:0000466	endometrioid carcinoma
-efo		DOID:2871	endometrial carcinoma	EFO:0004230	endometrial neoplasm
-efo		DOID:2883	prostatic adenoma	EFO:0000284	benign prostatic hyperplasia
-efo		DOID:289	endometriosis	EFO:0001065	endometriosis
-efo		DOID:2891	thyroid adenoma	EFO:0003841	thyroid neoplasm
-efo		DOID:2893	cervix carcinoma	EFO:0001061	cervical carcinoma
-efo		DOID:2893	cervix carcinoma	EFO:0001416	cervical adenocarcinoma
-efo		DOID:2914	immune system disease	EFO:0000540	immune system disease
-efo		DOID:2945	severe acute respiratory syndrome	EFO:0000694	severe acute respiratory syndrome
-efo		DOID:2986	IgA glomerulonephritis	EFO:0004194	IGA glomerulonephritis
-efo		DOID:2988	antiphospholipid syndrome	EFO:0002689	primary antiphospholipid syndrome
-efo		DOID:299	adenocarcinoma	EFO:0000228	adenocarcinoma
-efo		DOID:2994	germ cell cancer	EFO:0000514	germ cell tumor
-efo		DOID:2998	testicular cancer	EFO:0004281	testicular neoplasm
-efo		DOID:3008	invasive ductal carcinoma	EFO:0000186	invasive ductal carcinoma
-efo		DOID:3008	invasive ductal carcinoma	EFO:0000430	ductal adenocarcinoma
-efo		DOID:3016	breast malignant phyllodes tumor	EFO:0000653	phyllodes tumor
-efo		DOID:302	substance abuse	EFO:0003890	drug dependence
-efo		DOID:3025	acinar cell carcinoma	EFO:0000216	acinar cell carcinoma
-efo		DOID:3029	colon mucinous adenocarcinoma	EFO:0000364	colon mucinous adenocarcinoma
-efo		DOID:303	substance-related disorder	EFO:0003890	drug dependence
-efo		DOID:305	carcinoma	EFO:0000313	carcinoma
-efo		DOID:3068	glioblastoma	EFO:0000519	glioblastoma multiforme
-efo		DOID:3069	astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:3070	malignant glioma	EFO:0000326	central nervous system cancer
-efo		DOID:3074	giant cell glioblastoma	EFO:0000519	glioblastoma multiforme
-efo		DOID:3082	interstitial lung disease	EFO:0004244	interstitial lung disease
-efo		DOID:3083	chronic obstructive pulmonary disease	EFO:0000341	chronic obstructive pulmonary disease
-efo		DOID:3087	gingivitis	EFO:0001925	gum
-efo		DOID:3110	papillary cystadenocarcinoma	EFO:0000639	papillary cystadenocarcinoma
-efo		DOID:3112	papillary adenocarcinoma	EFO:0000641	papillary thyroid carcinoma
-efo		DOID:3114	serous cystadenocarcinoma	EFO:0003825	serous adenocarsinoma
-efo		DOID:3121	gallbladder cancer	EFO:0004606	gallbladder neoplasm
-efo		DOID:3165	skin benign  neoplasm	EFO:0004198	skin neoplasm
-efo		DOID:3172	papillary adenoma	EFO:0000499	follicular thyroid adenoma
-efo		DOID:3181	oligodendroglioma	EFO:0000632	oligodendroglioma
-efo		DOID:3183	childhood oligodendroglioma	EFO:0000630	oligoastrocytoma
-efo		DOID:3183	childhood oligodendroglioma	EFO:0000632	oligodendroglioma
-efo		DOID:3186	adult oligodendroglioma	EFO:0000630	oligoastrocytoma
-efo		DOID:3186	adult oligodendroglioma	EFO:0000632	oligodendroglioma
-efo		DOID:3192	neurilemmoma	EFO:0000693	schwannoma
-efo		DOID:3193	peripheral nerve sheath neoplasm	EFO:0000622	neurofibroma
-efo		DOID:3193	peripheral nerve sheath neoplasm	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:3196	cellular schwannoma	EFO:0000693	schwannoma
-efo		DOID:3205	melanotic neurilemmoma	EFO:0000693	schwannoma
-efo		DOID:3206	plexiform schwannoma	EFO:0000693	schwannoma
-efo		DOID:3246	embryonal rhabdomyosarcoma	EFO:0000437	embryonal rhabdomyosarcoma
-efo		DOID:3247	rhabdomyosarcoma	EFO:0002918	rhabdomyosarcoma
-efo		DOID:3255	botryoid rhabdomyosarcoma	EFO:0000437	embryonal rhabdomyosarcoma
-efo		DOID:326	ischemia	EFO:0000556	ischemia
-efo		DOID:3261	Job's syndrome	EFO:0003775	Job's syndrome
-efo		DOID:3277	thymus cancer	EFO:0002626	thymus neoplasm
-efo		DOID:3304	germinoma	EFO:0000514	germ cell tumor
-efo		DOID:3308	embryonal carcinoma	EFO:0004986	embryonal carcinoma
-efo		DOID:331	central nervous system disease	EFO:0000618	nervous system disease
-efo		DOID:3310	atopic dermatitis	EFO:0000274	atopic eczema
-efo		DOID:3312	bipolar disorder	EFO:0000289	bipolar disorder
-efo		DOID:3315	lipoma	EFO:0000759	lipoma
-efo		DOID:332	amyotrophic lateral sclerosis	EFO:0000253	amyotrophic lateral sclerosis
-efo		DOID:3324	mood disorder	EFO:0004247	mood disorder
-efo		DOID:3328	temporal lobe epilepsy	EFO:0000773	temporal lobe epilepsy
-efo		DOID:3347	osteosarcoma	EFO:0000637	osteosarcoma
-efo		DOID:3355	fibrosarcoma	EFO:0002087	fibrosarcoma
-efo		DOID:3363	coronary arteriosclerosis	EFO:0000378	coronary artery disease
-efo		DOID:3369	peripheral primitive neuroectodermal tumor	EFO:0000174	Ewing sarcoma
-efo		DOID:3371	chondrosarcoma	EFO:0000333	chondrosarcoma
-efo		DOID:3376	bone osteosarcoma	EFO:0000637	osteosarcoma
-efo		DOID:3382	liposarcoma	EFO:0000569	liposarcoma
-efo		DOID:3385	bacterial vaginosis	EFO:0003932	bacterial vaginosis
-efo		DOID:3393	coronary heart disease	EFO:0000378	coronary artery disease
-efo		DOID:3393	coronary heart disease	EFO:0001645	coronary heart disease
-efo		DOID:3407	carotid artery disease	EFO:0003781	carotid artery disease
-efo		DOID:341	peripheral vascular disease	EFO:0003875	peripheral vascular disease
-efo		DOID:3454	brain infarction	EFO:0004277	brain infarction
-efo		DOID:3455	cerebrovascular accident	EFO:0000712	stroke
-efo		DOID:3457	invasive lobular carcinoma	EFO:0000553	invasive lobular carcinoma
-efo		DOID:3458	breast adenocarcinoma	EFO:0000304	breast adenocarcinoma
-efo		DOID:3459	breast carcinoma	EFO:0000305	breast carcinoma
-efo		DOID:3488	cellulitis	EFO:0003035	cellulitis
-efo		DOID:3493	signet ring cell adenocarcinoma	EFO:0000698	signet ring cell carcinoma
-efo		DOID:3498	pancreatic ductal adenocarcinoma	EFO:0002517	pancreatic ductal adenocarcinoma
-efo		DOID:3512	neurofibrosarcoma	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:3530	chronic wasting disease	EFO:0000574	lymphoma
-efo		DOID:3565	meningioma	EFO:0003851	meningeal neoplasm
-efo		DOID:3571	liver cancer	EFO:0000182	hepatocellular carcinoma
-efo		DOID:3587	pancreatic ductal carcinoma	EFO:0002517	pancreatic ductal adenocarcinoma
-efo		DOID:3594	choriocarcinoma	EFO:0002893	choriocarcinoma
-efo		DOID:3620	central nervous system cancer	EFO:0000326	central nervous system cancer
-efo		DOID:3627	aortic aneurysm	EFO:0001666	aortic aneurysm
-efo		DOID:363	uterine cancer	EFO:0003859	uterine neoplasm
-efo		DOID:3669	intermittent claudication	EFO:0003876	intermittent vascular claudication
-efo		DOID:37	skin disease	EFO:0000701	skin disease
-efo		DOID:3702	cervical adenocarcinoma	EFO:0001416	cervical adenocarcinoma
-efo		DOID:3717	gastric adenocarcinoma	EFO:0000503	gastric adenocarcinoma
-efo		DOID:374	nutrition disease	EFO:0001069	nutritional disorder
-efo		DOID:3763	hermaphroditism	EFO:0001267	hermaphrodite
-efo		DOID:3798	pleural empyema	EFO:0003097	empyema
-efo		DOID:3858	medulloblastoma	EFO:0002939	medulloblastoma
-efo		DOID:3861	medullomyoblastoma	EFO:0002939	medulloblastoma
-efo		DOID:3864	adult medulloblastoma	EFO:0002939	medulloblastoma
-efo		DOID:3869	childhood medulloblastoma	EFO:0002939	medulloblastoma
-efo		DOID:3875	thrombophlebitis	EFO:0003887	thrombophlebitis
-efo		DOID:3892	insulinoma	EFO:0000549	insulinoma
-efo		DOID:3905	lung carcinoma	EFO:0001071	lung carcinoma
-efo		DOID:3907	lung squamous cell carcinoma	EFO:0000708	squamous cell lung carcinoma
-efo		DOID:3908	non-small cell lung carcinoma	EFO:0003060	non-small cell lung carcinoma
-efo		DOID:3910	lung adenocarcinoma	EFO:0000571	lung adenocarcinoma
-efo		DOID:3945	focal glomerulosclerosis	EFO:0004236	focal segmental glomerulosclerosis
-efo		DOID:3948	adrenocortical carcinoma	EFO:0003093	adrenocortical carcinoma
-efo		DOID:3953	adrenal gland cancer	EFO:0003850	adrenal gland neoplasm
-efo		DOID:3962	follicular thyroid carcinoma	EFO:0000501	follicular thyroid carcinoma
-efo		DOID:3963	thyroid carcinoma	EFO:0002892	thyroid carcinoma
-efo		DOID:3969	papillary thyroid carcinoma	EFO:0000641	papillary thyroid carcinoma
-efo		DOID:397	restrictive cardiomyopathy	EFO:0002630	restrictive cardiomyopathy
-efo		DOID:3978	extrinsic cardiomyopathy	EFO:0000318	cardiomyopathy
-efo		DOID:4	disease	EFO:0000408	disease
-efo		DOID:4001	ovarian carcinoma	EFO:0001075	ovarian carcinoma
-efo		DOID:4007	bladder carcinoma	EFO:0000292	bladder carcinoma
-efo		DOID:4029	gastritis	EFO:0000217	active gastritis
-efo		DOID:4029	gastritis	EFO:0000337	chronic gastritis
-efo		DOID:4051	alveolar rhabdomyosarcoma	EFO:0000248	alveolar rhabdomyosarcoma
-efo		DOID:409	liver disease	EFO:0001421	liver disease
-efo		DOID:4159	skin cancer	EFO:0000389	cutaneous melanoma
-efo		DOID:4159	skin cancer	EFO:0004198	skin neoplasm
-efo		DOID:4163	ganglioneuroblastoma	EFO:0000502	ganglioneuroblastoma
-efo		DOID:417	hypersensitivity reaction type II disease	EFO:0000540	immune system disease
-efo		DOID:418	systemic scleroderma	EFO:0000404	diffuse scleroderma
-efo		DOID:418	systemic scleroderma	EFO:0000717	systemic scleroderma
-efo		DOID:419	scleroderma	EFO:0000717	systemic scleroderma
-efo		DOID:4195	hyperglycemia	EFO:0000535	hyperglycemia
-efo		DOID:423	myopathy	EFO:0004145	myopathy
-efo		DOID:4247	coronary restenosis	EFO:0004224	Coronary Restenosis
-efo		DOID:4362	cervical cancer	EFO:0001061	cervical carcinoma
-efo		DOID:4362	cervical cancer	EFO:0001416	cervical adenocarcinoma
-efo		DOID:437	myasthenia gravis	EFO:0004991	Myasthenia gravis
-efo		DOID:4386	myofibroma	EFO:0000731	uterine fibroid
-efo		DOID:4398	pustulosis of palm and sole	EFO:0000676	psoriasis
-efo		DOID:4448	macular degeneration	EFO:0001365	age-related macular degeneration
-efo		DOID:4450	renal cell carcinoma	EFO:0000681	renal cell carcinoma
-efo		DOID:4451	renal carcinoma	EFO:0000681	renal cell carcinoma
-efo		DOID:4451	renal carcinoma	EFO:0002890	renal carcinoma
-efo		DOID:4464	collecting duct carcinoma	EFO:0000681	renal cell carcinoma
-efo		DOID:4464	collecting duct carcinoma	EFO:0002890	renal carcinoma
-efo		DOID:4464	collecting duct carcinoma	EFO:0003016	collecting duct carcinoma
-efo		DOID:4465	papillary renal cell carcinoma	EFO:0000640	papillary renal cell carcinoma
-efo		DOID:4467	renal clear cell carcinoma	EFO:0000349	clear cell renal carcinoma
-efo		DOID:4468	clear cell adenocarcinoma	EFO:0000348	clear cell adenocarcinoma
-efo		DOID:4471	chromophobe adenocarcinoma	EFO:0000335	chromophobe renal cell carcinoma
-efo		DOID:4473	sarcomatoid renal cell carcinoma	EFO:0000681	renal cell carcinoma
-efo		DOID:4481	allergic rhinitis	EFO:0003956	seasonal allergic rhinitis
-efo		DOID:4551	anus neoplasm	EFO:0003835	anal neoplasm
-efo		DOID:4552	large cell carcinoma	EFO:0003050	large cell lung carcinoma
-efo		DOID:4556	lung large cell carcinoma	EFO:0003050	large cell lung carcinoma
-efo		DOID:4607	biliary tract cancer	EFO:0003891	biliary tract neoplasm
-efo		DOID:4697	perineurioma	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:4817	ganglioneuroma	EFO:0000500	ganglioneuroma
-efo		DOID:4829	adenosquamous cell lung carcinoma	EFO:0000233	adenosquamous lung carcinoma
-efo		DOID:4851	pilocytic astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:4866	adenoid cystic carcinoma	EFO:0000231	adenoid cystic carcinoma
-efo		DOID:4873	anterior horn cell disease	EFO:0003782	motor neuron disease
-efo		DOID:4880	kidney clear cell sarcoma	EFO:0000350	clear cell sarcoma of the kidney
-efo		DOID:4903	granular cell carcinoma	EFO:0000228	adenocarcinoma
-efo		DOID:4905	pancreatic carcinoma	EFO:0002618	pancreatic carcinoma
-efo		DOID:4914	esophagus adenocarcinoma	EFO:0000478	esophageal adenocarcinoma
-efo		DOID:4926	bronchiolo-alveolar adenocarcinoma	EFO:0000308	bronchoalveolar adenocarcinoma
-efo		DOID:4929	tubular adenocarcinoma	EFO:0000228	adenocarcinoma
-efo		DOID:4948	gallbladder carcinoma	EFO:0004606	gallbladder neoplasm
-efo		DOID:496	spindle cell hemangioma	EFO:0002856	SCH
-efo		DOID:4960	bone marrow cancer	EFO:0004251	myeloproliferative disorder
-efo		DOID:4964	neurotic disorder	EFO:0003761	unipolar depression
-efo		DOID:4964	neurotic disorder	EFO:0004257	neurotic disorder
-efo		DOID:4971	myelofibrosis	EFO:0002430	primary myelofibrosis
-efo		DOID:4976	elephantiasis	EFO:0004711	elephantiasis
-efo		DOID:4989	pancreatitis	EFO:0000278	pancreatitis
-efo		DOID:4990	essential tremor	EFO:0003108	essential tremor
-efo		DOID:4992	optic nerve glioma	EFO:0000519	glioblastoma multiforme
-efo		DOID:5041	esophageal cancer	EFO:0002916	esophageal carcinoma
-efo		DOID:5077	subependymal giant cell astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:5078	ganglioglioma	EFO:0003094	ganglioglioma
-efo		DOID:5082	liver cirrhosis	EFO:0001422	cirrhosis of liver
-efo		DOID:5151	plexiform neurofibroma	EFO:0000658	plexiform neurofibroma
-efo		DOID:5223	infertility	EFO:0000545	infertility
-efo		DOID:526	Human immunodeficiency virus infectious disease	EFO:0000764	HIV infection
-efo		DOID:5264	epithelioid leiomyosarcoma	EFO:0000564	leiomyosarcoma
-efo		DOID:5268	myxoid leiomyosarcoma	EFO:0000564	leiomyosarcoma
-efo		DOID:5295	intestinal disease	EFO:0000405	digestive system disease
-efo		DOID:5363	myxoid liposarcoma	EFO:0000613	myxoid liposarcoma
-efo		DOID:5403	microcystic adenoma	EFO:0000499	follicular thyroid adenoma
-efo		DOID:5408	Paget's disease of bone	EFO:0004261	osteitis deformans
-efo		DOID:5409	lung small cell carcinoma	EFO:0000702	small cell lung carcinoma
-efo		DOID:5411	lung oat cell carcinoma	EFO:0000702	small cell lung carcinoma
-efo		DOID:5418	schizoaffective disorder	EFO:0000677	mental or behavioural disorder
-efo		DOID:5419	schizophrenia	EFO:0000692	schizophrenia
-efo		DOID:5426	premature ovarian failure	EFO:0004266	primary ovarian insufficiency
-efo		DOID:5485	synovial sarcoma	EFO:0001376	synovial sarcoma
-efo		DOID:5495	monophasic synovial sarcoma	EFO:0000595	monophasic synovial sarcoma
-efo		DOID:5517	stomach carcinoma	EFO:0003897	stomach neoplasm
-efo		DOID:552	pneumonia	EFO:0003106	pneumonia
-efo		DOID:5521	keratinizing squamous cell carcinoma	EFO:0000559	keratinizing squamous cell carcinoma
-efo		DOID:5557	testicular germ cell cancer	EFO:0004281	testicular neoplasm
-efo		DOID:557	kidney disease	EFO:0003086	kidney disease
-efo		DOID:5603	acute T cell leukemia	EFO:0000209	T-cell acute lymphoblastic leukemia
-efo		DOID:5605	breast medullary carcinoma	EFO:0000580	medullary breast carcinoma
-efo		DOID:5612	spinal cancer	EFO:0003828	spinal cord neoplasm
-efo		DOID:5614	eye disease	EFO:0003966	eye disease
-efo		DOID:5675	cribriform carcinoma	EFO:0000228	adenocarcinoma
-efo		DOID:5692	cellular myxoid liposarcoma	EFO:0003084	round cell liposarcoma
-efo		DOID:5702	pleomorphic liposarcoma	EFO:0003083	pleomorphic liposarcoma
-efo		DOID:5842	testis seminoma	EFO:0003101	testicular seminoma
-efo		DOID:5844	myocardial infarction	EFO:0000612	myocardial infarction
-efo		DOID:585	nephrolithiasis	EFO:0003845	kidney stone
-efo		DOID:585	nephrolithiasis	EFO:0004253	nephrolithiasis
-efo		DOID:594	panic disorder	EFO:0004262	panic disorder
-efo		DOID:5940	malignant peripheral nerve sheath tumor	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:5974	renal pelvis transitional cell carcinoma	EFO:0003017	transitional cell carcinoma of kidney
-efo		DOID:6000	congestive heart failure	EFO:0000373	congestive heart failure
-efo		DOID:6000	congestive heart failure	EFO:0003144	heart failure
-efo		DOID:615	leukopenia	EFO:0004233	leukopenia
-efo		DOID:6204	follicular adenoma	EFO:0000499	follicular thyroid adenoma
-efo		DOID:6217	gastric diffuse adenocarcinoma	EFO:0000402	diffuse gastric adenocarcinoma
-efo		DOID:6255	growth hormone secreting pituitary adenoma	EFO:0004125	growth hormone-secreting pituitary adenoma
-efo		DOID:633	myositis	EFO:0000783	myositis
-efo		DOID:635	acquired immunodeficiency syndrome	EFO:0000765	AIDS
-efo		DOID:6364	migraine	EFO:0003821	migraine disorder
-efo		DOID:640	encephalomyelitis	EFO:0001423	encephalomyelitis
-efo		DOID:6419	tetralogy of Fallot	EFO:0004894	tetralogy of fallot
-efo		DOID:6432	pulmonary hypertension	EFO:0001361	pulmonary hypertension
-efo		DOID:649	prion disease	EFO:0004720	prion disease
-efo		DOID:6536	plasma cell neoplasm	EFO:0000200	plasma cell neoplasm
-efo		DOID:6543	acne	EFO:0003894	acne
-efo		DOID:657	adenoma	EFO:0000232	adenoma
-efo		DOID:6658	pulmonary large cell neuroendocrine carcinoma	EFO:0000563	large cell neuroendocrine carcinoma
-efo		DOID:6713	cerebrovascular disease	EFO:0003763	cerebrovascular disorder
-efo		DOID:6726	fibrillary astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:674	cleft palate	EFO:0003920	cleft palate
-efo		DOID:6755	amyloid tumor	EFO:0003114	pauciarticular juvenile rheumatoid arthritis
-efo		DOID:676	juvenile rheumatoid arthritis	EFO:0002609	chronic childhood arthritis
-efo		DOID:676	juvenile rheumatoid arthritis	EFO:0003114	pauciarticular juvenile rheumatoid arthritis
-efo		DOID:6776	breast myoepithelial carcinoma	EFO:0002609	chronic childhood arthritis
-efo		DOID:681	progressive bulbar palsy	EFO:0003783	progressive bulbar palsy
-efo		DOID:6811	juvenile pilocytic astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:684	hepatocellular carcinoma	EFO:0000182	hepatocellular carcinoma
-efo		DOID:6844	kidney pelvis sarcomatoid transitional cell carcinoma	EFO:0003017	transitional cell carcinoma of kidney
-efo		DOID:688	embryonal cancer	EFO:0000514	germ cell tumor
-efo		DOID:7005	gemistocytic astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:7007	childhood cerebral astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:7008	protoplasmic astrocytoma	EFO:0000272	astrocytoma
-efo		DOID:706	mature B-cell neoplasm	EFO:0000096	neoplasm of mature B-cells
-efo		DOID:7061	precursor B lymphoblastic lymphoma/leukemia	EFO:0000094	B-cell acute lymphoblastic leukemia
-efo		DOID:7147	ankylosing spondylitis	EFO:0003898	ankylosing spondylitis
-efo		DOID:7148	rheumatoid arthritis	EFO:0000685	rheumatoid arthritis
-efo		DOID:7166	thyroiditis	EFO:0000861	thyroid
-efo		DOID:7188	autoimmune thyroiditis	EFO:0003779	autoimmune thyroid disease
-efo		DOID:730	urethral benign neoplasm	EFO:0003846	urethral neoplasm
-efo		DOID:7320	ovarian serous cystadenofibroma	EFO:0002510	serous cystadenofibroma
-efo		DOID:734	urethra cancer	EFO:0003846	urethral neoplasm
-efo		DOID:7427	anthrax disease	EFO:0000778	anthrax infection
-efo		DOID:7442	monoclonal gammopathy of uncertain significance	EFO:0000203	monoclonal gammopathy
-efo		DOID:7474	malignant pleural mesothelioma	EFO:0000770	malignant pleural mesothelioma
-efo		DOID:768	retinoblastoma	EFO:0004023	Roberstonian translocation
-efo		DOID:769	neuroblastoma	EFO:0000621	neuroblastoma
-efo		DOID:7693	abdominal aortic aneurysm	EFO:0004214	Abdominal Aortic Aneurysm
-efo		DOID:77	gastrointestinal system disease	EFO:0000405	digestive system disease
-efo		DOID:783	end stage renal failure	EFO:0003884	chronic kidney disease
-efo		DOID:784	chronic kidney failure	EFO:0003884	chronic kidney disease
-efo		DOID:7912	mixed oligodendroglioma-astrocytoma	EFO:0000630	oligoastrocytoma
-efo		DOID:7912	mixed oligodendroglioma-astrocytoma	EFO:0000632	oligodendroglioma
-efo		DOID:824	periodontitis	EFO:0000649	periodontitis
-efo		DOID:83	cataract	EFO:0001059	cataract
-efo		DOID:8353	epithelioid malignant peripheral nerve sheath tumor	EFO:0000760	malignant peripheral nerve sheath tumor
-efo		DOID:8398	osteoarthritis	EFO:0002506	osteoarthritis
-efo		DOID:84	osteochondritis dissecans	EFO:0004242	obsessive-compulsive disorder
-efo		DOID:8476	Whipple disease	EFO:0000775	Whipple's disease
-efo		DOID:850	lung disease	EFO:0003818	lung disease
-efo		DOID:8533	hypopharynx cancer	EFO:0002938	hypopharyngeal carcinoma
-efo		DOID:8534	gastroesophageal reflux disease	EFO:0003948	gastroesophageal reflux disease
-efo		DOID:8538	reticulosarcoma	EFO:0000403	diffuse large B-cell lymphoma
-efo		DOID:8538	reticulosarcoma	EFO:0000574	lymphoma
-efo		DOID:8538	reticulosarcoma	EFO:0001642	lymphoid neoplasm
-efo		DOID:8544	chronic fatigue syndrome	EFO:0004540	chronic fatigue syndrome
-efo		DOID:8552	chronic myeloid leukemia	EFO:0000339	chronic myelogenous leukemia
-efo		DOID:8567	Hodgkin's lymphoma	EFO:0000183	Hodgkins lymphoma
-efo		DOID:8577	ulcerative colitis	EFO:0000729	ulcerative colitis
-efo		DOID:8584	Burkitt's lymphoma	EFO:0000309	Burkitts lymphoma
-efo		DOID:8628	Hodgkin's lymphoma, lymphocytic depletion	EFO:0000183	Hodgkins lymphoma
-efo		DOID:863	nervous system disease	EFO:0000618	nervous system disease
-efo		DOID:8632	Kaposi's sarcoma	EFO:0000187	Kaposi's sarcoma cell
-efo		DOID:8632	Kaposi's sarcoma	EFO:0000558	Kaposi's sarcoma
-efo		DOID:8649	tongue cancer	EFO:0003871	tongue neoplasm
-efo		DOID:8651	Hodgkin's granuloma	EFO:0000183	Hodgkins lymphoma
-efo		DOID:8654	Hodgkin's lymphoma, mixed cellularity	EFO:0000183	Hodgkins lymphoma
-efo		DOID:8675	lymphosarcoma	EFO:0000574	lymphoma
-efo		DOID:8677	perinatal necrotizing enterocolitis	EFO:0003928	necrotizing enterocolitis
-efo		DOID:8689	anorexia nervosa	EFO:0004215	anorexia nervosa
-efo		DOID:8691	mycosis fungoides	EFO:0004169	methyl filtration
-efo		DOID:870	neuropathy	EFO:0004149	neuropathy
-efo		DOID:8725	vascular dementia	EFO:0004718	vasuclar dementia
-efo		DOID:876	pyomyositis	EFO:0003025	acute megakaryoblastic leukaemia
-efo		DOID:8778	Crohn's disease	EFO:0000384	Crohn's disease
-efo		DOID:8778	Crohn's disease	EFO:0003872	colitis
-efo		DOID:8791	breast carcinoma in situ	EFO:0000432	ductal carcinoma in situ
-efo		DOID:8850	salivary gland cancer	EFO:0003826	salivary gland neoplasm
-efo		DOID:8857	lupus erythematosus	EFO:0002690	systemic lupus erythematosus
-efo		DOID:8864	acute monocytic leukemia	EFO:0000221	acute monocytic leukemia
-efo		DOID:8866	actinic keratosis	EFO:0002496	actinic keratosis
-efo		DOID:8869	neuromyelitis optica	EFO:0004256	neuromyelitis optica
-efo		DOID:8893	psoriasis	EFO:0000676	psoriasis
-efo		DOID:8923	skin melanoma	EFO:0000389	cutaneous melanoma
-efo		DOID:8947	diabetic retinopathy	EFO:0003770	diabetic retinopathy
-efo		DOID:8986	narcolepsy	EFO:0000614	narcolepsy
-efo		DOID:8997	polycythemia vera	EFO:0002429	polycythemia vera
-efo		DOID:90	degenerative disc disease	EFO:0004994	lumbar disc degeneration
-efo		DOID:9008	psoriatic arthritis	EFO:0003778	psoriatic arthritis
-efo		DOID:9065	leishmaniasis	EFO:0005044	Leishmaniasis
-efo		DOID:9074	systemic lupus erythematosus	EFO:0002690	systemic lupus erythematosus
-efo		DOID:9080	macroglobulinemia	EFO:0002616	macroglobulinemia
-efo		DOID:9111	cutaneous leishmaniasis	EFO:0005046	cutaneous Leishmaniasis
-efo		DOID:9119	acute myeloid leukemia	EFO:0000222	acute myeloid leukemia
-efo		DOID:9138	stomach carcinoma in situ	EFO:0000178	gastric carcinoma
-efo		DOID:9146	visceral leishmaniasis	EFO:0005045	visceral Leishmaniasis
-efo		DOID:916	liver neoplasm	EFO:0000182	hepatocellular carcinoma
-efo		DOID:9206	Barrett's esophagus	EFO:0000280	Barrett's esophagus
-efo		DOID:9255	frontotemporal dementia	EFO:0003096	Pick disease
-efo		DOID:9256	colorectal cancer	EFO:0000365	colorectal adenocarcinoma
-efo		DOID:9261	nasopharynx carcinoma	EFO:0004252	nasopharyngeal neoplasm
-efo		DOID:9296	cleft lip	EFO:0003959	cleft lip
-efo		DOID:934	viral infectious disease	EFO:0000763	viral disease
-efo		DOID:9351	diabetes mellitus	EFO:0000400	diabetes mellitus
-efo		DOID:9352	type 2 diabetes mellitus	EFO:0001360	type II diabetes mellitus
-efo		DOID:9406	hypopituitarism	EFO:0001380	hypopituitarism
-efo		DOID:9410	panhypopituitarism	EFO:0001380	hypopituitarism
-efo		DOID:9471	meningitis	EFO:0000867	meninges
-efo		DOID:9476	Sheehan syndrome	EFO:0001380	hypopituitarism
-efo		DOID:9477	pulmonary embolism	EFO:0003827	pulmonary embolism
-efo		DOID:9505	cannabis abuse	EFO:0004218	marijuana dependence
-efo		DOID:9507	ethmoid sinusitis	EFO:0003525	olfactory region
-efo		DOID:9538	multiple myeloma	EFO:0001378	multiple myeloma
-efo		DOID:955	benign neurilemmoma	EFO:0000693	schwannoma
-efo		DOID:9551	smoldering myeloma	EFO:0003073	asymptomatic myeloma
-efo		DOID:962	neurofibroma	EFO:0000622	neurofibroma
-efo		DOID:9663	aphthous stomatitis	EFO:0003938	aphthous ulcer
-efo		DOID:9675	pulmonary emphysema	EFO:0000464	emphysema
-efo		DOID:9743	diabetic neuropathy	EFO:0000401	diabetic nephropathy
-efo		DOID:9744	type 1 diabetes mellitus	EFO:0001359	type I diabetes mellitus
-efo		DOID:9778	irritable bowel syndrome	EFO:0000555	irritable bowel syndrome
-efo		DOID:9778	irritable bowel syndrome	EFO:0003767	inflammatory bowel disease
-efo		DOID:9835	refractive error	EFO:0003908	refractive error
-efo		DOID:986	alopecia areata	EFO:0004192	alopecia areata
-efo		DOID:9952	acute lymphocytic leukemia	EFO:0000220	acute lymphoblastic leukemia
-efo		DOID:9970	obesity	EFO:0001073	obesity
-efo		DOID:9973	substance dependence	EFO:0003890	drug dependence
-efo		DOID:9974	drug dependence	EFO:0003890	drug dependence
-efo		DOID:9975	cocaine dependence	EFO:0002610	cocaine dependence
-efo		DOID:9976	heroin dependence	EFO:0004240	heroin dependence
-efo		DOID:9997	peripartum cardiomyopathy	EFO:0002628	peripartum cardiomyopathy
+efo		EFO:0000094	B-cell acute lymphoblastic leukemia	DOID:7061	precursor B lymphoblastic lymphoma/leukemia
+efo		EFO:0000095	chronic lymphocytic leukemia	DOID:1040	chronic lymphocytic leukemia
+efo		EFO:0000174	Ewing sarcoma	DOID:0050608	Askin's tumor
+efo		EFO:0000174	Ewing sarcoma	DOID:3369	peripheral primitive neuroectodermal tumor
+efo		EFO:0000178	gastric carcinoma	DOID:9138	stomach carcinoma in situ
+efo		EFO:0000182	hepatocellular carcinoma	DOID:3571	liver cancer
+efo		EFO:0000182	hepatocellular carcinoma	DOID:684	hepatocellular carcinoma
+efo		EFO:0000183	Hodgkins lymphoma	DOID:11335	sarcoidosis
+efo		EFO:0000183	Hodgkins lymphoma	DOID:8567	Hodgkin's lymphoma
+efo		EFO:0000183	Hodgkins lymphoma	DOID:8651	Hodgkin's granuloma
+efo		EFO:0000183	Hodgkins lymphoma	DOID:8654	Hodgkin's lymphoma, mixed cellularity
+efo		EFO:0000186	invasive ductal carcinoma	DOID:3008	invasive ductal carcinoma
+efo		EFO:0000195	metabolic syndrome	DOID:14221	metabolic syndrome X
+efo		EFO:0000200	plasma cell neoplasm	DOID:6536	plasma cell neoplasm
+efo		EFO:0000203	monoclonal gammopathy	DOID:7442	monoclonal gammopathy of uncertain significance
+efo		EFO:0000209	T-cell acute lymphoblastic leukemia	DOID:0050523	adult T-cell leukemia
+efo		EFO:0000209	T-cell acute lymphoblastic leukemia	DOID:5603	acute T cell leukemia
+efo		EFO:0000216	acinar cell carcinoma	DOID:3025	acinar cell carcinoma
+efo		EFO:0000217	active gastritis	DOID:4029	gastritis
+efo		EFO:0000220	acute lymphoblastic leukemia	DOID:1037	lymphoblastic leukemia
+efo		EFO:0000220	acute lymphoblastic leukemia	DOID:9952	acute lymphocytic leukemia
+efo		EFO:0000221	acute monocytic leukemia	DOID:8864	acute monocytic leukemia
+efo		EFO:0000222	acute myeloid leukemia	DOID:9119	acute myeloid leukemia
+efo		EFO:0000228	adenocarcinoma	DOID:299	adenocarcinoma
+efo		EFO:0000231	adenoid cystic carcinoma	DOID:4866	adenoid cystic carcinoma
+efo		EFO:0000232	adenoma	DOID:657	adenoma
+efo		EFO:0000233	adenosquamous lung carcinoma	DOID:4829	adenosquamous cell lung carcinoma
+efo		EFO:0000239	adrenal gland pheochromocytoma	DOID:0050771	phaeochromocytoma
+efo		EFO:0000248	alveolar rhabdomyosarcoma	DOID:4051	alveolar rhabdomyosarcoma
+efo		EFO:0000249	Alzheimer's disease	DOID:10652	Alzheimer's disease
+efo		EFO:0000253	amyotrophic lateral sclerosis	DOID:332	amyotrophic lateral sclerosis
+efo		EFO:0000266	aortic stenosis	DOID:1712	aortic valve stenosis
+efo		EFO:0000270	asthma	DOID:2841	asthma
+efo		EFO:0000272	astrocytoma	DOID:3069	astrocytoma
+efo		EFO:0000274	atopic eczema	DOID:3310	atopic dermatitis
+efo		EFO:0000278	pancreatitis	DOID:4989	pancreatitis
+efo		EFO:0000279	azoospermia	DOID:14227	azoospermia
+efo		EFO:0000280	Barrett's esophagus	DOID:9206	Barrett's esophagus
+efo		EFO:0000284	benign prostatic hyperplasia	DOID:11132	prostatic hypertrophy
+efo		EFO:0000284	benign prostatic hyperplasia	DOID:2883	prostatic adenoma
+efo		EFO:0000289	bipolar disorder	DOID:3312	bipolar disorder
+efo		EFO:0000292	bladder carcinoma	DOID:4007	bladder carcinoma
+efo		EFO:0000294	bladder tumor	DOID:11054	urinary bladder cancer
+efo		EFO:0000304	breast adenocarcinoma	DOID:3458	breast adenocarcinoma
+efo		EFO:0000305	breast carcinoma	DOID:3459	breast carcinoma
+efo		EFO:0000308	bronchoalveolar adenocarcinoma	DOID:4926	bronchiolo-alveolar adenocarcinoma
+efo		EFO:0000309	Burkitts lymphoma	DOID:8584	Burkitt's lymphoma
+efo		EFO:0000311	cancer	DOID:162	cancer
+efo		EFO:0000313	carcinoma	DOID:305	carcinoma
+efo		EFO:0000318	cardiomyopathy	DOID:0050700	cardiomyopathy
+efo		EFO:0000319	cardiovascular disease	DOID:1287	cardiovascular system disease
+efo		EFO:0000326	central nervous system cancer	DOID:3620	central nervous system cancer
+efo		EFO:0000331	chondroblastoma	DOID:2649	chondroblastoma
+efo		EFO:0000333	chondrosarcoma	DOID:3371	chondrosarcoma
+efo		EFO:0000335	chromophobe renal cell carcinoma	DOID:4471	chromophobe adenocarcinoma
+efo		EFO:0000337	chronic gastritis	DOID:4029	gastritis
+efo		EFO:0000339	chronic myelogenous leukemia	DOID:8552	chronic myeloid leukemia
+efo		EFO:0000341	chronic obstructive pulmonary disease	DOID:3083	chronic obstructive pulmonary disease
+efo		EFO:0000348	clear cell adenocarcinoma	DOID:4468	clear cell adenocarcinoma
+efo		EFO:0000349	clear cell renal carcinoma	DOID:4467	renal clear cell carcinoma
+efo		EFO:0000350	clear cell sarcoma of the kidney	DOID:4880	kidney clear cell sarcoma
+efo		EFO:0000364	colon mucinous adenocarcinoma	DOID:3029	colon mucinous adenocarcinoma
+efo		EFO:0000365	colorectal adenocarcinoma	DOID:1520	colon carcinoma
+efo		EFO:0000365	colorectal adenocarcinoma	DOID:219	colon cancer
+efo		EFO:0000365	colorectal adenocarcinoma	DOID:234	colon adenocarcinoma
+efo		EFO:0000365	colorectal adenocarcinoma	DOID:9256	colorectal cancer
+efo		EFO:0000373	congestive heart failure	DOID:6000	congestive heart failure
+efo		EFO:0000378	coronary artery disease	DOID:3363	coronary arteriosclerosis
+efo		EFO:0000378	coronary artery disease	DOID:3393	coronary heart disease
+efo		EFO:0000384	Crohn's disease	DOID:8778	Crohn's disease
+efo		EFO:0000389	cutaneous melanoma	DOID:4159	skin cancer
+efo		EFO:0000389	cutaneous melanoma	DOID:8923	skin melanoma
+efo		EFO:0000398	dermatomyositis	DOID:10223	dermatomyositis
+efo		EFO:0000400	diabetes mellitus	DOID:9351	diabetes mellitus
+efo		EFO:0000401	diabetic nephropathy	DOID:11503	diabetic autonomic neuropathy
+efo		EFO:0000401	diabetic nephropathy	DOID:12785	diabetic polyneuropathy
+efo		EFO:0000401	diabetic nephropathy	DOID:9743	diabetic neuropathy
+efo		EFO:0000402	diffuse gastric adenocarcinoma	DOID:6217	gastric diffuse adenocarcinoma
+efo		EFO:0000403	diffuse large B-cell lymphoma	DOID:0050745	diffuse large B-cell lymphoma
+efo		EFO:0000403	diffuse large B-cell lymphoma	DOID:8538	reticulosarcoma
+efo		EFO:0000404	diffuse scleroderma	DOID:1580	diffuse scleroderma
+efo		EFO:0000404	diffuse scleroderma	DOID:418	systemic scleroderma
+efo		EFO:0000405	digestive system disease	DOID:5295	intestinal disease
+efo		EFO:0000405	digestive system disease	DOID:77	gastrointestinal system disease
+efo		EFO:0000407	dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy
+efo		EFO:0000408	disease	DOID:4	disease
+efo		EFO:0000430	ductal adenocarcinoma	DOID:3008	invasive ductal carcinoma
+efo		EFO:0000432	ductal carcinoma in situ	DOID:0060074	ductal carcinoma in situ
+efo		EFO:0000437	embryonal rhabdomyosarcoma	DOID:3246	embryonal rhabdomyosarcoma
+efo		EFO:0000464	emphysema	DOID:9675	pulmonary emphysema
+efo		EFO:0000465	endocarditis	DOID:10314	endocarditis
+efo		EFO:0000466	endometrioid carcinoma	DOID:2871	endometrial carcinoma
+efo		EFO:0000478	esophageal adenocarcinoma	DOID:4914	esophagus adenocarcinoma
+efo		EFO:0000479	essential thrombocythemia	DOID:2224	hemorrhagic thrombocythemia
+efo		EFO:0000499	follicular thyroid adenoma	DOID:3172	papillary adenoma
+efo		EFO:0000499	follicular thyroid adenoma	DOID:5403	microcystic adenoma
+efo		EFO:0000499	follicular thyroid adenoma	DOID:6204	follicular adenoma
+efo		EFO:0000500	ganglioneuroma	DOID:2426	gangliocytoma
+efo		EFO:0000500	ganglioneuroma	DOID:4817	ganglioneuroma
+efo		EFO:0000501	follicular thyroid carcinoma	DOID:3962	follicular thyroid carcinoma
+efo		EFO:0000502	ganglioneuroblastoma	DOID:4163	ganglioneuroblastoma
+efo		EFO:0000503	gastric adenocarcinoma	DOID:3717	gastric adenocarcinoma
+efo		EFO:0000508	genetic disorder	DOID:0050325	genetic disorder
+efo		EFO:0000512	reproductive system disease	DOID:15	reproductive system disease
+efo		EFO:0000514	germ cell tumor	DOID:2994	germ cell cancer
+efo		EFO:0000514	germ cell tumor	DOID:3304	germinoma
+efo		EFO:0000514	germ cell tumor	DOID:688	embryonal cancer
+efo		EFO:0000516	glaucoma	DOID:1686	glaucoma
+efo		EFO:0000519	glioblastoma multiforme	DOID:3068	glioblastoma
+efo		EFO:0000519	glioblastoma multiforme	DOID:3074	giant cell glioblastoma
+efo		EFO:0000519	glioblastoma multiforme	DOID:4992	optic nerve glioma
+efo		EFO:0000529	hereditary spastic paraplegia	DOID:2476	hereditary spastic paraplegia
+efo		EFO:0000537	hypertension	DOID:10763	hypertension
+efo		EFO:0000538	hypertrophic cardiomyopathy	DOID:11984	hypertrophic cardiomyopathy
+efo		EFO:0000540	immune system disease	DOID:2914	immune system disease
+efo		EFO:0000545	infertility	DOID:5223	infertility
+efo		EFO:0000549	insulinoma	DOID:3892	insulinoma
+efo		EFO:0000553	invasive lobular carcinoma	DOID:3457	invasive lobular carcinoma
+efo		EFO:0000555	irritable bowel syndrome	DOID:9778	irritable bowel syndrome
+efo		EFO:0000556	ischemia	DOID:326	ischemia
+efo		EFO:0000557	juvenile dermatomyositis	DOID:14203	childhood type dermatomyositis
+efo		EFO:0000558	Kaposi's sarcoma	DOID:8632	Kaposi's sarcoma
+efo		EFO:0000559	keratinizing squamous cell carcinoma	DOID:5521	keratinizing squamous cell carcinoma
+efo		EFO:0000563	large cell neuroendocrine carcinoma	DOID:6658	pulmonary large cell neuroendocrine carcinoma
+efo		EFO:0000564	leiomyosarcoma	DOID:1967	leiomyosarcoma
+efo		EFO:0000565	leukemia	DOID:1240	leukemia
+efo		EFO:0000569	liposarcoma	DOID:3382	liposarcoma
+efo		EFO:0000571	lung adenocarcinoma	DOID:3910	lung adenocarcinoma
+efo		EFO:0000574	lymphoma	DOID:0060058	lymphoma
+efo		EFO:0000574	lymphoma	DOID:8675	lymphosarcoma
+efo		EFO:0000580	medullary breast carcinoma	DOID:5605	breast medullary carcinoma
+efo		EFO:0000588	mesothelioma	DOID:1790	malignant mesothelioma
+efo		EFO:0000588	mesothelioma	DOID:2645	benign mesothelioma
+efo		EFO:0000589	metabolic disease	DOID:0014667	disease of metabolism
+efo		EFO:0000595	monophasic synovial sarcoma	DOID:5495	monophasic synovial sarcoma
+efo		EFO:0000612	myocardial infarction	DOID:5844	myocardial infarction
+efo		EFO:0000613	myxoid liposarcoma	DOID:5363	myxoid liposarcoma
+efo		EFO:0000614	narcolepsy	DOID:8986	narcolepsy
+efo		EFO:0000618	nervous system disease	DOID:863	nervous system disease
+efo		EFO:0000621	neuroblastoma	DOID:769	neuroblastoma
+efo		EFO:0000622	neurofibroma	DOID:1192	peripheral nervous system neoplasm
+efo		EFO:0000622	neurofibroma	DOID:3193	peripheral nerve sheath neoplasm
+efo		EFO:0000622	neurofibroma	DOID:962	neurofibroma
+efo		EFO:0000630	oligoastrocytoma	DOID:3183	childhood oligodendroglioma
+efo		EFO:0000630	oligoastrocytoma	DOID:3186	adult oligodendroglioma
+efo		EFO:0000630	oligoastrocytoma	DOID:7912	mixed oligodendroglioma-astrocytoma
+efo		EFO:0000632	oligodendroglioma	DOID:3181	oligodendroglioma
+efo		EFO:0000637	osteosarcoma	DOID:3347	osteosarcoma
+efo		EFO:0000639	papillary cystadenocarcinoma	DOID:3110	papillary cystadenocarcinoma
+efo		EFO:0000640	papillary renal cell carcinoma	DOID:4465	papillary renal cell carcinoma
+efo		EFO:0000641	papillary thyroid carcinoma	DOID:3969	papillary thyroid carcinoma
+efo		EFO:0000649	periodontitis	DOID:824	periodontitis
+efo		EFO:0000650	whooping cough	DOID:1116	pertussis
+efo		EFO:0000653	phyllodes tumor	DOID:1631	benign breast phyllodes tumor
+efo		EFO:0000653	phyllodes tumor	DOID:3016	breast malignant phyllodes tumor
+efo		EFO:0000658	plexiform neurofibroma	DOID:5151	plexiform neurofibroma
+efo		EFO:0000660	polycystic ovary syndrome	DOID:11612	polycystic ovary syndrome
+efo		EFO:0000666	portal hypertension	DOID:10762	portal hypertension
+efo		EFO:0000668	preeclampsia	DOID:10591	pre-eclampsia
+efo		EFO:0000673	prostate adenocarcinoma	DOID:2526	prostate adenocarcinoma
+efo		EFO:0000676	psoriasis	DOID:8893	psoriasis
+efo		EFO:0000677	mental or behavioural disorder	DOID:11328	schizophreniform disorder
+efo		EFO:0000677	mental or behavioural disorder	DOID:2468	psychotic disorder
+efo		EFO:0000677	mental or behavioural disorder	DOID:5418	schizoaffective disorder
+efo		EFO:0000678	pterygium	DOID:0002116	pterygium
+efo		EFO:0000678	pterygium	DOID:10526	conjunctival pterygium
+efo		EFO:0000681	renal cell carcinoma	DOID:4450	renal cell carcinoma
+efo		EFO:0000681	renal cell carcinoma	DOID:4451	renal carcinoma
+efo		EFO:0000681	renal cell carcinoma	DOID:4464	collecting duct carcinoma
+efo		EFO:0000684	respiratory system disease	DOID:1579	respiratory system disease
+efo		EFO:0000685	rheumatoid arthritis	DOID:7148	rheumatoid arthritis
+efo		EFO:0000691	sarcoma	DOID:1115	sarcoma
+efo		EFO:0000692	schizophrenia	DOID:5419	schizophrenia
+efo		EFO:0000693	schwannoma	DOID:12689	acoustic neuroma
+efo		EFO:0000693	schwannoma	DOID:3192	neurilemmoma
+efo		EFO:0000693	schwannoma	DOID:3196	cellular schwannoma
+efo		EFO:0000693	schwannoma	DOID:3206	plexiform schwannoma
+efo		EFO:0000693	schwannoma	DOID:955	benign neurilemmoma
+efo		EFO:0000694	severe acute respiratory syndrome	DOID:2945	severe acute respiratory syndrome
+efo		EFO:0000698	signet ring cell carcinoma	DOID:3493	signet ring cell adenocarcinoma
+efo		EFO:0000699	Sjogren syndrome	DOID:12894	Sjogren's syndrome
+efo		EFO:0000699	Sjogren syndrome	DOID:12900	Mikulicz disease
+efo		EFO:0000701	skin disease	DOID:37	skin disease
+efo		EFO:0000702	small cell lung carcinoma	DOID:5409	lung small cell carcinoma
+efo		EFO:0000702	small cell lung carcinoma	DOID:5411	lung oat cell carcinoma
+efo		EFO:0000705	spindle cell tumor	DOID:264	hemangiopericytoma
+efo		EFO:0000706	spondyloarthropathy	DOID:1123	spondyloarthropathy
+efo		EFO:0000707	squamous cell carcinoma	DOID:1749	squamous cell carcinoma
+efo		EFO:0000708	squamous cell lung carcinoma	DOID:3907	lung squamous cell carcinoma
+efo		EFO:0000712	stroke	DOID:3455	cerebrovascular accident
+efo		EFO:0000717	systemic scleroderma	DOID:418	systemic scleroderma
+efo		EFO:0000717	systemic scleroderma	DOID:419	scleroderma
+efo		EFO:0000729	ulcerative colitis	DOID:8577	ulcerative colitis
+efo		EFO:0000731	uterine fibroid	DOID:13223	uterine fibroid
+efo		EFO:0000734	vitamin B12 deficiency	DOID:0050731	vitamin B12 deficiency
+efo		EFO:0000756	melanoma	DOID:1909	melanoma
+efo		EFO:0000759	lipoma	DOID:3315	lipoma
+efo		EFO:0000760	malignant peripheral nerve sheath tumor	DOID:1192	peripheral nervous system neoplasm
+efo		EFO:0000760	malignant peripheral nerve sheath tumor	DOID:3193	peripheral nerve sheath neoplasm
+efo		EFO:0000760	malignant peripheral nerve sheath tumor	DOID:3512	neurofibrosarcoma
+efo		EFO:0000760	malignant peripheral nerve sheath tumor	DOID:5940	malignant peripheral nerve sheath tumor
+efo		EFO:0000760	malignant peripheral nerve sheath tumor	DOID:8353	epithelioid malignant peripheral nerve sheath tumor
+efo		EFO:0000763	viral disease	DOID:934	viral infectious disease
+efo		EFO:0000764	HIV infection	DOID:526	Human immunodeficiency virus infectious disease
+efo		EFO:0000765	AIDS	DOID:635	acquired immunodeficiency syndrome
+efo		EFO:0000768	idiopathic pulmonary fibrosis	DOID:0050156	idiopathic pulmonary fibrosis
+efo		EFO:0000770	malignant pleural mesothelioma	DOID:7474	malignant pleural mesothelioma
+efo		EFO:0000773	temporal lobe epilepsy	DOID:3328	temporal lobe epilepsy
+efo		EFO:0000775	Whipple's disease	DOID:8476	Whipple disease
+efo		EFO:0000777	human granulocytic anaplasmosis	DOID:0050025	human granulocytic anaplasmosis
+efo		EFO:0000778	anthrax infection	DOID:7427	anthrax disease
+efo		EFO:0000783	myositis	DOID:633	myositis
+efo		EFO:0001054	leprosy	DOID:1024	leprosy
+efo		EFO:0001055	borderline leprosy	DOID:1023	borderline leprosy
+efo		EFO:0001056	tuberculoid leprosy	DOID:1025	tuberculoid leprosy
+efo		EFO:0001057	lepromatous leprosy	DOID:10887	lepromatous leprosy
+efo		EFO:0001058	sensory system disease	DOID:0050155	sensory system disease
+efo		EFO:0001059	cataract	DOID:83	cataract
+efo		EFO:0001060	celiac disease	DOID:10608	celiac disease
+efo		EFO:0001061	cervical carcinoma	DOID:2893	cervix carcinoma
+efo		EFO:0001061	cervical carcinoma	DOID:4362	cervical cancer
+efo		EFO:0001065	endometriosis	DOID:289	endometriosis
+efo		EFO:0001067	parasitic Infection	DOID:1398	parasitic infectious disease
+efo		EFO:0001068	malaria	DOID:12365	malaria
+efo		EFO:0001069	nutritional disorder	DOID:374	nutrition disease
+efo		EFO:0001071	lung carcinoma	DOID:3905	lung carcinoma
+efo		EFO:0001073	obesity	DOID:9970	obesity
+efo		EFO:0001074	morbid obesity	DOID:11981	morbid obesity
+efo		EFO:0001075	ovarian carcinoma	DOID:4001	ovarian carcinoma
+efo		EFO:0001358	post-traumatic stress disorder	DOID:2055	post-traumatic stress disorder
+efo		EFO:0001359	type I diabetes mellitus	DOID:1837	diabetic ketoacidosis
+efo		EFO:0001359	type I diabetes mellitus	DOID:9744	type 1 diabetes mellitus
+efo		EFO:0001360	type II diabetes mellitus	DOID:0050524	maturity-onset diabetes of the young
+efo		EFO:0001360	type II diabetes mellitus	DOID:9352	type 2 diabetes mellitus
+efo		EFO:0001361	pulmonary hypertension	DOID:6432	pulmonary hypertension
+efo		EFO:0001365	age-related macular degeneration	DOID:10871	age related macular degeneration
+efo		EFO:0001376	synovial sarcoma	DOID:5485	synovial sarcoma
+efo		EFO:0001378	multiple myeloma	DOID:9538	multiple myeloma
+efo		EFO:0001379	endocrine system disease	DOID:28	endocrine system disease
+efo		EFO:0001380	hypopituitarism	DOID:9406	hypopituitarism
+efo		EFO:0001380	hypopituitarism	DOID:9410	panhypopituitarism
+efo		EFO:0001380	hypopituitarism	DOID:9476	Sheehan syndrome
+efo		EFO:0001416	cervical adenocarcinoma	DOID:2893	cervix carcinoma
+efo		EFO:0001416	cervical adenocarcinoma	DOID:3702	cervical adenocarcinoma
+efo		EFO:0001416	cervical adenocarcinoma	DOID:4362	cervical cancer
+efo		EFO:0001421	liver disease	DOID:409	liver disease
+efo		EFO:0001422	cirrhosis of liver	DOID:5082	liver cirrhosis
+efo		EFO:0001423	encephalomyelitis	DOID:640	encephalomyelitis
+efo		EFO:0001642	lymphoid neoplasm	DOID:2531	hematologic cancer
+efo		EFO:0001642	lymphoid neoplasm	DOID:8538	reticulosarcoma
+efo		EFO:0001645	coronary heart disease	DOID:3393	coronary heart disease
+efo		EFO:0001663	prostate carcinoma	DOID:10286	prostate carcinoma
+efo		EFO:0001666	aortic aneurysm	DOID:3627	aortic aneurysm
+efo		EFO:0002087	fibrosarcoma	DOID:3355	fibrosarcoma
+efo		EFO:0002422	benign neoplasm	DOID:0060072	benign neoplasm
+efo		EFO:0002429	polycythemia vera	DOID:8997	polycythemia vera
+efo		EFO:0002430	primary myelofibrosis	DOID:4971	myelofibrosis
+efo		EFO:0002431	tumour of cranial and spinal nerves	DOID:1192	peripheral nervous system neoplasm
+efo		EFO:0002496	actinic keratosis	DOID:8866	actinic keratosis
+efo		EFO:0002506	osteoarthritis	DOID:8398	osteoarthritis
+efo		EFO:0002508	Parkinson's disease	DOID:14330	Parkinson's disease
+efo		EFO:0002509	progressive external ophthalmoplegia	DOID:12558	chronic progressive external ophthalmoplegia
+efo		EFO:0002510	serous cystadenofibroma	DOID:7320	ovarian serous cystadenofibroma
+efo		EFO:0002517	pancreatic ductal adenocarcinoma	DOID:3498	pancreatic ductal adenocarcinoma
+efo		EFO:0002609	chronic childhood arthritis	DOID:676	juvenile rheumatoid arthritis
+efo		EFO:0002609	chronic childhood arthritis	DOID:6776	breast myoepithelial carcinoma
+efo		EFO:0002610	cocaine dependence	DOID:9975	cocaine dependence
+efo		EFO:0002616	macroglobulinemia	DOID:9080	macroglobulinemia
+efo		EFO:0002618	pancreatic carcinoma	DOID:1793	pancreatic cancer
+efo		EFO:0002618	pancreatic carcinoma	DOID:4905	pancreatic carcinoma
+efo		EFO:0002626	thymus neoplasm	DOID:3277	thymus cancer
+efo		EFO:0002628	peripartum cardiomyopathy	DOID:9997	peripartum cardiomyopathy
+efo		EFO:0002630	restrictive cardiomyopathy	DOID:397	restrictive cardiomyopathy
+efo		EFO:0002689	primary antiphospholipid syndrome	DOID:2988	antiphospholipid syndrome
+efo		EFO:0002690	systemic lupus erythematosus	DOID:9074	systemic lupus erythematosus
+efo		EFO:0002890	renal carcinoma	DOID:263	kidney cancer
+efo		EFO:0002890	renal carcinoma	DOID:4451	renal carcinoma
+efo		EFO:0002890	renal carcinoma	DOID:4464	collecting duct carcinoma
+efo		EFO:0002892	thyroid carcinoma	DOID:1781	thyroid cancer
+efo		EFO:0002892	thyroid carcinoma	DOID:3963	thyroid carcinoma
+efo		EFO:0002893	choriocarcinoma	DOID:3594	choriocarcinoma
+efo		EFO:0002894	amelanotic skin melanoma	DOID:10054	skin amelanotic melanoma
+efo		EFO:0002913	Cutaneous T-cell lymphoma	DOID:0060061	cutaneous T cell lymphoma
+efo		EFO:0002916	esophageal carcinoma	DOID:1107	esophageal carcinoma
+efo		EFO:0002916	esophageal carcinoma	DOID:5041	esophageal cancer
+efo		EFO:0002918	rhabdomyosarcoma	DOID:3247	rhabdomyosarcoma
+efo		EFO:0002921	vulvar carcinoma	DOID:1294	vulva carcinoma
+efo		EFO:0002938	hypopharyngeal carcinoma	DOID:8533	hypopharynx cancer
+efo		EFO:0002939	medulloblastoma	DOID:3858	medulloblastoma
+efo		EFO:0002970	muscular disease	DOID:0080000	muscular disease
+efo		EFO:0003014	breast fibrocystic disease	DOID:10354	breast fibrocystic disease
+efo		EFO:0003016	collecting duct carcinoma	DOID:4464	collecting duct carcinoma
+efo		EFO:0003017	transitional cell carcinoma of kidney	DOID:5974	renal pelvis transitional cell carcinoma
+efo		EFO:0003017	transitional cell carcinoma of kidney	DOID:6844	kidney pelvis sarcomatoid transitional cell carcinoma
+efo		EFO:0003025	acute megakaryoblastic leukaemia	DOID:876	pyomyositis
+efo		EFO:0003032	anaplastic large cell lymphoma	DOID:0050744	anaplastic large cell lymphoma
+efo		EFO:0003035	cellulitis	DOID:3488	cellulitis
+efo		EFO:0003047	hepatitis C infection	DOID:1883	hepatitis C
+efo		EFO:0003050	large cell lung carcinoma	DOID:4556	lung large cell carcinoma
+efo		EFO:0003060	non-small cell lung carcinoma	DOID:3908	non-small cell lung carcinoma
+efo		EFO:0003073	asymptomatic myeloma	DOID:9551	smoldering myeloma
+efo		EFO:0003083	pleomorphic liposarcoma	DOID:5702	pleomorphic liposarcoma
+efo		EFO:0003084	round cell liposarcoma	DOID:5692	cellular myxoid liposarcoma
+efo		EFO:0003086	kidney disease	DOID:557	kidney disease
+efo		EFO:0003093	adrenocortical carcinoma	DOID:3948	adrenocortical carcinoma
+efo		EFO:0003094	ganglioglioma	DOID:5078	ganglioglioma
+efo		EFO:0003096	Pick disease	DOID:11870	Pick's disease
+efo		EFO:0003096	Pick disease	DOID:9255	frontotemporal dementia
+efo		EFO:0003097	empyema	DOID:3798	pleural empyema
+efo		EFO:0003099	Cushing syndrome	DOID:12252	Cushing's syndrome
+efo		EFO:0003100	peripheral neuropathy	DOID:0060053	peripheral neuropathy
+efo		EFO:0003101	testicular seminoma	DOID:5842	testis seminoma
+efo		EFO:0003102	osteomyelitis	DOID:1019	osteomyelitis
+efo		EFO:0003105	spina bifida	DOID:0080016	spina bifida
+efo		EFO:0003106	pneumonia	DOID:552	pneumonia
+efo		EFO:0003114	pauciarticular juvenile rheumatoid arthritis	DOID:6755	amyloid tumor
+efo		EFO:0003114	pauciarticular juvenile rheumatoid arthritis	DOID:676	juvenile rheumatoid arthritis
+efo		EFO:0003144	heart failure	DOID:6000	congestive heart failure
+efo		EFO:0003756	autism spectrum disorder	DOID:0060040	pervasive developmental disorder
+efo		EFO:0003756	autism spectrum disorder	DOID:0060041	autism spectrum disorder
+efo		EFO:0003757	Asperger syndrome	DOID:0050432	Asperger syndrome
+efo		EFO:0003758	autism	DOID:12849	autistic disorder
+efo		EFO:0003759	pervasive developmental disorder - not otherwise specified	DOID:0060042	atypical autism
+efo		EFO:0003761	unipolar depression	DOID:1470	major depressive disorder
+efo		EFO:0003761	unipolar depression	DOID:1595	endogenous depression
+efo		EFO:0003761	unipolar depression	DOID:2848	melancholia
+efo		EFO:0003763	cerebrovascular disorder	DOID:6713	cerebrovascular disease
+efo		EFO:0003764	transient ischemic attack	DOID:224	transient cerebral ischemia
+efo		EFO:0003767	inflammatory bowel disease	DOID:0050589	inflammatory bowel disease
+efo		EFO:0003767	inflammatory bowel disease	DOID:9778	irritable bowel syndrome
+efo		EFO:0003768	nicotine dependence	DOID:0050742	nicotine dependence
+efo		EFO:0003769	endocrine neoplasm	DOID:170	endocrine gland cancer
+efo		EFO:0003770	diabetic retinopathy	DOID:8947	diabetic retinopathy
+efo		EFO:0003775	Job's syndrome	DOID:3261	Job's syndrome
+efo		EFO:0003777	heart disease	DOID:114	heart disease
+efo		EFO:0003778	psoriatic arthritis	DOID:9008	psoriatic arthritis
+efo		EFO:0003779	autoimmune thyroid disease	DOID:7188	autoimmune thyroiditis
+efo		EFO:0003780	Behcet's syndrome	DOID:13241	Behcet's disease
+efo		EFO:0003781	carotid artery disease	DOID:3407	carotid artery disease
+efo		EFO:0003782	motor neuron disease	DOID:231	motor neuron disease
+efo		EFO:0003783	progressive bulbar palsy	DOID:681	progressive bulbar palsy
+efo		EFO:0003785	allergy	DOID:1205	hypersensitivity reaction type I disease
+efo		EFO:0003817	laryngeal neoplasm	DOID:2596	larynx cancer
+efo		EFO:0003817	laryngeal neoplasm	DOID:2598	laryngeal benign neoplasm
+efo		EFO:0003817	laryngeal neoplasm	DOID:2600	laryngeal carcinoma
+efo		EFO:0003818	lung disease	DOID:850	lung disease
+efo		EFO:0003819	dental caries	DOID:216	dental caries
+efo		EFO:0003820	bone neoplasm	DOID:184	bone cancer
+efo		EFO:0003821	migraine disorder	DOID:6364	migraine
+efo		EFO:0003824	eye neoplasm	DOID:2174	ocular cancer
+efo		EFO:0003825	serous adenocarsinoma	DOID:3114	serous cystadenocarcinoma
+efo		EFO:0003826	salivary gland neoplasm	DOID:8850	salivary gland cancer
+efo		EFO:0003827	pulmonary embolism	DOID:9477	pulmonary embolism
+efo		EFO:0003828	spinal cord neoplasm	DOID:5612	spinal cancer
+efo		EFO:0003829	alcohol dependence	DOID:0050741	alcohol dependence
+efo		EFO:0003830	prostatitis	DOID:14654	prostatitis
+efo		EFO:0003832	gall bladder disease	DOID:0000000	gallbladder disease
+efo		EFO:0003833	brain neoplasm	DOID:1319	brain cancer
+efo		EFO:0003834	cutaneous lupus erythematosus	DOID:0050169	cutaneous lupus erythematosus
+efo		EFO:0003835	anal neoplasm	DOID:14110	anus cancer
+efo		EFO:0003835	anal neoplasm	DOID:4551	anus neoplasm
+efo		EFO:0003840	chronic progressive multiple sclerosis	DOID:2376	chronic progressive multiple sclerosis
+efo		EFO:0003841	thyroid neoplasm	DOID:1781	thyroid cancer
+efo		EFO:0003841	thyroid neoplasm	DOID:2891	thyroid adenoma
+efo		EFO:0003844	ureteral neoplasm	DOID:11819	ureter cancer
+efo		EFO:0003845	kidney stone	DOID:585	nephrolithiasis
+efo		EFO:0003846	urethral neoplasm	DOID:730	urethral benign neoplasm
+efo		EFO:0003846	urethral neoplasm	DOID:734	urethra cancer
+efo		EFO:0003847	mental retardation	DOID:1059	intellectual disability
+efo		EFO:0003850	adrenal gland neoplasm	DOID:3953	adrenal gland cancer
+efo		EFO:0003851	meningeal neoplasm	DOID:3565	meningioma
+efo		EFO:0003859	uterine neoplasm	DOID:363	uterine cancer
+efo		EFO:0003860	pancreatic neoplasm	DOID:1793	pancreatic cancer
+efo		EFO:0003862	dementia	DOID:1307	dementia
+efo		EFO:0003865	kidney neoplasm	DOID:263	kidney cancer
+efo		EFO:0003866	paranasal sinus neoplasm	DOID:1350	paranasal sinus neoplasm
+efo		EFO:0003869	breast neoplasm	DOID:1612	breast cancer
+efo		EFO:0003870	brain aneurysm	DOID:10941	intracranial aneurysm
+efo		EFO:0003871	tongue neoplasm	DOID:8649	tongue cancer
+efo		EFO:0003875	peripheral vascular disease	DOID:341	peripheral vascular disease
+efo		EFO:0003876	intermittent vascular claudication	DOID:3669	intermittent claudication
+efo		EFO:0003878	urethritis	DOID:1343	urethritis
+efo		EFO:0003880	appendiceal neoplasm	DOID:11239	appendix cancer
+efo		EFO:0003880	appendiceal neoplasm	DOID:11240	appendiceal neoplasm
+efo		EFO:0003882	osteoporosis	DOID:11476	osteoporosis
+efo		EFO:0003883	brain ischemia	DOID:2316	brain ischemia
+efo		EFO:0003884	chronic kidney disease	DOID:783	end stage renal failure
+efo		EFO:0003884	chronic kidney disease	DOID:784	chronic kidney failure
+efo		EFO:0003885	multiple sclerosis	DOID:2377	multiple sclerosis
+efo		EFO:0003887	thrombophlebitis	DOID:3875	thrombophlebitis
+efo		EFO:0003888	attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder
+efo		EFO:0003890	drug dependence	DOID:9974	drug dependence
+efo		EFO:0003891	biliary tract neoplasm	DOID:0050625	biliary tract neoplasm
+efo		EFO:0003893	ovarian neoplasm	DOID:2394	ovarian cancer
+efo		EFO:0003894	acne	DOID:6543	acne
+efo		EFO:0003897	stomach neoplasm	DOID:10534	stomach cancer
+efo		EFO:0003898	ankylosing spondylitis	DOID:7147	ankylosing spondylitis
+efo		EFO:0003908	refractive error	DOID:9835	refractive error
+efo		EFO:0003914	atherosclerosis	DOID:1936	atherosclerosis
+efo		EFO:0003920	cleft palate	DOID:674	cleft palate
+efo		EFO:0003927	myopia	DOID:11830	myopia
+efo		EFO:0003928	necrotizing enterocolitis	DOID:8677	perinatal necrotizing enterocolitis
+efo		EFO:0003929	relapsing-remitting multiple sclerosis	DOID:2378	relapsing-remitting multiple sclerosis
+efo		EFO:0003932	bacterial vaginosis	DOID:3385	bacterial vaginosis
+efo		EFO:0003938	aphthous ulcer	DOID:9663	aphthous stomatitis
+efo		EFO:0003946	Fuchs' endothelial dystrophy	DOID:11555	Fuchs' endothelial dystrophy
+efo		EFO:0003948	gastroesophageal reflux disease	DOID:8534	gastroesophageal reflux disease
+efo		EFO:0003956	seasonal allergic rhinitis	DOID:4481	allergic rhinitis
+efo		EFO:0003959	cleft lip	DOID:9296	cleft lip
+efo		EFO:0003966	eye disease	DOID:5614	eye disease
+efo		EFO:0003968	angiosarcoma	DOID:0001816	angiosarcoma
+efo		EFO:0004123	acrocephalosyndactylia	DOID:12960	acrocephalosyndactylia
+efo		EFO:0004124	Darier's disease	DOID:2734	keratosis follicularis
+efo		EFO:0004125	growth hormone-secreting pituitary adenoma	DOID:6255	growth hormone secreting pituitary adenoma
+efo		EFO:0004126	Adie syndrome	DOID:11549	Adie syndrome
+efo		EFO:0004127	hyperthyroxinemia	DOID:2855	hyperthyroxinemia
+efo		EFO:0004128	nephritis, hereditary	DOID:10983	Alport syndrome
+efo		EFO:0004143	carpal tunnel syndrome	DOID:12169	carpal tunnel syndrome
+efo		EFO:0004144	acatalasia	DOID:2582	acatalasia
+efo		EFO:0004145	myopathy	DOID:423	myopathy
+efo		EFO:0004149	neuropathy	DOID:870	neuropathy
+efo		EFO:0004190	open-angle glaucoma	DOID:1067	open-angle glaucoma
+efo		EFO:0004192	alopecia areata	DOID:986	alopecia areata
+efo		EFO:0004193	basal cell carcinoma	DOID:2513	basal cell carcinoma
+efo		EFO:0004194	IGA glomerulonephritis	DOID:2986	IgA glomerulonephritis
+efo		EFO:0004196	viral human hepatitis infection	DOID:1884	viral hepatitis
+efo		EFO:0004197	hepatitis B infection	DOID:2043	hepatitis B
+efo		EFO:0004198	skin neoplasm	DOID:3165	skin benign  neoplasm
+efo		EFO:0004198	skin neoplasm	DOID:4159	skin cancer
+efo		EFO:0004199	dysplastic nevus	DOID:10041	dysplastic nevus syndrome
+efo		EFO:0004207	pathological myopia	DOID:11829	degenerative myopia
+efo		EFO:0004208	Vitiligo	DOID:12306	vitiligo
+efo		EFO:0004213	Otosclerosis	DOID:12185	otosclerosis
+efo		EFO:0004214	Abdominal Aortic Aneurysm	DOID:7693	abdominal aortic aneurysm
+efo		EFO:0004215	anorexia nervosa	DOID:8689	anorexia nervosa
+efo		EFO:0004216	conduct disorder	DOID:12995	conduct disorder
+efo		EFO:0004218	marijuana dependence	DOID:1849	cannabis dependence
+efo		EFO:0004218	marijuana dependence	DOID:9505	cannabis abuse
+efo		EFO:0004220	Chronic Hepatitis C infection	DOID:1883	hepatitis C
+efo		EFO:0004222	Astigmatism	DOID:11782	astigmatism
+efo		EFO:0004224	Coronary Restenosis	DOID:4247	coronary restenosis
+efo		EFO:0004225	Coronary Vasospasm	DOID:11840	coronary artery vasospasm
+efo		EFO:0004226	Creutzfeldt Jacob Disease	DOID:11949	Creutzfeldt-Jakob syndrome
+efo		EFO:0004227	Dengue Hemorrhagic Fever	DOID:12206	dengue hemorrhagic fever
+efo		EFO:0004228	drug-induced liver injury	DOID:2044	drug-induced hepatitis
+efo		EFO:0004230	endometrial neoplasm	DOID:1380	endometrial cancer
+efo		EFO:0004230	endometrial neoplasm	DOID:2871	endometrial carcinoma
+efo		EFO:0004232	eosinophilic esophagitis	DOID:13922	eosinophilic esophagitis
+efo		EFO:0004234	erectile dysfunction	DOID:1875	impotence
+efo		EFO:0004235	exfoliation syndrome	DOID:13641	exfoliation syndrome
+efo		EFO:0004236	focal segmental glomerulosclerosis	DOID:1312	focal segmental glomerulosclerosis
+efo		EFO:0004237	Graves disease	DOID:12361	Graves' disease
+efo		EFO:0004239	chronic hepatitis B infection	DOID:2043	hepatitis B
+efo		EFO:0004240	heroin dependence	DOID:9976	heroin dependence
+efo		EFO:0004242	obsessive-compulsive disorder	DOID:10933	obsessive-compulsive disorder
+efo		EFO:0004244	interstitial lung disease	DOID:3082	interstitial lung disease
+efo		EFO:0004246	mucocutaneous lymph node syndrome	DOID:13378	Kawasaki disease
+efo		EFO:0004247	mood disorder	DOID:3324	mood disorder
+efo		EFO:0004248	male infertility	DOID:12336	male infertility
+efo		EFO:0004251	myeloproliferative disorder	DOID:4960	bone marrow cancer
+efo		EFO:0004252	nasopharyngeal neoplasm	DOID:9261	nasopharynx carcinoma
+efo		EFO:0004253	nephrolithiasis	DOID:585	nephrolithiasis
+efo		EFO:0004254	membranous glomerulonephritis	DOID:10976	membranous glomerulonephritis
+efo		EFO:0004255	nephrotic syndrome	DOID:1184	nephrotic syndrome
+efo		EFO:0004256	neuromyelitis optica	DOID:8869	neuromyelitis optica
+efo		EFO:0004257	neurotic disorder	DOID:4964	neurotic disorder
+efo		EFO:0004259	osteonecrosis	DOID:10159	osteonecrosis
+efo		EFO:0004260	bone disease	DOID:0080001	bone disease
+efo		EFO:0004260	bone disease	DOID:0080010	bone structure disease
+efo		EFO:0004261	osteitis deformans	DOID:5408	Paget's disease of bone
+efo		EFO:0004262	panic disorder	DOID:594	panic disorder
+efo		EFO:0004263	partial epilepsy	DOID:2234	focal epilepsy
+efo		EFO:0004264	vascular disease	DOID:178	vascular disease
+efo		EFO:0004266	primary ovarian insufficiency	DOID:5426	premature ovarian failure
+efo		EFO:0004267	biliary liver cirrhosis	DOID:12236	primary biliary cirrhosis
+efo		EFO:0004268	sclerosing cholangitis	DOID:14268	sclerosing cholangitis
+efo		EFO:0004270	restless legs syndrome	DOID:0050425	restless legs syndrome
+efo		EFO:0004272	anemia	DOID:2355	anemia
+efo		EFO:0004274	gout	DOID:13189	gout
+efo		EFO:0004276	Stevens-Johnson syndrome	DOID:0050426	Stevens-Johnson syndrome
+efo		EFO:0004277	brain infarction	DOID:3454	brain infarction
+efo		EFO:0004281	testicular neoplasm	DOID:2998	testicular cancer
+efo		EFO:0004281	testicular neoplasm	DOID:5557	testicular germ cell cancer
+efo		EFO:0004282	thoracic aortic aneurysm	DOID:14004	thoracic aortic aneurysm
+efo		EFO:0004283	goiter	DOID:12176	goiter
+efo		EFO:0004288	colonic neoplasm	DOID:235	colonic neoplasm
+efo		EFO:0004289	lymphoid leukemia	DOID:10747	lymphoid leukemia
+efo		EFO:0004540	chronic fatigue syndrome	DOID:8544	chronic fatigue syndrome
+efo		EFO:0004562	cryptorchidism	DOID:11383	cryptorchidism
+efo		EFO:0004593	gestational diabetes	DOID:11714	gestational diabetes
+efo		EFO:0004606	gallbladder neoplasm	DOID:3121	gallbladder cancer
+efo		EFO:0004607	duodenal ulcer	DOID:1724	duodenal ulcer
+efo		EFO:0004705	hypothyroidism	DOID:1459	hypothyroidism
+efo		EFO:0004711	elephantiasis	DOID:4976	elephantiasis
+efo		EFO:0004712	podoconiosis	DOID:0050138	podoconiosis
+efo		EFO:0004720	prion disease	DOID:649	prion disease
+efo		EFO:0004799	cholelithiasis	DOID:10211	cholelithiasis
+efo		EFO:0004894	tetralogy of fallot	DOID:6419	tetralogy of Fallot
+efo		EFO:0004911	familial hypercholesterolemia	DOID:13810	familial hypercholesterolemia
+efo		EFO:0004986	embryonal carcinoma	DOID:3308	embryonal carcinoma
+efo		EFO:0004991	Myasthenia gravis	DOID:437	myasthenia gravis
+efo		EFO:0004992	Otitis media	DOID:10754	otitis media
+efo		EFO:0004994	lumbar disc degeneration	DOID:90	degenerative disc disease
+efo		EFO:0005044	Leishmaniasis	DOID:9065	leishmaniasis
+efo		EFO:0005045	visceral Leishmaniasis	DOID:9146	visceral leishmaniasis
+efo		EFO:0005046	cutaneous Leishmaniasis	DOID:9111	cutaneous leishmaniasis

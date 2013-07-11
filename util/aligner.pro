@@ -21,14 +21,12 @@ u(S,T) :-
 
 m(S1,S2,T1,T2) :-
         u(S1,T1),
-        entity_pair_label_reciprocal_best_intermatch(T1,T2,true),
+        entity_pair_label_reciprocal_best_intermatch(T1,T2,false),
         id_idspace(T2,S2).
 
 ix :-
         index_entity_pair_label_match.
 
 efo(T1,T2) :-
-        load_bioresource(efo),
-        load_bioresource(disease),
         ix,
-        m('DOID','EFO',T1,T2).
+        m('EFO','DOID',T1,T2).
