@@ -504,3 +504,652 @@ efo		EFO:0004994	lumbar disc degeneration	DOID:90	degenerative disc disease
 efo		EFO:0005044	Leishmaniasis	DOID:9065	leishmaniasis
 efo		EFO:0005045	visceral Leishmaniasis	DOID:9146	visceral leishmaniasis
 efo		EFO:0005046	cutaneous Leishmaniasis	DOID:9111	cutaneous leishmaniasis
+efo		ORPHANET:1007	Berardinelli-Seip congenital lipodystrophy	DOID:0050585	congenital generalized lipodystrophy
+efo		ORPHANET:1007	Berardinelli-Seip congenital lipodystrophy	DOID:11712	lipoatrophic diabetes
+efo		ORPHANET:101	Juvenile absence epilepsy	DOID:0060172	juvenile absence epilepsy
+efo		ORPHANET:1011	46,XX gonadal dysgenesis	DOID:14450	46 XX gonadal dysgenesis
+efo		ORPHANET:102	Juvenile myoclonic epilepsy	DOID:4890	juvenile myoclonic epilepsy
+efo		ORPHANET:1022	Joubert syndrome	DOID:0050777	Joubert syndrome
+efo		ORPHANET:1030	Meningioma	DOID:3565	meningioma
+efo		ORPHANET:10307	Dravet syndrome	DOID:0060171	Dravet Syndrome
+efo		ORPHANET:10318	Reticular dysgenesis	DOID:0060020	reticular dysgenesis
+efo		ORPHANET:10319	Trichothiodystrophy	DOID:2960	photosensitive trichothiodystrophy
+efo		ORPHANET:1032	LEOPARD syndrome	DOID:14291	LEOPARD syndrome
+efo		ORPHANET:10347	Corneal dystrophy	DOID:2566	corneal dystrophy
+efo		ORPHANET:10348	Glycogen storage disease due to LAMP-2 deficiency	DOID:0050437	Danon disease
+efo		ORPHANET:10378	Nanophthalmia	DOID:10629	microphthalmia
+efo		ORPHANET:10385	Primary lateral sclerosis	DOID:230	lateral sclerosis
+efo		ORPHANET:1039	Duane syndrome	DOID:12557	Duane retraction syndrome
+efo		ORPHANET:10393	Arginine:glycine amidinotransferase deficiency	DOID:0050712	AGAT deficiency
+efo		ORPHANET:104	Ataxia-telangiectasia	DOID:12704	ataxia telangiectasia
+efo		ORPHANET:1042	Autosomal recessive spondylocostal dysostosis	DOID:0050568	spondylocostal dysostosis
+efo		ORPHANET:10424	Generalized epilepsy with febrile seizures-plus context	DOID:0060170	generalized epilepsy with febrile seizures plus
+efo		ORPHANET:10442	Cardiodysrythmic potassium-sensitive periodic paralysis	DOID:0050434	Andersen-Tawil syndrome
+efo		ORPHANET:1045	Gitelman syndrome	DOID:0050450	Gitelman syndrome
+efo		ORPHANET:10452	Omenn syndrome	DOID:0060010	Omenn syndrome
+efo		ORPHANET:10464	Bietti crystalline dystrophy	DOID:0050664	Bietti crystalline corneoretinal dystrophy
+efo		ORPHANET:10495	Leukodystrophy	DOID:10579	leukodystrophy
+efo		ORPHANET:105	Familial adenomatous polyposis	DOID:0050424	familial adenomatous polyposis
+efo		ORPHANET:10503	Hemoglobinopathy	DOID:2860	hemoglobinopathy
+efo		ORPHANET:10507	Inborn errors of metabolism	DOID:655	inherited metabolic disorder
+efo		ORPHANET:10513	Peroxisomal disease	DOID:906	peroxisomal disease
+efo		ORPHANET:10528	Neurofibromatosis	DOID:8712	neurofibromatosis
+efo		ORPHANET:10576	Severe congenital neutropenia	DOID:0050590	severe congenital neutropenia
+efo		ORPHANET:10584	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor
+efo		ORPHANET:1059	Barth syndrome	DOID:0050476	Barth syndrome
+efo		ORPHANET:10627	Lissencephaly	DOID:0050453	lissencephaly
+efo		ORPHANET:10633	Aceruloplasminemia	DOID:0050711	aceruloplasminemia
+efo		ORPHANET:10638	Dentinogenesis imperfecta	DOID:4154	dentinogenesis imperfecta
+efo		ORPHANET:10639	Achromatopsia	DOID:13911	achromatopsia
+efo		ORPHANET:10675	Generalized arterial calcification of infancy	DOID:0050644	generalized arterial calcification of infancy
+efo		ORPHANET:10715	Caroli disease	DOID:898	polycystic kidney disease
+efo		ORPHANET:10719	Brody myopathy	DOID:0050692	Brody myopathy
+efo		ORPHANET:10744	Distal hereditary motor neuropathy	DOID:0050582	distal hereditary motor neuropathy
+efo		ORPHANET:10755	Membranoproliferative glomerulonephritis	DOID:2920	membranoproliferative glomerulonephritis
+efo		ORPHANET:10756	Craniopharyngioma	DOID:3840	craniopharyngioma
+efo		ORPHANET:10763	Adamantinoma	DOID:2776	adamantinoma
+efo		ORPHANET:10790	Gestational trophoblastic neoplasm	DOID:3590	gestational trophoblastic neoplasm
+efo		ORPHANET:10797	Pulmonary alveolar microlithiasis	DOID:12117	pulmonary alveolar microlithiasis
+efo		ORPHANET:10806	Congenital heart block	DOID:990	congenital heart block
+efo		ORPHANET:10825	Acrocapitofemoral dysplasia	DOID:0050604	acrocapitofemoral dysplasia
+efo		ORPHANET:10832	Childhood absence epilepsy	DOID:1825	childhood absence epilepsy
+efo		ORPHANET:10835	Tolosa-Hunt syndrome	DOID:1278	tolosa-hunt syndrome
+efo		ORPHANET:10852	Dejerine-Sottas syndrome	DOID:0050540	Charcot-Marie-Tooth disease type 3
+efo		ORPHANET:10853	Charcot-Marie-Tooth disease type 4	DOID:0050541	Charcot-Marie-Tooth disease type 4
+efo		ORPHANET:10865	Timothy syndrome	DOID:0060173	Timothy syndrome
+efo		ORPHANET:10866	Biotin-responsive basal ganglia disease	DOID:0050659	biotin-responsive basal ganglia disease
+efo		ORPHANET:10878	Charcot-Marie-Tooth disease type 1	DOID:0050538	Charcot-Marie-Tooth disease type 1
+efo		ORPHANET:109	Marfan syndrome	DOID:14323	Marfan syndrome
+efo		ORPHANET:10935	Tyrosinemia type 3	DOID:0050727	tyrosinemia type III
+efo		ORPHANET:10939	Athabaskan brainstem dysgenesis syndrome	DOID:0050682	Athabaskan brainstem dysgenesis syndrome
+efo		ORPHANET:10997	Rh deficiency syndrome	DOID:0050641	Rh deficiency syndrome
+efo		ORPHANET:11	Cystinosis	DOID:1064	cystinosis
+efo		ORPHANET:11017	Rapid-onset dystonia-parkinsonism	DOID:5159	familial dystonia
+efo		ORPHANET:11028	Retinal dystrophy	DOID:8501	fundus dystrophy
+efo		ORPHANET:11067	Wolman disease	DOID:14497	Wolman disease
+efo		ORPHANET:11068	Cholesteryl ester storage disease	DOID:14502	cholesterol ester storage disease
+efo		ORPHANET:11076	Central areolar choroidal dystrophy	DOID:9822	partial central choroid dystrophy
+efo		ORPHANET:11079	Oguchi disease	DOID:8498	hereditary night blindness
+efo		ORPHANET:11087	X-linked sideroblastic anemia	DOID:0060063	X-linked sideroblastic anemia
+efo		ORPHANET:11094	Congenital muscular dystrophy, Ullrich type	DOID:0050558	Ullrich congenital muscular dystrophy
+efo		ORPHANET:11105	Niemann-Pick disease type A	DOID:14504	Niemann-Pick disease
+efo		ORPHANET:11106	Niemann-Pick disease type B	DOID:14504	Niemann-Pick disease
+efo		ORPHANET:11177	Acrokeratosis verruciformis of Hopf	DOID:0050606	acrokeratosis verruciformis
+efo		ORPHANET:11178	Disseminated superficial actinic porokeratosis	DOID:3805	porokeratosis
+efo		ORPHANET:112	Metachromatic leukodystrophy	DOID:10581	metachromatic leukodystrophy
+efo		ORPHANET:11227	Glycogen storage disease	DOID:2747	glycogen storage disease
+efo		ORPHANET:11230	Lipid storage disease	DOID:9455	lipid storage disease
+efo		ORPHANET:11237	Mixed hyperlipidemia	DOID:13809	familial combined hyperlipidemia
+efo		ORPHANET:11238	Mucolipidosis	DOID:3343	mucolipidosis
+efo		ORPHANET:11239	Mucopolysaccharidosis	DOID:12798	mucopolysaccharidosis
+efo		ORPHANET:11251	Sphingolipidosis	DOID:1927	sphingolipidosis
+efo		ORPHANET:11263	Galactokinase deficiency	DOID:14695	galactokinase deficiency
+efo		ORPHANET:11267	Biotinidase deficiency	DOID:856	biotinidase deficiency
+efo		ORPHANET:11268	Holocarboxylase synthetase deficiency	DOID:859	holocarboxylase synthetase deficiency
+efo		ORPHANET:11269	Pyruvate dehydrogenase E1-alpha deficiency	DOID:3649	pyruvate decarboxylase deficiency
+efo		ORPHANET:11290	Juvenile neuronal ceroid lipofuscinosis	DOID:0050756	Batten disease
+efo		ORPHANET:11299	Hereditary coproporphyria	DOID:13269	hereditary coproporphyria
+efo		ORPHANET:11302	Acute intermittent porphyria	DOID:3890	acute intermittent porphyria
+efo		ORPHANET:11304	Erythropoietic protoporphyria	DOID:13270	erythropoietic protoporphyria
+efo		ORPHANET:11319	Familial LCAT deficiency	DOID:1391	Norum disease
+efo		ORPHANET:11340	L-2-hydroxyglutaric aciduria	DOID:0050574	L-2-hydroxyglutaric aciduria
+efo		ORPHANET:11341	D-2-hydroxyglutaric aciduria	DOID:0050575	D-2-hydroxyglutaric aciduria
+efo		ORPHANET:11390	Alopecia	DOID:987	alopecia
+efo		ORPHANET:11391	Hypertrichosis	DOID:420	hypertrichosis
+efo		ORPHANET:11409	Lymphedema	DOID:4977	lymphedema
+efo		ORPHANET:11420	Congenital nonbullous ichthyosiform erythroderma	DOID:1699	congenital ichthyosiform erythroderma
+efo		ORPHANET:11456	Hermansky-Pudlak syndrome	DOID:3753	Hermansky-Pudlak syndrome
+efo		ORPHANET:11469	Pseudohypoparathyroidism type 1A	DOID:0080053	Albright's hereditary osteodystrophy
+efo		ORPHANET:11471	Pseudopseudohypoparathyroidism	DOID:4183	pseudopseudohypoparathyroidism
+efo		ORPHANET:11499	Porphyria variegata	DOID:4346	variegate porphyria
+efo		ORPHANET:11519	Brooke-Spiegler syndrome	DOID:0050693	Brooke-Spiegler syndrome
+efo		ORPHANET:11563	Proximal spinal muscular atrophy type 1	DOID:13137	Werdnig-Hoffmann disease
+efo		ORPHANET:11565	Proximal spinal muscular atrophy type 2	DOID:0050530	intermediate spinal muscular atrophy
+efo		ORPHANET:11566	Proximal spinal muscular atrophy type 3	DOID:12376	juvenile spinal muscular atrophy
+efo		ORPHANET:11567	Proximal spinal muscular atrophy type 4	DOID:0050529	adult spinal muscular atrophy
+efo		ORPHANET:11568	Inappropriate antidiuretic hormone secretion syndrome	DOID:3401	inappropriate ADH syndrome
+efo		ORPHANET:11573	Glomuvenous malformation	DOID:6906	glomangiomatosis
+efo		ORPHANET:11574	Congenital primary aphakia	DOID:11367	congenital aphakia
+efo		ORPHANET:11580	Immunodeficiency due to absence of thymus	DOID:2012	Nezelof syndrome
+efo		ORPHANET:116	Down syndrome	DOID:14250	Down syndrome
+efo		ORPHANET:11624	Bothnia retinal dystrophy	DOID:0050683	Bothnia retinal dystrophy
+efo		ORPHANET:11651	Idiopathic juvenile osteoporosis	DOID:12559	idiopathic juvenile osteoporosis
+efo		ORPHANET:11666	Intellectual deficit, X-linked, Armfield type	DOID:0050764	Armfield syndrome
+efo		ORPHANET:117	Lafora disease	DOID:3534	Lafora disease
+efo		ORPHANET:11722	Familial renal amyloidosis	DOID:0050636	familial visceral amyloidosis
+efo		ORPHANET:11724	X-linked reticulate pigmentary disorder with systemic manifestations	DOID:13207	proliferative diabetic retinopathy
+efo		ORPHANET:11810	Tritanopia	DOID:11661	blue color blindness
+efo		ORPHANET:11823	Amelogenesis imperfecta	DOID:2187	amelogenesis imperfecta
+efo		ORPHANET:11911	X-linked hypophosphatemia	DOID:0050445	X-linked hypophosphatemia
+efo		ORPHANET:11927	Syndactyly	DOID:11193	syndactyly
+efo		ORPHANET:11936	Hemoglobin D disease	DOID:5378	hemoglobin D disease
+efo		ORPHANET:11937	Gaisbock syndrome	DOID:2838	stress polycythemia
+efo		ORPHANET:11938	Primary familial polycythemia	DOID:10780	primary polycythemia
+efo		ORPHANET:12	Farber lipogranulomatosis	DOID:0050464	Farber lipogranulomatosis
+efo		ORPHANET:120	Fragile X syndrome	DOID:14261	fragile X syndrome
+efo		ORPHANET:12005	Klippel-Trenaunay syndrome	DOID:2926	Klippel-Trenaunay syndrome
+efo		ORPHANET:12018	Blau syndrome	DOID:0050678	Blau syndrome
+efo		ORPHANET:12028	Brittle cornea syndrome	DOID:14775	type VI Ehlers-Danlos syndrome
+efo		ORPHANET:12081	Panhypopituitarism	DOID:9410	panhypopituitarism
+efo		ORPHANET:121	Multiple endocrine neoplasia type 1	DOID:10017	Wermer syndrome
+efo		ORPHANET:12126	Germinoma of the central nervous system	DOID:2127	brain germinoma
+efo		ORPHANET:12126	Germinoma of the central nervous system	DOID:4438	central nervous system germinoma
+efo		ORPHANET:12129	Sheehan syndrome	DOID:9476	Sheehan syndrome
+efo		ORPHANET:12136	Hereditary angioedema	DOID:14735	hereditary angioedema
+efo		ORPHANET:12142	Marcus-Gunn syndrome	DOID:560	jaw-winking syndrome
+efo		ORPHANET:12148	Rieger's anomaly	DOID:14686	Axenfeld-Rieger syndrome
+efo		ORPHANET:122	retinoblastoma	DOID:768	retinoblastoma
+efo		ORPHANET:12218	Polyostotic fibrous dysplasia	DOID:1858	McCune Albright syndrome
+efo		ORPHANET:12234	Hypochondrogenesis	DOID:0080044	hypochondrogenesis
+efo		ORPHANET:12236	Achondrogenesis type 1A	DOID:0080054	achondrogenesis type IA
+efo		ORPHANET:12281	Anauxetic dysplasia	DOID:0050640	anauxetic dysplasia
+efo		ORPHANET:12287	Spondyloepimetaphyseal dysplasia, Missouri type	DOID:0080030	spondyloepimetaphyseal dysplasia, Missouri type
+efo		ORPHANET:12288	SPONASTRIME dysplasia	DOID:5684	sponastrime dysplasia
+efo		ORPHANET:123	Oculocerebrorenal syndrome	DOID:1056	oculocerebrorenal syndrome
+efo		ORPHANET:12348	Acromesomelic dysplasia	DOID:0080049	acromesomelic dysplasia
+efo		ORPHANET:12449	Hemoglobin H disease	DOID:1099	alpha thalassemia
+efo		ORPHANET:1245	ABCD syndrome	DOID:0050600	ABCD syndrome
+efo		ORPHANET:12482	Neurofibromatosis type 3	DOID:3204	neurilemmomatosis
+efo		ORPHANET:125	Sickle cell anemia	DOID:10923	sickle cell anemia
+efo		ORPHANET:12522	Blepharospasm - oromandibular dystonia	DOID:3982	Meige syndrome
+efo		ORPHANET:1253	Triple A syndrome	DOID:0050602	triple-A syndrome
+efo		ORPHANET:12539	Neovascular glaucoma	DOID:1687	neovascular glaucoma
+efo		ORPHANET:12548	Spondyloepiphyseal dysplasia congenita	DOID:14789	spondyloepiphyseal dysplasia congenita
+efo		ORPHANET:1255	Acheiropodia	DOID:0050603	acheiropody
+efo		ORPHANET:12553	Partington syndrome	DOID:14744	Partington syndrome
+efo		ORPHANET:1256	Achondrogenesis	DOID:0080043	achondrogenesis
+efo		ORPHANET:12580	Hepatoerythropoietic porphyria	DOID:5230	hepatoerythropoietic porphyria
+efo		ORPHANET:126	Monosomy 22q11	DOID:11198	DiGeorge syndrome
+efo		ORPHANET:126	Monosomy 22q11	DOID:12583	velocardiofacial syndrome
+efo		ORPHANET:12640	Pituitary apoplexy	DOID:1129	pituitary apoplexy
+efo		ORPHANET:1269	Acrodysostosis	DOID:14669	acrodysostosis
+efo		ORPHANET:1276	Acroosteolysis dominant type	DOID:2736	Hajdu-Cheney syndrome
+efo		ORPHANET:12828	Familial prolactinoma	DOID:5394	prolactinoma
+efo		ORPHANET:12853	Distal arthrogryposis	DOID:0050646	distal arthrogryposis
+efo		ORPHANET:12856	Brown-Vialetto-van Laere syndrome	DOID:0050694	Brown-Vialetto-Van Laere syndrome
+efo		ORPHANET:12865	Congenital muscular dystrophy	DOID:0050557	congenital muscular dystrophy
+efo		ORPHANET:1287	Acromesomelic dysplasia, Hunter-Thomson type	DOID:0080051	acromesomelic dysplasia, Hunter-Thompson type
+efo		ORPHANET:1288	Acromesomelic dysplasia, Maroteaux type	DOID:0080050	acromesomelic dysplasia, Maroteaux type
+efo		ORPHANET:12891	Osgood-Schlatter disease	DOID:7489	Osgood-Schlatter's disease
+efo		ORPHANET:12935	Pseudohypoparathyroidism	DOID:4184	pseudohypoparathyroidism
+efo		ORPHANET:1297	ADULT syndrome	DOID:0050601	ADULT syndrome
+efo		ORPHANET:13	Fucosidosis	DOID:14500	fucosidosis
+efo		ORPHANET:1309	Aicardi-Goutieres syndrome	DOID:0050629	Aicardi-Goutieres syndrome
+efo		ORPHANET:1315	Allan-Herndon-Dudley syndrome	DOID:0050631	Allan-Herndon-Dudley syndrome
+efo		ORPHANET:132	Mucopolysaccharidosis type 1	DOID:12802	mucopolysaccharidosis I
+efo		ORPHANET:1321	Alopecia universalis	DOID:0050634	alopecia universalis
+efo		ORPHANET:13266	Ehlers-Danlos syndrome	DOID:13359	Ehlers-Danlos syndrome
+efo		ORPHANET:13278	Progressive myoclonic epilepsy	DOID:891	progressive myoclonus epilepsy
+efo		ORPHANET:13323	Familial partial lipodystrophy	DOID:0050440	familial partial lipodystrophy
+efo		ORPHANET:134	Wilson disease	DOID:893	Wilson disease
+efo		ORPHANET:1344	Arthrogryposis multiplex congenita	DOID:0050646	distal arthrogryposis
+efo		ORPHANET:13445	Secondary polycythemia	DOID:2834	acquired polycythemia
+efo		ORPHANET:13490	Muscular dystrophy	DOID:9884	muscular dystrophy
+efo		ORPHANET:13633	Conjunctival tumor	DOID:5467	conjunctival cancer
+efo		ORPHANET:1371	Dental ankylosis	DOID:12661	tooth ankylosis
+efo		ORPHANET:13774	Spinocerebellar ataxia type 3	DOID:1440	Machado-Joseph disease
+efo		ORPHANET:13835	Landau-Kleffner syndrome	DOID:2538	Landau-Kleffner syndrome
+efo		ORPHANET:13895	Hemophilia A	DOID:12134	factor VIII deficiency
+efo		ORPHANET:13896	Hemophilia B	DOID:12259	hemophilia B
+efo		ORPHANET:139	Prader-Willi syndrome	DOID:11983	Prader-Willi syndrome
+efo		ORPHANET:13909	Periventricular nodular heterotopia	DOID:0050454	periventricular nodular heterotopia
+efo		ORPHANET:1391	Antley-Bixler syndrome	DOID:0050462	Antley-Bixler syndrome
+efo		ORPHANET:13912	Becker muscular dystrophy	DOID:9883	Becker muscular dystrophy
+efo		ORPHANET:13913	Duchenne muscular dystrophy	DOID:11723	Duchenne muscular dystrophy
+efo		ORPHANET:13949	Shy-Drager syndrome	DOID:4752	multiple system atrophy
+efo		ORPHANET:13950	Multiple system atrophy, parkinsonian type	DOID:4751	striatonigral degeneration
+efo		ORPHANET:13986	Macular corneal dystrophy	DOID:2565	macular corneal dystrophy
+efo		ORPHANET:13994	Juvenile glaucoma	DOID:1068	juvenile glaucoma
+efo		ORPHANET:13996	Chandler syndrome	DOID:11554	Chandler syndrome
+efo		ORPHANET:14	Glycogen storage disease type 2	DOID:2752	glycogen storage disease II
+efo		ORPHANET:14010	Posterior polar cataract	DOID:0050537	posterior polar cataract
+efo		ORPHANET:14062	Double outlet right ventricle with subpulmonary ventricular septal defect	DOID:6406	double outlet right ventricle
+efo		ORPHANET:14120	Atrial septal defect, ostium secundum type	DOID:13620	patent foramen ovale
+efo		ORPHANET:14125	Patent foramen ovale	DOID:13620	patent foramen ovale
+efo		ORPHANET:14199	Monosomy X	DOID:3491	Turner syndrome
+efo		ORPHANET:142	X-linked agammaglobulinemia	DOID:14179	Bruton-type agammaglobulinemia
+efo		ORPHANET:14205	Familial medullary thyroid carcinoma	DOID:0050547	familial medullary thyroid carcinoma
+efo		ORPHANET:14209	Pituitary adenoma	DOID:3829	pituitary adenoma
+efo		ORPHANET:14312	Familial hypertrophic cardiomyopathy	DOID:11986	familial hypertrophic cardiomyopathy
+efo		ORPHANET:14370	Anodontia	DOID:13714	anodontia
+efo		ORPHANET:14385	LIG4 syndrome	DOID:0060021	DNA ligase IV deficiency
+efo		ORPHANET:144	Wiskott-Aldrich syndrome	DOID:9169	Wiskott-Aldrich syndrome
+efo		ORPHANET:1443	Infantile onset spinocerebellar ataxia	DOID:0050556	infantile onset spinocerebellar ataxia
+efo		ORPHANET:1444	Lethal ataxia with deafness and optic atrophy	DOID:0050647	Arts syndrome
+efo		ORPHANET:14443	Letterer-Siwe disease	DOID:2554	Letterer-Siwe disease
+efo		ORPHANET:14499	Gestational choriocarcinoma	DOID:2025	gestational choriocarcinoma
+efo		ORPHANET:145	Williams syndrome	DOID:1928	Williams-Beuren syndrome
+efo		ORPHANET:14501	Placental site trophoblastic tumor	DOID:3596	placental site trophoblastic tumor
+efo		ORPHANET:1469	Baller-Gerold syndrome	DOID:0050654	Baller-Gerold syndrome
+efo		ORPHANET:147	Wolf-Hirschhorn syndrome	DOID:0050460	Wolf-Hirschhorn syndrome
+efo		ORPHANET:1470	Bamforth syndrome	DOID:0050655	Bamforth-Lazarus syndrome
+efo		ORPHANET:14727	Romano-Ward syndrome	DOID:2843	long QT syndrome
+efo		ORPHANET:1473	Bannayan-Riley-Ruvalcaba syndrome	DOID:0050657	Bannayan-Riley-Ruvalcaba syndrome
+efo		ORPHANET:1474	Congenital intrauterine infection-like syndrome	DOID:0050629	Aicardi-Goutieres syndrome
+efo		ORPHANET:1474	Congenital intrauterine infection-like syndrome	DOID:0050656	pseudo-TORCH syndrome
+efo		ORPHANET:14774	Situs inversus totalis	DOID:758	situs inversus
+efo		ORPHANET:14799	X-linked hyper-IgM syndrome	DOID:0060022	CD40 ligand deficiency
+efo		ORPHANET:14799	X-linked hyper-IgM syndrome	DOID:6620	X-linked hyper IgM syndrome
+efo		ORPHANET:148	Achondroplasia	DOID:4480	achondroplasia
+efo		ORPHANET:14841	Porphyria cutanea tarda	DOID:3132	porphyria cutanea tarda
+efo		ORPHANET:14893	Pituitary deficiency	DOID:9406	hypopituitarism
+efo		ORPHANET:1490	Maxillo-nasal dysplasia	DOID:14683	Binder syndrome
+efo		ORPHANET:14908	Combined T and B cell immunodeficiency	DOID:628	combined T cell and B cell immunodeficiency
+efo		ORPHANET:14999	Short bowel syndrome	DOID:10605	short bowel syndrome
+efo		ORPHANET:15	Glycogen debranching enzyme deficiency	DOID:2748	glycogen storage disease III
+efo		ORPHANET:150	Dentatorubral-pallidoluysian atrophy	DOID:0060162	dentatorubral-pallidoluysian atrophy
+efo		ORPHANET:1501	Boomerang dysplasia	DOID:0050680	Boomerang dysplasia
+efo		ORPHANET:1502	Borjeson-Forssman-Lehmann syndrome	DOID:0050681	Borjeson-Forssman-Lehmann syndrome
+efo		ORPHANET:1506	Bowen-Conradi syndrome	DOID:0050684	Bowen-Conradi syndrome
+efo		ORPHANET:151	Rubinstein-Taybi syndrome	DOID:1933	Rubinstein-Taybi syndrome
+efo		ORPHANET:1526	Brachyolmia	DOID:0050690	brachyolmia
+efo		ORPHANET:1530	Branchio-oculo-facial syndrome	DOID:0050691	branchiooculofacial syndrome
+efo		ORPHANET:1551	Camurati-Engelmann disease	DOID:4997	Camurati-Engelmann disease
+efo		ORPHANET:16	Glycogen branching enzyme deficiency	DOID:2750	glycogen storage disease IV
+efo		ORPHANET:160	Hypophosphatemic rickets	DOID:0050445	X-linked hypophosphatemia
+efo		ORPHANET:161	Hypochondroplasia	DOID:0080041	hypochondroplasia
+efo		ORPHANET:1614	Familial articular chondrocalcinosis	DOID:1156	pseudogout
+efo		ORPHANET:162	Hypophosphatasia	DOID:14213	hypophosphatasia
+efo		ORPHANET:1633	Otospondylomegaepiphyseal dysplasia	DOID:0080026	otospondylomegaepiphyseal dysplasia
+efo		ORPHANET:1645	Coats disease	DOID:7765	Coats disease
+efo		ORPHANET:167	Leber hereditary optic neuropathy	DOID:705	leber hereditary optic neuropathy
+efo		ORPHANET:16744	Choanal atresia	DOID:9574	choanal atresia
+efo		ORPHANET:168	Ornithine transcarbamylase deficiency	DOID:9271	ornithine carbamoyltransferase deficiency
+efo		ORPHANET:1680	Craniodiaphyseal dysplasia	DOID:0080032	craniodiaphyseal dysplasia
+efo		ORPHANET:1682	Cranioectodermal dysplasia	DOID:0050577	Sensenbrenner syndrome
+efo		ORPHANET:1687	Craniofrontonasal dysplasia	DOID:14737	craniofrontonasal syndrome
+efo		ORPHANET:1689	Craniometaphyseal dysplasia	DOID:0080033	craniometaphyseal dysplasia
+efo		ORPHANET:16900	Retinopathy, Burgess-Black type	DOID:0050662	bestrophinopathy
+efo		ORPHANET:16966	Hereditary motor and sensory neuropathy	DOID:2477	motor peripheral neuropathy
+efo		ORPHANET:16973	Hereditary sensory and autonomic neuropathy	DOID:0050548	hereditary sensory neuropathy
+efo		ORPHANET:17	Myophosphorylase deficiency	DOID:2746	glycogen storage disease V
+efo		ORPHANET:170	Severe combined immunodeficiency T- B+ due to gamma chain deficiency	DOID:0060013	gamma chain deficiency
+efo		ORPHANET:17032	Nasolacrimal duct cyst	DOID:9939	dacryocystocele
+efo		ORPHANET:17045	Hemifacial microsomia	DOID:2907	Goldenhar syndrome
+efo		ORPHANET:1707	Cutis gyrata - acanthosis nigricans - craniosynostosis	DOID:0050660	Beare-Stevenson cutis gyrata syndrome
+efo		ORPHANET:17091	Mandibulofacial dysostosis	DOID:2908	Treacher Collins syndrome
+efo		ORPHANET:17093	Keratoconus	DOID:10126	keratoconus
+efo		ORPHANET:17156	Pantothenate-kinase-associated neurodegeneration	DOID:3981	Hallervorden-Spatz syndrome
+efo		ORPHANET:17181	Hemophagocytic syndrome	DOID:0050120	hemophagocytic lymphohistiocytosis
+efo		ORPHANET:172	Leprechaunism	DOID:0050470	Donohue Syndrome
+efo		ORPHANET:173	Classical homocystinuria	DOID:9263	homocystinuria
+efo		ORPHANET:1730	Alpers syndrome	DOID:1442	Alpers syndrome
+efo		ORPHANET:1743	Dentin dysplasia	DOID:701	dentin dysplasia
+efo		ORPHANET:17509	Maffucci syndrome	DOID:4624	Ollier disease
+efo		ORPHANET:17568	Familial advanced sleep-phase syndrome	DOID:0050628	advanced sleep phase syndrome
+efo		ORPHANET:176	Chronic granulomatous disease	DOID:3265	chronic granulomatous disease
+efo		ORPHANET:17628	Sick sinus syndrome	DOID:13884	sick sinus syndrome
+efo		ORPHANET:17649	Epileptic syndrome	DOID:1826	epilepsy syndrome
+efo		ORPHANET:177	Blue cone monochromatism	DOID:0050679	blue cone monochromacy
+efo		ORPHANET:17821	Good syndrome	DOID:0060028	Good syndrome
+efo		ORPHANET:17825	Transient hypogammaglobulinemia of infancy	DOID:624	transient hypogammaglobulinemia of infancy
+efo		ORPHANET:17935	White sponge nevus	DOID:0050448	hereditary mucosal leukokeratosis
+efo		ORPHANET:17999	Central diabetes insipidus	DOID:12388	neurohypophyseal diabetes insipidus
+efo		ORPHANET:180	Christ-Siemens-Touraine syndrome	DOID:14793	hypohidrotic ectodermal dysplasia
+efo		ORPHANET:18015	Cland Island eye disease	DOID:0050630	Aland Island eye disease
+efo		ORPHANET:1809	Multiple epiphyseal dysplasia	DOID:12721	multiple epiphyseal dysplasia
+efo		ORPHANET:183	Neurofibromatosis type 2	DOID:8712	neurofibromatosis
+efo		ORPHANET:18303	Severe combined immunodeficiency	DOID:627	severe combined immunodeficiency
+efo		ORPHANET:18306	Agammaglobulinemia	DOID:2583	agammaglobulinemia
+efo		ORPHANET:18380	Nelson syndrome	DOID:4968	Nelson syndrome
+efo		ORPHANET:1843	Cone rod dystrophy	DOID:0050572	cone-rod dystrophy
+efo		ORPHANET:18494	Hypoxanthine-guanine phosphoribosyltransferase deficiency	DOID:1919	Lesch-Nyhan syndrome
+efo		ORPHANET:185	Neurofibromatosis type 1	DOID:8712	neurofibromatosis
+efo		ORPHANET:18540	Myotonic dystrophy	DOID:11722	myotonic dystrophy
+efo		ORPHANET:18547	Bulbospinal muscular atrophy	DOID:0060161	Kennedy's disease
+efo		ORPHANET:18555	Mitochondrial myopathy	DOID:699	mitochondrial myopathy
+efo		ORPHANET:1889	Maternal hyperphenylalaninemia	DOID:9281	phenylketonuria
+efo		ORPHANET:1903	Erythromelalgia	DOID:9240	erythromelalgia
+efo		ORPHANET:19056	Fundus albipunctatus	DOID:11105	fundus albipunctatus
+efo		ORPHANET:19266	Hypohidrotic ectodermal dysplasia	DOID:14793	hypohidrotic ectodermal dysplasia
+efo		ORPHANET:193	Pearson syndrome	DOID:0060067	Pearson syndrome
+efo		ORPHANET:194	Alpha-1 antitrypsin deficiency	DOID:13372	alpha 1-antitrypsin deficiency
+efo		ORPHANET:19524	Citrullinemia type I	DOID:9273	citrullinemia
+efo		ORPHANET:19538	Multiple endocrine neoplasia type 2A	DOID:0050430	Sipple syndrome
+efo		ORPHANET:19539	Multiple endocrine neoplasia type 2B	DOID:10016	Wagenmann-Froboese syndrome
+efo		ORPHANET:19554	Occult macular dystrophy	DOID:0050578	occult macular dystrophy
+efo		ORPHANET:19561	Primary hypertrophic osteoarthropathy	DOID:14283	primary hypertrophic osteoarthropathy
+efo		ORPHANET:196	Li-Fraumeni syndrome	DOID:3012	Li-Fraumeni syndrome
+efo		ORPHANET:19635	Sickle cell - hemoglobin C disease	DOID:10923	sickle cell anemia
+efo		ORPHANET:197	Lesch-Nyhan syndrome	DOID:1919	Lesch-Nyhan syndrome
+efo		ORPHANET:19765	Epithelioid trophoblastic tumor	DOID:3593	epithelioid trophoblastic tumor
+efo		ORPHANET:19805	Autosomal recessive pyridoxine-refractory sideroblastic anemia	DOID:0060065	pyridoxine-refractory autosomal recessive sideroblastic anemia
+efo		ORPHANET:2	Alexander disease	DOID:4252	Alexander disease
+efo		ORPHANET:20039	Glycogen storage disease type 15	DOID:0050579	glycogen storage disease XV
+efo		ORPHANET:2004	Focal dermal hypoplasia	DOID:2120	focal dermal hypoplasia
+efo		ORPHANET:20055	Neuroacanthocytosis	DOID:0050765	neuroacanthocytosis
+efo		ORPHANET:201	Monosomy 5p	DOID:12580	Cri-Du-Chat syndrome
+efo		ORPHANET:2010	Acromesomelic dysplasia, Grebe type	DOID:0080052	acromesomelic dysplasia, Grebe type
+efo		ORPHANET:2011	Greig cephalopolysyndactyly syndrome	DOID:14761	Greig cephalopolysyndactyly syndrome
+efo		ORPHANET:202	Cystinuria	DOID:9266	cystinuria
+efo		ORPHANET:20430	Complement component 3 deficiency	DOID:8354	C3 deficiency
+efo		ORPHANET:20475	Rapidly progressive glomerulonephritis	DOID:4776	rapidly progressive glomerulonephritis
+efo		ORPHANET:205	Fibrodysplasia ossificans progressiva	DOID:13374	fibrodysplasia ossificans progressiva
+efo		ORPHANET:20537	Congenital ichthyosis with trichothiodystrophy	DOID:2960	photosensitive trichothiodystrophy
+efo		ORPHANET:206	Noonan syndrome	DOID:3490	Noonan syndrome
+efo		ORPHANET:20609	Phosphoserine aminotransferase deficiency	DOID:0050723	PSAT deficiency
+efo		ORPHANET:20623	Ocular albinism	DOID:0050633	ocular albinism
+efo		ORPHANET:207	Gorlin syndrome	DOID:2512	nevoid basal cell carcinoma syndrome
+efo		ORPHANET:20774	Organic aciduria	DOID:0060159	organic acidemia
+efo		ORPHANET:2079	Epidermolytic ichthyosis	DOID:4603	epidermolytic hyperkeratosis
+efo		ORPHANET:20854	Methylmalonic acidemia without homocystinuria	DOID:14749	methylmalonic acidemia
+efo		ORPHANET:209	Diastrophic dwarfism	DOID:14687	diastrophic dysplasia
+efo		ORPHANET:2091	Hypertelorism-microtia-facial clefting syndrome	DOID:14670	hypertelorism, microtia, facial clefting syndrome
+efo		ORPHANET:20919	Brachydactyly	DOID:0050581	brachydactyly
+efo		ORPHANET:2102	Hypodontia - dysplasia of nails	DOID:6678	tooth and nail syndrome
+efo		ORPHANET:211	Hypokalemic periodic paralysis	DOID:14452	hypokalemic periodic paralysis
+efo		ORPHANET:212	Hyperkalemic periodic paralysis	DOID:14451	hyperkalemic periodic paralysis
+efo		ORPHANET:2130	Pallister-Hall syndrome	DOID:9248	Pallister-Hall syndrome
+efo		ORPHANET:2137	Neutral lipid storage disease	DOID:0050729	neutral lipid storage disease
+efo		ORPHANET:2169	Pachyonychia congenita	DOID:0050449	pachyonychia congenita
+efo		ORPHANET:2172	Johanson-Blizzard syndrome	DOID:14694	Johanson-Blizzard syndrome
+efo		ORPHANET:2184	KBG syndrome	DOID:14780	KBG syndrome
+efo		ORPHANET:2198	Kniest dysplasia	DOID:0080045	Kniest dysplasia
+efo		ORPHANET:22	Krabbe disease	DOID:10587	Krabbe disease
+efo		ORPHANET:2200	Familial partial lipodystrophy, Dunnigan type	DOID:0050440	familial partial lipodystrophy
+efo		ORPHANET:2207	Lacrimo-auriculo-dento-digital syndrome	DOID:0050331	LADD syndrome
+efo		ORPHANET:2219	Choreoacanthocytosis	DOID:0050766	chorea-acanthocytosis
+efo		ORPHANET:225	Zellweger syndrome	DOID:905	Zellweger syndrome
+efo		ORPHANET:2257	Enchondromatosis	DOID:4624	Ollier disease
+efo		ORPHANET:2298	Melorheostosis	DOID:4253	melorheostosis
+efo		ORPHANET:230	WAGR syndrome	DOID:14515	WAGR syndrome
+efo		ORPHANET:2325	Autosomal dominant microcephaly	DOID:14725	autosomal dominant microcephaly
+efo		ORPHANET:233	Peutz-Jeghers syndrome	DOID:3852	Peutz-Jeghers syndrome
+efo		ORPHANET:234	Pfeiffer syndrome	DOID:14705	Pfeiffer syndrome
+efo		ORPHANET:235	Saethre-Chotzen syndrome	DOID:14768	Saethre-Chotzen syndrome
+efo		ORPHANET:236	Rendu-Osler-Weber disease	DOID:1270	hereditary hemorrhagic telangiectasia
+efo		ORPHANET:237	BOR syndrome	DOID:14702	branchiootorenal syndrome
+efo		ORPHANET:2373	Moyamoya disease	DOID:13099	Moyamoya disease
+efo		ORPHANET:2374	Moynahan syndrome	DOID:14291	LEOPARD syndrome
+efo		ORPHANET:2376	MULIBREY nanism	DOID:0050436	mulibrey nanism
+efo		ORPHANET:238	Blepharophimosis - epicanthus inversus - ptosis	DOID:14778	blepharophimosis, ptosis, and epicanthus inversus syndrome
+efo		ORPHANET:2389	Carney complex	DOID:0050471	Carney complex
+efo		ORPHANET:2390	N syndrome	DOID:0050769	N syndrome
+efo		ORPHANET:24	Mucopolysaccharidosis type 6	DOID:12800	mucopolysaccharidosis VI
+efo		ORPHANET:240	Coffin-Lowry syndrome	DOID:3783	Coffin-Lowry syndrome
+efo		ORPHANET:242	Crigler-Najjar syndrome	DOID:3803	Crigler-Najjar syndrome
+efo		ORPHANET:243	Cowden syndrome	DOID:6457	Cowden disease
+efo		ORPHANET:2459	Arthrogryposis - renal dysfunction - cholestasis	DOID:0050763	ARC syndrome
+efo		ORPHANET:2460	Knuckle pads - leuconychia - sensorineural deafness	DOID:0050658	Bart-Pumphrey syndrome
+efo		ORPHANET:249	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome
+efo		ORPHANET:2511	Oral-facial-digital syndrome type 8	DOID:1085	Edwards syndrome
+efo		ORPHANET:252	Abetalipoproteinemia	DOID:1386	abetalipoproteinemia
+efo		ORPHANET:253	Alagille syndrome	DOID:9245	Alagille syndrome
+efo		ORPHANET:254	Aicardi syndrome	DOID:8461	Aicardi syndrome
+efo		ORPHANET:260	Beckwith-Wiedemann syndrome	DOID:5572	Beckwith-Wiedemann syndrome
+efo		ORPHANET:261	Apert syndrome	DOID:12960	acrocephalosyndactylia
+efo		ORPHANET:2612	Piebaldism	DOID:3263	piebaldism
+efo		ORPHANET:2630	Poland syndrome	DOID:12961	Poland syndrome
+efo		ORPHANET:2636	Postaxial polydactyly	DOID:1148	polydactyly
+efo		ORPHANET:2641	Polycystic liver disease	DOID:0050770	polycystic liver disease
+efo		ORPHANET:2646	Cronkhite-Canada syndrome	DOID:6225	Cronkhite-Canada syndrome
+efo		ORPHANET:265	Lamellar ichthyosis	DOID:1699	congenital ichthyosiform erythroderma
+efo		ORPHANET:2670	Hutchinson-Gilford progeria syndrome	DOID:3911	progeria
+efo		ORPHANET:2676	Pseudoachondroplasia	DOID:0080047	pseudoachondroplasia
+efo		ORPHANET:2705	Qazi-Markouizos syndrome	DOID:0050740	Qazi Markouizos syndrome
+efo		ORPHANET:2716	RAPADILINO syndrome	DOID:0050774	rapadilino syndrome
+efo		ORPHANET:278	Menkes disease	DOID:1838	Menkes disease
+efo		ORPHANET:2785	Rothmund-Thomson syndrome	DOID:2732	Rothmund-Thomson syndrome
+efo		ORPHANET:279	McCune-Albright syndrome	DOID:1858	McCune Albright syndrome
+efo		ORPHANET:280	Meckel syndrome	DOID:0050778	Meckel syndrome
+efo		ORPHANET:2813	Schneckenbecken dysplasia	DOID:0050775	schneckenbecken dysplasia
+efo		ORPHANET:2819	Sclerosteosis	DOID:0080036	SOST-related sclerosing bone dysplasia
+efo		ORPHANET:2823	Nijmegen breakage syndrome	DOID:7400	Nijmegen breakage syndrome
+efo		ORPHANET:2824	Senior-Loken syndrome	DOID:0050576	Senior-Loken syndrome
+efo		ORPHANET:283	Jeune syndrome	DOID:0050592	asphyxiating thoracic dystrophy
+efo		ORPHANET:2843	Spondyloepimetaphyseal dysplasia	DOID:0080027	spondyloepimetaphyseal dysplasia
+efo		ORPHANET:2843	Spondyloepimetaphyseal dysplasia	DOID:5684	sponastrime dysplasia
+efo		ORPHANET:287	Ellis Van Creveld syndrome	DOID:12714	Ellis-Van Creveld syndrome
+efo		ORPHANET:2900	Renpenning syndrome	DOID:0060179	Renpenning syndrome
+efo		ORPHANET:2927	Apolipoprotein A-I deficiency	DOID:1388	Tangier disease
+efo		ORPHANET:293	Treacher-Collins syndrome	DOID:2908	Treacher Collins syndrome
+efo		ORPHANET:294	Unverricht-Lundborg disease	DOID:3535	Unverricht-Lundborg syndrome
+efo		ORPHANET:2965	Arterial tortuosity syndrome	DOID:0050645	arterial tortuosity syndrome
+efo		ORPHANET:299	Cornelia de Lange syndrome	DOID:11725	Cornelia de Lange syndrome
+efo		ORPHANET:3	Alpha-mannosidosis	DOID:3413	alpha-mannosidosis
+efo		ORPHANET:30	Niemann-Pick disease	DOID:14504	Niemann-Pick disease
+efo		ORPHANET:301	Holoprosencephaly	DOID:4621	holoprosencephaly
+efo		ORPHANET:3032	Weaver-Williams syndrome	DOID:14731	Weaver syndrome
+efo		ORPHANET:3033	Weill-Marchesani syndrome	DOID:0050475	Weill-Marchesani syndrome
+efo		ORPHANET:3035	Autoimmune polyendocrinopathy type 1	DOID:0050167	autoimmune polyendocrine syndrome type 1
+efo		ORPHANET:311	Oculocutaneous albinism	DOID:0050632	oculocutaneous albinism
+efo		ORPHANET:321	Coffin-Siris syndrome	DOID:1925	Coffin-Siris syndrome
+efo		ORPHANET:323	Darier disease	DOID:2734	keratosis follicularis
+efo		ORPHANET:3243	Leber congenital amaurosis	DOID:14791	Leber congenital amaurosis
+efo		ORPHANET:3244	Bardet-Biedl syndrome	DOID:1935	Bardet-Biedl syndrome
+efo		ORPHANET:3245	Hereditary nonpolyposis colon cancer	DOID:3883	Lynch syndrome
+efo		ORPHANET:3249	Kallmann syndrome	DOID:3614	Kallmann syndrome
+efo		ORPHANET:3250	Laron syndrome	DOID:9521	Laron syndrome
+efo		ORPHANET:3252	Hereditary spherocytosis	DOID:12971	hereditary spherocytosis
+efo		ORPHANET:3253	Xeroderma pigmentosum	DOID:0050427	xeroderma pigmentosum
+efo		ORPHANET:3276	Hyperimmunoglobulinemia D with periodic fever	DOID:0050452	mevalonic aciduria
+efo		ORPHANET:3277	Congenital factor II deficiency	DOID:2235	prothrombin deficiency
+efo		ORPHANET:3297	Isolated 3-methylcrotonyl-CoA carboxylase deficiency	DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency
+efo		ORPHANET:3299	Familial hypospadias	DOID:10892	hypospadias
+efo		ORPHANET:3338	Frontotemporal dementia	DOID:9255	frontotemporal dementia
+efo		ORPHANET:3353	Hyperlysinemia	DOID:9274	hyperlysinemia
+efo		ORPHANET:3355	Histidinemia	DOID:0060168	histidinemia
+efo		ORPHANET:3357	Homocarnosinosis	DOID:0060177	homocarnosinosis
+efo		ORPHANET:3359	Congenital intrinsic factor deficiency	DOID:0050734	congenital intrinsic factor deficiency
+efo		ORPHANET:3362	2-hydroxyglutaric aciduria	DOID:0050573	2-hydroxyglutaric aciduria
+efo		ORPHANET:337	Trisomy 13	DOID:11665	Patau syndrome
+efo		ORPHANET:3379	Fatal infantile cytochrome C oxidase deficiency	DOID:0050713	fatal infantile encephalocardiomyopathy
+efo		ORPHANET:3386	Lymphangioleiomyomatosis	DOID:3319	lymphangioleiomyomatosis
+efo		ORPHANET:3387	Prolactinoma	DOID:5394	prolactinoma
+efo		ORPHANET:339	Trisomy 18	DOID:1085	Edwards syndrome
+efo		ORPHANET:3450	Double outlet right ventricle	DOID:6406	double outlet right ventricle
+efo		ORPHANET:3462	Scimitar syndrome	DOID:4297	scimitar syndrome
+efo		ORPHANET:3468	Autoimmune lymphoproliferative syndrome	DOID:6688	autoimmune lymphoproliferative syndrome
+efo		ORPHANET:3469	Common variable immunodeficiency	DOID:12177	common variable immunodeficiency
+efo		ORPHANET:3485	Axenfeld-Rieger syndrome	DOID:14686	Axenfeld-Rieger syndrome
+efo		ORPHANET:3494	Tyrosinemia type 1	DOID:0050726	tyrosinemia type I
+efo		ORPHANET:3528	Distal myopathy	DOID:11720	distal muscular dystrophy
+efo		ORPHANET:3529	Hyperoxaluria	DOID:2977	primary hyperoxaluria
+efo		ORPHANET:355	Galactosemia	DOID:9870	galactosemia
+efo		ORPHANET:3552	Denys-Drash syndrome	DOID:3764	Denys-Drash syndrome
+efo		ORPHANET:3556	Isolated nonketotic hyperglycinemia	DOID:9268	glycine encephalopathy
+efo		ORPHANET:3557	Propionic acidemia	DOID:14701	propionic acidemia
+efo		ORPHANET:3559	Leukocyte adhesion deficiency	DOID:6612	leukocyte adhesion deficiency
+efo		ORPHANET:3560	Familial melanoma	DOID:6846	familial melanoma
+efo		ORPHANET:3565	Congenital dyserythropoietic anemia	DOID:1338	congenital dyserythropoietic anemia
+efo		ORPHANET:3567	Rhizomelic chondrodysplasia punctata	DOID:2580	rhizomelic chondrodysplasia punctata
+efo		ORPHANET:3568	Cartilage-hair hypoplasia	DOID:0080022	McKusick type metaphyseal dysplasia
+efo		ORPHANET:3568	Cartilage-hair hypoplasia	DOID:14773	cartilage-hair hypoplasia
+efo		ORPHANET:3569	Cutis laxa	DOID:3144	cutis laxa
+efo		ORPHANET:3574	Smith-Lemli-Opitz syndrome	DOID:14692	Smith-Lemli-Opitz syndrome
+efo		ORPHANET:3577	Gamma aminobutyric acid transaminase deficiency	DOID:0060174	GABA aminotransferase deficiency
+efo		ORPHANET:360	Incontinentia pigmenti	DOID:12305	Bloch-Sulzberger syndrome
+efo		ORPHANET:3616	Frasier syndrome	DOID:0050438	Frasier syndrome
+efo		ORPHANET:3619	Familial benign chronic pemphigus	DOID:0050429	Hailey-Hailey disease
+efo		ORPHANET:3643	Early onset torsion dystonia	DOID:11910	dystonia musculorum deformans
+efo		ORPHANET:3651	Benign familial infantile seizures	DOID:0060169	benign familial infantile epilepsy
+efo		ORPHANET:3653	Hemoglobin C disease	DOID:2859	hemoglobin C disease
+efo		ORPHANET:3654	Hemoglobin E disease	DOID:5379	hemoglobin E disease
+efo		ORPHANET:3655	Hereditary elliptocytosis	DOID:2373	hereditary elliptocytosis
+efo		ORPHANET:367	Bethlem myopathy	DOID:0050663	Bethlem myopathy
+efo		ORPHANET:3700	Osteopetrosis	DOID:13533	osteopetrosis
+efo		ORPHANET:3712	Syringomyelia	DOID:327	syringomyelia
+efo		ORPHANET:3726	Nephrogenic diabetes insipidus	DOID:12387	nephrogenic diabetes insipidus
+efo		ORPHANET:3728	Pseudoxanthoma elasticum	DOID:2738	pseudoxanthoma elasticum
+efo		ORPHANET:3768	Langerhans cell histiocytosis	DOID:2571	Langerhans-cell histiocytosis
+efo		ORPHANET:38	Sandhoff disease	DOID:3323	Sandhoff disease
+efo		ORPHANET:381	Refsum disease	DOID:10582	Refsum disease
+efo		ORPHANET:392	Nail-patella syndrome	DOID:9467	nail-patella syndrome
+efo		ORPHANET:394	Aarskog-Scott syndrome	DOID:6683	Aarskog-Scott syndrome
+efo		ORPHANET:396	Acanthosis nigricans	DOID:3138	acanthosis nigricans
+efo		ORPHANET:399	Isovaleric acidemia	DOID:14753	isovaleric acidemia
+efo		ORPHANET:402	4-hydroxybutyricaciduria	DOID:0060175	succinic semialdehyde dehydrogenase deficiency
+efo		ORPHANET:403	Mevalonic aciduria	DOID:0050452	mevalonic aciduria
+efo		ORPHANET:405	Acrocallosal syndrome	DOID:9250	acrocallosal syndrome
+efo		ORPHANET:408	Acromegaly	DOID:2449	acromegaly
+efo		ORPHANET:411	Alkaptonuria	DOID:0050714	alcaptonuria
+efo		ORPHANET:411	Alkaptonuria	DOID:9270	alkaptonuria
+efo		ORPHANET:417	Argininemia	DOID:9278	hyperargininemia
+efo		ORPHANET:42	Recessive X-linked ichthyosis	DOID:1700	X-linked ichthyosis
+efo		ORPHANET:422	Sheldon-Hall syndrome	DOID:0050646	distal arthrogryposis
+efo		ORPHANET:429	Blackfan-Diamond disease	DOID:1339	Diamond-Blackfan anemia
+efo		ORPHANET:430	Bloom syndrome	DOID:2717	bloom syndrome
+efo		ORPHANET:431	Caffey disease	DOID:4257	Caffey disease
+efo		ORPHANET:432	Chronic mucocutaneous candidiasis	DOID:2058	chronic mucocutaneous candidiasis
+efo		ORPHANET:437	Cholestasis - lymphedema	DOID:6691	Aagenaes syndrome
+efo		ORPHANET:44	Turner syndrome	DOID:3491	Turner syndrome
+efo		ORPHANET:443	Cleidocranial dysplasia	DOID:13994	cleidocranial dysplasia
+efo		ORPHANET:45	Friedreich ataxia	DOID:12705	Friedreich ataxia
+efo		ORPHANET:4510	Best disease	DOID:0050661	vitelliform macular dystrophy
+efo		ORPHANET:4511	Congenital factor XI deficiency	DOID:2229	factor XI deficiency
+efo		ORPHANET:459	Argininosuccinic aciduria	DOID:14755	argininosuccinic aciduria
+efo		ORPHANET:462	Multiple carboxylase deficiency	DOID:857	multiple carboxylase deficiency
+efo		ORPHANET:467	Pyruvate dehydrogenase deficiency	DOID:3649	pyruvate decarboxylase deficiency
+efo		ORPHANET:472	Dubowitz syndrome	DOID:14796	Dubowitz Syndrome
+efo		ORPHANET:474	Familial dysautonomia	DOID:11589	Riley-Day syndrome
+efo		ORPHANET:477	Dyskeratosis congenita	DOID:2729	dyskeratosis congenita
+efo		ORPHANET:487	Fetal alcohol syndrome	DOID:0050665	fetal alcohol syndrome
+efo		ORPHANET:49	Cystic fibrosis	DOID:1485	cystic fibrosis
+efo		ORPHANET:499	Goldenhar syndrome	DOID:2907	Goldenhar syndrome
+efo		ORPHANET:5	Aspartylglucosaminuria	DOID:0050461	aspartylglucosaminuria
+efo		ORPHANET:50	Alpha-thalassemia	DOID:1099	alpha thalassemia
+efo		ORPHANET:5016	Infantile Refsum disease	DOID:0050444	infantile refsum disease
+efo		ORPHANET:51	Beta-thalassemia	DOID:12241	beta thalassemia
+efo		ORPHANET:515	Multiple intestinal atresia	DOID:14671	multiple intestinal atresia
+efo		ORPHANET:523	Angio-osteohypertrophic syndrome	DOID:2926	Klippel-Trenaunay syndrome
+efo		ORPHANET:526	Langer-Giedion syndrome	DOID:4998	Langer-Giedion syndrome
+efo		ORPHANET:531	Laurence-Moon syndrome	DOID:1930	Laurence-Moon syndrome
+efo		ORPHANET:532	Leigh syndrome	DOID:3652	Leigh disease
+efo		ORPHANET:543	Muir-Torre syndrome	DOID:0050465	Muir-Torre syndrome
+efo		ORPHANET:545	Proximal myotonic myopathy	DOID:0050759	myotonic dystrophy type 2
+efo		ORPHANET:547	Thanatophoric dysplasia	DOID:13481	thanatophoric dysplasia
+efo		ORPHANET:5545	Familial primary hyperparathyroidism	DOID:11202	primary hyperparathyroidism
+efo		ORPHANET:565	Proteus syndrome	DOID:13482	Proteus syndrome
+efo		ORPHANET:571	Pycnodysostosis	DOID:0080038	pycnodysostosis
+efo		ORPHANET:574	Costello syndrome	DOID:0050469	Costello syndrome
+efo		ORPHANET:584	Silver-Russell syndrome	DOID:14681	Silver-Russell syndrome
+efo		ORPHANET:588	Sotos syndrome	DOID:14748	Sotos syndrome
+efo		ORPHANET:59	Emery-Dreifuss muscular dystrophy	DOID:11726	Emery-Dreifuss muscular dystrophy
+efo		ORPHANET:598	BIDS syndrome	DOID:0050528	nonphotosensitive trichothiodystrophy
+efo		ORPHANET:6	Multiple sulfatase deficiency	DOID:0050441	mucosulfatidosis
+efo		ORPHANET:6018	Aniridia	DOID:12271	aniridia
+efo		ORPHANET:6023	Chordoma	DOID:3302	chordoma
+efo		ORPHANET:603	VACTERL/VATER association	DOID:14679	VACTERL association
+efo		ORPHANET:604	Weaver syndrome	DOID:14731	Weaver syndrome
+efo		ORPHANET:605	Cerebrotendinous xanthomatosis	DOID:4810	cerebrotendinous xanthomatosis
+efo		ORPHANET:61	Kearns-Sayre syndrome	DOID:12934	Kearns-Sayre syndrome
+efo		ORPHANET:611	Phenylketonuria	DOID:9281	phenylketonuria
+efo		ORPHANET:62	Facioscapulohumeral dystrophy	DOID:11727	facioscapulohumeral muscular dystrophy
+efo		ORPHANET:63	MELAS syndrome	DOID:3687	MELAS syndrome
+efo		ORPHANET:630	Alport syndrome	DOID:10983	Alport syndrome
+efo		ORPHANET:637	Charcot-Marie-Tooth disease	DOID:10595	Charcot-Marie-Tooth disease
+efo		ORPHANET:638	Cockayne syndrome	DOID:2962	Cockayne syndrome
+efo		ORPHANET:64	MERRF syndrome	DOID:310	MERRF syndrome
+efo		ORPHANET:641	Epidermolytic epidermolysis bullosa	DOID:4644	epidermolysis bullosa simplex
+efo		ORPHANET:643	GM1 gangliosidosis	DOID:3322	gangliosidosis GM1
+efo		ORPHANET:645	Glycogenosis due to glucose-6-phosphatase deficiency	DOID:2749	glycogen storage disease I
+efo		ORPHANET:649	Malignant hyperthermia	DOID:8545	malignant hyperthermia
+efo		ORPHANET:65	central core disease	DOID:3529	central core myopathy
+efo		ORPHANET:650	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis
+efo		ORPHANET:6520	Yellow nail syndrome	DOID:0050468	yellow nail syndrome
+efo		ORPHANET:653	Mucopolysaccharidosis type 3	DOID:12801	mucopolysaccharidosis III
+efo		ORPHANET:654	Osteogenesis imperfecta	DOID:12347	osteogenesis imperfecta
+efo		ORPHANET:655	Familial spastic paraplegia	DOID:2476	hereditary spastic paraplegia
+efo		ORPHANET:656	Pelizaeus-Merzbacher disease	DOID:3210	Pelizaeus-Merzbacher disease
+efo		ORPHANET:657	Porphyria	DOID:13268	porphyria
+efo		ORPHANET:659	Retinitis pigmentosa	DOID:10584	retinitis pigmentosa
+efo		ORPHANET:66	Nemaline myopathy	DOID:3191	nemaline myopathy
+efo		ORPHANET:660	Tuberous sclerosis	DOID:13515	tuberous sclerosis
+efo		ORPHANET:662	Usher syndrome	DOID:0050439	Usher syndrome
+efo		ORPHANET:663	Waardenburg syndrome	DOID:9258	Waardenburg's syndrome
+efo		ORPHANET:664	Oculopharyngeal muscular dystrophy	DOID:11719	oculopharyngeal muscular dystrophy
+efo		ORPHANET:665	Primary ciliary dyskinesia	DOID:9562	primary ciliary dyskinesia
+efo		ORPHANET:671	Purine nucleoside phosphorylase deficiency	DOID:5813	purine nucleoside phosphorylase deficiency
+efo		ORPHANET:676	Fructose-1,6-bisphosphatase deficiency	DOID:5204	fructose-1,6-bisphosphatase deficiency
+efo		ORPHANET:7	Beta-mannosidosis	DOID:3633	beta-mannosidosis
+efo		ORPHANET:7023	Erythrokeratodermia variabilis	DOID:0050467	erythrokeratodermia variabilis
+efo		ORPHANET:7028	Vogt-Koyanagi-Harada disease	DOID:12297	Vogt-Koyanagi-Harada disease
+efo		ORPHANET:7036	Familial exudative vitreoretinopathy	DOID:0050535	exudative vitreoretinopathy
+efo		ORPHANET:708	Maple syrup urine disease	DOID:9269	maple syrup urine disease
+efo		ORPHANET:724	Esophageal atresia	DOID:10485	esophageal atresia
+efo		ORPHANET:731	Gastroschisis	DOID:11044	gastroschisis
+efo		ORPHANET:733	Polydactyly	DOID:1148	polydactyly
+efo		ORPHANET:735	Sarcoidosis	DOID:11335	sarcoidosis
+efo		ORPHANET:743	Fibrous dysplasia of bone	DOID:1858	McCune Albright syndrome
+efo		ORPHANET:748	Alternating hemiplegia of childhood	DOID:0050635	alternating hemiplegia of childhood
+efo		ORPHANET:75	Thomsen and Becker disease	DOID:2106	Thomsen disease
+efo		ORPHANET:760	Congenital hypothyroidism	DOID:0050328	congenital hypothyroidism
+efo		ORPHANET:761	X-linked adrenoleukodystrophy	DOID:10588	adrenoleukodystrophy
+efo		ORPHANET:762	Citrullinemia	DOID:9273	citrullinemia
+efo		ORPHANET:770	Hyperornithinemia-hyperammonemia-homocitrullinuria	DOID:0050720	ornithine translocase deficiency
+efo		ORPHANET:774	Dihydropyrimidine dehydrogenase deficiency	DOID:14218	dihydropyrimidine dehydrogenase deficiency
+efo		ORPHANET:792	Craniosynostosis	DOID:2340	craniosynostosis
+efo		ORPHANET:795	Atransferrinemia	DOID:0050649	atransferrinemia
+efo		ORPHANET:796	Bernard-Soulier syndrome	DOID:2217	Bernard-Soulier syndrome
+efo		ORPHANET:8	Canavan disease	DOID:3613	Canavan disease
+efo		ORPHANET:8022	Brugada syndrome	DOID:0050451	Brugada syndrome
+efo		ORPHANET:8023	Severe combined immunodeficiency due to adenosine deaminase deficiency	DOID:5810	adenosine deaminase deficiency
+efo		ORPHANET:8024	Hyperlipoproteinemia type 4	DOID:0050527	familial hypertriglyceridemia
+efo		ORPHANET:8025	Familial hypobetalipoproteinemia	DOID:1386	abetalipoproteinemia
+efo		ORPHANET:8027	Centronuclear myopathy	DOID:14717	centronuclear myopathy
+efo		ORPHANET:8028	MODY syndrome	DOID:0050524	maturity-onset diabetes of the young
+efo		ORPHANET:805	Dubin-Johnson syndrome	DOID:12308	Dubin-Johnson syndrome
+efo		ORPHANET:810	Fatal familial insomnia	DOID:0050433	fatal familial insomnia
+efo		ORPHANET:812	Wolfram syndrome	DOID:10632	Wolfram syndrome
+efo		ORPHANET:818	Interauricular communication	DOID:1882	atrial heart septal defect
+efo		ORPHANET:824	Stickler syndrome	DOID:0080046	Stickler syndrome
+efo		ORPHANET:837	Hydranencephaly	DOID:4626	hydranencephaly
+efo		ORPHANET:841	Legg-Calve-Perthes disease	DOID:14415	Legg-Calve-Perthes Disease
+efo		ORPHANET:846	Progressive supranuclear palsy	DOID:678	progressive supranuclear palsy
+efo		ORPHANET:852	Nephroblastoma	DOID:2154	nephroblastoma
+efo		ORPHANET:853	Niemann-Pick disease type C	DOID:14504	Niemann-Pick disease
+efo		ORPHANET:8531	Epidermodysplasia verruciformis	DOID:13777	epidermodysplasia verruciformis
+efo		ORPHANET:8555	Neonatal diabetes mellitus	DOID:11717	neonatal diabetes mellitus
+efo		ORPHANET:858	Osteochondritis dissecans	DOID:84	osteochondritis dissecans
+efo		ORPHANET:8581	Monilethrix	DOID:0050472	monilethrix
+efo		ORPHANET:8591	Arrhythmogenic right ventricular dysplasia	DOID:0050431	arrhythmogenic right ventricular dysplasia
+efo		ORPHANET:8592	Familial atrial fibrillation	DOID:0050650	familial atrial fibrillation
+efo		ORPHANET:860	Pityriasis rubra pilaris	DOID:9212	pityriasis rubra pilaris
+efo		ORPHANET:8619	Ito hypomelanosis	DOID:3156	incontinentia pigmenti achromians
+efo		ORPHANET:8622	Junctional epidermolysis bullosa	DOID:3209	junctional epidermolysis bullosa
+efo		ORPHANET:8623	Dystrophic epidermolysis bullosa	DOID:4959	epidermolysis bullosa dystrophica
+efo		ORPHANET:8627	Birt-Hogg-Dube syndrome	DOID:0050676	Birt-Hogg-Dube syndrome
+efo		ORPHANET:863	Tuberculosis	DOID:399	tuberculosis
+efo		ORPHANET:8637	Thost-Unna palmoplantar keratoderma	DOID:0050428	nonepidermolytic palmoplantar keratoderma
+efo		ORPHANET:8650	Lipoid proteinosis	DOID:14498	lipoid proteinosis
+efo		ORPHANET:8684	Gorham-Stout disease	DOID:4837	Gorham's disease
+efo		ORPHANET:8688	Reflex epilepsy	DOID:2548	reflex epilepsy
+efo		ORPHANET:8724	Congenital muscular dystrophy, Fukuyama type	DOID:0050559	Fukuyama congenital muscular dystrophy
+efo		ORPHANET:8725	Walker-Warburg syndrome	DOID:0050560	Walker-Warburg syndrome
+efo		ORPHANET:8734	Limb-girdle muscular dystrophy	DOID:11724	limb-girdle muscular dystrophy
+efo		ORPHANET:8744	Multiple system atrophy	DOID:4752	multiple system atrophy
+efo		ORPHANET:8756	X-linked myopathy with excessive autophagy	DOID:0050760	X-linked myopathy with excessive autophagy
+efo		ORPHANET:8772	Tyrosinemia type 2	DOID:0050725	tyrosinemia type II
+efo		ORPHANET:8781	Biliary atresia	DOID:13608	biliary atresia
+efo		ORPHANET:885	Lennox-Gastaut syndrome	DOID:0050561	Lennox-Gastaut syndrome
+efo		ORPHANET:888	Tay-Sachs disease	DOID:3320	Tay-Sachs disease
+efo		ORPHANET:889	Early infantile epileptic encephalopathy	DOID:0050709	Ohtahara syndrome
+efo		ORPHANET:890	Early myoclonic encephalopathy	DOID:308	early myoclonic encephalopathy
+efo		ORPHANET:894	West syndrome	DOID:0050562	West syndrome
+efo		ORPHANET:90	Angelman syndrome	DOID:1932	Angelman syndrome
+efo		ORPHANET:903	Familial prostate cancer	DOID:10283	prostate cancer
+efo		ORPHANET:91	Rett syndrome	DOID:1206	Rett syndrome
+efo		ORPHANET:913	Familial hyperaldosteronism type 1	DOID:14080	glucocorticoid-remediable aldosteronism
+efo		ORPHANET:918	Androgen insensitivity syndrome	DOID:4674	androgen insensitivity syndrome
+efo		ORPHANET:920	Familial mediterranean fever	DOID:2987	familial Mediterranean fever
+efo		ORPHANET:921	Choroideremia	DOID:9821	choroideremia
+efo		ORPHANET:923	Congenital stationary night blindness	DOID:0050534	congenital stationary night blindness
+efo		ORPHANET:924	LCAT deficiency	DOID:1391	Norum disease
+efo		ORPHANET:927	Liddle syndrome	DOID:0050477	Liddle syndrome
+efo		ORPHANET:9285	Dermatofibrosarcoma protuberans	DOID:3507	dermatofibrosarcoma
+efo		ORPHANET:9288	Tangier disease	DOID:1388	Tangier disease
+efo		ORPHANET:9290	Hypobetalipoproteinemia	DOID:1390	hypobetalipoproteinemia
+efo		ORPHANET:933	Campomelic dysplasia	DOID:0050463	campomelic dysplasia
+efo		ORPHANET:938	Netherton syndrome	DOID:0050474	Netherton syndrome
+efo		ORPHANET:94	Fabry disease	DOID:14499	Fabry disease
+efo		ORPHANET:950	Atrial tachyarrhythmia with short PR interval	DOID:13087	Lown-Ganong-Levine syndrome
+efo		ORPHANET:954	Seckel syndrome	DOID:0050569	Seckel syndrome
+efo		ORPHANET:960	Werner syndrome	DOID:5688	Werner syndrome
+efo		ORPHANET:966	IBIDS syndrome	DOID:2960	photosensitive trichothiodystrophy
+efo		ORPHANET:971	Roberts syndrome	DOID:0050536	SC phocomelia syndrome
+efo		ORPHANET:971	Roberts syndrome	DOID:5325	Roberts syndrome
+efo		ORPHANET:9801	Pulmonary venoocclusive disease	DOID:5453	pulmonary venoocclusive disease
+efo		ORPHANET:99	Von Hippel-Lindau disease	DOID:14175	von Hippel-Lindau disease
+efo		ORPHANET:990	Benign familial neonatal seizures	DOID:14777	benign familial neonatal epilepsy
+efo		ORPHANET:991	Clouston syndrome	DOID:14693	Clouston syndrome
+efo		ORPHANET:996	Cherubism	DOID:1856	cherubism

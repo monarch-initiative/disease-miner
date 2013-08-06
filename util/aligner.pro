@@ -29,4 +29,10 @@ ix :-
 
 efo(T1,T2) :-
         ix,
-        m('EFO','DOID',T1,T2).
+        (   S='EFO'
+        ;   S='ORPHANET'),
+        m(S,'DOID',T1,T2).
+
+orphanet(T1,T2) :-
+        ix,
+        m('ORPHANET','DOID',T1,T2).
