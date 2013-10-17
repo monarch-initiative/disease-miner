@@ -1,0 +1,99 @@
+DOID:0050117	disease by infectious agent	PW:0001028	infectious disease pathway
+DOID:0050431	arrhythmogenic right ventricular dysplasia	PW:0001035	arrhythmogenic right ventricular cardiomyopathy pathway
+DOID:0050524	maturity-onset diabetes of the young	PW:0001038	maturity onset diabetes of the young pathway
+DOID:0050589	inflammatory bowel disease	PW:0001442	inflammatory bowel disease pathway
+DOID:0050700	cardiomyopathy	PW:0000022	cardiomyopathy pathway
+DOID:10112	sleeping sickness	PW:0001049	Trypanosoma brucei infection pathway
+DOID:10155	intestinal cancer	PW:0000628	intestinal cancer pathway
+DOID:10286	prostate carcinoma	PW:0000609	prostate cancer pathway
+DOID:10534	stomach cancer	PW:0000629	gastric cancer pathway
+DOID:1074	kidney failure	PW:0000301	renal failure pathway
+DOID:10747	lymphoid leukemia	PW:0000708	lymphoid leukemia pathway
+DOID:10763	hypertension	PW:0000021	hypertension pathway
+DOID:1116	pertussis	PW:0001043	Bordetella pertussis infection pathway
+DOID:11984	hypertrophic cardiomyopathy	PW:0000296	hypertrophic cardiomyopathy pathway
+DOID:12140	Chagas disease	PW:0001050	Trypanosoma cruzi infection pathway
+DOID:12385	shigellosis	PW:0001042	Shigella infection pathway
+DOID:1240	leukemia	PW:0000706	leukemia pathway
+DOID:1289	neurodegenerative disease	PW:0000014	neurodegenerative disease pathway
+DOID:12930	dilated cardiomyopathy	PW:0001036	dilated cardiomyopathy pathway
+DOID:13189	gout	PW:0001441	gout disease pathway
+DOID:1324	lung cancer	PW:0000703	lung cancer pathway
+DOID:13515	tuberous sclerosis	PW:0000179	tuberous sclerosis complex disease pathway
+DOID:1380	endometrial cancer	PW:0000611	endometrial cancer pathway
+DOID:13945	cadasil	PW:0000346	CADASIL pathway
+DOID:1441	spinocerebellar ataxia	PW:0000173	spinocerebellar ataxia
+DOID:1579	respiratory system disease	PW:0001308	respiratory system disease pathway
+DOID:162	cancer	PW:0000605	cancer pathway
+DOID:1682	congenital heart defect	PW:0000348	congenital heart defects pathway
+DOID:170	endocrine gland cancer	PW:0000700	endocrine gland cancer pathway
+DOID:1781	thyroid cancer	PW:0000698	thyroid cancer pathway
+DOID:1793	pancreatic cancer	PW:0000626	pancreatic cancer pathway
+DOID:184	bone cancer	PW:0000632	bone cancer pathway
+DOID:1909	melanoma	PW:0001021	melanoma pathway
+DOID:1936	atherosclerosis	PW:0000518	atherosclerosis pathway
+DOID:2513	basal cell carcinoma	PW:0001020	basal cell carcinoma pathway
+DOID:2841	asthma	PW:0001022	asthma disease pathway
+DOID:2868	arterial occlusive disease	PW:0000517	arterial occlusive disease pathway
+DOID:2921	glomerulonephritis	PW:0000302	glomerulonephritis pathway
+DOID:3119	gastrointestinal system cancer	PW:0000625	digestive system cancer pathway
+DOID:3312	bipolar disorder	PW:0000242	bipolar disorder pathway
+DOID:332	amyotrophic lateral sclerosis	PW:0000016	amyotrophic lateral sclerosis disease pathway
+DOID:3571	liver cancer	PW:0000630	liver cancer pathway
+DOID:3908	non-small cell lung carcinoma	PW:0000705	non-small cell lung cancer pathway
+DOID:4	disease	PW:0000001	pathway
+DOID:4	disease	PW:0000013	disease pathway
+DOID:409	liver disease	PW:0001413	liver disease pathway
+DOID:4159	skin cancer	PW:0000633	skin cancer pathway
+DOID:4362	cervical cancer	PW:0000608	cervical cancer pathway
+DOID:5093	thoracic cancer	PW:0000701	thoracic cancer pathway
+DOID:5517	stomach carcinoma	PW:0000629	gastric cancer pathway
+DOID:5844	myocardial infarction	PW:0000299	myocardial infarction pathway
+DOID:612	primary immunodeficiency disease	PW:0001027	primary immunodeficiency disease pathway
+DOID:648	kuru encephalopathy	PW:0000268	kuru
+DOID:6713	cerebrovascular disease	PW:0000344	cerebrovascular disease pathway
+DOID:820	myocarditis	PW:0001037	myocarditis pathway
+DOID:848	arthritis	PW:0001440	arthritis disease pathway
+DOID:863	nervous system disease	PW:0001412	nervous system disease pathway
+DOID:8692	myeloid leukemia	PW:0000707	myeloid leukemia pathway
+DOID:8947	diabetic retinopathy	PW:0000425	diabetic retinopathy pathway
+DOID:8986	narcolepsy	PW:0000587	narcolepsy disease pathway
+DOID:9245	Alagille syndrome	PW:0000349	Alagille syndrome pathway
+DOID:9256	colorectal cancer	PW:0000612	colorectal cancer pathway
+DOID:9351	diabetes mellitus	PW:0000176	diabetes pathway
+DOID:936	brain disease	PW:0001414	brain disease pathway
+DOID:9778	irritable bowel syndrome	PW:0001442	inflammatory bowel disease pathway
+DOID:9973	substance dependence	PW:0001029	substance dependence disease pathway
+EFO:0000408	disease	PW:0000001	pathway
+EFO:0000408	disease	PW:0000013	disease pathway
+OMIM:103780	alcohol dependence	PW:0001034	alcoholism pathway
+OMIM:104300	ALZHEIMER DISEASE	PW:0000015	Alzheimer disease pathway
+OMIM:109800	urinary bladder cancer	PW:0000610	bladder cancer pathway
+OMIM:114480	breast cancer	PW:0000624	breast cancer pathway
+OMIM:114500	COLORECTAL CANCER	PW:0000612	colorectal cancer pathway
+OMIM:123400	Creutzfeldt-Jakob syndrome	PW:0000265	Creutzfeldt-Jakob disease pathway
+OMIM:125370	dentatorubral-pallidoluysian atrophy	PW:0000205	dentatorubral-pallidoluysian atrophy disease pathway
+OMIM:125853	type 2 diabetes mellitus	PW:0000208	type 2 diabetes mellitus pathway
+OMIM:137800	malignant glioma	PW:0000711	glioma pathway
+OMIM:144250	familial combined hyperlipidemia	PW:0000175	familial combined hyperlipidemia pathway
+OMIM:152700	systemic lupus erythematosus	PW:0001023	systemic lupus erythematosus pathway
+OMIM:167000	ovarian cancer	PW:0000607	ovarian cancer pathway
+OMIM:176807	prostate cancer	PW:0000609	prostate cancer pathway
+OMIM:180300	rheumatoid arthritis	PW:0001019	rheumatoid arthritis pathway
+OMIM:181500	schizophrenia	PW:0000241	schizophrenia pathway
+OMIM:182280	lung small cell carcinoma	PW:0000704	small cell lung cancer pathway
+OMIM:211980	lung carcinoma	PW:0000703	lung cancer pathway
+OMIM:214100	Zellweger syndrome	PW:0001415	Zellweger syndrome pathway
+OMIM:222100	type 1 diabetes mellitus	PW:0000239	type 1 diabetes mellitus pathway
+OMIM:256000	Leigh disease	PW:0001416	Leigh syndrome pathway
+OMIM:271900	Canavan disease	PW:0001417	Canavan disease pathway
+OMIM:313200	Kennedy's disease	PW:0000172	spinobulbar muscular atrophy
+OMIM:600072	fatal familial insomnia	PW:0000267	fatal familial insomnia pathway
+OMIM:601626	acute myeloid leukemia	PW:0000709	acute myeloid leukemia pathway
+OMIM:601665	obesity	PW:0000540	obesity disease pathway
+OMIM:606391	MATURITY-ONSET DIABETES OF THE YOUNG	PW:0001038	maturity onset diabetes of the young pathway
+OMIM:608232	chronic myeloid leukemia	PW:0000710	chronic myeloid leukemia pathway
+OMIM:613659	GASTRIC CANCER	PW:0000629	gastric cancer pathway
+ORPHANET:118	Huntington disease	PW:0000017	Huntington disease pathway
+ORPHANET:14933	Primary immunodeficiency	PW:0001027	primary immunodeficiency disease pathway
+ORPHANET:644	Gaucher disease	PW:0001454	Gaucher disease pathway
