@@ -1,0 +1,38 @@
+DOID:0050431	arrhythmogenic right ventricular dysplasia	KEGG:05412	arrhythmogenic right ventricular cardiomyopathy pathway
+DOID:0050524	maturity-onset diabetes of the young	KEGG:04950	maturity onset diabetes of the young pathway
+DOID:0050589	inflammatory bowel disease	KEGG:05321	inflammatory bowel disease pathway
+DOID:10112	sleeping sickness	KEGG:05143	Trypanosoma brucei infection pathway
+DOID:10286	prostate carcinoma	KEGG:05215	prostate cancer pathway
+DOID:1116	pertussis	KEGG:05133	Bordetella pertussis infection pathway
+DOID:11984	hypertrophic cardiomyopathy	KEGG:05410	hypertrophic cardiomyopathy pathway
+DOID:12140	Chagas disease	KEGG:05142	Trypanosoma cruzi infection pathway
+DOID:12385	shigellosis	KEGG:05131	Shigella infection pathway
+DOID:12930	dilated cardiomyopathy	KEGG:05414	dilated cardiomyopathy pathway
+DOID:1380	endometrial cancer	KEGG:05213	endometrial cancer pathway
+DOID:1781	thyroid cancer	KEGG:05216	thyroid cancer pathway
+DOID:1793	pancreatic cancer	KEGG:05212	pancreatic cancer pathway
+DOID:1909	melanoma	KEGG:05218	melanoma pathway
+DOID:2513	basal cell carcinoma	KEGG:05217	basal cell carcinoma pathway
+DOID:2841	asthma	KEGG:05310	asthma disease pathway
+DOID:332	amyotrophic lateral sclerosis	KEGG:05014	amyotrophic lateral sclerosis disease pathway
+DOID:3908	non-small cell lung carcinoma	KEGG:05223	non-small cell lung cancer pathway
+DOID:612	primary immunodeficiency disease	KEGG:05340	primary immunodeficiency disease pathway
+DOID:820	myocarditis	KEGG:05416	myocarditis pathway
+DOID:9256	colorectal cancer	KEGG:05210	colorectal cancer pathway
+DOID:9778	irritable bowel syndrome	KEGG:05321	inflammatory bowel disease pathway
+OMIM:103780	alcohol dependence	KEGG:05034	alcoholism pathway
+OMIM:104300	ALZHEIMER DISEASE	KEGG:05010	Alzheimer disease pathway
+OMIM:109800	urinary bladder cancer	KEGG:05219	bladder cancer pathway
+OMIM:114500	COLORECTAL CANCER	KEGG:05210	colorectal cancer pathway
+OMIM:125853	type 2 diabetes mellitus	KEGG:04930	type 2 diabetes mellitus pathway
+OMIM:137800	malignant glioma	KEGG:05214	glioma pathway
+OMIM:152700	systemic lupus erythematosus	KEGG:05322	systemic lupus erythematosus pathway
+OMIM:176807	prostate cancer	KEGG:05215	prostate cancer pathway
+OMIM:180300	rheumatoid arthritis	KEGG:05323	rheumatoid arthritis pathway
+OMIM:182280	lung small cell carcinoma	KEGG:05222	small cell lung cancer pathway
+OMIM:222100	type 1 diabetes mellitus	KEGG:04940	type 1 diabetes mellitus pathway
+OMIM:601626	acute myeloid leukemia	KEGG:05221	acute myeloid leukemia pathway
+OMIM:606391	MATURITY-ONSET DIABETES OF THE YOUNG	KEGG:04950	maturity onset diabetes of the young pathway
+OMIM:608232	chronic myeloid leukemia	KEGG:05220	chronic myeloid leukemia pathway
+ORPHANET:118	Huntington disease	KEGG:05016	Huntington disease pathway
+ORPHANET:14933	Primary immunodeficiency	KEGG:05340	primary immunodeficiency disease pathway
