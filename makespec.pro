@@ -136,6 +136,20 @@ deploy <-- ['merged.obo'],
 publish <-- ['merged.obo'],
   'cp merged.* doid/ && cd doid && svn commit -m "new release"'.
 
+% ----------------------------------------
+% PW
+% ----------------------------------------
+'pw.obo' <-- [],
+  'wget ftp://rgd.mcw.edu/pub/data_release/ontology_obo_files/pathway/pathway.obo -O $@'.
+
+'disease-pw.obo' <-- 'pw.obo',
+  'blip ontol-subset -i $< -id PW:0000013 -down 20 -to obo > $@.tmp && mv $@.tmp $@'.
+
+'disease-pw-align.txt' <-- ['disease-pw.obo','merged.obo'],
+  'blip-findall -debug index -i $< -i merged.obo  -consult util/pwaligner.pro m/2 -label -use_tabs > $@.tmp && sort -u $@.tmp > $@'.
+
+
+%ftp://rgd.mcw.edu/pub/data_release/ontology_obo_files/pathway/pathway.obo
 
 % #DiseaseName	SourceName	ConceptID	SourceID	DiseaseMIM	LastModified
 'clinvar-disease-names.tbl' <-- [],

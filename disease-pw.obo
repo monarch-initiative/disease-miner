@@ -1,0 +1,1074 @@
+format-version: 1.2
+synonymtypedef: KEGG "KEGG" RELATED
+synonymtypedef: NEWSYNTYPE "<new synonym type>" RELATED
+synonymtypedef: PID "PID" RELATED
+
+[Term]
+id: PW:0000001
+name: pathway
+namespace: pathway
+def: "A pathway is a set of inter-connected  reactions and interactions whose delineation and scope are used as a model for exploring and studying, describing and understanding the working of and relationships between biomolecules within a context." []
+
+[Term]
+id: PW:0000013
+name: disease pathway
+namespace: pathway
+def: "Complex human diseases encompass a spectrum of genetic and environmental attributes that together affect the normal functioning of several molecular and cellular pathways. Their combined and accumulated effect is manifested in the anomalous phenotype of the complex condition." [InHouse:InHouse_PW_dictionary]
+synonym: "complex human diseases" RELATED []
+is_a: PW:0000001  ! pathway
+
+[Term]
+id: PW:0000014
+name: neurodegenerative disease pathway
+namespace: pathway
+def: "Neurodegenerative diseases group together a number of conditions of various and many times poorly understood origins that are characterized by the progressive loss of particular neurons, the formation of particular structures such as plaques and fibrils, and protein aggregates. Proteosomal degradation, programmed cell death, oxidative stress, are among a number of pathways thought to be disrupted." [inHouse:InHouse_PW_dictionary]
+is_a: PW:0001412  ! nervous system disease pathway
+
+[Term]
+id: PW:0000015
+name: Alzheimer disease pathway
+namespace: pathway
+def: "A mostly sporadic, late-onset condition affecting the central nervous system, is the most prevalent neurodegenerative disease and the most common form of dementia. It is characterized by the presence of amyloid plaques and fibril tangles. Possible pathways affected range from protein misfolding and aggregation, to oxidative stress and impaired metal homeostasis." [InHouse:InHouse_PW_dictionary, KEGG:map05010]
+synonym: "KEGG:05010" RELATED []
+is_a: PW:0000014  ! neurodegenerative disease pathway
+
+[Term]
+id: PW:0000016
+name: amyotrophic lateral sclerosis disease pathway
+namespace: pathway
+def: "A late onset, mostly sporadic neurodegenerative disease characterized by the loss of motor neurons in the brain stem and spinal cord. Various pathways are thought to be deregulated and contribute to the condition; among them calcium and/or zinc homeostasis, apoptosis, Cdk5 and calcineurin dependent processes, and in the case of the more rare, genetically inherited form of the disease, mutations in the cytosolic Cu, Zn superoxide dismutase (SOD1) and the subsequent changes in the processes that involve SOD1." [InHouse:In_House_PW_dictionary, KEGG:map05014]
+synonym: "ALS pathway" EXACT []
+synonym: "KEGG:05014" RELATED []
+is_a: PW:0000014  ! neurodegenerative disease pathway
+
+[Term]
+id: PW:0000017
+name: Huntington disease pathway
+namespace: pathway
+def: "An inherited form of a neurodegenerative disease caused by an expanded polyQ (polyglutamine) tract. It mostly affects the striatum and cortex, but extends to other regions later in its development. It manifests itself in movement disorders, psychiatric abnormalities, cognitive defects, and manifold pathways are disrupted." [KEGG:map05016, PubMed:2004,_v.20_(3),_146-154.]
+synonym: "KEGG:05016" RELATED []
+is_a: PW:0000171  ! disease pathways related to polyQ repeats
+
+[Term]
+id: PW:0000018
+name: Parkinson disease pathway
+namespace: pathway
+def: "One of the most common neurodegenerative diseases that is characterized by the loss of dopaminergic neurons  in the substantia nigra and the presence of cytoplasmic inclusions called Lewy bodies in surrounding neurons. Several pathways are thought to be deregulated; for instance, imbalance of iron homeostasis is believed to contribute to the pathogenesis of the condition." [KEGG:map05012, PubMed:2004,_v.101_(15),_5500-5505.]
+synonym: "KEGG:05012" RELATED []
+is_a: PW:0000014  ! neurodegenerative disease pathway
+
+[Term]
+id: PW:0000019
+name: prion diseases pathway
+namespace: pathway
+def: "Prion disease - any of a group of fatal, transmissible neurodegenerative diseases caused by abnormalities of prion protein metabolism, which may result from mutations in the prion protein gene or from infection with pathogenic isoforms of the protein.  Characteristics include neuronal loss, gliosis, and extensive vacuolization of the cerebral cortex. Prion diseases may be sporadic, inherited as an autosomal dominant trait, or acquired. Human diseases include Creutzfeldt-Jakob disease, Gerstmann-Strussler syndrome, fatal familial insomnia, and kuru" [KEGG:map05020, OneLook:www.onelook.com]
+synonym: "KEGG:05020" RELATED []
+is_a: PW:0000014  ! neurodegenerative disease pathway
+
+[Term]
+id: PW:0000020
+name: cardiovascular disease pathway
+namespace: pathway
+def: "Cardiovascular diseases represent a very broad spectrum of conditions that can also combine with diabetes and renal failure." [InHouse:InHouse_PW_dictionary]
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000021
+name: hypertension pathway
+namespace: pathway
+def: "Hypertension, high arterial blood pressure: various criteria for its threshold have been suggested, ranging from 140 mm Hg systolic and 90 mm Hg diastolic to as high as 200 mm Hg systolic and 110 mm Hg diastolic. Hypertension may have no known cause (essential or idiopathic h.) or be associated with other primary diseases (secondary h.)." [OneLook:www.onelook.com]
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000022
+name: cardiomyopathy pathway
+namespace: pathway
+def: "Cardiomyopathy - a general diagnostic term designating primary noninflammatory disease of the heart muscle, often of obscure or unknown etiology and not the result of ischemic, hypertensive, congenital, valvular, or pericardial disease. It is usually subdivided into dilated, hypertrophic, and restrictive cardiomyopathy (1). Cardiomyopathy is the deterioration of the cardiac muscle of the heart wall." [OneLook:www.onelook.com]
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000171
+name: disease pathways related to polyQ repeats
+namespace: pathway
+def: "A family of neurodegenerative and other inherited diseases that are caused by the expansion of a polyglutamine tract (polyQ) in the associated disease proteins. The diseases are manifested as distinct neuropathies and multiple pathways are perturbed." [PubMed:2004,_v.20(3),_146-154]
+comment: Definition adapted from an article in Trends in Genetics
+is_a: PW:0000014  ! neurodegenerative disease pathway
+
+[Term]
+id: PW:0000172
+name: spinobulbar muscular atrophy
+namespace: pathway
+def: "An inherited neurodegenerative disease caused by an expanded polyQ tract. Various pathways are disrupted and contribute to the manifestation of the condition." [PubMed:2004,_v._20(3),_146-154.]
+synonym: "SBMA" RELATED []
+is_a: PW:0000173  ! spinocerebellar ataxia
+
+[Term]
+id: PW:0000173
+name: spinocerebellar ataxia
+namespace: pathway
+def: "An inherited form of neurodegenerative disease caused by an expanded polyQ tract. Several types are grouped under SCA, types 1-3, 6, 7 and 17.Various pathways are disrupted and contribute to the manifestation of the condition." [PubMed:2004,_v.20(3),_146-154.]
+synonym: "SCA" RELATED []
+is_a: PW:0000171  ! disease pathways related to polyQ repeats
+
+[Term]
+id: PW:0000174
+name: metabolic syndrome pathway
+namespace: pathway
+def: "The metabolic syndrome is a multiphenotypic condition with concurrent features of several diseases and metabolic abnormalities. Insulin resistance, obesity and hypertension are considered risk factors. Alterations in lipid, glucose and cholesterol metabolic pathways among others, can contribute to the multifactorial metabolic syndrome and the conditions associated with it." [PMID:16932765, PubMed:2004,_v._17,_38047]
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000175
+name: familial combined hyperlipidemia pathway
+namespace: pathway
+def: "A possible subset of the metabolic syndrome, characterized  by features such as hypertriglyceridemia, age-dependent changes in plasma total cholesterol, overproduction of triglyceride-rich lipoproteins. Several metabolic and possibly other pathways deviate from their normal functioning." [PubMed_:2004,_v.17,_38-47.]
+synonym: "FCHL" RELATED []
+relationship: part_of PW:0000174 ! metabolic syndrome pathway
+
+[Term]
+id: PW:0000176
+name: diabetes pathway
+namespace: pathway
+def: "A broad condition with various manifestations that is associated with disruptions of several pathways, primarily those involving insulin signaling. High glucose-mediated oxidative stress on VEGF over-expression and VEGF-mediated signaling are thought to play a role in diabetic retinopathy." [InHouse:PW_dictionary, Reactome:REACT_15380.1]
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000177
+name: diabetic nephropathy pathway
+namespace: pathway
+def: "A common complication of diabetes and a leading cause of end stage renal diseases affecting a number of pathways, particularly the thiol and anti-oxidant pathways." [InPress:Manuscript]
+is_a: PW:0000176  ! diabetes pathway
+is_a: PW:0000300  ! renal system disease, renal disorder pathway
+
+[Term]
+id: PW:0000178
+name: neurological disorder disease pathway
+namespace: pathway
+def: "Neurological disorders are a group of disorders that involve the central nervous system (brain, brainstem and cerebellum), the peripheral nervous system (including cranial nerves), and the autonomic nervous system (parts of which are located in both central and peripheral nervous system). Major branches are headache, stupor and coma, dementia, seizure, sleep disorders, trauma, infections, neoplasms, neuro-ophthalmology, movement disorders, demyelinating diseases, spinal cord disorders, and disorders of peripheral nerves, muscle and neuromuscular junctions. Many mental illnesses are believed to be neurological disorders of the central nervous system, but they are classified separately. They are not traditionally listed as neurological diseases because their causes are not definitely determined as biological, although there are good reasons to suspect that bipolar disorder and schizophrenia have neuro-chemical causes." [OneLook:www.onelook.com]
+is_a: PW:0001412  ! nervous system disease pathway
+
+[Term]
+id: PW:0000179
+name: tuberous sclerosis complex disease pathway
+namespace: pathway
+def: "An autosomal dominant condition that often leads to seizure and other neurological symptoms and that may be linked to deregulations in the mTOR signaling pathway." [PubMed:2004,_v.29(1),_32-38.]
+synonym: "TSC" RELATED []
+is_a: PW:0000178  ! neurological disorder disease pathway
+
+[Term]
+id: PW:0000205
+name: dentatorubral-pallidoluysian atrophy disease pathway
+namespace: pathway
+def: "Dentatorubral-pallidoluysian atrophy (DRPLA) is caused by an expanded trinucleotide repeat in the DRPLA gene. A very rare condition, it can be sporadic or autosomal dominant inherited. Three forms of DRPLA have been clinically classified:  the ataxo-choreoathetoid form, the pseudo-Huntington form, and the myoclonic epilepsy form. " [NCBI:OMIM_database]
+synonym: "DRPLA" RELATED []
+is_a: PW:0000171  ! disease pathways related to polyQ repeats
+
+[Term]
+id: PW:0000207
+name: central obesity with hypertension pathway
+namespace: pathway
+relationship: part_of PW:0000174 ! metabolic syndrome pathway
+
+[Term]
+id: PW:0000208
+name: type 2 diabetes mellitus pathway
+namespace: pathway
+def: "Diabetes mellitus is characterized by abnormally high levels of glucose in the blood. Hereditary and environmental factors are likely contributors but the exact mechanisms are not well understood. Type 2 diabetes mellitus, characterized by insulin resistance, involves alterations in insulin secretion and signaling and impaired glucose homeostasis pathways." [KEGG:map04930, OneLook:www.onelook.com]
+synonym: "KEGG:04930" RELATED []
+synonym: "T2D pathway" EXACT []
+synonym: "type II diabetes mellitus pathway" EXACT []
+is_a: PW:0000176  ! diabetes pathway
+relationship: part_of PW:0000174 ! metabolic syndrome pathway
+
+[Term]
+id: PW:0000239
+name: type 1 diabetes mellitus pathway
+namespace: pathway
+def: "Diabetes mellitus is characterized by abnormally high levels of glucose in the blood. Hereditary and environmental factors are likely contributors but the exact mechanisms are not well understood. Type 1 diabetes mellitus pathway involves alterations in immune response pathways resulting in destruction of the insulin-producing beta cells." [KEGG:map04940, OneLook:www.onelook.com]
+synonym: "KEGG:04940" RELATED []
+synonym: "type I diabetes mellitus pathway" EXACT []
+is_a: PW:0000176  ! diabetes pathway
+
+[Term]
+id: PW:0000240
+name: neuropsychiatric disease pathway
+namespace: pathway
+def: "Neuropsychiatric diseases are mental disorders due to various defects in the working of the nervous system." [wikipedia:http://en.wikipedia.org/wiki/Neuropsychiatry]
+synonym: "mental disorder pathway" RELATED []
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000241
+name: schizophrenia pathway
+namespace: pathway
+def: "Schizophrenia is a psychiatric diagnosis denoting a persistent, often chronic, mental illness variously affecting behavior, thinking, and emotion. The term schizophrenia comes from the Greek words schizo, (split or divide) and phrenos, (mind) and is best translated as \"shattered mind\"." [OneLook:www.onelook.com]
+is_a: PW:0000240  ! neuropsychiatric disease pathway
+
+[Term]
+id: PW:0000242
+name: bipolar disorder pathway
+namespace: pathway
+def: "As categorized by the DSM-IV, bipolar disorder is a form of mood disorder characterized by a variation of mood between a phase of manic or hypomanic elation, hyperactivity and hyper imagination, and a depressive phase of inhibition, slowness to conceive ideas and move, and anxiety or sadness. Together these form what is commonly known as manic depression. Manic depression, with its two principal sub-types, bipolar disorder and major depression, was first clinically described near the end of the 19th century by psychiatrist Emil Kraepelin, who published his account of the disease in his Textbook of Psychiatry. DSM-IV is the Diagnostic and Statistical Manual of Mental Disorders, published by the American Psychiatric Association, is the handbook used most often in diagnosing mental disorders in the United States and other countries." [OneLook:www.onelook.com]
+is_a: PW:0000240  ! neuropsychiatric disease pathway
+
+[Term]
+id: PW:0000265
+name: Creutzfeldt-Jakob disease pathway
+namespace: pathway
+def: "Creutzfeldt-Jakob disease -  a rare prion disease, associated with a number of different mutations of the prion protein gene, existing in sporadic, familial (as an autosomal dominant), and infectious forms, with onset usually in middle life, and having a wide variety of clinical and pathological features. The most commonly seen are varying degrees of spongiform degeneration of neurons, neuronal loss, gliosis, and amyloid plaque formation, accompanied by rapidly progressive dementia, myoclonus, motor disturbances." [OneLook:www.onelook.com]
+synonym: "CJD" RELATED []
+is_a: PW:0000019  ! prion diseases pathway
+
+[Term]
+id: PW:0000266
+name: Gerstmann-Strussler syndrome, Gerstmann-Strussler-Scheinker syndrome pathway
+namespace: pathway
+def: "Gerstmann-Strussler syndrome,   Gerstmann-Strussler-Scheinker syndrome - a group of rare prion diseases, of autosomal dominant inheritance but linked to different mutations of the prion protein gene. Common characteristics include cognitive and motor disturbances, the presence of multicentric amyloid plaques in the brain. Its manifestations include cerebellar ataxia and dementia, rigidity, tremor, memory loss and others, depending on the form of the condition." [OneLook:www.onelook.com]
+is_a: PW:0000019  ! prion diseases pathway
+
+[Term]
+id: PW:0000267
+name: fatal familial insomnia pathway
+namespace: pathway
+def: "Fatal familial insomnia - an inherited prion disease, transmitted as an autosomal dominant trait, affecting primarily the ventral and dorsomedial nuclei of the thalamus and characterized by progressive insomnia, hallucinations, stupor, and coma ending in death within 6 months to 3 years of onset; autonomic and motor disturbances are also present." [OneLook:www.onelook.com]
+is_a: PW:0000019  ! prion diseases pathway
+
+[Term]
+id: PW:0000268
+name: kuru
+namespace: pathway
+def: "Kuru - an infectious form of prion disease with a long incubation period, found only among the Fore and neighboring peoples of New Guinea. It is thought to be associated with ritual cannibalism. Its manifestations include truncal and limb ataxia, tremor, others; ends invariably in death. Amyloid plaques are present in about two thirds of affected individuals." [OneLook:www.onelook.com]
+is_a: PW:0000019  ! prion diseases pathway
+
+[Term]
+id: PW:0000296
+name: hypertrophic cardiomyopathy pathway
+namespace: pathway
+def: "Hypertrophic cardiomyopathy, or HCM, is a disease of the myocardium (the muscle of the heart) in which a portion of the myocardium is thickened. Many physiological and pathological conditions as well as many pathways underlie the hypertrophic response." [KEGG:map05410, OneLook:www.onelook.org, PMID:15276462]
+synonym: "HCM pathway" EXACT []
+synonym: "KEGG:05410" RELATED []
+is_a: PW:0000022  ! cardiomyopathy pathway
+
+[Term]
+id: PW:0000299
+name: myocardial infarction pathway
+namespace: pathway
+def: "Myocardial infarction, commonly known as heart attack, is a serious, sudden heart condition characterized by varying degrees of chest pain, weakness, sweating, nausea, and vomiting, sometimes causing loss of consciousness. It occurs when parts of the heart muscle die because they are not supplied with enough blood." [OneLook:www.onelook.org]
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000300
+name: renal system disease, renal disorder pathway
+namespace: pathway
+def: "The congenital and acquired diseases affecting the kidney." [PW:InHouse]
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000301
+name: renal failure pathway
+namespace: pathway
+def: "Renal failure implies the loss of kidney function. It can be acute and rapidly progressing, or chronic with slow progression. Chronic renal failure may involve a number of kidney diseases and end-stage renal failure is the ultimate consequence." [Onelook:www.onelook.com]
+is_a: PW:0000300  ! renal system disease, renal disorder pathway
+
+[Term]
+id: PW:0000302
+name: glomerulonephritis pathway
+namespace: pathway
+def: "Glomerulonephritis is accompanied by inflammation of the capillary loops in the glomeruli of the kidney. It occurs in acute, subacute, and chronic forms and may be secondary to hemolytic streptococcal infection. Evidence also supports possible immune or autoimmune mechanisms." [Onelook:www.onelook.org]
+is_a: PW:0000300  ! renal system disease, renal disorder pathway
+
+[Term]
+id: PW:0000344
+name: cerebrovascular disease pathway
+namespace: pathway
+is_a: PW:0001412  ! nervous system disease pathway
+
+[Term]
+id: PW:0000345
+name: cerebral arterial diseases pathway
+namespace: pathway
+is_a: PW:0000344  ! cerebrovascular disease pathway
+
+[Term]
+id: PW:0000346
+name: CADASIL pathway
+namespace: pathway
+def: "CADASIL - cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy - a disease of the small cerebral arteries characterized by subcortical stroke and vascular dementia. It is associated with mutations in the Notch3 gene. More than fifty mutations are clustered within the first EGF repeats and involve the gain or loss of a cysteine." [PMID:14667809, PMID:14986825]
+is_a: PW:0000345  ! cerebral arterial diseases pathway
+
+[Term]
+id: PW:0000347
+name: cardiovascular abnormalities pathway
+namespace: pathway
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000348
+name: congenital heart defects pathway
+namespace: pathway
+is_a: PW:0000347  ! cardiovascular abnormalities pathway
+
+[Term]
+id: PW:0000349
+name: Alagille syndrome pathway
+namespace: pathway
+def: "Alagille syndrome is a developmental disease characterized by defects in heart, as well as liver, skeleton and eye. Abnormalities of the central nervous system are also found. The disease is associated with mutations across the entire Jag1 gene." [PMID:14986825]
+is_a: PW:0000348  ! congenital heart defects pathway
+
+[Term]
+id: PW:0000425
+name: diabetic retinopathy pathway
+namespace: pathway
+def: "High glucose-mediated oxidative stress effects on the expression of vascular endothelial growth factor are thought to play a role in diabetic retinopathy" [PMID:16026270]
+is_a: PW:0000176  ! diabetes pathway
+
+[Term]
+id: PW:0000517
+name: arterial occlusive disease pathway
+namespace: pathway
+def: "A pathway leading to a general or specific artery occlusion." [MeSH:Medical_Subject_Headings]
+is_a: PW:0000020  ! cardiovascular disease pathway
+
+[Term]
+id: PW:0000518
+name: atherosclerosis pathway
+namespace: pathway
+def: "A pathway leading to the thickening of medium and large arteries. While lipoprotein related pathways are of interest, monogenic conditions such as those linked to mutations in the laminin gene may also provide clues regarding atherosclerosis pathways." [PMID:15205220]
+is_a: PW:0000517  ! arterial occlusive disease pathway
+
+[Term]
+id: PW:0000540
+name: obesity disease pathway
+namespace: pathway
+def: "Obesity, usually defined as 20% or more excess body weight, constitutes a major public health problem and an independent risk factor for a number of conditions such as hypertension and diabetes. Deregulation of energy homeostasis, of various metabolic and signaling pathways, genetic and environmental aspects, all can contribute to the development of an obese state." [OneLook:www.onelook.com]
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000587
+name: narcolepsy disease pathway
+namespace: pathway
+def: "Narcolepsy is a neurological condition characterized by excessive day sleep, an inability to maintain awake states. Dysfunction of the orexin/hypocretin signaling pathway has been linked to this condition." [PMID:17299454]
+is_a: PW:0000178  ! neurological disorder disease pathway
+
+[Term]
+id: PW:0000605
+name: cancer pathway
+namespace: pathway
+def: "Cancer, or malignant neoplasm, represents a category of diseases characterized by uncontrolled cell growth and avoidance of apoptosis, invasion and metastasis.  Deregulation of many pathways - signaling, regulatory, metabolic and combination of them, have been implicated in susceptibility to or development of these conditions. Generally, cancer is classified according to the tissue or organ affected." [PMID:10647931]
+synonym: "neoplasm pathway" RELATED []
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0000606
+name: urogenital cancer pathway
+namespace: pathway
+def: "Urogenital cancer groups those malignancies that affect the urinary system and reproductive organs. Deregulation of several pathways along with genetic damage accumulated over time can lead to the development of these conditions." [InHouse:InHouse_PW_dictionary]
+synonym: "genitourinary cancer pathway" RELATED []
+synonym: "urinogenital cancer pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000607
+name: ovarian cancer pathway
+namespace: pathway
+def: "Ovarian cancer is a leading cause of cancer deaths in women. Several susceptibility genes have been identified and they have a role to play in pathways involved in or regulating proliferation, DNA repair and apoptosis." [PMID:12413930, PMID:12886939, PMID:15111296]
+synonym: "ovarian neoplasm pathway" RELATED []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0000608
+name: cervical cancer pathway
+namespace: pathway
+def: "Cervical cancer affects the cervical area and human papilloma virus (HPV) infection plays a major role in the pathogenesis of the condition. A number of HPV proteins interact with and affect the function of several host proteins that play a role in apoptoptic pathway and/or those involved in cell proliferation." [PMID:10471054, PMID:11486705]
+synonym: "cervical neoplasm pathway" RELATED []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0000609
+name: prostate cancer pathway
+namespace: pathway
+def: "Prostate cancer is a frequent form of cancer in men over the age of fifty. It is usually asymptomatic but when in an advanced stage, it may spread to other parts of the body causing symptoms others than those sometimes observed. Several susceptibility as well as defective genes have been identified." [KEGG:map05215, PMID:12878745, PMID:14752525, PMID:15149739]
+synonym: "KEGG:05215" RELATED []
+synonym: "prostate neoplasm pathway" EXACT []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0000610
+name: bladder cancer pathway
+namespace: pathway
+def: "Bladder cancer groups several types of malignant tumors of the urinary bladder. It is more prevalent in men than in women and combines both risk factors such as tobacco and exposure to certain carcinogens and genetic factors. Mutations in genes involved in a number of signaling pathways have been implicated in the development of these conditions." [KEGG:map05219, PMID:16474624, PMID:17158541]
+synonym: "KEGG:05219" RELATED []
+synonym: "bladder neoplasm pathway" EXACT []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0000611
+name: endometrial cancer pathway
+namespace: pathway
+def: "Endometrial cancer affects the lining of the uterus, or endometrium. Hormonal and genetic alterations play a role in the development of this carcinoma type. Mutations in genes acting in several pathways have been associated with the condition and its types." [KEGG:map05213, PMID:12583434, PMID:15947972, PMID:16508724]
+synonym: "KEGG:05213" RELATED []
+synonym: "endometrial neoplasm pathway" EXACT []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0000612
+name: colorectal cancer pathway
+namespace: pathway
+def: "Colorectal cancer are malignant tumors of the colon and rectum. Both risk factors usually relating to life style such as physical exercise or use of tobacco and genetics contribute to the development of the condition. Mutations in the components of canonical Wnt and Smad-dependent TGF-beta signaling and of DNA mismatch repair pathways  have been associated with the pathogenesis of colorectal cancer pathway." [KEGG:map05210, OneLook:www.onelook.com]
+synonym: "KEGG:05210" RELATED []
+synonym: "colorectal neoplasm pathway" EXACT []
+is_a: PW:0000627  ! gastrointestinal cancer pathway
+
+[Term]
+id: PW:0000624
+name: breast cancer pathway
+namespace: pathway
+def: "Breast cancer or neoplasm is the most common cancer among women and the second worldwide after lung cancer. Deregulated pathways such estrogen or PI3K-Akt signaling have been implicated in breast cancer. In many cases, the disease is estrogen-dependent and it is possible that dysregulation of miRNA may correlate with the expression of estrogen receptor. Mutations in a number of other genes such as Brca1, 2 and 3 or p53 have also been associated with breast cancer." [OMIM:114480, PMID:17275086, PMID:20739888]
+synonym: "breast neoplasm" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000625
+name: digestive system cancer pathway
+namespace: pathway
+def: "A general term grouping neoplastic pathways of the biliary tract, liver, pancreas and the gastrointestinal system." [MeSH:MeSH, OMIM:OMIM]
+synonym: "digestive system neoplasm pathway" RELATED []
+synonym: "gastrointestinal neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000626
+name: pancreatic cancer pathway
+namespace: pathway
+def: "Pancreatic cancer, a malignant tumor of the pancreas, has both genetic and predisposing factors. Deregulated pathways, such as TGF-B, PI3K-Akt or RAF/MEK/ERK, have been implicated in the development of pancreatic cancer." [KEGG:map05212, PMID:17898532, PMID:18662538]
+synonym: "KEGG:05212" RELATED []
+synonym: "pancreatic neoplasm pathway" EXACT []
+is_a: PW:0000625  ! digestive system cancer pathway
+is_a: PW:0000700  ! endocrine gland cancer pathway
+
+[Term]
+id: PW:0000627
+name: gastrointestinal cancer pathway
+namespace: pathway
+def: "A general term grouping neoplastic pathways of the esophagus, gastric or stomach and intestinal system." [MeSH:MeSH, OMIM:OMIM]
+synonym: "gastrointestinal neoplasm pathway" RELATED []
+is_a: PW:0000625  ! digestive system cancer pathway
+
+[Term]
+id: PW:0000628
+name: intestinal cancer pathway
+namespace: pathway
+synonym: "intestinal neoplasm pathway" RELATED []
+is_a: PW:0000627  ! gastrointestinal cancer pathway
+
+[Term]
+id: PW:0000629
+name: gastric cancer pathway
+namespace: pathway
+def: "Gastric cancer is the fourth most common form of cancer worldwide and has a high death rate. Deregulated pathways, such as Wnt, PI3K-Akt or RAF/MEK/ERK, have been implicated in the development of gastric cancer." [PMID:17203201]
+synonym: "gastric neoplasm pathway" RELATED []
+synonym: "stomach cancer pathway" RELATED []
+synonym: "stomach neoplasm pathway" RELATED []
+is_a: PW:0000627  ! gastrointestinal cancer pathway
+
+[Term]
+id: PW:0000630
+name: liver cancer pathway
+namespace: pathway
+synonym: "hepatic cancer pathway" RELATED []
+synonym: "hepatic neoplasm pathway" RELATED []
+synonym: "liver neoplasm pathway" RELATED []
+is_a: PW:0000625  ! digestive system cancer pathway
+
+[Term]
+id: PW:0000631
+name: head and neck cancer pathway
+namespace: pathway
+def: "A general term grouping neoplastic pathways of the upper aerodigestive system. Deregulated pathways, such as TGF-B, PI3K-Akt or epidermal growth factor (EGF) signaling, have been implicated in the of head and neck cancer." [MeSH:MeSH, OMIM:OMIM, PMID:18662538]
+synonym: "head and neck neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000632
+name: bone cancer pathway
+namespace: pathway
+synonym: "bone neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000633
+name: skin cancer pathway
+namespace: pathway
+synonym: "skin neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000698
+name: thyroid cancer pathway
+namespace: pathway
+def: "Thyroid cancer refers to one of several types of malignant tumors of the thyroid gland of which the papillary thyroid cancer is the most frequent accounting for almost 80% of all cases. The other types include follicular, medullary and anaplastic." [KEGG:map05216, OneLook:www.onelook.com]
+synonym: "KEGG:05216" RELATED []
+synonym: "thyroid neoplasm pathway" EXACT []
+is_a: PW:0000631  ! head and neck cancer pathway
+is_a: PW:0000700  ! endocrine gland cancer pathway
+
+[Term]
+id: PW:0000699
+name: parathyroid cancer pathway
+namespace: pathway
+def: "Parathyroid cancer is a rare type of cancer whose causes are unknown. There are four parathyroid glands, each of the two lobes of the thyroid gland houses two." [OneLook:www.onelook.com]
+is_a: PW:0000631  ! head and neck cancer pathway
+
+[Term]
+id: PW:0000700
+name: endocrine gland cancer pathway
+namespace: pathway
+synonym: "endocrine gland neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000701
+name: thoracic cancer pathway
+namespace: pathway
+synonym: "thoracic neoplasm pathway" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000702
+name: respiratory tract cancer pathway
+namespace: pathway
+synonym: "respiratory tract neoplasm pathway" RELATED []
+is_a: PW:0000701  ! thoracic cancer pathway
+
+[Term]
+id: PW:0000703
+name: lung cancer pathway
+namespace: pathway
+def: "Lung cancer is one of the most common cause of cancer-related death in men but also very common in women. The main types are represented by small cell and non-small cell lung carcinomas. The former tends to respond better to chemotherapy; the latter is at times treated surgically." [OneLook:www.onelook.com]
+synonym: "lung neoplasm pathway" RELATED []
+is_a: PW:0000702  ! respiratory tract cancer pathway
+
+[Term]
+id: PW:0000704
+name: small cell lung cancer pathway
+namespace: pathway
+def: "Small cell lung cancer is an aggressive type of lung cancer. Several pathways appear to be deregulated and they include the intrinsic apoptotic pathway, PI3K-Akt signaling and changes in oncogene transcription factors such as Myc and p53." [KEGG:map05222, OneLook:www.onelook.com]
+synonym: "KEGG:05222" RELATED []
+synonym: "SCLC pathway" EXACT []
+synonym: "small cell lung neoplasm pathway" EXACT []
+is_a: PW:0000703  ! lung cancer pathway
+
+[Term]
+id: PW:0000705
+name: non-small cell lung cancer pathway
+namespace: pathway
+def: "Non-small cell lung cancer groups together several non-small cell lung carcinomas. The main types are represented by squamous cell, adeno- and large-cell carcinoma. Alterations in Ras and epidermal growth factors signaling, among others, have been implicated in the condition." [KEGG:map05223, OneLook:www.onelook.com]
+synonym: "KEGG:05223" RELATED []
+synonym: "NSCLC pathway" EXACT []
+synonym: "non-small cell lung neoplasm pathway" EXACT []
+is_a: PW:0000703  ! lung cancer pathway
+
+[Term]
+id: PW:0000706
+name: leukemia pathway
+namespace: pathway
+def: "Leukemia is a cancer of the blood or bone marrow. The term covers a broad spectrum of conditions subdivided by proliferation type - acute and chronic, and by cell type - myeloid and lymphocytic leukemia." [OneLook:www.onelook..com]
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0000707
+name: myeloid leukemia pathway
+namespace: pathway
+def: "Myeloid leukemia affects cells of the myeloid lineage and their precursors and in turn is subdivided by proliferation type." [OneLook:www.onelook.com]
+is_a: PW:0000706  ! leukemia pathway
+
+[Term]
+id: PW:0000708
+name: lymphoid leukemia pathway
+namespace: pathway
+def: "Lymphoid leukemia affects lymphoid tissues and there are increase numbers of circulating lymphoblasts and lymphocytes." [OneLook:www.onelook.com]
+synonym: "lymphocytic leukemia pathway" RELATED []
+is_a: PW:0000706  ! leukemia pathway
+
+[Term]
+id: PW:0000709
+name: acute myeloid leukemia pathway
+namespace: pathway
+def: "Acute myeloid leukemia is a common type of leukemia among adults. Abnormal cells are present inside the bone marrow that grow very vast and replace healthy blood cells. Several signaling pathways are disrupted and/or constitutively activated." [KEGG:map05221, OneLook_:www.onelook.com]
+synonym: "KEGG:05221" RELATED []
+is_a: PW:0000707  ! myeloid leukemia pathway
+
+[Term]
+id: PW:0000710
+name: chronic myeloid leukemia pathway
+namespace: pathway
+def: "Chronic myeloid leukemia, a slowly progressing condition, is a type of leukemia where too many white blood cells are made in the bone marrow." [KEGG:map05220, OneLook:www.onelook.com]
+synonym: "KEGG:05220" RELATED []
+is_a: PW:0000707  ! myeloid leukemia pathway
+
+[Term]
+id: PW:0000711
+name: glioma pathway
+namespace: pathway
+def: "Gliomas are tumors of the brain categorized by the type of cell they are associated with, their location and grade. Several pathways appear to be deregulated via amplifications, overexpression, mutations or loss." [OneLook:www.onelook.com]
+synonym: "KEGG:05214" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0001017
+name: renal cell cancer pathway
+namespace: pathway
+def: "Renal cell cancer, although representing a small percentage of human neoplasms, has one of the highest rate of mortality amongst genitourinary cancers. Several mutated genes and associated altered pathways have been implicated in the condition but many more remain to be elucidated." [PMID:22112490]
+synonym: "KEGG:05211" RELATED []
+is_a: PW:0000606  ! urogenital cancer pathway
+
+[Term]
+id: PW:0001018
+name: immune disease pathway
+namespace: pathway
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001019
+name: rheumatoid arthritis pathway
+namespace: pathway
+def: "The rheumatoid arthritis is an autoimmune condition characterized by persistent inflammation. Several pro-inflammatory cytokine and chemokines are overactivated." [PMID:22357455]
+synonym: "KEGG:05323" RELATED []
+is_a: PW:0001440  ! arthritis disease pathway
+
+[Term]
+id: PW:0001020
+name: basal cell carcinoma pathway
+namespace: pathway
+def: "Basal cell carcinoma is the most common form of skin cancer that is mostly sporadic. Hedgehog signaling pathway via sonic hedgehog appears to be constitutively active. Mutations in Tp53 are also frequent." [OneLook:www.onelook.com]
+synonym: "KEGG:05217" RELATED []
+is_a: PW:0000633  ! skin cancer pathway
+
+[Term]
+id: PW:0001021
+name: melanoma pathway
+namespace: pathway
+def: "Melanoma is a form of skin cancer which, despite being less common than other form of skin malignancies, it can be dangerous if not detected earlier and it accounts for the highest percentage if skin cancer related deaths. Oncogenic Nras and other mutations in downstream pathways appear to be associated with it." [OneLook:www.onelook.com]
+synonym: "KEGG:05218" RELATED []
+is_a: PW:0000633  ! skin cancer pathway
+
+[Term]
+id: PW:0001022
+name: asthma disease pathway
+namespace: pathway
+def: "Asthma, a complex condition with many phenotypic manifestations, is primarily characterized by inflammation of the airways. Environmental and genetic factors contribute to it through complex and incompletely understood interactions." [OneLook:http://www.onelook.com]
+synonym: "KEGG:05310" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001023
+name: systemic lupus erythematosus pathway
+namespace: pathway
+def: "Systemic lupus erythematosus (SLE) is an autoimmune condition that can affect many parts of the body and which, although treatable, does not have a cure. Activation of complement and deregulations of immune regulatory and signaling pathways contribute in ways that are incompletely understood." [OneLook:http://www.onelook.com]
+synonym: "KEGG:05322" RELATED []
+synonym: "SLE pathway" EXACT []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001024
+name: autoimmune thyroid disease pathway
+namespace: pathway
+def: "Autoimmune thyroid disease (AITD) groups several conditions generally relatively mild but that can progress to serious symptoms." [localhealth:http://www.localhealth.com]
+synonym: "AITD pathway" EXACT []
+synonym: "KEGG:05320" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001025
+name: allograft rejection pathway
+namespace: pathway
+def: "Allograft, or transplant rejection, results from the recipient's autoimmune response to the nonself antigens." [OneLook:www.onelook.com]
+synonym: "KEGG:05330" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001026
+name: graft-versus-host disease pathway
+namespace: pathway
+def: "Graft-versus-host disease (GVHD) is a complication following transplantation of cells, tissues or organs from a genetically non-identical donor in which the donor T cells attack the host cells. Several pro-inflammatory pathways are activated as a result of damage in the host tissue induced by the procedure. GVHD is commonly associated with stem cell or bone marrow transplant." [OneLook:http://www.onelook.com]
+synonym: "GVHD pathway" EXACT []
+synonym: "KEGG:05332" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001027
+name: primary immunodeficiency disease pathway
+namespace: pathway
+def: "Primary immunodeficiency groups disorders that result from the immune system malfunctioning that affect both cell-mediated and humoral immunity pathways." [OneLook:http://www.onelook.com]
+synonym: "KEGG:05340" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001028
+name: infectious disease pathway
+namespace: pathway
+def: "Infectious diseases are caused by pathogens that have gained access to the host organism and have managed to avoid the host defense mechanisms while taking over some of the host pathways." [OneLook:http://www.onelook.com]
+synonym: "communicable disease pathway" RELATED []
+synonym: "transmissible disease pathway" RELATED []
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001029
+name: substance dependence disease pathway
+namespace: pathway
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001030
+name: cocaine addiction pathway
+namespace: pathway
+def: "Prolonged use of cocaine results in cardiovascular and brain damage. Cocaine is thought to bind to the dopamine reuptake transporter thus blocking the reuptake of dopamine into nerve terminals. The resulting higher concentration of dopamine in synapses leads to overactivation of dopamine receptors such as D1 and of signaling pathways downstream of it overall believed to be critical in mediating the behavioral responses to cocaine." [KEGG:map05030, OneLook:http://www.onelook.com]
+synonym: "KEGG:05030" RELATED []
+is_a: PW:0001029  ! substance dependence disease pathway
+
+[Term]
+id: PW:0001031
+name: amphetamine addiction pathway
+namespace: pathway
+def: "Amphetamine is believed to promote an elevation in extracellular dopamine. Higher and high levels of the drug lead to overactivation of transcription factors and cofactors." [KEGG:map:05031, OneLook:http://www.onelook.com]
+synonym: "KEGG:05031" RELATED []
+is_a: PW:0001029  ! substance dependence disease pathway
+
+[Term]
+id: PW:0001032
+name: morphine addiction pathway
+namespace: pathway
+def: "Morphine, an effective pain killer drug, can also be extremely addictive. Activation of dopamine neurons and reduction of inhibitory synaptic transmission might be associated with the effects or morphine. Changes in neuronal responses and communication may underlie the addictive behavior." [KEGG:map05032, OneLook:http://www.onelook.com]
+synonym: "KEGG:05032" RELATED []
+is_a: PW:0001029  ! substance dependence disease pathway
+
+[Term]
+id: PW:0001033
+name: nicotine addiction pathway
+namespace: pathway
+def: "Nicotine, like the other addictive substances, impacts on the dopaminergic and mesolimbic reward circuitries. Nicotine is also a ligand for the nicotinic acetylcholine receptors which are ligand-gated ion channels." [KEGG:map05033, OneLook:http://www.onelook.com]
+synonym: "KEGG:05033" RELATED []
+is_a: PW:0001029  ! substance dependence disease pathway
+
+[Term]
+id: PW:0001034
+name: alcoholism pathway
+namespace: pathway
+def: "The mechanisms of alcohol dependence, or alcoholism, are not well understood. Like in the case of other substances of abuse, alcohol may lead to stimulation of dopamine release and overactivation of dopamine-related circuitries." [KEGG:map05034, OneLook:http://www.onelook.com]
+synonym: "KEGG:05034" RELATED []
+synonym: "alcohol dependence pathway" EXACT []
+is_a: PW:0001029  ! substance dependence disease pathway
+
+[Term]
+id: PW:0001035
+name: arrhythmogenic right ventricular cardiomyopathy pathway
+namespace: pathway
+def: "Arrhythmogenic right ventricular cardiomyopathy (ARVC) represents an inherited heart muscle condition leading to arrhythmia and heart failure that could results in death. Mutations in several genes and disruption of associated pathways have been implicated in the condition." [KEGG:map05412, OneLook:http://www.onelook.com]
+synonym: "ARVC pathway" EXACT []
+synonym: "KEGG:05412" RELATED []
+is_a: PW:0000022  ! cardiomyopathy pathway
+
+[Term]
+id: PW:0001036
+name: dilated cardiomyopathy pathway
+namespace: pathway
+def: "Dilated cardiomyopathy (DCM) is a condition in which the heart is weakened and enlarged resulting in inefficient blood pumping. Although mostly occurring in adults, it can also affect children." [KEGG:map05414, OneLook:http://www.onelook.com]
+synonym: "DCM pathway" EXACT []
+synonym: "KEGG:05414" RELATED []
+is_a: PW:0000022  ! cardiomyopathy pathway
+
+[Term]
+id: PW:0001037
+name: myocarditis pathway
+namespace: pathway
+def: "Myocarditis, a condition associated with inflammation of the heart muscle that can have both infections and non-infectious etiologies with the former being the primary cause. Viral proteins, once inside the host cells interfere with the function of host gene and they can either avoid or appropriate host pathways." [KEGG:map05416, OneLook:http://www.onelook.com]
+synonym: "KEGG:05416" RELATED []
+is_a: PW:0000022  ! cardiomyopathy pathway
+
+[Term]
+id: PW:0001038
+name: maturity onset diabetes of the young pathway
+namespace: pathway
+def: "Maturity onset diabetes of the young (MODY) represents any of a number of hereditary, monogenic forms of diabetes caused by mutations in several genes." [KEGG:map04950, OneLoook:http://www.onelook.com]
+synonym: "KEGG:04950" RELATED []
+synonym: "MODY pathway" EXACT []
+is_a: PW:0000176  ! diabetes pathway
+
+[Term]
+id: PW:0001039
+name: Vibrio cholerae infection pathway
+namespace: pathway
+def: "Vibrio cholerae disease is an infection of the small intestine resulting in dehydration and electrolyte imbalance which in some cases can cause death. Cholera toxin, is one the main virulence factors of the Gram-negative Vibrio cholerae bacterium which, together with other virulence factors can invade the host." [KEGG:map05110, OneLook:http://www.onelook.com]
+synonym: "KEGG:05110" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001040
+name: Salmonella infection pathway
+namespace: pathway
+def: "Salmonella, a Gram-negative bacterium of which  many species exist, in humans can cause gastroenteritis or the more severe typhoid fever. Salmonella enters the host via the digestive tract; bacteria that escape the host defense machinery can survive and replicate in Salmonella-containing vacuole (SCV) whose maturation they control." [KEGG:map05132, OneLook:http://www.onelook.com]
+synonym: "KEGG:05132" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001041
+name: pathogenic Escherichia coli infection pathway
+namespace: pathway
+def: "The pathogenic Escherichia coli strains EPEC and EHEC (enteropathogenic and enterohemorrhagic E. coli, respectively) can cause sever food poisoning in humans. The non-pathogenic strains are part of the gut normal flora with beneficial contributions for the host." [KEGG:map05130, OneLook:http://www.onelook.com]
+synonym: "KEGG:05130" RELATED []
+synonym: "pathogenic E. coli infection pathway" EXACT []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001042
+name: Shigella infection pathway
+namespace: pathway
+def: "Shigella, a Gram-negative bacterium that is related to Salmonella and to Escherichia coli, is a disease causing agent in humans and primates. Shigellosis, also known as bacillary dysentery or Marlow syndrome is due to colonization of the intestinal epithelium and the subsequent evasion of the host defense machinery and use of host intracellular pathways by the bacteria." [KEGG:map05131, OneLook:http://www.onelook.com]
+synonym: "KEGG:05131" RELATED []
+synonym: "Marlow syndrome pathway" RELATED []
+synonym: "Shigellosis pathway" RELATED []
+synonym: "bacillary dysentery pathway" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001043
+name: Bordetella pertussis infection pathway
+namespace: pathway
+def: "The Gram-negative Bordetella pertusis Gram-negative is the causative agent of pertussis or whooping cough. One of its main virulence factors, pertussis toxin blocks the interaction of Galphai subunit of heterotrimeric G protein with its partner receptors. This results in unrestrained adenylyl cyclase activity and subsequent increased concentration of cAMP which affects normal intracellular signaling." [KEGG:map05133, OneLook:http://www.onelook.com]
+synonym: "KEGG:05133" RELATED []
+synonym: "pertussis pathway" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001044
+name: Legionella infection pathway
+namespace: pathway
+def: "Legionella, a pathogenic Gram-negative bacterium that includes species such as legionella pneumophila, causes several respiratory infections of which Legionnaires' disease is potentially fatal. L. pneumophila can grow within lung macrophages and is known to subvert several host pathways." [KEGG:map05134, OneLook:http://www.onelook.com]
+synonym: "KEGG:05134" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001045
+name: Staphylococcus aureus infection pathway
+namespace: pathway
+def: "Staphylococcus aureus, a Gram-positive bacteria of which there are many species, usually colonizes the skin and mucous membranes of humans and other organisms and are mostly harmless. However, they can also cause a range of infections of which some can be extremely severe." [KEGG:map05150, OneLook:http://www.onelook.com]
+synonym: "KEGG:05150" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001046
+name: Mycobacterium tuberculosis infection pathway
+namespace: pathway
+def: "Mycobacterium tuberculosis is the causative agent of most forms of tuberculosis. Once in the lung, they interfere with a number of intracellular pathways and processes." [KEGG:map05152, OneLook:http://www.onelook.com]
+synonym: "KEGG:05152" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001047
+name: Leishmania infection pathway
+namespace: pathway
+def: "Leishmania is a protozoan parasite and a number of its species can infect mammals including humans. While the cutaneous leishmanianis is the most common form, others such as visceral or mucosal have also been reported. The infection results in alterations in a number of host signaling pathways." [KEGG:map5140, OneLook:http://www.onelook.com]
+synonym: "KEGG:05140" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001048
+name: Trypanosoma infection pathway
+namespace: pathway
+def: "Trypanosoma is a protozoan parasite of which T brucei and cruzi are responsible for causing the sleeping sickness and Chagas disease, respectively. Several host signaling and regulatory pathways are altered in the infection." [KEGG:map5142, OneLook:http://www.onelook.com]
+synonym: "KEGG:5142" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001049
+name: Trypanosoma brucei infection pathway
+namespace: pathway
+def: "Trypanosoma brucei, a protozoan parasite of the trypanosoma genus is the causative agent of sleeping sickness, also known as the African trypanosomias as its vector is the tsetse fly common to the sub-Saharan Africa. Several pro-inflammatory cytokines are overactivated. The neurological damage the infection causes is irreversible and the disease is fatal." [KEGG:map5143, OneLook:http://www.onelook.com]
+synonym: "African trypanosomiasis" EXACT []
+synonym: "KEGG:05143" RELATED []
+is_a: PW:0001048  ! Trypanosoma infection pathway
+
+[Term]
+id: PW:0001050
+name: Trypanosoma cruzi infection pathway
+namespace: pathway
+def: "Trypanosoma cruzi of the genus Trypanosoma is the causative agent of the Chagas disease, also known as the American trypanosomiasis as it occurs primarily in poor areas of the Americas, mostly Central and South America. Infection interferes with a number of intracellular pathways and it appears to activate calcium signaling." [KEGG:map05142, OneLook:http://www.onelook.com]
+synonym: "American trypanosomiasis" EXACT []
+synonym: "Chagas disease pathway" EXACT []
+synonym: "KEGG:05142" RELATED []
+is_a: PW:0001048  ! Trypanosoma infection pathway
+
+[Term]
+id: PW:0001051
+name: Plasmodium infection pathway
+namespace: pathway
+def: "Plasmodium is a parasite of which several species can infect humans and cause malaria. Severe malaria, which is primarily caused by Plasmodium falciparum, can lead to death and the fatalities are mostly children. Deregulated induction of cytokines appears to play a role in the infection." [KEGG:map05144]
+synonym: "KEGG:05144" RELATED []
+synonym: "malaria infection pathway" EXACT []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001052
+name: Toxoplasma gondii infection pathway
+namespace: pathway
+def: "Toxoplasma gondii whose host includes various warm-blooded species including humans, is the causative agent of toxoplasmosis. The infection interferes with a number of host pathways; in its most severe manifestations it can be fatal." [KEGG:map05145, OneLook:http://www.onelook.com]
+synonym: "KEGG:05145" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001053
+name: Entamoeba histolyca infection pathway
+namespace: pathway
+def: "Entamoeba histolyca is a prozoan parasite that is the causative agent of amoebiasis which affects the intestinal tissue leading to severe dysentery and ulcerations. It can also infect other tissues such as the liver to a lesser extent the brain, lungs and spleen." [KEGG:map5146, OneLook:http://www.onelook.com]
+synonym: "KEGG:05146" RELATED []
+synonym: "amoebiasis infection pathway" EXACT []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001054
+name: influenza A virus infection pathway
+namespace: pathway
+def: "Influenza A virus is the causative agent of seasonal epidemics and occasional  pandemics of influenza which affects the respiratory system." [KEGG:map05164]
+synonym: "KEGG:05164" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001055
+name: hepatitis C virus infection pathway
+namespace: pathway
+def: "Hepatitis C virus is the causative agent of hepatitis C, a chronic liver disease in humans. The virus interferes with several signaling and regulatory pathways in the host cells." [KEGG:map05160, OneLook:http://www.onelook.com]
+synonym: "KEGG:05160" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001056
+name: Herpes simplex virus infection pathway
+namespace: pathway
+synonym: "KEGG:05168" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001057
+name: Epstein-Barr virus infection pathway
+namespace: pathway
+synonym: "KEGG:05169" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001058
+name: measles infection pathway
+namespace: pathway
+def: "Measles virus (MV) of the genus Morbilivirus is the causative agent of the condition that bears its name. The condition causes immunosuppression and several MV proteins are thought to interfere with the normal host immune responses." [KEGG:map05162, OneLook:http://wwwonelook.com]
+synonym: "KEGG:05162" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001101
+name: viral carcinogenesis pathway
+namespace: pathway
+def: "A number of human viruses have been shown to be associated/contribute to approximately 10 to 15% of cancers. The viral particles encode oncogenes whose escape from the host defense system impacts on many cellular pathways and promotes tumor development." [OneLook:http://www.onelook.com, PMID:20971551, PMID:21102637, PMID:21445966]
+synonym: "KEGG:05203" RELATED []
+is_a: PW:0000605  ! cancer pathway
+
+[Term]
+id: PW:0001148
+name: hepatitis B virus infection pathway
+namespace: pathway
+def: "Hepatitis B virus (HBV) is the causative agent of hepatitis B, an inflammatory condition of the liver affecting people in parts of Asia and Africa. The virus interferes with a number of regulatory and signaling pathways in the host." [Wikipedia:http://en.wikipedia.org/wiki/Hepatitis_B]
+synonym: "KEGG:05161" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001149
+name: human T-lymphotropic virus type 1 infection pathway
+namespace: pathway
+def: "The human T-lymphotropic virus type 1 (HTLV-1) is a pathogenic retrovirus causing a type of cancer known as adult T-cell leukemia and lymphoma and a demyelinating condition referred to as HTLV-1 associated myelopathy/tropical spastic paraparesis (HAM/TSP). A viral regulatory protein known as Tax, which is a transcriptional co-factor, interferes with a number of signaling pathways in the host." [wikipedia:http://en.wikipedia.org/wiki/Human_T-lymphotropic_virus]
+synonym: "HTLV-1 infection pathway" EXACT []
+synonym: "KEGG:05166" RELATED []
+is_a: PW:0001028  ! infectious disease pathway
+
+[Term]
+id: PW:0001308
+name: respiratory system disease pathway
+namespace: pathway
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001412
+name: nervous system disease pathway
+namespace: pathway
+def: "Any disease that affects the central or peripheral nervous system. It includes brain, neurological, neurodegenerative, cerebrovascular disorders, syndromes, dystrophies and others. However, mental or neuropsychiatric disorders are not included." [MeSH:MeSH_Descriptor]
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001413
+name: liver disease pathway
+namespace: pathway
+def: "The congenital and acquired diseases affecting the kidney." []
+is_a: PW:0000013  ! disease pathway
+
+[Term]
+id: PW:0001414
+name: brain disease pathway
+namespace: pathway
+def: "The congenital and acquired diseases affecting the brain, including but not limited to the cerebral cortex, basal ganglia, thalamus and hypothalamus, brain stem, cerebellum." [MeSH:MeSH_descriptor]
+is_a: PW:0001412  ! nervous system disease pathway
+
+[Term]
+id: PW:0001415
+name: Zellweger syndrome pathway
+namespace: pathway
+def: "A cerebro-hepato-renal phenotype caused by mutations in genes involved in the peroxisome biogenesis pathway." [MeSH:MeSH_descriptor]
+is_a: PW:0000300  ! renal system disease, renal disorder pathway
+is_a: PW:0001413  ! liver disease pathway
+is_a: PW:0001414  ! brain disease pathway
+
+[Term]
+id: PW:0001416
+name: Leigh syndrome pathway
+namespace: pathway
+def: "A neurometabolic disorder affecting the central nervous system caused by defects in mitochondrial and/or nuclear genes involved in energy metabolic pathways." [MeSH:MeSH_descriptor]
+is_a: PW:0001414  ! brain disease pathway
+
+[Term]
+id: PW:0001417
+name: Canavan disease pathway
+namespace: pathway
+def: "A rare autosomal recessive condition characterized by degeneration of the nervous system due to white matter vacuolization and demeylination. It results from defects in ASPA, aspartoacylase gene involved in several amino acid metabolic pathways." [MeSH:MeSH_descriptor]
+synonym: "Canavan-Van Bogaert-Bertrand disease pathway" EXACT []
+is_a: PW:0000014  ! neurodegenerative disease pathway
+is_a: PW:0001414  ! brain disease pathway
+
+[Term]
+id: PW:0001440
+name: arthritis disease pathway
+namespace: pathway
+def: "Arthritis collectively describes several conditions whose primary feature is represented by joint pain resulting from inflammation." [wikipedia:http://en.wikipedia.org/wiki/Arthritis]
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001441
+name: gout disease pathway
+namespace: pathway
+is_a: PW:0001440  ! arthritis disease pathway
+
+[Term]
+id: PW:0001442
+name: inflammatory bowel disease pathway
+namespace: pathway
+def: "The inflammatory bowel disease (IBD) results from the deregulation of the immune system to which both genetic and environmental factors contribute. Alterations in pattern recognition receptor signaling, such as Toll-like or Nod and signaling downstream of them, among others, may contribute to and/or lead to the chronic inflammation characteristic of the condition. The main forms of IBD are Crohn's and ulcerative colitis." [PMID:20001899]
+synonym: "IBD disease pathway" EXACT []
+synonym: "KEGG:05321" RELATED []
+is_a: PW:0001018  ! immune disease pathway
+
+[Term]
+id: PW:0001454
+name: Gaucher disease pathway
+namespace: pathway
+is_a: PW:0001414  ! brain disease pathway
+
+[Typedef]
+id: part_of
+name: part_pf
+namespace: pathway
+
