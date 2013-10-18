@@ -185,7 +185,6 @@ publish <-- ['merged.obo'],
 
 
 
-
 %ftp://rgd.mcw.edu/pub/data_release/ontology_obo_files/pathway/pathway.obo
 
 % #DiseaseName	SourceName	ConceptID	SourceID	DiseaseMIM	LastModified
