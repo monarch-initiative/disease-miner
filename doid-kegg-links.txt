@@ -1,0 +1,36 @@
+DOID:0050524	maturity-onset diabetes of the young	KEGG:04950	maturity onset diabetes of the young pathway
+DOID:0050589	inflammatory bowel disease	KEGG:05321	inflammatory bowel disease pathway
+DOID:0050741	alcohol dependence	KEGG:05034	alcoholism pathway
+DOID:10112	sleeping sickness	KEGG:05143	Trypanosoma brucei infection pathway
+DOID:10283	prostate cancer	KEGG:05215	prostate cancer pathway
+DOID:10286	prostate carcinoma	KEGG:05215	prostate cancer pathway
+DOID:10652	Alzheimer's disease	KEGG:05010	Alzheimer disease pathway
+DOID:11054	urinary bladder cancer	KEGG:05219	bladder cancer pathway
+DOID:1116	pertussis	KEGG:05133	Bordetella pertussis infection pathway
+DOID:11984	hypertrophic cardiomyopathy	KEGG:05410	hypertrophic cardiomyopathy pathway
+DOID:12140	Chagas disease	KEGG:05142	Trypanosoma cruzi infection pathway
+DOID:12385	shigellosis	KEGG:05131	Shigella infection pathway
+DOID:12858	Huntington's disease	KEGG:05016	Huntington disease pathway
+DOID:12930	dilated cardiomyopathy	KEGG:05414	dilated cardiomyopathy pathway
+DOID:1380	endometrial cancer	KEGG:05213	endometrial cancer pathway
+DOID:14330	Parkinson's disease	KEGG:05012	Parkinson disease pathway
+DOID:1781	thyroid cancer	KEGG:05216	thyroid cancer pathway
+DOID:1793	pancreatic cancer	KEGG:05212	pancreatic cancer pathway
+DOID:1909	melanoma	KEGG:05218	melanoma pathway
+DOID:2513	basal cell carcinoma	KEGG:05217	basal cell carcinoma pathway
+DOID:2841	asthma	KEGG:05310	asthma disease pathway
+DOID:3070	malignant glioma	KEGG:05214	glioma pathway
+DOID:332	amyotrophic lateral sclerosis	KEGG:05014	amyotrophic lateral sclerosis disease pathway
+DOID:3908	non-small cell lung carcinoma	KEGG:05223	non-small cell lung cancer pathway
+DOID:5409	lung small cell carcinoma	KEGG:05222	small cell lung cancer pathway
+DOID:612	primary immunodeficiency disease	KEGG:05340	primary immunodeficiency disease pathway
+DOID:649	prion disease	KEGG:05020	prion diseases pathway
+DOID:7148	rheumatoid arthritis	KEGG:05323	rheumatoid arthritis pathway
+DOID:820	myocarditis	KEGG:05416	myocarditis pathway
+DOID:8552	chronic myeloid leukemia	KEGG:05220	chronic myeloid leukemia pathway
+DOID:9074	systemic lupus erythematosus	KEGG:05322	systemic lupus erythematosus pathway
+DOID:9119	acute myeloid leukemia	KEGG:05221	acute myeloid leukemia pathway
+DOID:9256	colorectal cancer	KEGG:05210	colorectal cancer pathway
+DOID:9352	type 2 diabetes mellitus	KEGG:04930	type 2 diabetes mellitus pathway
+DOID:9744	type 1 diabetes mellitus	KEGG:04940	type 1 diabetes mellitus pathway
+DOID:9778	irritable bowel syndrome	KEGG:05321	inflammatory bowel disease pathway

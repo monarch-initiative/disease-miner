@@ -1,0 +1,144 @@
+[Term]
+id: DOID:612 ! primary immunodeficiency disease
+xref: KEGG:05340 ! primary immunodeficiency disease pathway
+
+[Term]
+id: DOID:12140 ! Chagas disease
+xref: KEGG:05142 ! Trypanosoma cruzi infection pathway
+
+[Term]
+id: DOID:1116 ! pertussis
+xref: KEGG:05133 ! Bordetella pertussis infection pathway
+
+[Term]
+id: DOID:9352 ! type 2 diabetes mellitus
+xref: KEGG:04930 ! type 2 diabetes mellitus pathway
+
+[Term]
+id: DOID:0050741 ! alcohol dependence
+xref: KEGG:05034 ! alcoholism pathway
+
+[Term]
+id: DOID:9119 ! acute myeloid leukemia
+xref: KEGG:05221 ! acute myeloid leukemia pathway
+
+[Term]
+id: DOID:1781 ! thyroid cancer
+xref: KEGG:05216 ! thyroid cancer pathway
+
+[Term]
+id: DOID:11054 ! urinary bladder cancer
+xref: KEGG:05219 ! bladder cancer pathway
+
+[Term]
+id: DOID:3070 ! malignant glioma
+xref: KEGG:05214 ! glioma pathway
+
+[Term]
+id: DOID:1380 ! endometrial cancer
+xref: KEGG:05213 ! endometrial cancer pathway
+
+[Term]
+id: DOID:14330 ! Parkinson's disease
+xref: KEGG:05012 ! Parkinson disease pathway
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+xref: KEGG:05016 ! Huntington disease pathway
+
+[Term]
+id: DOID:9256 ! colorectal cancer
+xref: KEGG:05210 ! colorectal cancer pathway
+
+[Term]
+id: DOID:332 ! amyotrophic lateral sclerosis
+xref: KEGG:05014 ! amyotrophic lateral sclerosis disease pathway
+
+[Term]
+id: DOID:5409 ! lung small cell carcinoma
+xref: KEGG:05222 ! small cell lung cancer pathway
+
+[Term]
+id: DOID:2841 ! asthma
+xref: KEGG:05310 ! asthma disease pathway
+
+[Term]
+id: DOID:12930 ! dilated cardiomyopathy
+xref: KEGG:05414 ! dilated cardiomyopathy pathway
+
+[Term]
+id: DOID:1793 ! pancreatic cancer
+xref: KEGG:05212 ! pancreatic cancer pathway
+
+[Term]
+id: DOID:9744 ! type 1 diabetes mellitus
+xref: KEGG:04940 ! type 1 diabetes mellitus pathway
+
+[Term]
+id: DOID:11984 ! hypertrophic cardiomyopathy
+xref: KEGG:05410 ! hypertrophic cardiomyopathy pathway
+
+[Term]
+id: DOID:12385 ! shigellosis
+xref: KEGG:05131 ! Shigella infection pathway
+
+[Term]
+id: DOID:8552 ! chronic myeloid leukemia
+xref: KEGG:05220 ! chronic myeloid leukemia pathway
+
+[Term]
+id: DOID:0050589 ! inflammatory bowel disease
+xref: KEGG:05321 ! inflammatory bowel disease pathway
+
+[Term]
+id: DOID:9778 ! irritable bowel syndrome
+xref: KEGG:05321 ! inflammatory bowel disease pathway
+
+[Term]
+id: DOID:10652 ! Alzheimer's disease
+xref: KEGG:05010 ! Alzheimer disease pathway
+
+[Term]
+id: DOID:820 ! myocarditis
+xref: KEGG:05416 ! myocarditis pathway
+
+[Term]
+id: DOID:0050524 ! maturity-onset diabetes of the young
+xref: KEGG:04950 ! maturity onset diabetes of the young pathway
+
+[Term]
+id: DOID:3908 ! non-small cell lung carcinoma
+xref: KEGG:05223 ! non-small cell lung cancer pathway
+
+[Term]
+id: DOID:10286 ! prostate carcinoma
+xref: KEGG:05215 ! prostate cancer pathway
+
+[Term]
+id: DOID:7148 ! rheumatoid arthritis
+xref: KEGG:05323 ! rheumatoid arthritis pathway
+
+[Term]
+id: DOID:9074 ! systemic lupus erythematosus
+xref: KEGG:05322 ! systemic lupus erythematosus pathway
+
+[Term]
+id: DOID:10283 ! prostate cancer
+xref: KEGG:05215 ! prostate cancer pathway
+
+[Term]
+id: DOID:2513 ! basal cell carcinoma
+xref: KEGG:05217 ! basal cell carcinoma pathway
+
+[Term]
+id: DOID:10112 ! sleeping sickness
+xref: KEGG:05143 ! Trypanosoma brucei infection pathway
+
+[Term]
+id: DOID:1909 ! melanoma
+xref: KEGG:05218 ! melanoma pathway
+
+[Term]
+id: DOID:649 ! prion disease
+xref: KEGG:05020 ! prion diseases pathway
+

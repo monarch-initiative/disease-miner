@@ -32,24 +32,47 @@ all <-- ['merged.obo','do-all-inversionsT.txt', 'merged.cycles'].
 
 
 % MAPPING: OMIM<->DO - based on xrefs, which are not necessarily 1:1
+% if not 1:1, then OMIM is always a subclass
 'omim-doid-equiv.tbl' <-- [],
-  'blip-findall -r disease "one_to_one_xref(D,X,\'OMIM\')" -no_pred -select X-D > $@'.
+  'blip-findall -i omim-disease.obo -r disease "one_to_one_xref(D,X,\'OMIM\')" -no_pred -select X-D -label -use_tabs > $@'.
 'omim-doid-subclass.tbl' <-- [],
-  'blip-findall -r disease "entity_xref_idspace(D,X,\'OMIM\'),\\+ one_to_one_xref(D,X,\'OMIM\')" -no_pred -select X-D > $@'.
+  'blip-findall -i omim-disease.obo -r disease "one_to_many_xref(D,X,\'OMIM\')" -no_pred -select X-D -label -use_tabs > $@'.
+'omim-doid-rev-subclass.tbl' <-- [],
+  'blip-findall -i omim-disease.obo -r disease "many_to_one_xref(D,X,\'OMIM\')" -no_pred -select X-D -label -use_tabs > $@'.
+'omim-doid-m2m.tbl' <-- [],
+  'blip-findall -i omim-disease.obo -r disease "many_to_many_xref(D,X,\'OMIM\')" -no_pred -select X-D -label > $@'.
+%'omim-doid-o2m.tbl' <-- [],
+%  'blip-findall -i omim-disease.obo -r disease "many_to_one_xref(D,X,\'OMIM\')" -no_pred -select X-D -label > $@'.
 
-'omim-doid-equiv.owl' <-- 'omim-doid-equiv.tbl',
-  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a EquivalentClasses $< -o $@ '.
-'omim-doid-subclass.owl' <-- 'omim-doid-subclass.tbl',
+'%.ids' <-- ['%'],
+  'cut -f1,3 $< > $@'.
+
+'omim-doid-equiv.owl' <-- 'omim-doid-equiv.tbl.ids',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -a EquivalentClasses $< -o $@'.
+'omim-doid-subclass.owl' <-- 'omim-doid-subclass.tbl.ids',
   'owltools --create-ontology doid/extensions/$@ --parse-tsv -a SubClassOf $< -o $@ '.
+'omim-doid-rev-subclass.owl' <-- 'omim-doid-subclass.tbl.ids',
+  'owltools --create-ontology doid/extensions/$@ --parse-tsv -s -a SubClassOf $< -o $@ '.
 
-% Combine into an OWL bridge file. This may include equivalence pairs
-'do-omim-equiv.owl' <-- ['doid.owl', 'omim-doid-subclass.owl', 'omim-doid-equiv.owl', 'omim-disease.obo'],
-  'owltools --use-catalog doid.owl omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo --merge-support-ontologies --reasoner elk --assert-inferred-subclass-axioms --allowEquivalencies -o $@'.
+'doid-no-omim-xref.obo' <-- 'doid.obo',
+  'grep -v "^xref: OMIM" $< > $@'.
+
+% Combine into a single OWL bridge file. This may include equivalence pairs
+'do-omim-combined.owl' <-- ['doid-no-omim-xref.obo', 'omim-doid-subclass.owl', 'omim-doid-rev-subclass.owl', 'omim-doid-equiv.owl', 'omim-disease.obo'],
+  'owltools --use-catalog $< omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo --merge-support-ontologies --reasoner elk --assert-inferred-subclass-axioms --allowEquivalencies -o $@'.
 
 % Merge bridge + DO + OMIM
-'do-omim-merged.owl' <-- 'do-omim-equiv.owl',
-  'owltools $< --merge-equivalent-classes -sa -f DOID -t OMIM -o $@ -o -f obo --no-check do-omim-merged.obo'.
+%'do-omim-merged.owl' <-- 'do-omim-combined.owl',
+%  'owltools $< --merge-equivalent-classes -sa -f DOID -t OMIM -o $@ -o -f obo --no-check do-omim-merged.obo'.
 
+
+'%-inversions.txt' <-- ['%.obo'],
+  'blip-findall -i $< "class_quad_flip(C1,P1,C2,P2,\'OMIM\')" -no_pred -label -use_tabs > $@'.
+'%-inversionsT.txt' <-- ['%.obo'],
+  'blip-findall -i $< "class_quad_flipT(C1,P1,C2,P2,\'OMIM\')" -no_pred -label -use_tabs > $@'.
+
+% ----------------------------------------
+% -- EXPERIMENTAL --
 
 % fetch basic EFO
 'efo-disease.obo' <-- [],
@@ -99,7 +122,8 @@ no_owl(orphanet).
 'align_doid_wp.tbl' <-- 'dbpedia/dbpo-Disease.obo',
   'blip-findall -u metadata_nlp -i $< -i dbpedia/dcat-auto.obo -r disease -goal index_entity_pair_label_match  "entity_pair_label_reciprocal_best_intermatch(T1,T2,St)" -label -use_tabs > $@.tmp && sort -u $@.tmp > $@'.
 
-% slight variant - no EFO, just ORPHANET
+% merges DO, OMIM and ORPHANET (not full EF)
+% requires bridge axioms
 'do-all-unmerged-NR.owl' <-- ['doid.owl', 'omim-doid-subclass.owl', 'omim-doid-equiv.owl', 'omim-disease.obo', 'OMIM-orphanet-equiv.owl', 'OMIM-orphanet-subclass.owl', 'orphanet.obo', 'doid-equiv-orphanet.owl'],
   'owltools --use-catalog doid.owl omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo OMIM-orphanet-equiv.owl OMIM-orphanet-subclass.owl orphanet.obo doid-equiv-orphanet.owl --merge-support-ontologies -o $@'.
 
@@ -109,21 +133,20 @@ no_owl(orphanet).
   'owltools --use-catalog doid.owl omim-doid-subclass.owl omim-doid-equiv.owl omim-disease.obo OMIM-efo-disease-equiv.owl OMIM-efo-disease-subclass.owl efo-disease.obo doid-equiv-efo.owl --merge-support-ontologies -o $@'.
 
 
-'do-all-inversions.txt' <-- ['do-all-unmerged-NR.obo'],
-  'blip-findall -i $< "class_quad_flip(C1,P1,C2,P2)" -no_pred -label -use_tabs > $@'.
-'do-all-inversionsT.txt' <-- ['do-all-unmerged-NR.obo'],
-  'blip-findall -i $< "class_quad_flipT(C1,P1,C2,P2)" -no_pred -label -use_tabs > $@'.
-
+% reasoned version of unmerged-NR
 'do-all-unmerged.owl' <-- 'do-all-unmerged-NR.owl',
   'owltools $< --reasoner elk --assert-inferred-subclass-axioms --removeRedundant --allowEquivalencies -o $@'.
 
+% ^^ use this in input to merged.owl when done
 
-% MERGE
-% step 1: (ORPHANET, EFO) --> DOID
-% step 2: (ORPHANET, EFO, DOID) --> OMIM
+% END OF EXPERIMENTAL
+% ----------------------------------------
+
+
+% MERGE. Prioritize OMIM IDs but favor DO labels
 % in step 2, leave original labels
-'merged.owl' <-- ['do-all-unmerged.owl'],
-  'owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 9 -s DOID 8 -s ORPHANET 7 -s EFO 6 -l DOID 9 -l ORPHANET 7 -d DOID 9 --assert-inferred-subclass-axioms --removeRedundant --set-ontology-id http://purl.obolibrary.org/obo/upheno/doid/merged.owl -o $@ >& $@.LOG'.
+'merged.owl' <-- ['do-omim-combined.owl'],
+  'owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 9 -s DOID 8 -s ORPHANET 7 -s EFO 6 -l DOID 9 -l ORPHANET 7 -d DOID 9 --assert-inferred-subclass-axioms --allowEquivalencies --removeRedundant --set-ontology-id http://purl.obolibrary.org/obo/upheno/doid/merged.owl -o $@ >& $@.LOG'.
 'merged.obo' <-- ['merged.owl'],
   'owltools $< -o -f obo --no-check $@.tmp && grep -v ^owl-axioms: $@.tmp | perl -npe "s/^equivalent_to:/xref:/" > $@'.
 
@@ -146,7 +169,21 @@ publish <-- ['merged.obo'],
   'blip ontol-subset -i $< -id PW:0000013 -down 20 -to obo > $@.tmp && mv $@.tmp $@'.
 
 'disease-pw-align.txt' <-- ['disease-pw.obo','merged.obo'],
-  'blip-findall -debug index -i $< -i merged.obo  -consult util/pwaligner.pro m/2 -label -use_tabs > $@.tmp && sort -u $@.tmp > $@'.
+  'blip-findall -u metadata_nlp -debug index -i $< -i merged.obo -i util/ignore_word_disease_pw.pro  -consult util/pwaligner.pro m/2 -label -use_tabs -no_pred > $@.tmp && sort -u $@.tmp > $@'.
+
+'disease-pw-xref.obo' <-- 'disease-pw-align.txt',
+  'tbl2obolinks.pl -r xref $< > $@'.
+
+'disease-kegg-links.txt' <-- 'disease-pw-xref.obo',
+  'blip-findall -i $< -i merged.obo -i disease-pw.obo "entity_xref(D,P),entity_synonym(P,S),class(D,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | sort -u | grep KEGG > $@'.
+
+'doid-kegg-links.txt' <-- 'disease-pw-xref.obo',
+  'blip-findall -i $< -i merged.obo -i disease-pw.obo "entity_xref(MD,P),entity_synonym(P,S),(entity_xref(MD,D);D=MD),class(MD,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | grep KEGG | grep DOID | sort -u > $@'.
+
+'doid-kegg-xref.obo' <-- 'doid-kegg-links.txt',
+  'tbl2obolinks.pl -r xref $< > $@'.
+
+
 
 
 %ftp://rgd.mcw.edu/pub/data_release/ontology_obo_files/pathway/pathway.obo
