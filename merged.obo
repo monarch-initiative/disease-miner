@@ -3288,6 +3288,7 @@ comment: OMIM mapping confirmed by DO. [SN].
 synonym: "MASON-TYPE DIABETES" EXACT []
 synonym: "MODY" EXACT []
 is_a: DOID:630 ! genetic disease
+xref: KEGG:04950 ! maturity onset diabetes of the young pathway
 
 [Term]
 id: DOID:0050525
@@ -3593,6 +3594,7 @@ id: DOID:0050589
 name: inflammatory bowel disease
 comment: OMIM mapping confirmed by DO. [SN].
 is_a: DOID:5295 ! intestinal disease
+xref: KEGG:05321 ! inflammatory bowel disease pathway
 
 [Term]
 id: DOID:0050590
@@ -6459,6 +6461,7 @@ xref: SNOMEDCT_2010_1_31:27031003
 xref: SNOMEDCT_2010_1_31:78940002
 xref: UMLS_CUI:C0041228
 is_a: DOID:10113 ! trypanosomiasis
+xref: KEGG:05143 ! Trypanosoma brucei infection pathway
 
 [Term]
 id: DOID:10113
@@ -7685,6 +7688,7 @@ xref: SNOMEDCT_2010_1_31:254900004
 xref: SNOMEDCT_2010_1_31:363448003
 xref: UMLS_CUI:C0600139
 is_a: OMIM:176807 ! prostate cancer
+xref: KEGG:05215 ! prostate cancer pathway
 
 [Term]
 id: DOID:10287
@@ -10515,6 +10519,7 @@ xref: SNOMEDCT_2010_1_31:73768007
 xref: UMLS_CUI:C0002395
 is_a: DOID:1307 ! dementia
 is_a: DOID:680 ! tauopathy
+xref: KEGG:05010 ! Alzheimer disease pathway
 
 [Term]
 id: DOID:10655
@@ -13914,6 +13919,7 @@ xref: MSH:D001885
 xref: SNOMEDCT_2010_1_31:26484003
 xref: UMLS_CUI:C0006015
 is_a: DOID:0050339 ! commensal bacterial infectious disease
+xref: KEGG:05133 ! Bordetella pertussis infection pathway
 
 [Term]
 id: DOID:11161
@@ -19202,6 +19208,7 @@ xref: SNOMEDCT_2010_1_31:389999002
 xref: SNOMEDCT_2010_1_31:45227007
 xref: UMLS_CUI:C0007194
 is_a: DOID:0060036 ! intrinsic cardiomyopathy
+xref: KEGG:05410 ! hypertrophic cardiomyopathy pathway
 
 [Term]
 id: DOID:11986
@@ -20153,6 +20160,7 @@ xref: SNOMEDCT_2010_1_31:186817003
 xref: SNOMEDCT_2010_1_31:54570006
 xref: UMLS_CUI:C0007932
 is_a: DOID:10113 ! trypanosomiasis
+xref: KEGG:05142 ! Trypanosoma cruzi infection pathway
 
 [Term]
 id: DOID:12141
@@ -21892,6 +21900,7 @@ xref: UMLS_CUI:C0302359
 xref: UMLS_CUI:C0302360
 xref: UMLS_CUI:C0302361
 is_a: DOID:0050338 ! primary bacterial infectious disease
+xref: KEGG:05131 ! Shigella infection pathway
 
 [Term]
 id: DOID:12386
@@ -24557,6 +24566,7 @@ xref: SNOMEDCT_2010_1_31:399020009
 xref: SNOMEDCT_2010_1_31:74368002
 xref: UMLS_CUI:C0007193
 is_a: DOID:0060036 ! intrinsic cardiomyopathy
+xref: KEGG:05414 ! dilated cardiomyopathy pathway
 
 [Term]
 id: DOID:12932
@@ -29722,6 +29732,7 @@ xref: SNOMEDCT_2010_1_31:123844007
 xref: UMLS_CUI:C0007103
 xref: UMLS_CUI:C0014170
 is_a: DOID:363 ! uterine cancer
+xref: KEGG:05213 ! endometrial cancer pathway
 
 [Term]
 id: DOID:13800
@@ -32665,6 +32676,7 @@ xref: SNOMEDCT_2010_1_31:49049000
 xref: UMLS_CUI:C0030567
 is_a: DOID:1289 ! neurodegenerative disease
 is_a: DOID:679 ! basal ganglia disease
+xref: KEGG:05012 ! Parkinson disease pathway
 
 [Term]
 id: DOID:14332
@@ -36694,6 +36706,7 @@ xref: SNOMEDCT_2010_1_31:94098005
 xref: UMLS_CUI:C0007115
 xref: UMLS_CUI:C0040136
 is_a: DOID:170 ! endocrine gland cancer
+xref: KEGG:05216 ! thyroid cancer pathway
 
 [Term]
 id: DOID:1785
@@ -36821,6 +36834,7 @@ xref: UMLS_CUI:C0153459
 xref: UMLS_CUI:C0153460
 xref: UMLS_CUI:C0153463
 is_a: DOID:170 ! endocrine gland cancer
+xref: KEGG:05212 ! pancreatic cancer pathway
 
 [Term]
 id: DOID:1795
@@ -37510,6 +37524,7 @@ xref: SNOMEDCT_2010_1_31:269577007
 xref: SNOMEDCT_2010_1_31:372244006
 xref: UMLS_CUI:C0025202
 is_a: DOID:0050687 ! cell type cancer
+xref: KEGG:05218 ! melanoma pathway
 
 [Term]
 id: DOID:1910
@@ -42049,6 +42064,7 @@ xref: UMLS_CUI:C0007117
 xref: UMLS_CUI:C0206710
 xref: UMLS_CUI:C1368295
 is_a: DOID:3451 ! skin carcinoma
+xref: KEGG:05217 ! basal cell carcinoma pathway
 
 [Term]
 id: DOID:2514
@@ -44779,6 +44795,7 @@ xref: SNOMEDCT_2010_1_31:278517007
 xref: UMLS_CUI:C0004096
 is_a: DOID:1176 ! bronchial disease
 is_a: DOID:2320 ! obstructive lung disease
+xref: KEGG:05310 ! asthma disease pathway
 
 [Term]
 id: DOID:2842
@@ -48729,6 +48746,7 @@ xref: NCI:C34373
 xref: SNOMEDCT_2010_1_31:86044005
 xref: UMLS_CUI:C0002736
 is_a: DOID:231 ! motor neuron disease
+xref: KEGG:05014 ! amyotrophic lateral sclerosis disease pathway
 
 [Term]
 id: DOID:3321
@@ -53249,6 +53267,7 @@ xref: NCI:C2926
 xref: SNOMEDCT_2010_1_31:254637007
 xref: UMLS_CUI:C0007131
 is_a: OMIM:211980 ! lung carcinoma
+xref: KEGG:05223 ! non-small cell lung cancer pathway
 
 [Term]
 id: DOID:3909
@@ -69384,6 +69403,7 @@ xref: SNOMEDCT_2010_1_31:234532001
 xref: SNOMEDCT_2010_1_31:64431000
 xref: UMLS_CUI:C0021051
 is_a: DOID:2914 ! immune system disease
+xref: KEGG:05340 ! primary immunodeficiency disease pathway
 
 [Term]
 id: DOID:6122
@@ -71235,6 +71255,7 @@ xref: SNOMEDCT_2010_1_31:20484008
 xref: SNOMEDCT_2010_1_31:230284004
 xref: UMLS_CUI:C0162534
 is_a: DOID:936 ! brain disease
+xref: KEGG:05020 ! prion diseases pathway
 
 [Term]
 id: DOID:6491
@@ -79980,6 +80001,7 @@ xref: SNOMEDCT_2010_1_31:251060004
 xref: SNOMEDCT_2010_1_31:50920009
 xref: UMLS_CUI:C0027059
 is_a: DOID:3978 ! extrinsic cardiomyopathy
+xref: KEGG:05416 ! myocarditis pathway
 
 [Term]
 id: DOID:8200
@@ -87759,6 +87781,7 @@ comment: OMIM mapping confirmed by DO. [SN].
 xref: MSH:D015179
 xref: UMLS_CUI:C1527249
 is_a: DOID:5672 ! large intestine cancer
+xref: KEGG:05210 ! colorectal cancer pathway
 
 [Term]
 id: DOID:9258
@@ -90814,6 +90837,7 @@ xref: SNOMEDCT_2010_1_31:197124009
 xref: SNOMEDCT_2010_1_31:266525002
 xref: UMLS_CUI:C0022104
 is_a: DOID:225 ! syndrome
+xref: KEGG:05321 ! inflammatory bowel disease pathway
 
 [Term]
 id: DOID:9779
@@ -92573,6 +92597,7 @@ is_a: DOID:630 ! genetic disease
 is_a: DOID:9973 ! substance dependence
 created_by: lschriml
 creation_date: 2012-09-05T11:48:42Z
+xref: KEGG:05034 ! alcoholism pathway
 
 [Term]
 id: OMIM:103900
@@ -92616,6 +92641,7 @@ id: OMIM:104300
 name: Alzheimer Disease
 is_a: DOID:10652 ! Alzheimer's disease
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05010 ! Alzheimer disease pathway
 
 [Term]
 id: OMIM:104310
@@ -93055,6 +93081,7 @@ xref: UMLS_CUI:C0005684
 xref: UMLS_CUI:C0005695
 is_a: DOID:3996 ! urinary system cancer
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05219 ! bladder cancer pathway
 
 [Term]
 id: OMIM:109820
@@ -93385,6 +93412,7 @@ is_a: DOID:630 ! genetic disease
 id: OMIM:114500
 name: Colorectal Cancer
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05210 ! colorectal cancer pathway
 
 [Term]
 id: OMIM:114550
@@ -94136,6 +94164,7 @@ xref: SNOMEDCT_2010_1_31:44054006
 xref: UMLS_CUI:C0011860
 is_a: DOID:630 ! genetic disease
 is_a: DOID:9351 ! diabetes mellitus
+xref: KEGG:04930 ! type 2 diabetes mellitus pathway
 
 [Term]
 id: OMIM:126200
@@ -94885,6 +94914,7 @@ xref: UMLS_CUI:C0017638
 xref: UMLS_CUI:C0555198
 is_a: DOID:0050687 ! cell type cancer
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05214 ! glioma pathway
 
 [Term]
 id: OMIM:137920
@@ -95120,6 +95150,7 @@ xref: SNOMEDCT_2010_1_31:58756001
 xref: UMLS_CUI:C0020179
 is_a: DOID:1289 ! neurodegenerative disease
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05016 ! Huntington disease pathway
 
 [Term]
 id: OMIM:143200
@@ -96010,6 +96041,7 @@ xref: UMLS_CUI:C0024141
 is_a: DOID:630 ! genetic disease
 is_a: DOID:65 ! connective tissue disease
 is_a: DOID:8857 ! lupus erythematosus
+xref: KEGG:05322 ! systemic lupus erythematosus pathway
 
 [Term]
 id: OMIM:152950
@@ -97797,6 +97829,7 @@ xref: UMLS_CUI:C0033578
 xref: UMLS_CUI:C0376358
 is_a: DOID:3856 ! male reproductive organ cancer
 is_a: DOID:630 ! genetic disease
+xref: KEGG:05215 ! prostate cancer pathway
 
 [Term]
 id: OMIM:176860
@@ -98032,6 +98065,7 @@ xref: SNOMEDCT_2010_1_31:69896004
 xref: UMLS_CUI:C0003873
 is_a: DOID:630 ! genetic disease
 is_a: DOID:848 ! arthritis
+xref: KEGG:05323 ! rheumatoid arthritis pathway
 
 [Term]
 id: OMIM:180500
@@ -98217,6 +98251,7 @@ xref: SNOMEDCT_2010_1_31:254632001
 xref: SNOMEDCT_2010_1_31:254633006
 xref: UMLS_CUI:C0149925
 is_a: OMIM:211980 ! lung carcinoma
+xref: KEGG:05222 ! small cell lung cancer pathway
 
 [Term]
 id: OMIM:182290
@@ -100764,6 +100799,7 @@ xref: SNOMEDCT_2010_1_31:267469001
 xref: SNOMEDCT_2010_1_31:46635009
 xref: UMLS_CUI:C0011854
 is_a: DOID:9351 ! diabetes mellitus
+xref: KEGG:04940 ! type 1 diabetes mellitus pathway
 
 [Term]
 id: OMIM:222300
@@ -107008,8 +107044,8 @@ id: OMIM:309900
 name: mucopolysaccharidosis II
 comment: OMIM mapping submitted by NeuroDevNet. [LS].
 synonym: "deficiency of iduronate-2-sulphatase" EXACT [SNOMEDCT_2005_07_31:61413000]
-synonym: "Hunter's syndrome" EXACT [SNOMEDCT_2005_07_31:190936000]
 synonym: "Hunter's syndrome" EXACT [MTHICD9_2006:277.5]
+synonym: "Hunter's syndrome" EXACT [SNOMEDCT_2005_07_31:190936000]
 synonym: "mucopolysaccharidosis type II" EXACT [CSP2005:1849-6220]
 synonym: "Mucopolysaccharidosis, MPS-II (disorder)" EXACT [SNOMEDCT_2005_07_31:70737009]
 xref: DOID:12799
@@ -108511,6 +108547,7 @@ xref: SNOMEDCT_2010_1_31:91861009
 xref: UMLS_CUI:C0023467
 is_a: DOID:630 ! genetic disease
 is_a: DOID:8692 ! myeloid leukemia
+xref: KEGG:05221 ! acute myeloid leukemia pathway
 
 [Term]
 id: OMIM:601631
@@ -110298,6 +110335,7 @@ is_a: DOID:630 ! genetic disease
 id: OMIM:606391
 name: Maturity-onset Diabetes Of The Young
 is_a: DOID:630 ! genetic disease
+xref: KEGG:04950 ! maturity onset diabetes of the young pathway
 
 [Term]
 id: OMIM:606392
@@ -111458,6 +111496,7 @@ xref: SNOMEDCT_2010_1_31:92818009
 xref: UMLS_CUI:C0023473
 is_a: DOID:630 ! genetic disease
 is_a: DOID:8692 ! myeloid leukemia
+xref: KEGG:05220 ! chronic myeloid leukemia pathway
 
 [Term]
 id: OMIM:608233

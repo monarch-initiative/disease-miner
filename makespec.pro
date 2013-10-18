@@ -145,10 +145,20 @@ no_owl(orphanet).
 
 % MERGE. Prioritize OMIM IDs but favor DO labels
 % in step 2, leave original labels
-'merged.owl' <-- ['do-omim-combined.owl'],
-  'owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 9 -s DOID 8 -s ORPHANET 7 -s EFO 6 -l DOID 9 -l ORPHANET 7 -d DOID 9 --assert-inferred-subclass-axioms --allowEquivalencies --removeRedundant --set-ontology-id http://purl.obolibrary.org/obo/upheno/doid/merged.owl -o $@ >& $@.LOG'.
-'merged.obo' <-- ['merged.owl'],
+'merged-1.owl' <-- ['do-omim-combined.owl'],
+  'owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 9 -s DOID 8 -s ORPHANET 7 -s EFO 6 -l DOID 9 -l ORPHANET 7 -d DOID 9 --assert-inferred-subclass-axioms  --removeRedundant --set-ontology-id http://purl.obolibrary.org/obo/upheno/doid/merged.owl -o $@ >& $@.LOG'.
+'merged-1.obo' <-- ['merged-1.owl'],
   'owltools $< -o -f obo --no-check $@.tmp && grep -v ^owl-axioms: $@.tmp | perl -npe "s/^equivalent_to:/xref:/" > $@'.
+
+'merged.obo' <-- ['merged-1.obo', 'disease-pw-xref.obo'],
+  'obo-merge-tags.pl -t xref $<  disease-kegg-xref.obo > $@'.
+
+'merged-with-ECAs.obo' <-- 'merged.obo',
+  'perl -npe "s@^xref:@equivalent_to:@ if m@xref: (DOID)@" $< > $@.tmp && mv $@.tmp $@'.
+'merged.owl' <-- ['merged-with-ECAs.obo', 'disease-kegg-depictions.omn'],
+  'owltools $< disease-kegg-depictions.omn --merge-support-ontologies --set-ontology-id http://purl.obolibrary.org/obo/upheno/doid/merged.owl -o $@'.
+
+
 
 '%.cycles' <-- ['%.obo'],
   'blip-findall -i $< subclass_cycle/2 > $@'.
@@ -168,20 +178,26 @@ publish <-- ['merged.obo'],
 'disease-pw.obo' <-- 'pw.obo',
   'blip ontol-subset -i $< -id PW:0000013 -down 20 -to obo > $@.tmp && mv $@.tmp $@'.
 
-'disease-pw-align.txt' <-- ['disease-pw.obo','merged.obo'],
-  'blip-findall -u metadata_nlp -debug index -i $< -i merged.obo -i util/ignore_word_disease_pw.pro  -consult util/pwaligner.pro m/2 -label -use_tabs -no_pred > $@.tmp && sort -u $@.tmp > $@'.
+'disease-pw-align.txt' <-- ['disease-pw.obo','merged-1.obo'],
+  'blip-findall -u metadata_nlp -debug index -i $< -i merged-1.obo -i util/ignore_word_disease_pw.pro  -consult util/pwaligner.pro m/2 -label -use_tabs -no_pred > $@.tmp && sort -u $@.tmp > $@'.
 
 'disease-pw-xref.obo' <-- 'disease-pw-align.txt',
   'tbl2obolinks.pl -r xref $< > $@'.
 
 'disease-kegg-links.txt' <-- 'disease-pw-xref.obo',
-  'blip-findall -i $< -i merged.obo -i disease-pw.obo "entity_xref(D,P),entity_synonym(P,S),class(D,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | sort -u | grep KEGG > $@'.
+  'blip-findall -i $< -i merged-1.obo -i disease-pw.obo "entity_xref(D,P),entity_synonym(P,S),class(D,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | sort -u | grep KEGG > $@'.
+
+'disease-kegg-xref.obo' <-- 'disease-kegg-links.txt',
+  'tbl2obolinks.pl -r xref $< > $@'.
 
 'doid-kegg-links.txt' <-- 'disease-pw-xref.obo',
-  'blip-findall -i $< -i merged.obo -i disease-pw.obo "entity_xref(MD,P),entity_synonym(P,S),(entity_xref(MD,D);D=MD),class(MD,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | grep KEGG | grep DOID | sort -u > $@'.
+  'blip-findall -i $< -i merged-1.obo -i disease-pw.obo "entity_xref(MD,P),entity_synonym(P,S),(entity_xref(MD,D);D=MD),class(MD,DN),class(P,PN)" -select "x(D,DN,S,PN)" -no_pred | grep KEGG | grep DOID | sort -u > $@'.
 
 'doid-kegg-xref.obo' <-- 'doid-kegg-links.txt',
   'tbl2obolinks.pl -r xref $< > $@'.
+
+'disease-kegg-depictions.omn' <-- 'disease-kegg-links.txt',
+  './util/mk-depictions-kegg.pl $< > $@'.
 
 
 
