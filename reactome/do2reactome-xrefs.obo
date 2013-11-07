@@ -1,0 +1,257 @@
+[Term]
+id: DOID:13382 ! megaloblastic anemia
+xref: REACTOME:3359454 ! Defective TCN2 causes hereditary megaloblastic anemia
+xref: REACTOME:3359457 ! Defective GIF causes intrinsic factor deficiency
+xref: REACTOME:3359462 ! Defective AMN causes hereditary megaloblastic anemia 1
+xref: REACTOME:3359463 ! Defective CUBN causes hereditary megaloblastic anemia 1
+
+[Term]
+id: DOID:0050732 ! methylmalonic aciduria and homocystinuria type cblE
+xref: REACTOME:3359467 ! Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE
+
+[Term]
+id: DOID:715 ! T-cell leukemia
+xref: REACTOME:2644606 ! Constitutive Signaling by NOTCH1 PEST Domain Mutants
+xref: REACTOME:2660825 ! Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+xref: REACTOME:2660826 ! Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+xref: REACTOME:2691230 ! Signaling by NOTCH1 HD Domain Mutants in Cancer
+xref: REACTOME:2691232 ! Constitutive Signaling by NOTCH1 HD Domain Mutants
+xref: REACTOME:2894858 ! Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+xref: REACTOME:2894862 ! Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+
+[Term]
+id: DOID:3075 ! adult glioblastoma multiforme
+xref: REACTOME:2978092 ! Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate
+
+[Term]
+id: DOID:0050716 ! methylmalonic aciduria and homocystinuria type cblD
+xref: REACTOME:3359473 ! Defective MMADHC causes methylmalonic aciduria and homocystinuria type cblD
+
+[Term]
+id: DOID:4972 ! myelodysplastic myeloproliferative cancer
+xref: REACTOME:1839117 ! Signaling by FGFR1 fusion mutants
+
+[Term]
+id: DOID:14252 ! dystrophies primarily involving the retinal pigment epithelium
+xref: REACTOME:2466712 ! Biosynthesis of A2E, implicated in retinal degradation
+
+[Term]
+id: DOID:8552 ! chronic myeloid leukemia
+xref: REACTOME:1839117 ! Signaling by FGFR1 fusion mutants
+
+[Term]
+id: DOID:0050733 ! methylmalonic aciduria and homocystinuria type cblG
+xref: REACTOME:3359469 ! Defective MTR causes methylmalonic aciduria and homocystinuria type cblG
+
+[Term]
+id: DOID:12801 ! mucopolysaccharidosis III
+xref: REACTOME:2206282 ! MPS IIIB - Sanfilippo syndrome B
+xref: REACTOME:2206291 ! MPS IIIC - Sanfilippo syndrome C
+xref: REACTOME:2206305 ! MPS IIID - Sanfilippo syndrome D
+xref: REACTOME:2206307 ! MPS IIIA - Sanfilippo syndrome A
+
+[Term]
+id: DOID:0050717 ! methylmalonic aciduria and homocystinuria type cblF
+xref: REACTOME:3359458 ! Defective LMBRD1 causes methylmalonic aciduria and homocystinuria type cblF
+
+[Term]
+id: DOID:3264 ! subacute leukemia
+xref: REACTOME:1839117 ! Signaling by FGFR1 fusion mutants
+
+[Term]
+id: DOID:12798 ! mucopolysaccharidosis
+xref: REACTOME:2206280 ! MPS IX - Natowicz syndrome
+xref: REACTOME:2206281 ! Mucopolysaccharidoses
+xref: REACTOME:2206308 ! MPS IV - Morquio syndrome B
+
+[Term]
+id: DOID:162 ! cancer
+xref: REACTOME:1226099 ! Signaling by FGFR in disease
+xref: REACTOME:1236382 ! Signaling by constitutively active EGFR
+xref: REACTOME:1643713 ! Signaling by EGFR in Cancer
+xref: REACTOME:1839120 ! Signaling by FGFR1 amplification mutants
+xref: REACTOME:1839122 ! Signaling by activated point mutants of FGFR1
+xref: REACTOME:1839124 ! Signaling by FGFR1 mutants
+xref: REACTOME:1839126 ! Signaling by FGFR2 mutants
+xref: REACTOME:1839128 ! Signaling by FGFR4 mutants
+xref: REACTOME:1839130 ! Signaling by activated point mutants of FGFR3
+xref: REACTOME:1839131 ! Signaling by FGFR mutants
+xref: REACTOME:2023837 ! Signaling by FGFR2 amplification mutants
+xref: REACTOME:2033514 ! Signaling by FGFR3 mutants
+xref: REACTOME:2033515 ! t(4;14) translocations of FGFR3
+xref: REACTOME:2033519 ! Activated point mutants of FGFR2
+xref: REACTOME:2219528 ! PI3K/AKT Signaling in Cancer
+xref: REACTOME:2219530 ! Constitutive PI3K/AKT Signaling in Cancer
+xref: REACTOME:2644602 ! Signaling by NOTCH1 PEST Domain Mutants in Cancer
+xref: REACTOME:2644603 ! Signaling by NOTCH1 in Cancer
+xref: REACTOME:2644605 ! FBXW7 Mutants and NOTCH1 in Cancer
+xref: REACTOME:2644606 ! Constitutive Signaling by NOTCH1 PEST Domain Mutants
+xref: REACTOME:2644607 ! Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
+xref: REACTOME:2660825 ! Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+xref: REACTOME:2660826 ! Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+xref: REACTOME:2691230 ! Signaling by NOTCH1 HD Domain Mutants in Cancer
+xref: REACTOME:2691232 ! Constitutive Signaling by NOTCH1 HD Domain Mutants
+xref: REACTOME:2894858 ! Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+xref: REACTOME:2894862 ! Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+xref: REACTOME:3304347 ! Loss of Function of SMAD4 in Cancer
+xref: REACTOME:3304349 ! Loss of Function of SMAD2/3 in Cancer
+xref: REACTOME:3304351 ! Signaling by TGF-beta Receptor Complex in Cancer
+xref: REACTOME:3304356 ! SMAD2/3 Phosphorylation Motif Mutants in Cancer
+xref: REACTOME:3311021 ! SMAD4 MH2 Domain Mutants in Cancer
+xref: REACTOME:3315487 ! SMAD2/3 MH2 Domain Mutants in Cancer
+xref: REACTOME:3642278 ! Loss of Function of TGFBR2 in Cancer
+xref: REACTOME:3642279 ! TGFBR2 MSI Frameshift Mutants in Cancer
+xref: REACTOME:3645790 ! TGFBR2 Kinase Domain Mutants in Cancer
+xref: REACTOME:3656532 ! TGFBR1 KD Mutants in Cancer
+xref: REACTOME:3656534 ! Loss of Function of TGFBR1 in Cancer
+xref: REACTOME:3656535 ! TGFBR1 LBD Mutants in Cancer
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+xref: REACTOME:162585 ! Uncoating of the HIV Virion
+xref: REACTOME:162587 ! HIV Life Cycle
+xref: REACTOME:162588 ! Budding and maturation of HIV virion
+xref: REACTOME:162589 ! Reverse Transcription of HIV RNA
+xref: REACTOME:162592 ! Integration of provirus
+xref: REACTOME:162594 ! Early Phase of HIV Life Cycle
+xref: REACTOME:162599 ! Late Phase of HIV Life Cycle
+xref: REACTOME:162906 ! HIV Infection
+xref: REACTOME:164516 ! Minus-strand DNA synthesis
+xref: REACTOME:164525 ! Plus-strand DNA synthesis
+xref: REACTOME:164843 ! 2-LTR circle formation
+xref: REACTOME:165054 ! Rev-mediated nuclear export of HIV RNA
+xref: REACTOME:167152 ! Formation of HIV elongation complex in the absence of HIV Tat
+xref: REACTOME:167158 ! Formation of the HIV-1 Early Elongation Complex
+xref: REACTOME:167160 ! RNA Pol II CTD phosphorylation and interaction with CE
+xref: REACTOME:167161 ! HIV Transcription Initiation
+xref: REACTOME:167162 ! RNA Polymerase II HIV Promoter Escape
+xref: REACTOME:167168 ! HIV Transcription Termination
+xref: REACTOME:167169 ! HIV Transcription Elongation
+xref: REACTOME:167172 ! Transcription of the HIV genome
+xref: REACTOME:167200 ! Formation of HIV-1 elongation complex containing HIV-1 Tat
+xref: REACTOME:167238 ! Pausing and recovery of Tat-mediated HIV elongation
+xref: REACTOME:167242 ! Abortive elongation of HIV-1 transcript in the absence of Tat
+xref: REACTOME:167243 ! Tat-mediated HIV elongation arrest and recovery
+xref: REACTOME:167246 ! Tat-mediated elongation of the HIV-1 transcript
+xref: REACTOME:167287 ! HIV elongation arrest and recovery
+xref: REACTOME:167290 ! Pausing and recovery of HIV elongation
+xref: REACTOME:171286 ! Synthesis and processing of ENV and VPU
+xref: REACTOME:173107 ! Binding and entry of HIV virion
+xref: REACTOME:174490 ! Membrane binding and targetting of GAG proteins
+xref: REACTOME:174495 ! Synthesis And Processing Of GAG, GAGPOL Polyproteins
+xref: REACTOME:175474 ! Assembly Of The HIV Virion
+xref: REACTOME:175567 ! Integration of viral DNA into host genomic DNA
+xref: REACTOME:177539 ! Autointegration results in viral DNA circles
+
+[Term]
+id: DOID:12804 ! mucopolysaccharidosis IV
+xref: REACTOME:2206290 ! MPS IV - Morquio syndrome A
+
+[Term]
+id: DOID:399 ! tuberculosis
+xref: REACTOME:1222352 ! Latent infection of Homo sapiens with Mycobacterium tuberculosis
+xref: REACTOME:1222387 ! Tolerance of reactive oxygen produced by macrophages
+xref: REACTOME:1222449 ! Mtb iron assimilation by chelation
+xref: REACTOME:1222499 ! Response of Mtb to phagocytosis
+xref: REACTOME:1222538 ! Tolerance by Mtb to nitric oxide produced by macrophages
+xref: REACTOME:1222541 ! Cell redox homeostasis
+xref: REACTOME:1222556 ! Phagosomal maturation (early endosomal stage)
+
+[Term]
+id: DOID:12799 ! mucopolysaccharidosis II
+xref: REACTOME:2206296 ! MPS II - Hunter syndrome
+
+[Term]
+id: DOID:12800 ! mucopolysaccharidosis VI
+xref: REACTOME:2206285 ! MPS VI - Maroteaux-Lamy syndrome
+
+[Term]
+id: DOID:8469 ! influenza
+xref: REACTOME:168253 ! Host Interactions with Influenza Factors
+xref: REACTOME:168254 ! Influenza Infection
+xref: REACTOME:168255 ! Influenza Life Cycle
+xref: REACTOME:168268 ! Virus Assembly and Release
+xref: REACTOME:168270 ! Fusion and Uncoating of the Influenza Virion
+xref: REACTOME:168271 ! Transport of Ribonucleoproteins into the Host Nucleus
+xref: REACTOME:168273 ! Influenza Viral RNA Transcription and Replication
+xref: REACTOME:168274 ! Export of Viral Ribonucleoproteins from Nucleus
+xref: REACTOME:168275 ! Entry of Influenza Virion into Host Cell via Endocytosis
+xref: REACTOME:168276 !  NS1 Mediated Effects on Host Pathways
+xref: REACTOME:168277 ! Influenza Virus Induced Apoptosis
+xref: REACTOME:168288 ! Fusion of the Influenza Virion to the Host Cell Endosome
+xref: REACTOME:168298 ! Release
+xref: REACTOME:168302 ! Budding
+xref: REACTOME:168303 ! Packaging of Eight RNA Segments
+xref: REACTOME:168305 ! Inhibition of Interferon Synthesis
+xref: REACTOME:168315 ! Inhibition of Host mRNA Processing and RNA Silencing
+xref: REACTOME:168316 ! Assembly of Viral Components at the Budding Site
+xref: REACTOME:168325 ! Viral Messenger RNA Synthesis
+xref: REACTOME:168330 ! Viral RNP Complexes in the Host Cell Nucleus
+xref: REACTOME:168333 ! NEP/NS2 Interacts with the Cellular Export Machinery
+xref: REACTOME:168336 ! Uncoating of the Influenza Virion
+xref: REACTOME:168874 ! Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus
+xref: REACTOME:168888 ! Inhibition of IFN-beta
+xref: REACTOME:169131 ! Inhibition of PKR
+xref: REACTOME:192814 ! vRNA Synthesis
+xref: REACTOME:192823 ! Viral mRNA Translation
+xref: REACTOME:192869 ! cRNA Synthesis
+xref: REACTOME:192905 ! vRNP Assembly
+
+[Term]
+id: DOID:0050731 ! vitamin B12 deficiency
+xref: REACTOME:3296469 ! Defects in cobalamin (B12) metabolism
+
+[Term]
+id: DOID:14749 ! methylmalonic acidemia
+xref: REACTOME:3359471 ! Defective MMAB causes methylmalonic aciduria type cblB
+xref: REACTOME:3359475 ! Defective MMAA causes methylmalonic aciduria type cblA
+xref: REACTOME:3359478 ! Defective MUT causes methylmalonic aciduria mut type
+xref: REACTOME:3359485 ! Defective CD320 causes methylmalonic aciduria
+
+[Term]
+id: DOID:12802 ! mucopolysaccharidosis I
+xref: REACTOME:2206302 ! MPS I - Hurler syndrome
+
+[Term]
+id: DOID:0050715 ! methylmalonic aciduria and homocystinuria type cblC
+xref: REACTOME:3359474 ! Defective MMACHC causes methylmalonic aciduria and homocystinuria type cblC
+
+[Term]
+id: DOID:0080006 ! bone development disease
+xref: REACTOME:1226099 ! Signaling by FGFR in disease
+xref: REACTOME:1839122 ! Signaling by activated point mutants of FGFR1
+xref: REACTOME:1839124 ! Signaling by FGFR1 mutants
+xref: REACTOME:1839126 ! Signaling by FGFR2 mutants
+xref: REACTOME:1839130 ! Signaling by activated point mutants of FGFR3
+xref: REACTOME:1839131 ! Signaling by FGFR mutants
+xref: REACTOME:2033514 ! Signaling by FGFR3 mutants
+xref: REACTOME:2033519 ! Activated point mutants of FGFR2
+
+[Term]
+id: DOID:0050718 ! vitamin metabolic disorder
+xref: REACTOME:3296482 ! Defects in vitamin and cofactor metabolism
+xref: REACTOME:3323169 ! Defects in biotin (Btn) metabolism
+xref: REACTOME:3371598 ! Defective BTD causes biotidinase deficiency
+xref: REACTOME:3371599 ! Defective HLCS causes multiple carboxylase deficiency
+
+[Term]
+id: DOID:11976 ! botulism
+xref: REACTOME:168769 ! BoNT Light Chain Types B, D, and F cleave VAMP/Synaptobrevin
+xref: REACTOME:168782 ! Proteolytic cleavage of SNARE complex proteins
+xref: REACTOME:168799 ! Botulinum neurotoxicity
+xref: REACTOME:181363 ! Translocation of BoNT Light chain
+xref: REACTOME:181546 ! BoNT Light Chain Types A, C1, E cleave SNAP-25
+
+[Term]
+id: DOID:5679 ! retinal disease
+xref: REACTOME:2453864 ! Retinoid cycle disease events
+xref: REACTOME:2474795 ! Diseases associated with visual transduction
+
+[Term]
+id: DOID:5600 ! precursor lymphoblastic lymphoma/leukemia
+xref: REACTOME:1839117 ! Signaling by FGFR1 fusion mutants
+
+[Term]
+id: DOID:9281 ! phenylketonuria
+xref: REACTOME:2160456 ! Abnormal metabolism in phenylketonuria
+
