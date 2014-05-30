@@ -21,9 +21,9 @@ all <-- ['merged.obo','do-all-inversionsT.txt', 'merged.cycles'].
 'omim.xml' <-- [],
   'wget "http://neuinfo.org/servicesv1/v1/federation/data/nif-0000-03216-7.xml?includePrimaryData=true" -O $@'.
 
-% this is the hacky way OMIM is built currently
 'omim-id-name.tbl' <-- [],
-  'blip-findall  -r omim "entity_partition(ID,descriptive)" -select ID -label -use_tabs | sed "s/MIM/OMIM/"  > $@'.
+  'wget http://phenotype-ontologies.googlecode.com/svn/trunk/data/Homo_sapiens/Hs-disease-labels.txt -O $@'.
+%%  'blip-findall  -r omim "entity_partition(ID,descriptive)" -select ID -label -use_tabs | sed "s/MIM/OMIM/"  > $@'.
 
 'omim-disease.obo' <-- 'omim-id-name.tbl',
   'util/tbl2omimobo.pl $< > $@'.
@@ -163,7 +163,7 @@ no_owl(orphanet).
 '%.cycles' <-- ['%.obo'],
   'blip-findall -i $< subclass_cycle/2 > $@'.
 
-
+% deploy to phenotype-ontologies
 deploy <-- ['merged.obo'],
   'cp merged.* doid/'.
 publish <-- ['merged.obo'],

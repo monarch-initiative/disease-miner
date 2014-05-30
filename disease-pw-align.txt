@@ -91,6 +91,9 @@ OMIM:313200	Kennedy's disease	PW:0000172	spinobulbar muscular atrophy
 OMIM:600072	fatal familial insomnia	PW:0000267	fatal familial insomnia pathway
 OMIM:601626	acute myeloid leukemia	PW:0000709	acute myeloid leukemia pathway
 OMIM:601665	obesity	PW:0000540	obesity disease pathway
-OMIM:606391	Maturity-onset Diabetes Of The Young	PW:0001038	maturity onset diabetes of the young pathway
 OMIM:608232	chronic myeloid leukemia	PW:0000710	chronic myeloid leukemia pathway
 OMIM:613659	Gastric Cancer	PW:0000629	gastric cancer pathway
+ORPHANET:355	Gaucher Disease	PW:0001454	Gaucher disease pathway
+ORPHANET:506	Leigh Syndrome	PW:0001416	Leigh syndrome pathway
+ORPHANET:52	Alagille Syndrome	PW:0000349	Alagille syndrome pathway
+ORPHANET:912	Zellweger Syndrome	PW:0001415	Zellweger syndrome pathway

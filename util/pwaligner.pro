@@ -7,7 +7,6 @@ u(S,T) :-
         id_idspace(T,S).
 
 m(T1,T2) :-
-        consult('util/ignore_word_disease_pw.pro'),
         ix,
         entity_pair_label_reciprocal_best_intermatch(T1,T2,_),
         id_idspace(T2,'PW'),
