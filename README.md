@@ -1,7 +1,3 @@
 disease-miner
 =============
-
-mining and merging disease resources
-
-See:
-https://docs.google.com/document/d/1y08_R1P98lm2rRu6VMRWLK5bvSAe-FzU86jD_qaXGSE/edit#
+This repo is now deprecated; it has been replaced by https://github.com/monarch-initiative/monarch-disease-ontology
